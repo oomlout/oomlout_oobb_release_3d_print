@@ -1,0 +1,229 @@
+bip_39_word_dash_12: polar-mammal-solution-merge-village-clog-cost-little-project-cheap-visa-allow
+bip_39_word_dash_2: polar-mammal
+bip_39_word_dash_3: polar-mammal-solution
+bip_39_word_new_br_12: polar<br>mammal<br>solution<br>merge<br>village<br>clog<br>cost<br>little<br>project<br>cheap<br>visa<br>allow
+bip_39_word_new_br_2: polar<br>mammal
+bip_39_word_new_br_3: polar<br>mammal<br>solution
+bip_39_word_new_line_12: 'polar
+
+  mammal
+
+  solution
+
+  merge
+
+  village
+
+  clog
+
+  cost
+
+  little
+
+  project
+
+  cheap
+
+  visa
+
+  allow'
+bip_39_word_new_line_2: 'polar
+
+  mammal'
+bip_39_word_new_line_3: 'polar
+
+  mammal
+
+  solution'
+bip_39_word_no_space_12: polarmammalsolutionmergevillageclogcostlittleprojectcheapvisaallow
+bip_39_word_no_space_2: polarmammal
+bip_39_word_no_space_3: polarmammalsolution
+bip_39_word_space_12: polar mammal solution merge village clog cost little project
+  cheap visa allow
+bip_39_word_space_2: polar mammal
+bip_39_word_space_3: polar mammal solution
+bip_39_word_underscore_12: polar_mammal_solution_merge_village_clog_cost_little_project_cheap_visa_allow
+bip_39_word_underscore_2: polar_mammal
+bip_39_word_underscore_3: polar_mammal_solution
+classification: oobb
+classification_length_1: o
+classification_length_2: oo
+classification_length_3: oob
+classification_length_4: oobb
+classification_length_5: oobb
+classification_length_6: oobb
+classification_name: Oobb
+classification_no_space_length_1: o
+classification_no_space_length_2: oo
+classification_no_space_length_3: oob
+classification_no_space_length_4: oobb
+classification_no_space_length_5: oobb
+classification_no_space_length_6: oobb
+classification_no_space_upper_length_1: O
+classification_no_space_upper_length_2: OO
+classification_no_space_upper_length_3: OOB
+classification_no_space_upper_length_4: OOBB
+classification_no_space_upper_length_5: OOBB
+classification_no_space_upper_length_6: OOBB
+classification_upper_length_1: O
+classification_upper_length_2: OO
+classification_upper_length_3: OOB
+classification_upper_length_4: OOBB
+classification_upper_length_5: OOBB
+classification_upper_length_6: OOBB
+color: ''
+color_name: ''
+components: []
+components_objects: []
+components_string: []
+description: tray 15x15x12
+description_extra: ''
+description_extra_name: ''
+description_main: 15_width_15_height_12_mm_depth
+description_main_length_1: '1'
+description_main_length_2: '15'
+description_main_length_3: '15_'
+description_main_length_4: 15_w
+description_main_length_5: 15_wi
+description_main_length_6: 15_wid
+description_main_name: 15 Width 15 Height 12 mm Depth
+description_main_no_space_length_1: '1'
+description_main_no_space_length_2: '15'
+description_main_no_space_length_3: 15w
+description_main_no_space_length_4: 15wi
+description_main_no_space_length_5: 15wid
+description_main_no_space_length_6: 15widt
+description_main_no_space_upper_length_1: '1'
+description_main_no_space_upper_length_2: '15'
+description_main_no_space_upper_length_3: 15W
+description_main_no_space_upper_length_4: 15WI
+description_main_no_space_upper_length_5: 15WID
+description_main_no_space_upper_length_6: 15WIDT
+description_main_upper_length_1: '1'
+description_main_upper_length_2: '15'
+description_main_upper_length_3: '15_'
+description_main_upper_length_4: 15_W
+description_main_upper_length_5: 15_WI
+description_main_upper_length_6: 15_WID
+directory: parts/oobb_part_tray_15_width_15_height_12_mm_depth
+folder: C:\gh\oomlout_oobb_version_4_generated_parts\parts\oobb_part_tray_15_width_15_height_12_mm_depth
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_15_width_15_height_12_mm_depth
+height: 15
+height_mm: 224
+id: oobb_part_tray_15_width_15_height_12_mm_depth
+id_no_class: part_tray_15_width_15_height_12_mm_depth
+id_no_color: 15width15height12mmdepth
+id_no_size: 15_width_15_height_12_mm_depth
+id_no_type: tray_15_width_15_height_12_mm_depth
+link_1: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/tray/15_width_15_height_12_mm_depth/part
+link_1_name: link_main
+link_main: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/tray/15_width_15_height_12_mm_depth/part
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2047kuh
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2047kuh
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%2047kuh
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2047kuh
+link_redirect: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/parts/oobb_tray_15_15_12
+manufacturer: ''
+manufacturer_name: ''
+md5: 6be949bd60828614ae7a08b79da1ad3b
+md5_10: 6be949bd60
+md5_10_upper: 6BE949BD60
+md5_5: 6be94
+md5_5_upper: 6BE94
+md5_6: 6be949
+md5_6_alpha: 47kuh
+md5_6_alpha_upper: 47KUH
+md5_6_upper: 6BE949
+name: Oobb Part Tray 15 Width 15 Height 12 mm Depth
+name_no_class: Part Tray 15 Width 15 Height 12 mm Depth
+name_no_color: 15Width15Height12mmdepth
+name_no_size: 15 Width 15 Height 12 mm Depth
+name_no_type: Tray 15 Width 15 Height 12 mm Depth
+name_short: 'Tray 15x15x12 '
+oomlout_detail_hierarchy_1: oobb
+oomlout_detail_hierarchy_1_upper: OOBB
+oomlout_detail_hierarchy_1_upper_length_4: OOBB
+oomlout_detail_hierarchy_2: part
+oomlout_detail_hierarchy_2_upper: PART
+oomlout_detail_hierarchy_2_upper_length_4: PART
+oomlout_detail_hierarchy_3: tray
+oomlout_detail_hierarchy_3_upper: TRAY
+oomlout_detail_hierarchy_3_upper_length_4: TRAY
+oomlout_detail_hierarchy_4: 12_mm_depth
+oomlout_detail_hierarchy_4_upper: 12_MM_DEPTH
+oomlout_detail_hierarchy_4_upper_length_4: 12DE
+oomlout_oomp_utility_custom_data_manipulation: true
+oomp_key: oomp_oobb_part_tray_15_width_15_height_12_mm_depth
+oomp_word: chestnut bike hatching_chick
+oomp_word_emoji: ':chestnut: :bike: :hatching_chick:'
+oomp_word_emoji_list:
+- ':chestnut:'
+- ':bike:'
+- ':hatching_chick:'
+oomp_word_list:
+- chestnut
+- bike
+- hatching_chick
+part_number: ''
+part_number_name: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
+short_name: ''
+size: tray
+size_length_1: t
+size_length_2: tr
+size_length_3: tra
+size_length_4: tray
+size_length_5: tray
+size_length_6: tray
+size_name: Tray
+size_no_space_length_1: t
+size_no_space_length_2: tr
+size_no_space_length_3: tra
+size_no_space_length_4: tray
+size_no_space_length_5: tray
+size_no_space_length_6: tray
+size_no_space_upper_length_1: T
+size_no_space_upper_length_2: TR
+size_no_space_upper_length_3: TRA
+size_no_space_upper_length_4: TRAY
+size_no_space_upper_length_5: TRAY
+size_no_space_upper_length_6: TRAY
+size_upper_length_1: T
+size_upper_length_2: TR
+size_upper_length_3: TRA
+size_upper_length_4: TRAY
+size_upper_length_5: TRAY
+size_upper_length_6: TRAY
+thickness: 12
+thickness_mm: 12
+type: part
+type_length_1: p
+type_length_2: pa
+type_length_3: par
+type_length_4: part
+type_length_5: part
+type_length_6: part
+type_name: Part
+type_no_space_length_1: p
+type_no_space_length_2: pa
+type_no_space_length_3: par
+type_no_space_length_4: part
+type_no_space_length_5: part
+type_no_space_length_6: part
+type_no_space_upper_length_1: P
+type_no_space_upper_length_2: PA
+type_no_space_upper_length_3: PAR
+type_no_space_upper_length_4: PART
+type_no_space_upper_length_5: PART
+type_no_space_upper_length_6: PART
+type_upper_length_1: P
+type_upper_length_2: PA
+type_upper_length_3: PAR
+type_upper_length_4: PART
+type_upper_length_5: PART
+type_upper_length_6: PART
+width: 15
+width_mm: 224

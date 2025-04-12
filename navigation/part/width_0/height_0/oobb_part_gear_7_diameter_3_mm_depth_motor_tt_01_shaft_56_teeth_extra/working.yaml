@@ -1,0 +1,261 @@
+bip_39_word_dash_12: memory-video-master-extend-endless-roast-cute-grow-slice-scene-alone-accident
+bip_39_word_dash_2: memory-video
+bip_39_word_dash_3: memory-video-master
+bip_39_word_new_br_12: memory<br>video<br>master<br>extend<br>endless<br>roast<br>cute<br>grow<br>slice<br>scene<br>alone<br>accident
+bip_39_word_new_br_2: memory<br>video
+bip_39_word_new_br_3: memory<br>video<br>master
+bip_39_word_new_line_12: 'memory
+
+  video
+
+  master
+
+  extend
+
+  endless
+
+  roast
+
+  cute
+
+  grow
+
+  slice
+
+  scene
+
+  alone
+
+  accident'
+bip_39_word_new_line_2: 'memory
+
+  video'
+bip_39_word_new_line_3: 'memory
+
+  video
+
+  master'
+bip_39_word_no_space_12: memoryvideomasterextendendlessroastcutegrowslicescenealoneaccident
+bip_39_word_no_space_2: memoryvideo
+bip_39_word_no_space_3: memoryvideomaster
+bip_39_word_space_12: memory video master extend endless roast cute grow slice scene
+  alone accident
+bip_39_word_space_2: memory video
+bip_39_word_space_3: memory video master
+bip_39_word_underscore_12: memory_video_master_extend_endless_roast_cute_grow_slice_scene_alone_accident
+bip_39_word_underscore_2: memory_video
+bip_39_word_underscore_3: memory_video_master
+classification: oobb
+classification_length_1: o
+classification_length_2: oo
+classification_length_3: oob
+classification_length_4: oobb
+classification_length_5: oobb
+classification_length_6: oobb
+classification_name: Oobb
+classification_no_space_length_1: o
+classification_no_space_length_2: oo
+classification_no_space_length_3: oob
+classification_no_space_length_4: oobb
+classification_no_space_length_5: oobb
+classification_no_space_length_6: oobb
+classification_no_space_upper_length_1: O
+classification_no_space_upper_length_2: OO
+classification_no_space_upper_length_3: OOB
+classification_no_space_upper_length_4: OOBB
+classification_no_space_upper_length_5: OOBB
+classification_no_space_upper_length_6: OOBB
+classification_upper_length_1: O
+classification_upper_length_2: OO
+classification_upper_length_3: OOB
+classification_upper_length_4: OOBB
+classification_upper_length_5: OOBB
+classification_upper_length_6: OOBB
+color: ''
+color_name: ''
+components: []
+components_objects: []
+components_string: []
+description: gear 0x0x3
+description_extra: motor_tt_01_shaft_56_teeth_extra
+description_extra_length_1: m
+description_extra_length_2: mo
+description_extra_length_3: mot
+description_extra_length_4: moto
+description_extra_length_5: motor
+description_extra_length_6: motor_
+description_extra_name: Motor Tt 01 Shaft 56 Teeth Extra
+description_extra_no_space_length_1: m
+description_extra_no_space_length_2: mo
+description_extra_no_space_length_3: mot
+description_extra_no_space_length_4: moto
+description_extra_no_space_length_5: motor
+description_extra_no_space_length_6: motort
+description_extra_no_space_upper_length_1: M
+description_extra_no_space_upper_length_2: MO
+description_extra_no_space_upper_length_3: MOT
+description_extra_no_space_upper_length_4: MOTO
+description_extra_no_space_upper_length_5: MOTOR
+description_extra_no_space_upper_length_6: MOTORT
+description_extra_upper_length_1: M
+description_extra_upper_length_2: MO
+description_extra_upper_length_3: MOT
+description_extra_upper_length_4: MOTO
+description_extra_upper_length_5: MOTOR
+description_extra_upper_length_6: MOTOR_
+description_main: 7_diameter_3_mm_depth
+description_main_length_1: '7'
+description_main_length_2: '7_'
+description_main_length_3: 7_d
+description_main_length_4: 7_di
+description_main_length_5: 7_dia
+description_main_length_6: 7_diam
+description_main_name: 7 Diameter 3 mm Depth
+description_main_no_space_length_1: '7'
+description_main_no_space_length_2: 7d
+description_main_no_space_length_3: 7di
+description_main_no_space_length_4: 7dia
+description_main_no_space_length_5: 7diam
+description_main_no_space_length_6: 7diame
+description_main_no_space_upper_length_1: '7'
+description_main_no_space_upper_length_2: 7D
+description_main_no_space_upper_length_3: 7DI
+description_main_no_space_upper_length_4: 7DIA
+description_main_no_space_upper_length_5: 7DIAM
+description_main_no_space_upper_length_6: 7DIAME
+description_main_upper_length_1: '7'
+description_main_upper_length_2: '7_'
+description_main_upper_length_3: 7_D
+description_main_upper_length_4: 7_DI
+description_main_upper_length_5: 7_DIA
+description_main_upper_length_6: 7_DIAM
+diameter: 7
+directory: parts/oobb_part_gear_7_diameter_3_mm_depth_motor_tt_01_shaft_56_teeth_extra
+extra: 56_teeth
+folder: C:\gh\oomlout_oobb_version_4_generated_parts\parts\oobb_part_gear_7_diameter_3_mm_depth_motor_tt_01_shaft_56_teeth_extra
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_gear_7_diameter_3_mm_depth_motor_tt_01_shaft_56_teeth_extra
+id: oobb_part_gear_7_diameter_3_mm_depth_motor_tt_01_shaft_56_teeth_extra
+id_no_class: part_gear_7_diameter_3_mm_depth_motor_tt_01_shaft_56_teeth_extra
+id_no_color: 7diameter3mmdepthmotortt01shaft56teethextra
+id_no_size: 7_diameter_3_mm_depth_motor_tt_01_shaft_56_teeth_extra
+id_no_type: gear_7_diameter_3_mm_depth_motor_tt_01_shaft_56_teeth_extra
+link_1: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/gear/7_diameter_3_mm_depth/motor_tt_01_shaft_56_teeth_extra/part
+link_1_name: link_main
+link_main: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/gear/7_diameter_3_mm_depth/motor_tt_01_shaft_56_teeth_extra/part
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%20uz8w
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%20uz8w
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%20uz8w
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%20uz8w
+link_redirect: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/parts/oobb_gear_07_03_ex_56_teeth_sh_motor_tt_01
+manufacturer: ''
+manufacturer_name: ''
+md5: 160df0265b6706d6ec24d50f117cf457
+md5_10: 160df0265b
+md5_10_upper: 160DF0265B
+md5_5: 160df
+md5_5_upper: 160DF
+md5_6: 160df0
+md5_6_alpha: uz8w
+md5_6_alpha_upper: UZ8W
+md5_6_upper: 160DF0
+name: Oobb Part Gear 7 Diameter 3 mm Depth Motor Tt 01 Shaft 56 Teeth Extra
+name_no_class: Part Gear 7 Diameter 3 mm Depth Motor Tt 01 Shaft 56 Teeth Extra
+name_no_color: 7Diameter3mmdepthmotortt01Shaft56Teethextra
+name_no_size: 7 Diameter 3 mm Depth Motor Tt 01 Shaft 56 Teeth Extra
+name_no_type: Gear 7 Diameter 3 mm Depth Motor Tt 01 Shaft 56 Teeth Extra
+name_short: Gear 7x3 Motor Tt 01 Shaft 56 Teeth
+oomlout_detail_hierarchy_1: oobb
+oomlout_detail_hierarchy_1_upper: OOBB
+oomlout_detail_hierarchy_1_upper_length_4: OOBB
+oomlout_detail_hierarchy_2: part
+oomlout_detail_hierarchy_2_upper: PART
+oomlout_detail_hierarchy_2_upper_length_4: PART
+oomlout_detail_hierarchy_3: gear
+oomlout_detail_hierarchy_3_upper: GEAR
+oomlout_detail_hierarchy_3_upper_length_4: GEAR
+oomlout_detail_hierarchy_4: 7_diameter
+oomlout_detail_hierarchy_4_upper: 7_DIAMETER
+oomlout_detail_hierarchy_4_upper_length_4: 7_DI
+oomlout_detail_hierarchy_5: 3_mm_depth
+oomlout_detail_hierarchy_5_upper: 3_MM_DEPTH
+oomlout_detail_hierarchy_5_upper_length_4: 3DEP
+oomlout_detail_hierarchy_6: motor_tt_01_shaft
+oomlout_detail_hierarchy_6_upper: MOTOR_TT_01_SHAFT
+oomlout_detail_hierarchy_6_upper_length_4: MOTO
+oomlout_detail_hierarchy_7: 56_teeth_extra
+oomlout_detail_hierarchy_7_upper: 56_TEETH_EXTRA
+oomlout_detail_hierarchy_7_upper_length_4: 56_T
+oomlout_oomp_utility_custom_data_manipulation: true
+oomp_key: oomp_oobb_part_gear_7_diameter_3_mm_depth_motor_tt_01_shaft_56_teeth_extra
+oomp_word: thumbsup heart train
+oomp_word_emoji: ':thumbsup: :heart: :train:'
+oomp_word_emoji_list:
+- ':thumbsup:'
+- ':heart:'
+- ':train:'
+oomp_word_list:
+- thumbsup
+- heart
+- train
+part_number: ''
+part_number_name: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
+shaft: motor_tt_01
+short_name: ''
+size: gear
+size_length_1: g
+size_length_2: ge
+size_length_3: gea
+size_length_4: gear
+size_length_5: gear
+size_length_6: gear
+size_name: Gear
+size_no_space_length_1: g
+size_no_space_length_2: ge
+size_no_space_length_3: gea
+size_no_space_length_4: gear
+size_no_space_length_5: gear
+size_no_space_length_6: gear
+size_no_space_upper_length_1: G
+size_no_space_upper_length_2: GE
+size_no_space_upper_length_3: GEA
+size_no_space_upper_length_4: GEAR
+size_no_space_upper_length_5: GEAR
+size_no_space_upper_length_6: GEAR
+size_upper_length_1: G
+size_upper_length_2: GE
+size_upper_length_3: GEA
+size_upper_length_4: GEAR
+size_upper_length_5: GEAR
+size_upper_length_6: GEAR
+thickness: 3
+thickness_mm: 3
+type: part
+type_length_1: p
+type_length_2: pa
+type_length_3: par
+type_length_4: part
+type_length_5: part
+type_length_6: part
+type_name: Part
+type_no_space_length_1: p
+type_no_space_length_2: pa
+type_no_space_length_3: par
+type_no_space_length_4: part
+type_no_space_length_5: part
+type_no_space_length_6: part
+type_no_space_upper_length_1: P
+type_no_space_upper_length_2: PA
+type_no_space_upper_length_3: PAR
+type_no_space_upper_length_4: PART
+type_no_space_upper_length_5: PART
+type_no_space_upper_length_6: PART
+type_upper_length_1: P
+type_upper_length_2: PA
+type_upper_length_3: PAR
+type_upper_length_4: PART
+type_upper_length_5: PART
+type_upper_length_6: PART

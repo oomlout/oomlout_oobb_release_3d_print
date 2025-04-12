@@ -1,0 +1,224 @@
+bip_39_word_dash_12: toe-shop-sword-cluster-custom-velvet-pill-cotton-credit-tiny-unlock-arctic
+bip_39_word_dash_2: toe-shop
+bip_39_word_dash_3: toe-shop-sword
+bip_39_word_new_br_12: toe<br>shop<br>sword<br>cluster<br>custom<br>velvet<br>pill<br>cotton<br>credit<br>tiny<br>unlock<br>arctic
+bip_39_word_new_br_2: toe<br>shop
+bip_39_word_new_br_3: toe<br>shop<br>sword
+bip_39_word_new_line_12: 'toe
+
+  shop
+
+  sword
+
+  cluster
+
+  custom
+
+  velvet
+
+  pill
+
+  cotton
+
+  credit
+
+  tiny
+
+  unlock
+
+  arctic'
+bip_39_word_new_line_2: 'toe
+
+  shop'
+bip_39_word_new_line_3: 'toe
+
+  shop
+
+  sword'
+bip_39_word_no_space_12: toeshopswordclustercustomvelvetpillcottoncredittinyunlockarctic
+bip_39_word_no_space_2: toeshop
+bip_39_word_no_space_3: toeshopsword
+bip_39_word_space_12: toe shop sword cluster custom velvet pill cotton credit tiny
+  unlock arctic
+bip_39_word_space_2: toe shop
+bip_39_word_space_3: toe shop sword
+bip_39_word_underscore_12: toe_shop_sword_cluster_custom_velvet_pill_cotton_credit_tiny_unlock_arctic
+bip_39_word_underscore_2: toe_shop
+bip_39_word_underscore_3: toe_shop_sword
+classification: oobb
+classification_length_1: o
+classification_length_2: oo
+classification_length_3: oob
+classification_length_4: oobb
+classification_length_5: oobb
+classification_length_6: oobb
+classification_name: Oobb
+classification_no_space_length_1: o
+classification_no_space_length_2: oo
+classification_no_space_length_3: oob
+classification_no_space_length_4: oobb
+classification_no_space_length_5: oobb
+classification_no_space_length_6: oobb
+classification_no_space_upper_length_1: O
+classification_no_space_upper_length_2: OO
+classification_no_space_upper_length_3: OOB
+classification_no_space_upper_length_4: OOBB
+classification_no_space_upper_length_5: OOBB
+classification_no_space_upper_length_6: OOBB
+classification_upper_length_1: O
+classification_upper_length_2: OO
+classification_upper_length_3: OOB
+classification_upper_length_4: OOBB
+classification_upper_length_5: OOBB
+classification_upper_length_6: OOBB
+color: ''
+color_name: ''
+components: []
+components_objects: []
+components_string: []
+description: test 0x0x0
+description_extra: oobb_wire_extra
+description_extra_length_1: o
+description_extra_length_2: oo
+description_extra_length_3: oob
+description_extra_length_4: oobb
+description_extra_length_5: oobb_
+description_extra_length_6: oobb_w
+description_extra_name: Oobb Wire Extra
+description_extra_no_space_length_1: o
+description_extra_no_space_length_2: oo
+description_extra_no_space_length_3: oob
+description_extra_no_space_length_4: oobb
+description_extra_no_space_length_5: oobbw
+description_extra_no_space_length_6: oobbwi
+description_extra_no_space_upper_length_1: O
+description_extra_no_space_upper_length_2: OO
+description_extra_no_space_upper_length_3: OOB
+description_extra_no_space_upper_length_4: OOBB
+description_extra_no_space_upper_length_5: OOBBW
+description_extra_no_space_upper_length_6: OOBBWI
+description_extra_upper_length_1: O
+description_extra_upper_length_2: OO
+description_extra_upper_length_3: OOB
+description_extra_upper_length_4: OOBB
+description_extra_upper_length_5: OOBB_
+description_extra_upper_length_6: OOBB_W
+description_main: ''
+description_main_name: ''
+directory: parts/oobb_part_test_oobb_wire_extra
+extra: oobb_wire
+folder: C:\gh\oomlout_oobb_version_4_generated_parts\parts\oobb_part_test_oobb_wire_extra
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_test_oobb_wire_extra
+id: oobb_part_test_oobb_wire_extra
+id_no_class: part_test_wire_extra
+id_no_color: wireextra
+id_no_size: wire_extra
+id_no_type: test_wire_extra
+link_1: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/test//oobb_wire_extra/part
+link_1_name: link_main
+link_main: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/test//oobb_wire_extra/part
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2070n5k
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2070n5k
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%2070n5k
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2070n5k
+link_redirect: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/parts/oobb_test_ex_oobb_wire
+manufacturer: ''
+manufacturer_name: ''
+md5: b3dc38999830d49bc81b42c7b8b1af1c
+md5_10: b3dc389998
+md5_10_upper: B3DC389998
+md5_5: b3dc3
+md5_5_upper: B3DC3
+md5_6: b3dc38
+md5_6_alpha: 70n5k
+md5_6_alpha_upper: 70N5K
+md5_6_upper: B3DC38
+name: Oobb Part Test Oobb Wire Extra
+name_no_class: Part Test Wire Extra
+name_no_color: Wireextra
+name_no_size: Wire Extra
+name_no_type: Test Wire Extra
+name_short: Test Oobb Wire Extra
+oomlout_detail_hierarchy_1: oobb
+oomlout_detail_hierarchy_1_upper: OOBB
+oomlout_detail_hierarchy_1_upper_length_4: OOBB
+oomlout_detail_hierarchy_2: part
+oomlout_detail_hierarchy_2_upper: PART
+oomlout_detail_hierarchy_2_upper_length_4: PART
+oomlout_detail_hierarchy_3: test
+oomlout_detail_hierarchy_3_upper: TEST
+oomlout_detail_hierarchy_3_upper_length_4: TEST
+oomlout_detail_hierarchy_4: oobb_wire_extra
+oomlout_detail_hierarchy_4_upper: OOBB_WIRE_EXTRA
+oomlout_detail_hierarchy_4_upper_length_4: OOBB
+oomlout_oomp_utility_custom_data_manipulation: true
+oomp_key: oomp_oobb_part_test_oobb_wire_extra
+oomp_word: eyeglasses factory frog
+oomp_word_emoji: ':eyeglasses: :factory: :frog:'
+oomp_word_emoji_list:
+- ':eyeglasses:'
+- ':factory:'
+- ':frog:'
+oomp_word_list:
+- eyeglasses
+- factory
+- frog
+part_number: ''
+part_number_name: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
+short_name: ''
+size: test
+size_length_1: t
+size_length_2: te
+size_length_3: tes
+size_length_4: test
+size_length_5: test
+size_length_6: test
+size_name: Test
+size_no_space_length_1: t
+size_no_space_length_2: te
+size_no_space_length_3: tes
+size_no_space_length_4: test
+size_no_space_length_5: test
+size_no_space_length_6: test
+size_no_space_upper_length_1: T
+size_no_space_upper_length_2: TE
+size_no_space_upper_length_3: TES
+size_no_space_upper_length_4: TEST
+size_no_space_upper_length_5: TEST
+size_no_space_upper_length_6: TEST
+size_upper_length_1: T
+size_upper_length_2: TE
+size_upper_length_3: TES
+size_upper_length_4: TEST
+size_upper_length_5: TEST
+size_upper_length_6: TEST
+type: part
+type_length_1: p
+type_length_2: pa
+type_length_3: par
+type_length_4: part
+type_length_5: part
+type_length_6: part
+type_name: Part
+type_no_space_length_1: p
+type_no_space_length_2: pa
+type_no_space_length_3: par
+type_no_space_length_4: part
+type_no_space_length_5: part
+type_no_space_length_6: part
+type_no_space_upper_length_1: P
+type_no_space_upper_length_2: PA
+type_no_space_upper_length_3: PAR
+type_no_space_upper_length_4: PART
+type_no_space_upper_length_5: PART
+type_no_space_upper_length_6: PART
+type_upper_length_1: P
+type_upper_length_2: PA
+type_upper_length_3: PAR
+type_upper_length_4: PART
+type_upper_length_5: PART
+type_upper_length_6: PART

@@ -1,0 +1,225 @@
+bip_39_word_dash_12: audit-butter-whisper-wait-hurt-ugly-fox-weekend-point-month-cover-alley
+bip_39_word_dash_2: audit-butter
+bip_39_word_dash_3: audit-butter-whisper
+bip_39_word_new_br_12: audit<br>butter<br>whisper<br>wait<br>hurt<br>ugly<br>fox<br>weekend<br>point<br>month<br>cover<br>alley
+bip_39_word_new_br_2: audit<br>butter
+bip_39_word_new_br_3: audit<br>butter<br>whisper
+bip_39_word_new_line_12: 'audit
+
+  butter
+
+  whisper
+
+  wait
+
+  hurt
+
+  ugly
+
+  fox
+
+  weekend
+
+  point
+
+  month
+
+  cover
+
+  alley'
+bip_39_word_new_line_2: 'audit
+
+  butter'
+bip_39_word_new_line_3: 'audit
+
+  butter
+
+  whisper'
+bip_39_word_no_space_12: auditbutterwhisperwaithurtuglyfoxweekendpointmonthcoveralley
+bip_39_word_no_space_2: auditbutter
+bip_39_word_no_space_3: auditbutterwhisper
+bip_39_word_space_12: audit butter whisper wait hurt ugly fox weekend point month
+  cover alley
+bip_39_word_space_2: audit butter
+bip_39_word_space_3: audit butter whisper
+bip_39_word_underscore_12: audit_butter_whisper_wait_hurt_ugly_fox_weekend_point_month_cover_alley
+bip_39_word_underscore_2: audit_butter
+bip_39_word_underscore_3: audit_butter_whisper
+classification: oobb
+classification_length_1: o
+classification_length_2: oo
+classification_length_3: oob
+classification_length_4: oobb
+classification_length_5: oobb
+classification_length_6: oobb
+classification_name: Oobb
+classification_no_space_length_1: o
+classification_no_space_length_2: oo
+classification_no_space_length_3: oob
+classification_no_space_length_4: oobb
+classification_no_space_length_5: oobb
+classification_no_space_length_6: oobb
+classification_no_space_upper_length_1: O
+classification_no_space_upper_length_2: OO
+classification_no_space_upper_length_3: OOB
+classification_no_space_upper_length_4: OOBB
+classification_no_space_upper_length_5: OOBB
+classification_no_space_upper_length_6: OOBB
+classification_upper_length_1: O
+classification_upper_length_2: OO
+classification_upper_length_3: OOB
+classification_upper_length_4: OOBB
+classification_upper_length_5: OOBB
+classification_upper_length_6: OOBB
+color: ''
+color_name: ''
+components: []
+components_objects: []
+components_string: []
+depth: 8
+description: screw countersunk 0x0x0
+description_extra: m3_radius_name_8_depth
+description_extra_length_1: m
+description_extra_length_2: m3
+description_extra_length_3: m3_
+description_extra_length_4: m3_r
+description_extra_length_5: m3_ra
+description_extra_length_6: m3_rad
+description_extra_name: M3 Radius Name 8 Depth
+description_extra_no_space_length_1: m
+description_extra_no_space_length_2: m3
+description_extra_no_space_length_3: m3r
+description_extra_no_space_length_4: m3ra
+description_extra_no_space_length_5: m3rad
+description_extra_no_space_length_6: m3radi
+description_extra_no_space_upper_length_1: M
+description_extra_no_space_upper_length_2: M3
+description_extra_no_space_upper_length_3: M3R
+description_extra_no_space_upper_length_4: M3RA
+description_extra_no_space_upper_length_5: M3RAD
+description_extra_no_space_upper_length_6: M3RADI
+description_extra_upper_length_1: M
+description_extra_upper_length_2: M3
+description_extra_upper_length_3: M3_
+description_extra_upper_length_4: M3_R
+description_extra_upper_length_5: M3_RA
+description_extra_upper_length_6: M3_RAD
+description_main: ''
+description_main_name: ''
+directory: parts/oobb_part_screw_countersunk_m3_radius_name_8_depth
+folder: C:\gh\oomlout_oobb_version_4_generated_parts\parts\oobb_part_screw_countersunk_m3_radius_name_8_depth
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_screw_countersunk_m3_radius_name_8_depth
+id: oobb_part_screw_countersunk_m3_radius_name_8_depth
+id_no_class: part_screw_countersunk_m3_radius_name_8_depth
+id_no_color: m3radiusname8depth
+id_no_size: m3_radius_name_8_depth
+id_no_type: screw_countersunk_m3_radius_name_8_depth
+link_1: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/screw_countersunk//m3_radius_name_8_depth/part
+link_1_name: link_main
+link_main: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/screw_countersunk//m3_radius_name_8_depth/part
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2042mn7
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2042mn7
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%2042mn7
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2042mn7
+link_redirect: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/parts/hardware_screw_countersunk_m3_08
+manufacturer: ''
+manufacturer_name: ''
+md5: 686323dd3af90b8bb037ef67f507d078
+md5_10: 686323dd3a
+md5_10_upper: 686323DD3A
+md5_5: '68632'
+md5_5_upper: '68632'
+md5_6: '686323'
+md5_6_alpha: 42mn7
+md5_6_alpha_upper: 42MN7
+md5_6_upper: '686323'
+name: Oobb Part Screw Countersunk M3 Radius Name 8 Depth
+name_no_class: Part Screw Countersunk M3 Radius Name 8 Depth
+name_no_color: M3Radiusname8Depth
+name_no_size: M3 Radius Name 8 Depth
+name_no_type: Screw Countersunk M3 Radius Name 8 Depth
+name_short: Screw Countersunk M3 Radius Name 8 Depth
+oomlout_detail_hierarchy_1: oobb
+oomlout_detail_hierarchy_1_upper: OOBB
+oomlout_detail_hierarchy_1_upper_length_4: OOBB
+oomlout_detail_hierarchy_2: part
+oomlout_detail_hierarchy_2_upper: PART
+oomlout_detail_hierarchy_2_upper_length_4: PART
+oomlout_detail_hierarchy_3: scountersunk
+oomlout_detail_hierarchy_3_upper: SCOUNTERSUNK
+oomlout_detail_hierarchy_3_upper_length_4: SCOU
+oomlout_detail_hierarchy_4: m3_radius_name_8_depth
+oomlout_detail_hierarchy_4_upper: M3_RADIUS_NAME_8_DEPTH
+oomlout_detail_hierarchy_4_upper_length_4: M3_R
+oomlout_oomp_utility_custom_data_manipulation: true
+oomp_key: oomp_oobb_part_screw_countersunk_m3_radius_name_8_depth
+oomp_word: mushroom rose kiss
+oomp_word_emoji: ':mushroom: :rose: :kiss:'
+oomp_word_emoji_list:
+- ':mushroom:'
+- ':rose:'
+- ':kiss:'
+oomp_word_list:
+- mushroom
+- rose
+- kiss
+part_number: ''
+part_number_name: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
+radius_name: m3
+short_name: ''
+size: screw_countersunk
+size_length_1: s
+size_length_2: sc
+size_length_3: scr
+size_length_4: scre
+size_length_5: screw
+size_length_6: screw_
+size_name: Screw Countersunk
+size_no_space_length_1: s
+size_no_space_length_2: sc
+size_no_space_length_3: scr
+size_no_space_length_4: scre
+size_no_space_length_5: screw
+size_no_space_length_6: screwc
+size_no_space_upper_length_1: S
+size_no_space_upper_length_2: SC
+size_no_space_upper_length_3: SCR
+size_no_space_upper_length_4: SCRE
+size_no_space_upper_length_5: SCREW
+size_no_space_upper_length_6: SCREWC
+size_upper_length_1: S
+size_upper_length_2: SC
+size_upper_length_3: SCR
+size_upper_length_4: SCRE
+size_upper_length_5: SCREW
+size_upper_length_6: SCREW_
+type: part
+type_length_1: p
+type_length_2: pa
+type_length_3: par
+type_length_4: part
+type_length_5: part
+type_length_6: part
+type_name: Part
+type_no_space_length_1: p
+type_no_space_length_2: pa
+type_no_space_length_3: par
+type_no_space_length_4: part
+type_no_space_length_5: part
+type_no_space_length_6: part
+type_no_space_upper_length_1: P
+type_no_space_upper_length_2: PA
+type_no_space_upper_length_3: PAR
+type_no_space_upper_length_4: PART
+type_no_space_upper_length_5: PART
+type_no_space_upper_length_6: PART
+type_upper_length_1: P
+type_upper_length_2: PA
+type_upper_length_3: PAR
+type_upper_length_4: PART
+type_upper_length_5: PART
+type_upper_length_6: PART

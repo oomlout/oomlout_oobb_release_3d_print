@@ -1,0 +1,229 @@
+bip_39_word_dash_12: divorce-piece-siren-age-endorse-credit-alcohol-more-manual-story-blush-account
+bip_39_word_dash_2: divorce-piece
+bip_39_word_dash_3: divorce-piece-siren
+bip_39_word_new_br_12: divorce<br>piece<br>siren<br>age<br>endorse<br>credit<br>alcohol<br>more<br>manual<br>story<br>blush<br>account
+bip_39_word_new_br_2: divorce<br>piece
+bip_39_word_new_br_3: divorce<br>piece<br>siren
+bip_39_word_new_line_12: 'divorce
+
+  piece
+
+  siren
+
+  age
+
+  endorse
+
+  credit
+
+  alcohol
+
+  more
+
+  manual
+
+  story
+
+  blush
+
+  account'
+bip_39_word_new_line_2: 'divorce
+
+  piece'
+bip_39_word_new_line_3: 'divorce
+
+  piece
+
+  siren'
+bip_39_word_no_space_12: divorcepiecesirenageendorsecreditalcoholmoremanualstoryblushaccount
+bip_39_word_no_space_2: divorcepiece
+bip_39_word_no_space_3: divorcepiecesiren
+bip_39_word_space_12: divorce piece siren age endorse credit alcohol more manual story
+  blush account
+bip_39_word_space_2: divorce piece
+bip_39_word_space_3: divorce piece siren
+bip_39_word_underscore_12: divorce_piece_siren_age_endorse_credit_alcohol_more_manual_story_blush_account
+bip_39_word_underscore_2: divorce_piece
+bip_39_word_underscore_3: divorce_piece_siren
+classification: oobb
+classification_length_1: o
+classification_length_2: oo
+classification_length_3: oob
+classification_length_4: oobb
+classification_length_5: oobb
+classification_length_6: oobb
+classification_name: Oobb
+classification_no_space_length_1: o
+classification_no_space_length_2: oo
+classification_no_space_length_3: oob
+classification_no_space_length_4: oobb
+classification_no_space_length_5: oobb
+classification_no_space_length_6: oobb
+classification_no_space_upper_length_1: O
+classification_no_space_upper_length_2: OO
+classification_no_space_upper_length_3: OOB
+classification_no_space_upper_length_4: OOBB
+classification_no_space_upper_length_5: OOBB
+classification_no_space_upper_length_6: OOBB
+classification_upper_length_1: O
+classification_upper_length_2: OO
+classification_upper_length_3: OOB
+classification_upper_length_4: OOBB
+classification_upper_length_5: OOBB
+classification_upper_length_6: OOBB
+color: ''
+color_name: ''
+components: []
+components_objects: []
+components_string: []
+description: tray 2x13x60
+description_extra: ''
+description_extra_name: ''
+description_main: 2_width_13_height_60_mm_depth
+description_main_length_1: '2'
+description_main_length_2: '2_'
+description_main_length_3: 2_w
+description_main_length_4: 2_wi
+description_main_length_5: 2_wid
+description_main_length_6: 2_widt
+description_main_name: 2 Width 13 Height 60 mm Depth
+description_main_no_space_length_1: '2'
+description_main_no_space_length_2: 2w
+description_main_no_space_length_3: 2wi
+description_main_no_space_length_4: 2wid
+description_main_no_space_length_5: 2widt
+description_main_no_space_length_6: 2width
+description_main_no_space_upper_length_1: '2'
+description_main_no_space_upper_length_2: 2W
+description_main_no_space_upper_length_3: 2WI
+description_main_no_space_upper_length_4: 2WID
+description_main_no_space_upper_length_5: 2WIDT
+description_main_no_space_upper_length_6: 2WIDTH
+description_main_upper_length_1: '2'
+description_main_upper_length_2: '2_'
+description_main_upper_length_3: 2_W
+description_main_upper_length_4: 2_WI
+description_main_upper_length_5: 2_WID
+description_main_upper_length_6: 2_WIDT
+directory: parts/oobb_part_tray_2_width_13_height_60_mm_depth
+folder: C:\gh\oomlout_oobb_version_4_generated_parts\parts\oobb_part_tray_2_width_13_height_60_mm_depth
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_2_width_13_height_60_mm_depth
+height: 13
+height_mm: 194
+id: oobb_part_tray_2_width_13_height_60_mm_depth
+id_no_class: part_tray_2_width_13_height_60_mm_depth
+id_no_color: 2width13height60mmdepth
+id_no_size: 2_width_13_height_60_mm_depth
+id_no_type: tray_2_width_13_height_60_mm_depth
+link_1: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/tray/2_width_13_height_60_mm_depth/part
+link_1_name: link_main
+link_main: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/tray/2_width_13_height_60_mm_depth/part
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%20xzcl
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%20xzcl
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%20xzcl
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%20xzcl
+link_redirect: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/parts/oobb_tray_02_13_60
+manufacturer: ''
+manufacturer_name: ''
+md5: 183135a43b8fc0c0cc24e04d92e91a00
+md5_10: 183135a43b
+md5_10_upper: 183135A43B
+md5_5: '18313'
+md5_5_upper: '18313'
+md5_6: '183135'
+md5_6_alpha: xzcl
+md5_6_alpha_upper: XZCL
+md5_6_upper: '183135'
+name: Oobb Part Tray 2 Width 13 Height 60 mm Depth
+name_no_class: Part Tray 2 Width 13 Height 60 mm Depth
+name_no_color: 2Width13Height60mmdepth
+name_no_size: 2 Width 13 Height 60 mm Depth
+name_no_type: Tray 2 Width 13 Height 60 mm Depth
+name_short: 'Tray 2x13x60 '
+oomlout_detail_hierarchy_1: oobb
+oomlout_detail_hierarchy_1_upper: OOBB
+oomlout_detail_hierarchy_1_upper_length_4: OOBB
+oomlout_detail_hierarchy_2: part
+oomlout_detail_hierarchy_2_upper: PART
+oomlout_detail_hierarchy_2_upper_length_4: PART
+oomlout_detail_hierarchy_3: tray
+oomlout_detail_hierarchy_3_upper: TRAY
+oomlout_detail_hierarchy_3_upper_length_4: TRAY
+oomlout_detail_hierarchy_4: 60_mm_depth
+oomlout_detail_hierarchy_4_upper: 60_MM_DEPTH
+oomlout_detail_hierarchy_4_upper_length_4: 60DE
+oomlout_oomp_utility_custom_data_manipulation: true
+oomp_key: oomp_oobb_part_tray_2_width_13_height_60_mm_depth
+oomp_word: hand ocean hamster
+oomp_word_emoji: ':hand: :ocean: :hamster:'
+oomp_word_emoji_list:
+- ':hand:'
+- ':ocean:'
+- ':hamster:'
+oomp_word_list:
+- hand
+- ocean
+- hamster
+part_number: ''
+part_number_name: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
+short_name: ''
+size: tray
+size_length_1: t
+size_length_2: tr
+size_length_3: tra
+size_length_4: tray
+size_length_5: tray
+size_length_6: tray
+size_name: Tray
+size_no_space_length_1: t
+size_no_space_length_2: tr
+size_no_space_length_3: tra
+size_no_space_length_4: tray
+size_no_space_length_5: tray
+size_no_space_length_6: tray
+size_no_space_upper_length_1: T
+size_no_space_upper_length_2: TR
+size_no_space_upper_length_3: TRA
+size_no_space_upper_length_4: TRAY
+size_no_space_upper_length_5: TRAY
+size_no_space_upper_length_6: TRAY
+size_upper_length_1: T
+size_upper_length_2: TR
+size_upper_length_3: TRA
+size_upper_length_4: TRAY
+size_upper_length_5: TRAY
+size_upper_length_6: TRAY
+thickness: 60
+thickness_mm: 60
+type: part
+type_length_1: p
+type_length_2: pa
+type_length_3: par
+type_length_4: part
+type_length_5: part
+type_length_6: part
+type_name: Part
+type_no_space_length_1: p
+type_no_space_length_2: pa
+type_no_space_length_3: par
+type_no_space_length_4: part
+type_no_space_length_5: part
+type_no_space_length_6: part
+type_no_space_upper_length_1: P
+type_no_space_upper_length_2: PA
+type_no_space_upper_length_3: PAR
+type_no_space_upper_length_4: PART
+type_no_space_upper_length_5: PART
+type_no_space_upper_length_6: PART
+type_upper_length_1: P
+type_upper_length_2: PA
+type_upper_length_3: PAR
+type_upper_length_4: PART
+type_upper_length_5: PART
+type_upper_length_6: PART
+width: 2
+width_mm: 29

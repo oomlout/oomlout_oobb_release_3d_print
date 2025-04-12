@@ -1,0 +1,229 @@
+bip_39_word_dash_12: hub-uphold-garlic-miss-tiny-enhance-false-car-license-soap-fancy-allow
+bip_39_word_dash_2: hub-uphold
+bip_39_word_dash_3: hub-uphold-garlic
+bip_39_word_new_br_12: hub<br>uphold<br>garlic<br>miss<br>tiny<br>enhance<br>false<br>car<br>license<br>soap<br>fancy<br>allow
+bip_39_word_new_br_2: hub<br>uphold
+bip_39_word_new_br_3: hub<br>uphold<br>garlic
+bip_39_word_new_line_12: 'hub
+
+  uphold
+
+  garlic
+
+  miss
+
+  tiny
+
+  enhance
+
+  false
+
+  car
+
+  license
+
+  soap
+
+  fancy
+
+  allow'
+bip_39_word_new_line_2: 'hub
+
+  uphold'
+bip_39_word_new_line_3: 'hub
+
+  uphold
+
+  garlic'
+bip_39_word_no_space_12: hubupholdgarlicmisstinyenhancefalsecarlicensesoapfancyallow
+bip_39_word_no_space_2: hubuphold
+bip_39_word_no_space_3: hubupholdgarlic
+bip_39_word_space_12: hub uphold garlic miss tiny enhance false car license soap fancy
+  allow
+bip_39_word_space_2: hub uphold
+bip_39_word_space_3: hub uphold garlic
+bip_39_word_underscore_12: hub_uphold_garlic_miss_tiny_enhance_false_car_license_soap_fancy_allow
+bip_39_word_underscore_2: hub_uphold
+bip_39_word_underscore_3: hub_uphold_garlic
+classification: oobb
+classification_length_1: o
+classification_length_2: oo
+classification_length_3: oob
+classification_length_4: oobb
+classification_length_5: oobb
+classification_length_6: oobb
+classification_name: Oobb
+classification_no_space_length_1: o
+classification_no_space_length_2: oo
+classification_no_space_length_3: oob
+classification_no_space_length_4: oobb
+classification_no_space_length_5: oobb
+classification_no_space_length_6: oobb
+classification_no_space_upper_length_1: O
+classification_no_space_upper_length_2: OO
+classification_no_space_upper_length_3: OOB
+classification_no_space_upper_length_4: OOBB
+classification_no_space_upper_length_5: OOBB
+classification_no_space_upper_length_6: OOBB
+classification_upper_length_1: O
+classification_upper_length_2: OO
+classification_upper_length_3: OOB
+classification_upper_length_4: OOBB
+classification_upper_length_5: OOBB
+classification_upper_length_6: OOBB
+color: ''
+color_name: ''
+components: []
+components_objects: []
+components_string: []
+description: tray vertical 2x9x15
+description_extra: ''
+description_extra_name: ''
+description_main: 2_width_9_height_15_mm_depth
+description_main_length_1: '2'
+description_main_length_2: '2_'
+description_main_length_3: 2_w
+description_main_length_4: 2_wi
+description_main_length_5: 2_wid
+description_main_length_6: 2_widt
+description_main_name: 2 Width 9 Height 15 mm Depth
+description_main_no_space_length_1: '2'
+description_main_no_space_length_2: 2w
+description_main_no_space_length_3: 2wi
+description_main_no_space_length_4: 2wid
+description_main_no_space_length_5: 2widt
+description_main_no_space_length_6: 2width
+description_main_no_space_upper_length_1: '2'
+description_main_no_space_upper_length_2: 2W
+description_main_no_space_upper_length_3: 2WI
+description_main_no_space_upper_length_4: 2WID
+description_main_no_space_upper_length_5: 2WIDT
+description_main_no_space_upper_length_6: 2WIDTH
+description_main_upper_length_1: '2'
+description_main_upper_length_2: '2_'
+description_main_upper_length_3: 2_W
+description_main_upper_length_4: 2_WI
+description_main_upper_length_5: 2_WID
+description_main_upper_length_6: 2_WIDT
+directory: parts/oobb_part_tray_vertical_2_width_9_height_15_mm_depth
+folder: C:\gh\oomlout_oobb_version_4_generated_parts\parts\oobb_part_tray_vertical_2_width_9_height_15_mm_depth
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_2_width_9_height_15_mm_depth
+height: 9
+height_mm: 134
+id: oobb_part_tray_vertical_2_width_9_height_15_mm_depth
+id_no_class: part_tray_vertical_2_width_9_height_15_mm_depth
+id_no_color: 2width9height15mmdepth
+id_no_size: 2_width_9_height_15_mm_depth
+id_no_type: tray_vertical_2_width_9_height_15_mm_depth
+link_1: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/tray_vertical/2_width_9_height_15_mm_depth/part
+link_1_name: link_main
+link_main: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/tray_vertical/2_width_9_height_15_mm_depth/part
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2045sz7
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2045sz7
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%2045sz7
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2045sz7
+link_redirect: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/parts/oobb_tray_vertical_02_09_15
+manufacturer: ''
+manufacturer_name: ''
+md5: 6aa5f36c09224a492a7138dcbfbbb374
+md5_10: 6aa5f36c09
+md5_10_upper: 6AA5F36C09
+md5_5: 6aa5f
+md5_5_upper: 6AA5F
+md5_6: 6aa5f3
+md5_6_alpha: 45sz7
+md5_6_alpha_upper: 45SZ7
+md5_6_upper: 6AA5F3
+name: Oobb Part Tray Vertical 2 Width 9 Height 15 mm Depth
+name_no_class: Part Tray Vertical 2 Width 9 Height 15 mm Depth
+name_no_color: 2Width9Height15mmdepth
+name_no_size: 2 Width 9 Height 15 mm Depth
+name_no_type: Tray Vertical 2 Width 9 Height 15 mm Depth
+name_short: 'Tray Vertical 2x9x15 '
+oomlout_detail_hierarchy_1: oobb
+oomlout_detail_hierarchy_1_upper: OOBB
+oomlout_detail_hierarchy_1_upper_length_4: OOBB
+oomlout_detail_hierarchy_2: part
+oomlout_detail_hierarchy_2_upper: PART
+oomlout_detail_hierarchy_2_upper_length_4: PART
+oomlout_detail_hierarchy_3: tray_vertical
+oomlout_detail_hierarchy_3_upper: TRAY_VERTICAL
+oomlout_detail_hierarchy_3_upper_length_4: TRAY
+oomlout_detail_hierarchy_4: 15_mm_depth
+oomlout_detail_hierarchy_4_upper: 15_MM_DEPTH
+oomlout_detail_hierarchy_4_upper_length_4: 15DE
+oomlout_oomp_utility_custom_data_manipulation: true
+oomp_key: oomp_oobb_part_tray_vertical_2_width_9_height_15_mm_depth
+oomp_word: palm_tree headphones two
+oomp_word_emoji: ':palm_tree: :headphones: :two:'
+oomp_word_emoji_list:
+- ':palm_tree:'
+- ':headphones:'
+- ':two:'
+oomp_word_list:
+- palm_tree
+- headphones
+- two
+part_number: ''
+part_number_name: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
+short_name: ''
+size: tray_vertical
+size_length_1: t
+size_length_2: tr
+size_length_3: tra
+size_length_4: tray
+size_length_5: tray_
+size_length_6: tray_v
+size_name: Tray Vertical
+size_no_space_length_1: t
+size_no_space_length_2: tr
+size_no_space_length_3: tra
+size_no_space_length_4: tray
+size_no_space_length_5: trayv
+size_no_space_length_6: trayve
+size_no_space_upper_length_1: T
+size_no_space_upper_length_2: TR
+size_no_space_upper_length_3: TRA
+size_no_space_upper_length_4: TRAY
+size_no_space_upper_length_5: TRAYV
+size_no_space_upper_length_6: TRAYVE
+size_upper_length_1: T
+size_upper_length_2: TR
+size_upper_length_3: TRA
+size_upper_length_4: TRAY
+size_upper_length_5: TRAY_
+size_upper_length_6: TRAY_V
+thickness: 15
+thickness_mm: 15
+type: part
+type_length_1: p
+type_length_2: pa
+type_length_3: par
+type_length_4: part
+type_length_5: part
+type_length_6: part
+type_name: Part
+type_no_space_length_1: p
+type_no_space_length_2: pa
+type_no_space_length_3: par
+type_no_space_length_4: part
+type_no_space_length_5: part
+type_no_space_length_6: part
+type_no_space_upper_length_1: P
+type_no_space_upper_length_2: PA
+type_no_space_upper_length_3: PAR
+type_no_space_upper_length_4: PART
+type_no_space_upper_length_5: PART
+type_no_space_upper_length_6: PART
+type_upper_length_1: P
+type_upper_length_2: PA
+type_upper_length_3: PAR
+type_upper_length_4: PART
+type_upper_length_5: PART
+type_upper_length_6: PART
+width: 2
+width_mm: 29

@@ -1,0 +1,258 @@
+bearing: '606'
+bip_39_word_dash_12: immune-kitten-hard-fan-floor-cloth-fancy-below-early-hope-sing-ahead
+bip_39_word_dash_2: immune-kitten
+bip_39_word_dash_3: immune-kitten-hard
+bip_39_word_new_br_12: immune<br>kitten<br>hard<br>fan<br>floor<br>cloth<br>fancy<br>below<br>early<br>hope<br>sing<br>ahead
+bip_39_word_new_br_2: immune<br>kitten
+bip_39_word_new_br_3: immune<br>kitten<br>hard
+bip_39_word_new_line_12: 'immune
+
+  kitten
+
+  hard
+
+  fan
+
+  floor
+
+  cloth
+
+  fancy
+
+  below
+
+  early
+
+  hope
+
+  sing
+
+  ahead'
+bip_39_word_new_line_2: 'immune
+
+  kitten'
+bip_39_word_new_line_3: 'immune
+
+  kitten
+
+  hard'
+bip_39_word_no_space_12: immunekittenhardfanfloorclothfancybelowearlyhopesingahead
+bip_39_word_no_space_2: immunekitten
+bip_39_word_no_space_3: immunekittenhard
+bip_39_word_space_12: immune kitten hard fan floor cloth fancy below early hope sing
+  ahead
+bip_39_word_space_2: immune kitten
+bip_39_word_space_3: immune kitten hard
+bip_39_word_underscore_12: immune_kitten_hard_fan_floor_cloth_fancy_below_early_hope_sing_ahead
+bip_39_word_underscore_2: immune_kitten
+bip_39_word_underscore_3: immune_kitten_hard
+classification: oobb
+classification_length_1: o
+classification_length_2: oo
+classification_length_3: oob
+classification_length_4: oobb
+classification_length_5: oobb
+classification_length_6: oobb
+classification_name: Oobb
+classification_no_space_length_1: o
+classification_no_space_length_2: oo
+classification_no_space_length_3: oob
+classification_no_space_length_4: oobb
+classification_no_space_length_5: oobb
+classification_no_space_length_6: oobb
+classification_no_space_upper_length_1: O
+classification_no_space_upper_length_2: OO
+classification_no_space_upper_length_3: OOB
+classification_no_space_upper_length_4: OOBB
+classification_no_space_upper_length_5: OOBB
+classification_no_space_upper_length_6: OOBB
+classification_upper_length_1: O
+classification_upper_length_2: OO
+classification_upper_length_3: OOB
+classification_upper_length_4: OOBB
+classification_upper_length_5: OOBB
+classification_upper_length_6: OOBB
+color: ''
+color_name: ''
+components: []
+components_objects: []
+components_string: []
+description: wheel 0x0x9
+description_extra: 606_bearing_no_tire_extra
+description_extra_length_1: '6'
+description_extra_length_2: '60'
+description_extra_length_3: '606'
+description_extra_length_4: '606_'
+description_extra_length_5: 606_b
+description_extra_length_6: 606_be
+description_extra_name: 606 Bearing No Tire Extra
+description_extra_no_space_length_1: '6'
+description_extra_no_space_length_2: '60'
+description_extra_no_space_length_3: '606'
+description_extra_no_space_length_4: 606b
+description_extra_no_space_length_5: 606be
+description_extra_no_space_length_6: 606bea
+description_extra_no_space_upper_length_1: '6'
+description_extra_no_space_upper_length_2: '60'
+description_extra_no_space_upper_length_3: '606'
+description_extra_no_space_upper_length_4: 606B
+description_extra_no_space_upper_length_5: 606BE
+description_extra_no_space_upper_length_6: 606BEA
+description_extra_upper_length_1: '6'
+description_extra_upper_length_2: '60'
+description_extra_upper_length_3: '606'
+description_extra_upper_length_4: '606_'
+description_extra_upper_length_5: 606_B
+description_extra_upper_length_6: 606_BE
+description_main: 3_diameter_9_mm_depth
+description_main_length_1: '3'
+description_main_length_2: '3_'
+description_main_length_3: 3_d
+description_main_length_4: 3_di
+description_main_length_5: 3_dia
+description_main_length_6: 3_diam
+description_main_name: 3 Diameter 9 mm Depth
+description_main_no_space_length_1: '3'
+description_main_no_space_length_2: 3d
+description_main_no_space_length_3: 3di
+description_main_no_space_length_4: 3dia
+description_main_no_space_length_5: 3diam
+description_main_no_space_length_6: 3diame
+description_main_no_space_upper_length_1: '3'
+description_main_no_space_upper_length_2: 3D
+description_main_no_space_upper_length_3: 3DI
+description_main_no_space_upper_length_4: 3DIA
+description_main_no_space_upper_length_5: 3DIAM
+description_main_no_space_upper_length_6: 3DIAME
+description_main_upper_length_1: '3'
+description_main_upper_length_2: '3_'
+description_main_upper_length_3: 3_D
+description_main_upper_length_4: 3_DI
+description_main_upper_length_5: 3_DIA
+description_main_upper_length_6: 3_DIAM
+diameter: 3
+directory: parts/oobb_part_wheel_3_diameter_9_mm_depth_606_bearing_no_tire_extra
+extra: no_tire
+folder: C:\gh\oomlout_oobb_version_4_generated_parts\parts\oobb_part_wheel_3_diameter_9_mm_depth_606_bearing_no_tire_extra
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_wheel_3_diameter_9_mm_depth_606_bearing_no_tire_extra
+id: oobb_part_wheel_3_diameter_9_mm_depth_606_bearing_no_tire_extra
+id_no_class: part_wheel_3_diameter_9_mm_depth_606_bearing_no_tire_extra
+id_no_color: 3diameter9mmdepth606bearingnotireextra
+id_no_size: 3_diameter_9_mm_depth_606_bearing_no_tire_extra
+id_no_type: wheel_3_diameter_9_mm_depth_606_bearing_no_tire_extra
+link_1: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/wheel/3_diameter_9_mm_depth/606_bearing_no_tire_extra/part
+link_1_name: link_main
+link_main: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/wheel/3_diameter_9_mm_depth/606_bearing_no_tire_extra/part
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2039e3f
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2039e3f
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%2039e3f
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2039e3f
+link_redirect: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/parts/oobb_wheel_03_09_606_ex_no_tire
+manufacturer: ''
+manufacturer_name: ''
+md5: 53929b5a2914ca5caf2cb52cd25ed38d
+md5_10: 53929b5a29
+md5_10_upper: 53929B5A29
+md5_5: '53929'
+md5_5_upper: '53929'
+md5_6: 53929b
+md5_6_alpha: 39e3f
+md5_6_alpha_upper: 39E3F
+md5_6_upper: 53929B
+name: Oobb Part Wheel 3 Diameter 9 mm Depth 606 Bearing No Tire Extra
+name_no_class: Part Wheel 3 Diameter 9 mm Depth 606 Bearing No Tire Extra
+name_no_color: 3Diameter9mmdepth606Bearingnotireextra
+name_no_size: 3 Diameter 9 mm Depth 606 Bearing No Tire Extra
+name_no_type: Wheel 3 Diameter 9 mm Depth 606 Bearing No Tire Extra
+name_short: Wheel 3x9 606 Bearing No Tire Extra
+oomlout_detail_hierarchy_1: oobb
+oomlout_detail_hierarchy_1_upper: OOBB
+oomlout_detail_hierarchy_1_upper_length_4: OOBB
+oomlout_detail_hierarchy_2: part
+oomlout_detail_hierarchy_2_upper: PART
+oomlout_detail_hierarchy_2_upper_length_4: PART
+oomlout_detail_hierarchy_3: wheel
+oomlout_detail_hierarchy_3_upper: WHEEL
+oomlout_detail_hierarchy_3_upper_length_4: WHEE
+oomlout_detail_hierarchy_4: 3_diameter
+oomlout_detail_hierarchy_4_upper: 3_DIAMETER
+oomlout_detail_hierarchy_4_upper_length_4: 3_DI
+oomlout_detail_hierarchy_5: 9_mm_depth
+oomlout_detail_hierarchy_5_upper: 9_MM_DEPTH
+oomlout_detail_hierarchy_5_upper_length_4: 9DEP
+oomlout_detail_hierarchy_6: 606_bearing_no_tire_extra
+oomlout_detail_hierarchy_6_upper: 606_BEARING_NO_TIRE_EXTRA
+oomlout_detail_hierarchy_6_upper_length_4: '606_'
+oomlout_oomp_utility_custom_data_manipulation: true
+oomp_key: oomp_oobb_part_wheel_3_diameter_9_mm_depth_606_bearing_no_tire_extra
+oomp_word: fish paperclip ski
+oomp_word_emoji: ':fish: :paperclip: :ski:'
+oomp_word_emoji_list:
+- ':fish:'
+- ':paperclip:'
+- ':ski:'
+oomp_word_list:
+- fish
+- paperclip
+- ski
+part_number: ''
+part_number_name: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
+short_name: ''
+size: wheel
+size_length_1: w
+size_length_2: wh
+size_length_3: whe
+size_length_4: whee
+size_length_5: wheel
+size_length_6: wheel
+size_name: Wheel
+size_no_space_length_1: w
+size_no_space_length_2: wh
+size_no_space_length_3: whe
+size_no_space_length_4: whee
+size_no_space_length_5: wheel
+size_no_space_length_6: wheel
+size_no_space_upper_length_1: W
+size_no_space_upper_length_2: WH
+size_no_space_upper_length_3: WHE
+size_no_space_upper_length_4: WHEE
+size_no_space_upper_length_5: WHEEL
+size_no_space_upper_length_6: WHEEL
+size_upper_length_1: W
+size_upper_length_2: WH
+size_upper_length_3: WHE
+size_upper_length_4: WHEE
+size_upper_length_5: WHEEL
+size_upper_length_6: WHEEL
+thickness: 9
+thickness_mm: 9
+type: part
+type_length_1: p
+type_length_2: pa
+type_length_3: par
+type_length_4: part
+type_length_5: part
+type_length_6: part
+type_name: Part
+type_no_space_length_1: p
+type_no_space_length_2: pa
+type_no_space_length_3: par
+type_no_space_length_4: part
+type_no_space_length_5: part
+type_no_space_length_6: part
+type_no_space_upper_length_1: P
+type_no_space_upper_length_2: PA
+type_no_space_upper_length_3: PAR
+type_no_space_upper_length_4: PART
+type_no_space_upper_length_5: PART
+type_no_space_upper_length_6: PART
+type_upper_length_1: P
+type_upper_length_2: PA
+type_upper_length_3: PAR
+type_upper_length_4: PART
+type_upper_length_5: PART
+type_upper_length_6: PART

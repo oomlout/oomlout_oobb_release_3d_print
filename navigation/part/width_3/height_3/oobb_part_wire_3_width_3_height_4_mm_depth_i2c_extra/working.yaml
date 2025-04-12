@@ -1,0 +1,257 @@
+bip_39_word_dash_12: weapon-hover-all-army-ladder-nation-issue-window-prevent-shuffle-useful-around
+bip_39_word_dash_2: weapon-hover
+bip_39_word_dash_3: weapon-hover-all
+bip_39_word_new_br_12: weapon<br>hover<br>all<br>army<br>ladder<br>nation<br>issue<br>window<br>prevent<br>shuffle<br>useful<br>around
+bip_39_word_new_br_2: weapon<br>hover
+bip_39_word_new_br_3: weapon<br>hover<br>all
+bip_39_word_new_line_12: 'weapon
+
+  hover
+
+  all
+
+  army
+
+  ladder
+
+  nation
+
+  issue
+
+  window
+
+  prevent
+
+  shuffle
+
+  useful
+
+  around'
+bip_39_word_new_line_2: 'weapon
+
+  hover'
+bip_39_word_new_line_3: 'weapon
+
+  hover
+
+  all'
+bip_39_word_no_space_12: weaponhoverallarmyladdernationissuewindowpreventshuffleusefularound
+bip_39_word_no_space_2: weaponhover
+bip_39_word_no_space_3: weaponhoverall
+bip_39_word_space_12: weapon hover all army ladder nation issue window prevent shuffle
+  useful around
+bip_39_word_space_2: weapon hover
+bip_39_word_space_3: weapon hover all
+bip_39_word_underscore_12: weapon_hover_all_army_ladder_nation_issue_window_prevent_shuffle_useful_around
+bip_39_word_underscore_2: weapon_hover
+bip_39_word_underscore_3: weapon_hover_all
+classification: oobb
+classification_length_1: o
+classification_length_2: oo
+classification_length_3: oob
+classification_length_4: oobb
+classification_length_5: oobb
+classification_length_6: oobb
+classification_name: Oobb
+classification_no_space_length_1: o
+classification_no_space_length_2: oo
+classification_no_space_length_3: oob
+classification_no_space_length_4: oobb
+classification_no_space_length_5: oobb
+classification_no_space_length_6: oobb
+classification_no_space_upper_length_1: O
+classification_no_space_upper_length_2: OO
+classification_no_space_upper_length_3: OOB
+classification_no_space_upper_length_4: OOBB
+classification_no_space_upper_length_5: OOBB
+classification_no_space_upper_length_6: OOBB
+classification_upper_length_1: O
+classification_upper_length_2: OO
+classification_upper_length_3: OOB
+classification_upper_length_4: OOBB
+classification_upper_length_5: OOBB
+classification_upper_length_6: OOBB
+color: ''
+color_name: ''
+components: []
+components_objects: []
+components_string: []
+description: wire 3x3x4
+description_extra: i2c_extra
+description_extra_length_1: i
+description_extra_length_2: i2
+description_extra_length_3: i2c
+description_extra_length_4: i2c_
+description_extra_length_5: i2c_e
+description_extra_length_6: i2c_ex
+description_extra_name: I2C Extra
+description_extra_no_space_length_1: i
+description_extra_no_space_length_2: i2
+description_extra_no_space_length_3: i2c
+description_extra_no_space_length_4: i2ce
+description_extra_no_space_length_5: i2cex
+description_extra_no_space_length_6: i2cext
+description_extra_no_space_upper_length_1: I
+description_extra_no_space_upper_length_2: I2
+description_extra_no_space_upper_length_3: I2C
+description_extra_no_space_upper_length_4: I2CE
+description_extra_no_space_upper_length_5: I2CEX
+description_extra_no_space_upper_length_6: I2CEXT
+description_extra_upper_length_1: I
+description_extra_upper_length_2: I2
+description_extra_upper_length_3: I2C
+description_extra_upper_length_4: I2C_
+description_extra_upper_length_5: I2C_E
+description_extra_upper_length_6: I2C_EX
+description_main: 3_width_3_height_4_mm_depth
+description_main_length_1: '3'
+description_main_length_2: '3_'
+description_main_length_3: 3_w
+description_main_length_4: 3_wi
+description_main_length_5: 3_wid
+description_main_length_6: 3_widt
+description_main_name: 3 Width 3 Height 4 mm Depth
+description_main_no_space_length_1: '3'
+description_main_no_space_length_2: 3w
+description_main_no_space_length_3: 3wi
+description_main_no_space_length_4: 3wid
+description_main_no_space_length_5: 3widt
+description_main_no_space_length_6: 3width
+description_main_no_space_upper_length_1: '3'
+description_main_no_space_upper_length_2: 3W
+description_main_no_space_upper_length_3: 3WI
+description_main_no_space_upper_length_4: 3WID
+description_main_no_space_upper_length_5: 3WIDT
+description_main_no_space_upper_length_6: 3WIDTH
+description_main_upper_length_1: '3'
+description_main_upper_length_2: '3_'
+description_main_upper_length_3: 3_W
+description_main_upper_length_4: 3_WI
+description_main_upper_length_5: 3_WID
+description_main_upper_length_6: 3_WIDT
+directory: parts/oobb_part_wire_3_width_3_height_4_mm_depth_i2c_extra
+extra: i2c
+folder: C:\gh\oomlout_oobb_version_4_generated_parts\parts\oobb_part_wire_3_width_3_height_4_mm_depth_i2c_extra
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_wire_3_width_3_height_4_mm_depth_i2c_extra
+height: 3
+height_mm: 44
+id: oobb_part_wire_3_width_3_height_4_mm_depth_i2c_extra
+id_no_class: part_wire_3_width_3_height_4_mm_depth_i2c_extra
+id_no_color: 3width3height4mmdepthi2cextra
+id_no_size: 3_width_3_height_4_mm_depth_i2c_extra
+id_no_type: wire_3_width_3_height_4_mm_depth_i2c_extra
+link_1: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/wire/3_width_3_height_4_mm_depth/i2c_extra/part
+link_1_name: link_main
+link_main: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/wire/3_width_3_height_4_mm_depth/i2c_extra/part
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%207n4z5
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%207n4z5
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%207n4z5
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%207n4z5
+link_redirect: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/parts/oobb_wire_03_03_04_ex_i2c
+manufacturer: ''
+manufacturer_name: ''
+md5: c3dff1dd52fb6ed64d3e30c00cdb9fc2
+md5_10: c3dff1dd52
+md5_10_upper: C3DFF1DD52
+md5_5: c3dff
+md5_5_upper: C3DFF
+md5_6: c3dff1
+md5_6_alpha: 7n4z5
+md5_6_alpha_upper: 7N4Z5
+md5_6_upper: C3DFF1
+name: Oobb Part Wire 3 Width 3 Height 4 mm Depth I2C Extra
+name_no_class: Part Wire 3 Width 3 Height 4 mm Depth I2C Extra
+name_no_color: 3Width3Height4mmdepthi2Cextra
+name_no_size: 3 Width 3 Height 4 mm Depth I2C Extra
+name_no_type: Wire 3 Width 3 Height 4 mm Depth I2C Extra
+name_short: Wire 3x3x4 I2C Extra
+oomlout_detail_hierarchy_1: oobb
+oomlout_detail_hierarchy_1_upper: OOBB
+oomlout_detail_hierarchy_1_upper_length_4: OOBB
+oomlout_detail_hierarchy_2: part
+oomlout_detail_hierarchy_2_upper: PART
+oomlout_detail_hierarchy_2_upper_length_4: PART
+oomlout_detail_hierarchy_3: wire
+oomlout_detail_hierarchy_3_upper: WIRE
+oomlout_detail_hierarchy_3_upper_length_4: WIRE
+oomlout_detail_hierarchy_4: 4_mm_depth
+oomlout_detail_hierarchy_4_upper: 4_MM_DEPTH
+oomlout_detail_hierarchy_4_upper_length_4: 4DEP
+oomlout_detail_hierarchy_5: i2c_extra
+oomlout_detail_hierarchy_5_upper: I2C_EXTRA
+oomlout_detail_hierarchy_5_upper_length_4: I2C_
+oomlout_oomp_utility_custom_data_manipulation: true
+oomp_key: oomp_oobb_part_wire_3_width_3_height_4_mm_depth_i2c_extra
+oomp_word: cake fountain ticket
+oomp_word_emoji: ':cake: :fountain: :ticket:'
+oomp_word_emoji_list:
+- ':cake:'
+- ':fountain:'
+- ':ticket:'
+oomp_word_list:
+- cake
+- fountain
+- ticket
+part_number: ''
+part_number_name: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
+short_name: ''
+size: wire
+size_length_1: w
+size_length_2: wi
+size_length_3: wir
+size_length_4: wire
+size_length_5: wire
+size_length_6: wire
+size_name: Wire
+size_no_space_length_1: w
+size_no_space_length_2: wi
+size_no_space_length_3: wir
+size_no_space_length_4: wire
+size_no_space_length_5: wire
+size_no_space_length_6: wire
+size_no_space_upper_length_1: W
+size_no_space_upper_length_2: WI
+size_no_space_upper_length_3: WIR
+size_no_space_upper_length_4: WIRE
+size_no_space_upper_length_5: WIRE
+size_no_space_upper_length_6: WIRE
+size_upper_length_1: W
+size_upper_length_2: WI
+size_upper_length_3: WIR
+size_upper_length_4: WIRE
+size_upper_length_5: WIRE
+size_upper_length_6: WIRE
+thickness: 4
+thickness_mm: 4
+type: part
+type_length_1: p
+type_length_2: pa
+type_length_3: par
+type_length_4: part
+type_length_5: part
+type_length_6: part
+type_name: Part
+type_no_space_length_1: p
+type_no_space_length_2: pa
+type_no_space_length_3: par
+type_no_space_length_4: part
+type_no_space_length_5: part
+type_no_space_length_6: part
+type_no_space_upper_length_1: P
+type_no_space_upper_length_2: PA
+type_no_space_upper_length_3: PAR
+type_no_space_upper_length_4: PART
+type_no_space_upper_length_5: PART
+type_no_space_upper_length_6: PART
+type_upper_length_1: P
+type_upper_length_2: PA
+type_upper_length_3: PAR
+type_upper_length_4: PART
+type_upper_length_5: PART
+type_upper_length_6: PART
+width: 3
+width_mm: 44

@@ -1,0 +1,229 @@
+bip_39_word_dash_12: tiger-budget-urban-chronic-cactus-claim-episode-legend-leader-guard-flavor-ahead
+bip_39_word_dash_2: tiger-budget
+bip_39_word_dash_3: tiger-budget-urban
+bip_39_word_new_br_12: tiger<br>budget<br>urban<br>chronic<br>cactus<br>claim<br>episode<br>legend<br>leader<br>guard<br>flavor<br>ahead
+bip_39_word_new_br_2: tiger<br>budget
+bip_39_word_new_br_3: tiger<br>budget<br>urban
+bip_39_word_new_line_12: 'tiger
+
+  budget
+
+  urban
+
+  chronic
+
+  cactus
+
+  claim
+
+  episode
+
+  legend
+
+  leader
+
+  guard
+
+  flavor
+
+  ahead'
+bip_39_word_new_line_2: 'tiger
+
+  budget'
+bip_39_word_new_line_3: 'tiger
+
+  budget
+
+  urban'
+bip_39_word_no_space_12: tigerbudgeturbanchroniccactusclaimepisodelegendleaderguardflavorahead
+bip_39_word_no_space_2: tigerbudget
+bip_39_word_no_space_3: tigerbudgeturban
+bip_39_word_space_12: tiger budget urban chronic cactus claim episode legend leader
+  guard flavor ahead
+bip_39_word_space_2: tiger budget
+bip_39_word_space_3: tiger budget urban
+bip_39_word_underscore_12: tiger_budget_urban_chronic_cactus_claim_episode_legend_leader_guard_flavor_ahead
+bip_39_word_underscore_2: tiger_budget
+bip_39_word_underscore_3: tiger_budget_urban
+classification: oobb
+classification_length_1: o
+classification_length_2: oo
+classification_length_3: oob
+classification_length_4: oobb
+classification_length_5: oobb
+classification_length_6: oobb
+classification_name: Oobb
+classification_no_space_length_1: o
+classification_no_space_length_2: oo
+classification_no_space_length_3: oob
+classification_no_space_length_4: oobb
+classification_no_space_length_5: oobb
+classification_no_space_length_6: oobb
+classification_no_space_upper_length_1: O
+classification_no_space_upper_length_2: OO
+classification_no_space_upper_length_3: OOB
+classification_no_space_upper_length_4: OOBB
+classification_no_space_upper_length_5: OOBB
+classification_no_space_upper_length_6: OOBB
+classification_upper_length_1: O
+classification_upper_length_2: OO
+classification_upper_length_3: OOB
+classification_upper_length_4: OOBB
+classification_upper_length_5: OOBB
+classification_upper_length_6: OOBB
+color: ''
+color_name: ''
+components: []
+components_objects: []
+components_string: []
+description: tray thin 8x2x15
+description_extra: ''
+description_extra_name: ''
+description_main: 8_width_2_height_15_mm_depth
+description_main_length_1: '8'
+description_main_length_2: '8_'
+description_main_length_3: 8_w
+description_main_length_4: 8_wi
+description_main_length_5: 8_wid
+description_main_length_6: 8_widt
+description_main_name: 8 Width 2 Height 15 mm Depth
+description_main_no_space_length_1: '8'
+description_main_no_space_length_2: 8w
+description_main_no_space_length_3: 8wi
+description_main_no_space_length_4: 8wid
+description_main_no_space_length_5: 8widt
+description_main_no_space_length_6: 8width
+description_main_no_space_upper_length_1: '8'
+description_main_no_space_upper_length_2: 8W
+description_main_no_space_upper_length_3: 8WI
+description_main_no_space_upper_length_4: 8WID
+description_main_no_space_upper_length_5: 8WIDT
+description_main_no_space_upper_length_6: 8WIDTH
+description_main_upper_length_1: '8'
+description_main_upper_length_2: '8_'
+description_main_upper_length_3: 8_W
+description_main_upper_length_4: 8_WI
+description_main_upper_length_5: 8_WID
+description_main_upper_length_6: 8_WIDT
+directory: parts/oobb_part_tray_thin_8_width_2_height_15_mm_depth
+folder: C:\gh\oomlout_oobb_version_4_generated_parts\parts\oobb_part_tray_thin_8_width_2_height_15_mm_depth
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_8_width_2_height_15_mm_depth
+height: 2
+height_mm: 29
+id: oobb_part_tray_thin_8_width_2_height_15_mm_depth
+id_no_class: part_tray_thin_8_width_2_height_15_mm_depth
+id_no_color: 8width2height15mmdepth
+id_no_size: 8_width_2_height_15_mm_depth
+id_no_type: tray_thin_8_width_2_height_15_mm_depth
+link_1: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/tray_thin/8_width_2_height_15_mm_depth/part
+link_1_name: link_main
+link_main: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/tray_thin/8_width_2_height_15_mm_depth/part
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%20385ll
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%20385ll
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%20385ll
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%20385ll
+link_redirect: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/parts/oobb_tray_thin_08_02_15
+manufacturer: ''
+manufacturer_name: ''
+md5: 52b159d3f47f897ca6900287de87670f
+md5_10: 52b159d3f4
+md5_10_upper: 52B159D3F4
+md5_5: 52b15
+md5_5_upper: 52B15
+md5_6: 52b159
+md5_6_alpha: 385ll
+md5_6_alpha_upper: 385LL
+md5_6_upper: 52B159
+name: Oobb Part Tray Thin 8 Width 2 Height 15 mm Depth
+name_no_class: Part Tray Thin 8 Width 2 Height 15 mm Depth
+name_no_color: 8Width2Height15mmdepth
+name_no_size: 8 Width 2 Height 15 mm Depth
+name_no_type: Tray Thin 8 Width 2 Height 15 mm Depth
+name_short: 'Tray Thin 8x2x15 '
+oomlout_detail_hierarchy_1: oobb
+oomlout_detail_hierarchy_1_upper: OOBB
+oomlout_detail_hierarchy_1_upper_length_4: OOBB
+oomlout_detail_hierarchy_2: part
+oomlout_detail_hierarchy_2_upper: PART
+oomlout_detail_hierarchy_2_upper_length_4: PART
+oomlout_detail_hierarchy_3: tray_thin
+oomlout_detail_hierarchy_3_upper: TRAY_THIN
+oomlout_detail_hierarchy_3_upper_length_4: TRAY
+oomlout_detail_hierarchy_4: 15_mm_depth
+oomlout_detail_hierarchy_4_upper: 15_MM_DEPTH
+oomlout_detail_hierarchy_4_upper_length_4: 15DE
+oomlout_oomp_utility_custom_data_manipulation: true
+oomp_key: oomp_oobb_part_tray_thin_8_width_2_height_15_mm_depth
+oomp_word: octopus briefcase dragon
+oomp_word_emoji: ':octopus: :briefcase: :dragon:'
+oomp_word_emoji_list:
+- ':octopus:'
+- ':briefcase:'
+- ':dragon:'
+oomp_word_list:
+- octopus
+- briefcase
+- dragon
+part_number: ''
+part_number_name: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
+short_name: ''
+size: tray_thin
+size_length_1: t
+size_length_2: tr
+size_length_3: tra
+size_length_4: tray
+size_length_5: tray_
+size_length_6: tray_t
+size_name: Tray Thin
+size_no_space_length_1: t
+size_no_space_length_2: tr
+size_no_space_length_3: tra
+size_no_space_length_4: tray
+size_no_space_length_5: trayt
+size_no_space_length_6: trayth
+size_no_space_upper_length_1: T
+size_no_space_upper_length_2: TR
+size_no_space_upper_length_3: TRA
+size_no_space_upper_length_4: TRAY
+size_no_space_upper_length_5: TRAYT
+size_no_space_upper_length_6: TRAYTH
+size_upper_length_1: T
+size_upper_length_2: TR
+size_upper_length_3: TRA
+size_upper_length_4: TRAY
+size_upper_length_5: TRAY_
+size_upper_length_6: TRAY_T
+thickness: 15
+thickness_mm: 15
+type: part
+type_length_1: p
+type_length_2: pa
+type_length_3: par
+type_length_4: part
+type_length_5: part
+type_length_6: part
+type_name: Part
+type_no_space_length_1: p
+type_no_space_length_2: pa
+type_no_space_length_3: par
+type_no_space_length_4: part
+type_no_space_length_5: part
+type_no_space_length_6: part
+type_no_space_upper_length_1: P
+type_no_space_upper_length_2: PA
+type_no_space_upper_length_3: PAR
+type_no_space_upper_length_4: PART
+type_no_space_upper_length_5: PART
+type_no_space_upper_length_6: PART
+type_upper_length_1: P
+type_upper_length_2: PA
+type_upper_length_3: PAR
+type_upper_length_4: PART
+type_upper_length_5: PART
+type_upper_length_6: PART
+width: 8
+width_mm: 119

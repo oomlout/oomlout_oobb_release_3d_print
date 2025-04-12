@@ -1,0 +1,229 @@
+bip_39_word_dash_12: view-barrel-awesome-age-powder-weasel-nose-fan-inherit-treat-universe-alone
+bip_39_word_dash_2: view-barrel
+bip_39_word_dash_3: view-barrel-awesome
+bip_39_word_new_br_12: view<br>barrel<br>awesome<br>age<br>powder<br>weasel<br>nose<br>fan<br>inherit<br>treat<br>universe<br>alone
+bip_39_word_new_br_2: view<br>barrel
+bip_39_word_new_br_3: view<br>barrel<br>awesome
+bip_39_word_new_line_12: 'view
+
+  barrel
+
+  awesome
+
+  age
+
+  powder
+
+  weasel
+
+  nose
+
+  fan
+
+  inherit
+
+  treat
+
+  universe
+
+  alone'
+bip_39_word_new_line_2: 'view
+
+  barrel'
+bip_39_word_new_line_3: 'view
+
+  barrel
+
+  awesome'
+bip_39_word_no_space_12: viewbarrelawesomeagepowderweaselnosefaninherittreatuniversealone
+bip_39_word_no_space_2: viewbarrel
+bip_39_word_no_space_3: viewbarrelawesome
+bip_39_word_space_12: view barrel awesome age powder weasel nose fan inherit treat
+  universe alone
+bip_39_word_space_2: view barrel
+bip_39_word_space_3: view barrel awesome
+bip_39_word_underscore_12: view_barrel_awesome_age_powder_weasel_nose_fan_inherit_treat_universe_alone
+bip_39_word_underscore_2: view_barrel
+bip_39_word_underscore_3: view_barrel_awesome
+classification: oobb
+classification_length_1: o
+classification_length_2: oo
+classification_length_3: oob
+classification_length_4: oobb
+classification_length_5: oobb
+classification_length_6: oobb
+classification_name: Oobb
+classification_no_space_length_1: o
+classification_no_space_length_2: oo
+classification_no_space_length_3: oob
+classification_no_space_length_4: oobb
+classification_no_space_length_5: oobb
+classification_no_space_length_6: oobb
+classification_no_space_upper_length_1: O
+classification_no_space_upper_length_2: OO
+classification_no_space_upper_length_3: OOB
+classification_no_space_upper_length_4: OOBB
+classification_no_space_upper_length_5: OOBB
+classification_no_space_upper_length_6: OOBB
+classification_upper_length_1: O
+classification_upper_length_2: OO
+classification_upper_length_3: OOB
+classification_upper_length_4: OOBB
+classification_upper_length_5: OOBB
+classification_upper_length_6: OOBB
+color: ''
+color_name: ''
+components: []
+components_objects: []
+components_string: []
+description: tray 1x4x24
+description_extra: ''
+description_extra_name: ''
+description_main: 1_width_4_height_24_mm_depth
+description_main_length_1: '1'
+description_main_length_2: '1_'
+description_main_length_3: 1_w
+description_main_length_4: 1_wi
+description_main_length_5: 1_wid
+description_main_length_6: 1_widt
+description_main_name: 1 Width 4 Height 24 mm Depth
+description_main_no_space_length_1: '1'
+description_main_no_space_length_2: 1w
+description_main_no_space_length_3: 1wi
+description_main_no_space_length_4: 1wid
+description_main_no_space_length_5: 1widt
+description_main_no_space_length_6: 1width
+description_main_no_space_upper_length_1: '1'
+description_main_no_space_upper_length_2: 1W
+description_main_no_space_upper_length_3: 1WI
+description_main_no_space_upper_length_4: 1WID
+description_main_no_space_upper_length_5: 1WIDT
+description_main_no_space_upper_length_6: 1WIDTH
+description_main_upper_length_1: '1'
+description_main_upper_length_2: '1_'
+description_main_upper_length_3: 1_W
+description_main_upper_length_4: 1_WI
+description_main_upper_length_5: 1_WID
+description_main_upper_length_6: 1_WIDT
+directory: parts/oobb_part_tray_1_width_4_height_24_mm_depth
+folder: C:\gh\oomlout_oobb_version_4_generated_parts\parts\oobb_part_tray_1_width_4_height_24_mm_depth
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_1_width_4_height_24_mm_depth
+height: 4
+height_mm: 59
+id: oobb_part_tray_1_width_4_height_24_mm_depth
+id_no_class: part_tray_1_width_4_height_24_mm_depth
+id_no_color: 1width4height24mmdepth
+id_no_size: 1_width_4_height_24_mm_depth
+id_no_type: tray_1_width_4_height_24_mm_depth
+link_1: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/tray/1_width_4_height_24_mm_depth/part
+link_1_name: link_main
+link_main: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/tray/1_width_4_height_24_mm_depth/part
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%204d4ft
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%204d4ft
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%204d4ft
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%204d4ft
+link_redirect: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/parts/oobb_tray_01_04_24
+manufacturer: ''
+manufacturer_name: ''
+md5: 6fdbb9f39e52d2cfe254904c2104b79f
+md5_10: 6fdbb9f39e
+md5_10_upper: 6FDBB9F39E
+md5_5: 6fdbb
+md5_5_upper: 6FDBB
+md5_6: 6fdbb9
+md5_6_alpha: 4d4ft
+md5_6_alpha_upper: 4D4FT
+md5_6_upper: 6FDBB9
+name: Oobb Part Tray 1 Width 4 Height 24 mm Depth
+name_no_class: Part Tray 1 Width 4 Height 24 mm Depth
+name_no_color: 1Width4Height24mmdepth
+name_no_size: 1 Width 4 Height 24 mm Depth
+name_no_type: Tray 1 Width 4 Height 24 mm Depth
+name_short: 'Tray 1x4x24 '
+oomlout_detail_hierarchy_1: oobb
+oomlout_detail_hierarchy_1_upper: OOBB
+oomlout_detail_hierarchy_1_upper_length_4: OOBB
+oomlout_detail_hierarchy_2: part
+oomlout_detail_hierarchy_2_upper: PART
+oomlout_detail_hierarchy_2_upper_length_4: PART
+oomlout_detail_hierarchy_3: tray
+oomlout_detail_hierarchy_3_upper: TRAY
+oomlout_detail_hierarchy_3_upper_length_4: TRAY
+oomlout_detail_hierarchy_4: 24_mm_depth
+oomlout_detail_hierarchy_4_upper: 24_MM_DEPTH
+oomlout_detail_hierarchy_4_upper_length_4: 24DE
+oomlout_oomp_utility_custom_data_manipulation: true
+oomp_key: oomp_oobb_part_tray_1_width_4_height_24_mm_depth
+oomp_word: moon tent fries
+oomp_word_emoji: ':moon: :tent: :fries:'
+oomp_word_emoji_list:
+- ':moon:'
+- ':tent:'
+- ':fries:'
+oomp_word_list:
+- moon
+- tent
+- fries
+part_number: ''
+part_number_name: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
+short_name: ''
+size: tray
+size_length_1: t
+size_length_2: tr
+size_length_3: tra
+size_length_4: tray
+size_length_5: tray
+size_length_6: tray
+size_name: Tray
+size_no_space_length_1: t
+size_no_space_length_2: tr
+size_no_space_length_3: tra
+size_no_space_length_4: tray
+size_no_space_length_5: tray
+size_no_space_length_6: tray
+size_no_space_upper_length_1: T
+size_no_space_upper_length_2: TR
+size_no_space_upper_length_3: TRA
+size_no_space_upper_length_4: TRAY
+size_no_space_upper_length_5: TRAY
+size_no_space_upper_length_6: TRAY
+size_upper_length_1: T
+size_upper_length_2: TR
+size_upper_length_3: TRA
+size_upper_length_4: TRAY
+size_upper_length_5: TRAY
+size_upper_length_6: TRAY
+thickness: 24
+thickness_mm: 24
+type: part
+type_length_1: p
+type_length_2: pa
+type_length_3: par
+type_length_4: part
+type_length_5: part
+type_length_6: part
+type_name: Part
+type_no_space_length_1: p
+type_no_space_length_2: pa
+type_no_space_length_3: par
+type_no_space_length_4: part
+type_no_space_length_5: part
+type_no_space_length_6: part
+type_no_space_upper_length_1: P
+type_no_space_upper_length_2: PA
+type_no_space_upper_length_3: PAR
+type_no_space_upper_length_4: PART
+type_no_space_upper_length_5: PART
+type_no_space_upper_length_6: PART
+type_upper_length_1: P
+type_upper_length_2: PA
+type_upper_length_3: PAR
+type_upper_length_4: PART
+type_upper_length_5: PART
+type_upper_length_6: PART
+width: 1
+width_mm: 14

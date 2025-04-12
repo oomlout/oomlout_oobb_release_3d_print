@@ -1,0 +1,265 @@
+bip_39_word_dash_12: diamond-elegant-clay-basket-mind-skate-sauce-frame-snow-stick-wife-another
+bip_39_word_dash_2: diamond-elegant
+bip_39_word_dash_3: diamond-elegant-clay
+bip_39_word_new_br_12: diamond<br>elegant<br>clay<br>basket<br>mind<br>skate<br>sauce<br>frame<br>snow<br>stick<br>wife<br>another
+bip_39_word_new_br_2: diamond<br>elegant
+bip_39_word_new_br_3: diamond<br>elegant<br>clay
+bip_39_word_new_line_12: 'diamond
+
+  elegant
+
+  clay
+
+  basket
+
+  mind
+
+  skate
+
+  sauce
+
+  frame
+
+  snow
+
+  stick
+
+  wife
+
+  another'
+bip_39_word_new_line_2: 'diamond
+
+  elegant'
+bip_39_word_new_line_3: 'diamond
+
+  elegant
+
+  clay'
+bip_39_word_no_space_12: diamondelegantclaybasketmindskatesauceframesnowstickwifeanother
+bip_39_word_no_space_2: diamondelegant
+bip_39_word_no_space_3: diamondelegantclay
+bip_39_word_space_12: diamond elegant clay basket mind skate sauce frame snow stick
+  wife another
+bip_39_word_space_2: diamond elegant
+bip_39_word_space_3: diamond elegant clay
+bip_39_word_underscore_12: diamond_elegant_clay_basket_mind_skate_sauce_frame_snow_stick_wife_another
+bip_39_word_underscore_2: diamond_elegant
+bip_39_word_underscore_3: diamond_elegant_clay
+classification: oobb
+classification_length_1: o
+classification_length_2: oo
+classification_length_3: oob
+classification_length_4: oobb
+classification_length_5: oobb
+classification_length_6: oobb
+classification_name: Oobb
+classification_no_space_length_1: o
+classification_no_space_length_2: oo
+classification_no_space_length_3: oob
+classification_no_space_length_4: oobb
+classification_no_space_length_5: oobb
+classification_no_space_length_6: oobb
+classification_no_space_upper_length_1: O
+classification_no_space_upper_length_2: OO
+classification_no_space_upper_length_3: OOB
+classification_no_space_upper_length_4: OOBB
+classification_no_space_upper_length_5: OOBB
+classification_no_space_upper_length_6: OOBB
+classification_upper_length_1: O
+classification_upper_length_2: OO
+classification_upper_length_3: OOB
+classification_upper_length_4: OOBB
+classification_upper_length_5: OOBB
+classification_upper_length_6: OOBB
+color: ''
+color_name: ''
+components: []
+components_objects: []
+components_string: []
+description: pulley gt2 0x0x9
+description_extra: electronic_potentiometer_17_mm_shaft_144_teeth_extra
+description_extra_length_1: e
+description_extra_length_2: el
+description_extra_length_3: ele
+description_extra_length_4: elec
+description_extra_length_5: elect
+description_extra_length_6: electr
+description_extra_name: Electronic Potentiometer 17 mm Shaft 144 Teeth Extra
+description_extra_no_space_length_1: e
+description_extra_no_space_length_2: el
+description_extra_no_space_length_3: ele
+description_extra_no_space_length_4: elec
+description_extra_no_space_length_5: elect
+description_extra_no_space_length_6: electr
+description_extra_no_space_upper_length_1: E
+description_extra_no_space_upper_length_2: EL
+description_extra_no_space_upper_length_3: ELE
+description_extra_no_space_upper_length_4: ELEC
+description_extra_no_space_upper_length_5: ELECT
+description_extra_no_space_upper_length_6: ELECTR
+description_extra_upper_length_1: E
+description_extra_upper_length_2: EL
+description_extra_upper_length_3: ELE
+description_extra_upper_length_4: ELEC
+description_extra_upper_length_5: ELECT
+description_extra_upper_length_6: ELECTR
+description_main: 6_diameter_9_mm_depth
+description_main_length_1: '6'
+description_main_length_2: '6_'
+description_main_length_3: 6_d
+description_main_length_4: 6_di
+description_main_length_5: 6_dia
+description_main_length_6: 6_diam
+description_main_name: 6 Diameter 9 mm Depth
+description_main_no_space_length_1: '6'
+description_main_no_space_length_2: 6d
+description_main_no_space_length_3: 6di
+description_main_no_space_length_4: 6dia
+description_main_no_space_length_5: 6diam
+description_main_no_space_length_6: 6diame
+description_main_no_space_upper_length_1: '6'
+description_main_no_space_upper_length_2: 6D
+description_main_no_space_upper_length_3: 6DI
+description_main_no_space_upper_length_4: 6DIA
+description_main_no_space_upper_length_5: 6DIAM
+description_main_no_space_upper_length_6: 6DIAME
+description_main_upper_length_1: '6'
+description_main_upper_length_2: '6_'
+description_main_upper_length_3: 6_D
+description_main_upper_length_4: 6_DI
+description_main_upper_length_5: 6_DIA
+description_main_upper_length_6: 6_DIAM
+diameter: 6
+directory: parts/oobb_part_pulley_gt2_6_diameter_9_mm_depth_electronic_potentiometer_17_mm_shaft_144_teeth_extra
+extra: 144_teeth
+folder: C:\gh\oomlout_oobb_version_4_generated_parts\parts\oobb_part_pulley_gt2_6_diameter_9_mm_depth_electronic_potentiometer_17_mm_shaft_144_teeth_extra
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_pulley_gt2_6_diameter_9_mm_depth_electronic_potentiometer_17_mm_shaft_144_teeth_extra
+id: oobb_part_pulley_gt2_6_diameter_9_mm_depth_electronic_potentiometer_17_mm_shaft_144_teeth_extra
+id_no_class: part_pulley_gt2_6_diameter_9_mm_depth_electronic_potentiometer_17_mm_shaft_144_teeth_extra
+id_no_color: 6diameter9mmdepthelectronicpotentiometer17mmshaft144teethextra
+id_no_size: 6_diameter_9_mm_depth_electronic_potentiometer_17_mm_shaft_144_teeth_extra
+id_no_type: pulley_gt2_6_diameter_9_mm_depth_electronic_potentiometer_17_mm_shaft_144_teeth_extra
+link_1: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/pulley_gt2/6_diameter_9_mm_depth/electronic_potentiometer_17_mm_shaft_144_teeth_extra/part
+link_1_name: link_main
+link_main: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/pulley_gt2/6_diameter_9_mm_depth/electronic_potentiometer_17_mm_shaft_144_teeth_extra/part
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%20609h1
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%20609h1
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%20609h1
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%20609h1
+link_redirect: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/parts/oobb_pulley_gt2_06_09_ex_144_teeth_sh_electronic_potentiometer_17_mm
+manufacturer: ''
+manufacturer_name: ''
+md5: 99f5f56e6c5c97f3284671325451e1e9
+md5_10: 99f5f56e6c
+md5_10_upper: 99F5F56E6C
+md5_5: 99f5f
+md5_5_upper: 99F5F
+md5_6: 99f5f5
+md5_6_alpha: 609h1
+md5_6_alpha_upper: 609H1
+md5_6_upper: 99F5F5
+name: Oobb Part Pulley Gt2 6 Diameter 9 mm Depth Electronic Potentiometer 17 mm Shaft
+  144 Teeth Extra
+name_no_class: Part Pulley Gt2 6 Diameter 9 mm Depth Electronic Potentiometer 17 mm
+  Shaft 144 Teeth Extra
+name_no_color: 6Diameter9mmdepthelectronicpotentiometer17mmshaft144Teethextra
+name_no_size: 6 Diameter 9 mm Depth Electronic Potentiometer 17 mm Shaft 144 Teeth
+  Extra
+name_no_type: Pulley Gt2 6 Diameter 9 mm Depth Electronic Potentiometer 17 mm Shaft
+  144 Teeth Extra
+name_short: Pulley Gt2 6x9 Electronic Potentiometer
+oomlout_detail_hierarchy_1: oobb
+oomlout_detail_hierarchy_1_upper: OOBB
+oomlout_detail_hierarchy_1_upper_length_4: OOBB
+oomlout_detail_hierarchy_2: part
+oomlout_detail_hierarchy_2_upper: PART
+oomlout_detail_hierarchy_2_upper_length_4: PART
+oomlout_detail_hierarchy_3: pulley_gt2
+oomlout_detail_hierarchy_3_upper: PULLEY_GT2
+oomlout_detail_hierarchy_3_upper_length_4: PULL
+oomlout_detail_hierarchy_4: 6_diameter
+oomlout_detail_hierarchy_4_upper: 6_DIAMETER
+oomlout_detail_hierarchy_4_upper_length_4: 6_DI
+oomlout_detail_hierarchy_5: 9_mm_depth
+oomlout_detail_hierarchy_5_upper: 9_MM_DEPTH
+oomlout_detail_hierarchy_5_upper_length_4: 9DEP
+oomlout_detail_hierarchy_6: electronic_potentiometer_17_mm
+oomlout_detail_hierarchy_6_upper: ELECTRONIC_POTENTIOMETER_17_MM
+oomlout_detail_hierarchy_6_upper_length_4: ELEC
+oomlout_detail_hierarchy_7: shaft_144_teeth_extra
+oomlout_detail_hierarchy_7_upper: SHAFT_144_TEETH_EXTRA
+oomlout_detail_hierarchy_7_upper_length_4: SHAF
+oomlout_oomp_utility_custom_data_manipulation: true
+oomp_key: oomp_oobb_part_pulley_gt2_6_diameter_9_mm_depth_electronic_potentiometer_17_mm_shaft_144_teeth_extra
+oomp_word: bowling four four
+oomp_word_emoji: ':bowling: :four: :four:'
+oomp_word_emoji_list:
+- ':bowling:'
+- ':four:'
+- ':four:'
+oomp_word_list:
+- bowling
+- four
+- four
+part_number: ''
+part_number_name: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
+shaft: electronic_potentiometer_17_mm
+short_name: ''
+size: pulley_gt2
+size_length_1: p
+size_length_2: pu
+size_length_3: pul
+size_length_4: pull
+size_length_5: pulle
+size_length_6: pulley
+size_name: Pulley Gt2
+size_no_space_length_1: p
+size_no_space_length_2: pu
+size_no_space_length_3: pul
+size_no_space_length_4: pull
+size_no_space_length_5: pulle
+size_no_space_length_6: pulley
+size_no_space_upper_length_1: P
+size_no_space_upper_length_2: PU
+size_no_space_upper_length_3: PUL
+size_no_space_upper_length_4: PULL
+size_no_space_upper_length_5: PULLE
+size_no_space_upper_length_6: PULLEY
+size_upper_length_1: P
+size_upper_length_2: PU
+size_upper_length_3: PUL
+size_upper_length_4: PULL
+size_upper_length_5: PULLE
+size_upper_length_6: PULLEY
+thickness: 9
+thickness_mm: 9
+type: part
+type_length_1: p
+type_length_2: pa
+type_length_3: par
+type_length_4: part
+type_length_5: part
+type_length_6: part
+type_name: Part
+type_no_space_length_1: p
+type_no_space_length_2: pa
+type_no_space_length_3: par
+type_no_space_length_4: part
+type_no_space_length_5: part
+type_no_space_length_6: part
+type_no_space_upper_length_1: P
+type_no_space_upper_length_2: PA
+type_no_space_upper_length_3: PAR
+type_no_space_upper_length_4: PART
+type_no_space_upper_length_5: PART
+type_no_space_upper_length_6: PART
+type_upper_length_1: P
+type_upper_length_2: PA
+type_upper_length_3: PAR
+type_upper_length_4: PART
+type_upper_length_5: PART
+type_upper_length_6: PART

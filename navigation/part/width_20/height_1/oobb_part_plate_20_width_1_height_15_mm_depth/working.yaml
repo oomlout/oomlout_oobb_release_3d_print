@@ -1,0 +1,229 @@
+bip_39_word_dash_12: pudding-usage-dawn-gym-bulb-syrup-avocado-ocean-file-bounce-between-analyst
+bip_39_word_dash_2: pudding-usage
+bip_39_word_dash_3: pudding-usage-dawn
+bip_39_word_new_br_12: pudding<br>usage<br>dawn<br>gym<br>bulb<br>syrup<br>avocado<br>ocean<br>file<br>bounce<br>between<br>analyst
+bip_39_word_new_br_2: pudding<br>usage
+bip_39_word_new_br_3: pudding<br>usage<br>dawn
+bip_39_word_new_line_12: 'pudding
+
+  usage
+
+  dawn
+
+  gym
+
+  bulb
+
+  syrup
+
+  avocado
+
+  ocean
+
+  file
+
+  bounce
+
+  between
+
+  analyst'
+bip_39_word_new_line_2: 'pudding
+
+  usage'
+bip_39_word_new_line_3: 'pudding
+
+  usage
+
+  dawn'
+bip_39_word_no_space_12: puddingusagedawngymbulbsyrupavocadooceanfilebouncebetweenanalyst
+bip_39_word_no_space_2: puddingusage
+bip_39_word_no_space_3: puddingusagedawn
+bip_39_word_space_12: pudding usage dawn gym bulb syrup avocado ocean file bounce
+  between analyst
+bip_39_word_space_2: pudding usage
+bip_39_word_space_3: pudding usage dawn
+bip_39_word_underscore_12: pudding_usage_dawn_gym_bulb_syrup_avocado_ocean_file_bounce_between_analyst
+bip_39_word_underscore_2: pudding_usage
+bip_39_word_underscore_3: pudding_usage_dawn
+classification: oobb
+classification_length_1: o
+classification_length_2: oo
+classification_length_3: oob
+classification_length_4: oobb
+classification_length_5: oobb
+classification_length_6: oobb
+classification_name: Oobb
+classification_no_space_length_1: o
+classification_no_space_length_2: oo
+classification_no_space_length_3: oob
+classification_no_space_length_4: oobb
+classification_no_space_length_5: oobb
+classification_no_space_length_6: oobb
+classification_no_space_upper_length_1: O
+classification_no_space_upper_length_2: OO
+classification_no_space_upper_length_3: OOB
+classification_no_space_upper_length_4: OOBB
+classification_no_space_upper_length_5: OOBB
+classification_no_space_upper_length_6: OOBB
+classification_upper_length_1: O
+classification_upper_length_2: OO
+classification_upper_length_3: OOB
+classification_upper_length_4: OOBB
+classification_upper_length_5: OOBB
+classification_upper_length_6: OOBB
+color: ''
+color_name: ''
+components: []
+components_objects: []
+components_string: []
+description: plate 20x1x15
+description_extra: ''
+description_extra_name: ''
+description_main: 20_width_1_height_15_mm_depth
+description_main_length_1: '2'
+description_main_length_2: '20'
+description_main_length_3: '20_'
+description_main_length_4: 20_w
+description_main_length_5: 20_wi
+description_main_length_6: 20_wid
+description_main_name: 20 Width 1 Height 15 mm Depth
+description_main_no_space_length_1: '2'
+description_main_no_space_length_2: '20'
+description_main_no_space_length_3: 20w
+description_main_no_space_length_4: 20wi
+description_main_no_space_length_5: 20wid
+description_main_no_space_length_6: 20widt
+description_main_no_space_upper_length_1: '2'
+description_main_no_space_upper_length_2: '20'
+description_main_no_space_upper_length_3: 20W
+description_main_no_space_upper_length_4: 20WI
+description_main_no_space_upper_length_5: 20WID
+description_main_no_space_upper_length_6: 20WIDT
+description_main_upper_length_1: '2'
+description_main_upper_length_2: '20'
+description_main_upper_length_3: '20_'
+description_main_upper_length_4: 20_W
+description_main_upper_length_5: 20_WI
+description_main_upper_length_6: 20_WID
+directory: parts/oobb_part_plate_20_width_1_height_15_mm_depth
+folder: C:\gh\oomlout_oobb_version_4_generated_parts\parts\oobb_part_plate_20_width_1_height_15_mm_depth
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_20_width_1_height_15_mm_depth
+height: 1
+height_mm: 14
+id: oobb_part_plate_20_width_1_height_15_mm_depth
+id_no_class: part_plate_20_width_1_height_15_mm_depth
+id_no_color: 20width1height15mmdepth
+id_no_size: 20_width_1_height_15_mm_depth
+id_no_type: plate_20_width_1_height_15_mm_depth
+link_1: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/plate/20_width_1_height_15_mm_depth/part
+link_1_name: link_main
+link_main: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/plate/20_width_1_height_15_mm_depth/part
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2055nie
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2055nie
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%2055nie
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2055nie
+link_redirect: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/parts/oobb_plate_20_01_15
+manufacturer: ''
+manufacturer_name: ''
+md5: 842b469ab198e1ff728ef6806ffbe569
+md5_10: 842b469ab1
+md5_10_upper: 842B469AB1
+md5_5: 842b4
+md5_5_upper: 842B4
+md5_6: 842b46
+md5_6_alpha: 55nie
+md5_6_alpha_upper: 55NIE
+md5_6_upper: 842B46
+name: Oobb Part Plate 20 Width 1 Height 15 mm Depth
+name_no_class: Part Plate 20 Width 1 Height 15 mm Depth
+name_no_color: 20Width1Height15mmdepth
+name_no_size: 20 Width 1 Height 15 mm Depth
+name_no_type: Plate 20 Width 1 Height 15 mm Depth
+name_short: 'Plate 20x1x15 '
+oomlout_detail_hierarchy_1: oobb
+oomlout_detail_hierarchy_1_upper: OOBB
+oomlout_detail_hierarchy_1_upper_length_4: OOBB
+oomlout_detail_hierarchy_2: part
+oomlout_detail_hierarchy_2_upper: PART
+oomlout_detail_hierarchy_2_upper_length_4: PART
+oomlout_detail_hierarchy_3: plate
+oomlout_detail_hierarchy_3_upper: PLATE
+oomlout_detail_hierarchy_3_upper_length_4: PLAT
+oomlout_detail_hierarchy_4: 15_mm_depth
+oomlout_detail_hierarchy_4_upper: 15_MM_DEPTH
+oomlout_detail_hierarchy_4_upper_length_4: 15DE
+oomlout_oomp_utility_custom_data_manipulation: true
+oomp_key: oomp_oobb_part_plate_20_width_1_height_15_mm_depth
+oomp_word: key cloud bird
+oomp_word_emoji: ':key: :cloud: :bird:'
+oomp_word_emoji_list:
+- ':key:'
+- ':cloud:'
+- ':bird:'
+oomp_word_list:
+- key
+- cloud
+- bird
+part_number: ''
+part_number_name: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
+short_name: ''
+size: plate
+size_length_1: p
+size_length_2: pl
+size_length_3: pla
+size_length_4: plat
+size_length_5: plate
+size_length_6: plate
+size_name: Plate
+size_no_space_length_1: p
+size_no_space_length_2: pl
+size_no_space_length_3: pla
+size_no_space_length_4: plat
+size_no_space_length_5: plate
+size_no_space_length_6: plate
+size_no_space_upper_length_1: P
+size_no_space_upper_length_2: PL
+size_no_space_upper_length_3: PLA
+size_no_space_upper_length_4: PLAT
+size_no_space_upper_length_5: PLATE
+size_no_space_upper_length_6: PLATE
+size_upper_length_1: P
+size_upper_length_2: PL
+size_upper_length_3: PLA
+size_upper_length_4: PLAT
+size_upper_length_5: PLATE
+size_upper_length_6: PLATE
+thickness: 15
+thickness_mm: 15
+type: part
+type_length_1: p
+type_length_2: pa
+type_length_3: par
+type_length_4: part
+type_length_5: part
+type_length_6: part
+type_name: Part
+type_no_space_length_1: p
+type_no_space_length_2: pa
+type_no_space_length_3: par
+type_no_space_length_4: part
+type_no_space_length_5: part
+type_no_space_length_6: part
+type_no_space_upper_length_1: P
+type_no_space_upper_length_2: PA
+type_no_space_upper_length_3: PAR
+type_no_space_upper_length_4: PART
+type_no_space_upper_length_5: PART
+type_no_space_upper_length_6: PART
+type_upper_length_1: P
+type_upper_length_2: PA
+type_upper_length_3: PAR
+type_upper_length_4: PART
+type_upper_length_5: PART
+type_upper_length_6: PART
+width: 20
+width_mm: 299

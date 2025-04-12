@@ -1,0 +1,226 @@
+bip_39_word_dash_12: liquid-square-clap-choice-first-cable-pretty-rocket-prize-link-surprise-ability
+bip_39_word_dash_2: liquid-square
+bip_39_word_dash_3: liquid-square-clap
+bip_39_word_new_br_12: liquid<br>square<br>clap<br>choice<br>first<br>cable<br>pretty<br>rocket<br>prize<br>link<br>surprise<br>ability
+bip_39_word_new_br_2: liquid<br>square
+bip_39_word_new_br_3: liquid<br>square<br>clap
+bip_39_word_new_line_12: 'liquid
+
+  square
+
+  clap
+
+  choice
+
+  first
+
+  cable
+
+  pretty
+
+  rocket
+
+  prize
+
+  link
+
+  surprise
+
+  ability'
+bip_39_word_new_line_2: 'liquid
+
+  square'
+bip_39_word_new_line_3: 'liquid
+
+  square
+
+  clap'
+bip_39_word_no_space_12: liquidsquareclapchoicefirstcableprettyrocketprizelinksurpriseability
+bip_39_word_no_space_2: liquidsquare
+bip_39_word_no_space_3: liquidsquareclap
+bip_39_word_space_12: liquid square clap choice first cable pretty rocket prize link
+  surprise ability
+bip_39_word_space_2: liquid square
+bip_39_word_space_3: liquid square clap
+bip_39_word_underscore_12: liquid_square_clap_choice_first_cable_pretty_rocket_prize_link_surprise_ability
+bip_39_word_underscore_2: liquid_square
+bip_39_word_underscore_3: liquid_square_clap
+classification: oobb
+classification_length_1: o
+classification_length_2: oo
+classification_length_3: oob
+classification_length_4: oobb
+classification_length_5: oobb
+classification_length_6: oobb
+classification_name: Oobb
+classification_no_space_length_1: o
+classification_no_space_length_2: oo
+classification_no_space_length_3: oob
+classification_no_space_length_4: oobb
+classification_no_space_length_5: oobb
+classification_no_space_length_6: oobb
+classification_no_space_upper_length_1: O
+classification_no_space_upper_length_2: OO
+classification_no_space_upper_length_3: OOB
+classification_no_space_upper_length_4: OOBB
+classification_no_space_upper_length_5: OOBB
+classification_no_space_upper_length_6: OOBB
+classification_upper_length_1: O
+classification_upper_length_2: OO
+classification_upper_length_3: OOB
+classification_upper_length_4: OOBB
+classification_upper_length_5: OOBB
+classification_upper_length_6: OOBB
+color: ''
+color_name: ''
+components: []
+components_objects: []
+components_string: []
+description: shaft 0x0x9
+description_extra: ''
+description_extra_name: ''
+description_main: 9_mm_depth
+description_main_length_1: '9'
+description_main_length_2: '9_'
+description_main_length_3: 9_m
+description_main_length_4: 9_mm
+description_main_length_5: 9_mm_
+description_main_length_6: 9_mm_d
+description_main_name: 9 mm Depth
+description_main_no_space_length_1: '9'
+description_main_no_space_length_2: 9m
+description_main_no_space_length_3: 9mm
+description_main_no_space_length_4: 9mmd
+description_main_no_space_length_5: 9mmde
+description_main_no_space_length_6: 9mmdep
+description_main_no_space_upper_length_1: '9'
+description_main_no_space_upper_length_2: 9M
+description_main_no_space_upper_length_3: 9MM
+description_main_no_space_upper_length_4: 9MMD
+description_main_no_space_upper_length_5: 9MMDE
+description_main_no_space_upper_length_6: 9MMDEP
+description_main_upper_length_1: '9'
+description_main_upper_length_2: '9_'
+description_main_upper_length_3: 9_M
+description_main_upper_length_4: 9_MM
+description_main_upper_length_5: 9_MM_
+description_main_upper_length_6: 9_MM_D
+directory: parts/oobb_part_shaft_9_mm_depth
+extra: ''
+folder: C:\gh\oomlout_oobb_version_4_generated_parts\parts\oobb_part_shaft_9_mm_depth
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_shaft_9_mm_depth
+id: oobb_part_shaft_9_mm_depth
+id_no_class: part_shaft_9_mm_depth
+id_no_color: 9mmdepth
+id_no_size: 9_mm_depth
+id_no_type: shaft_9_mm_depth
+link_1: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/shaft/9_mm_depth/part
+link_1_name: link_main
+link_main: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/shaft/9_mm_depth/part
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2057fk
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2057fk
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%2057fk
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2057fk
+link_redirect: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/parts/oobb_shaft_09
+manufacturer: ''
+manufacturer_name: ''
+md5: 03b4e0855abb75447fabb28253b4dc12
+md5_10: 03b4e0855a
+md5_10_upper: 03B4E0855A
+md5_5: 03b4e
+md5_5_upper: 03B4E
+md5_6: 03b4e0
+md5_6_alpha: 57fk
+md5_6_alpha_upper: 57FK
+md5_6_upper: 03B4E0
+name: Oobb Part Shaft 9 mm Depth
+name_no_class: Part Shaft 9 mm Depth
+name_no_color: 9mmdepth
+name_no_size: 9 mm Depth
+name_no_type: Shaft 9 mm Depth
+name_short: 'Shaft 9 '
+oomlout_detail_hierarchy_1: oobb
+oomlout_detail_hierarchy_1_upper: OOBB
+oomlout_detail_hierarchy_1_upper_length_4: OOBB
+oomlout_detail_hierarchy_2: part
+oomlout_detail_hierarchy_2_upper: PART
+oomlout_detail_hierarchy_2_upper_length_4: PART
+oomlout_detail_hierarchy_3: shaft
+oomlout_detail_hierarchy_3_upper: SHAFT
+oomlout_detail_hierarchy_3_upper_length_4: SHAF
+oomlout_detail_hierarchy_4: 9_mm_depth
+oomlout_detail_hierarchy_4_upper: 9_MM_DEPTH
+oomlout_detail_hierarchy_4_upper_length_4: 9DEP
+oomlout_oomp_utility_custom_data_manipulation: true
+oomp_key: oomp_oobb_part_shaft_9_mm_depth
+oomp_word: grin coffee ship
+oomp_word_emoji: ':grin: :coffee: :ship:'
+oomp_word_emoji_list:
+- ':grin:'
+- ':coffee:'
+- ':ship:'
+oomp_word_list:
+- grin
+- coffee
+- ship
+part_number: ''
+part_number_name: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
+short_name: ''
+size: shaft
+size_length_1: s
+size_length_2: sh
+size_length_3: sha
+size_length_4: shaf
+size_length_5: shaft
+size_length_6: shaft
+size_name: Shaft
+size_no_space_length_1: s
+size_no_space_length_2: sh
+size_no_space_length_3: sha
+size_no_space_length_4: shaf
+size_no_space_length_5: shaft
+size_no_space_length_6: shaft
+size_no_space_upper_length_1: S
+size_no_space_upper_length_2: SH
+size_no_space_upper_length_3: SHA
+size_no_space_upper_length_4: SHAF
+size_no_space_upper_length_5: SHAFT
+size_no_space_upper_length_6: SHAFT
+size_upper_length_1: S
+size_upper_length_2: SH
+size_upper_length_3: SHA
+size_upper_length_4: SHAF
+size_upper_length_5: SHAFT
+size_upper_length_6: SHAFT
+thickness: 9
+thickness_mm: 9
+type: part
+type_length_1: p
+type_length_2: pa
+type_length_3: par
+type_length_4: part
+type_length_5: part
+type_length_6: part
+type_name: Part
+type_no_space_length_1: p
+type_no_space_length_2: pa
+type_no_space_length_3: par
+type_no_space_length_4: part
+type_no_space_length_5: part
+type_no_space_length_6: part
+type_no_space_upper_length_1: P
+type_no_space_upper_length_2: PA
+type_no_space_upper_length_3: PAR
+type_no_space_upper_length_4: PART
+type_no_space_upper_length_5: PART
+type_no_space_upper_length_6: PART
+type_upper_length_1: P
+type_upper_length_2: PA
+type_upper_length_3: PAR
+type_upper_length_4: PART
+type_upper_length_5: PART
+type_upper_length_6: PART

@@ -1,0 +1,229 @@
+bip_39_word_dash_12: depend-estate-offer-apple-chase-duty-average-lumber-radio-emotion-brass-acquire
+bip_39_word_dash_2: depend-estate
+bip_39_word_dash_3: depend-estate-offer
+bip_39_word_new_br_12: depend<br>estate<br>offer<br>apple<br>chase<br>duty<br>average<br>lumber<br>radio<br>emotion<br>brass<br>acquire
+bip_39_word_new_br_2: depend<br>estate
+bip_39_word_new_br_3: depend<br>estate<br>offer
+bip_39_word_new_line_12: 'depend
+
+  estate
+
+  offer
+
+  apple
+
+  chase
+
+  duty
+
+  average
+
+  lumber
+
+  radio
+
+  emotion
+
+  brass
+
+  acquire'
+bip_39_word_new_line_2: 'depend
+
+  estate'
+bip_39_word_new_line_3: 'depend
+
+  estate
+
+  offer'
+bip_39_word_no_space_12: dependestateofferapplechasedutyaveragelumberradioemotionbrassacquire
+bip_39_word_no_space_2: dependestate
+bip_39_word_no_space_3: dependestateoffer
+bip_39_word_space_12: depend estate offer apple chase duty average lumber radio emotion
+  brass acquire
+bip_39_word_space_2: depend estate
+bip_39_word_space_3: depend estate offer
+bip_39_word_underscore_12: depend_estate_offer_apple_chase_duty_average_lumber_radio_emotion_brass_acquire
+bip_39_word_underscore_2: depend_estate
+bip_39_word_underscore_3: depend_estate_offer
+classification: oobb
+classification_length_1: o
+classification_length_2: oo
+classification_length_3: oob
+classification_length_4: oobb
+classification_length_5: oobb
+classification_length_6: oobb
+classification_name: Oobb
+classification_no_space_length_1: o
+classification_no_space_length_2: oo
+classification_no_space_length_3: oob
+classification_no_space_length_4: oobb
+classification_no_space_length_5: oobb
+classification_no_space_length_6: oobb
+classification_no_space_upper_length_1: O
+classification_no_space_upper_length_2: OO
+classification_no_space_upper_length_3: OOB
+classification_no_space_upper_length_4: OOBB
+classification_no_space_upper_length_5: OOBB
+classification_no_space_upper_length_6: OOBB
+classification_upper_length_1: O
+classification_upper_length_2: OO
+classification_upper_length_3: OOB
+classification_upper_length_4: OOBB
+classification_upper_length_5: OOBB
+classification_upper_length_6: OOBB
+color: ''
+color_name: ''
+components: []
+components_objects: []
+components_string: []
+description: tray vertical 14x11x21
+description_extra: ''
+description_extra_name: ''
+description_main: 14_width_11_height_21_mm_depth
+description_main_length_1: '1'
+description_main_length_2: '14'
+description_main_length_3: '14_'
+description_main_length_4: 14_w
+description_main_length_5: 14_wi
+description_main_length_6: 14_wid
+description_main_name: 14 Width 11 Height 21 mm Depth
+description_main_no_space_length_1: '1'
+description_main_no_space_length_2: '14'
+description_main_no_space_length_3: 14w
+description_main_no_space_length_4: 14wi
+description_main_no_space_length_5: 14wid
+description_main_no_space_length_6: 14widt
+description_main_no_space_upper_length_1: '1'
+description_main_no_space_upper_length_2: '14'
+description_main_no_space_upper_length_3: 14W
+description_main_no_space_upper_length_4: 14WI
+description_main_no_space_upper_length_5: 14WID
+description_main_no_space_upper_length_6: 14WIDT
+description_main_upper_length_1: '1'
+description_main_upper_length_2: '14'
+description_main_upper_length_3: '14_'
+description_main_upper_length_4: 14_W
+description_main_upper_length_5: 14_WI
+description_main_upper_length_6: 14_WID
+directory: parts/oobb_part_tray_vertical_14_width_11_height_21_mm_depth
+folder: C:\gh\oomlout_oobb_version_4_generated_parts\parts\oobb_part_tray_vertical_14_width_11_height_21_mm_depth
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_14_width_11_height_21_mm_depth
+height: 11
+height_mm: 164
+id: oobb_part_tray_vertical_14_width_11_height_21_mm_depth
+id_no_class: part_tray_vertical_14_width_11_height_21_mm_depth
+id_no_color: 14width11height21mmdepth
+id_no_size: 14_width_11_height_21_mm_depth
+id_no_type: tray_vertical_14_width_11_height_21_mm_depth
+link_1: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/tray_vertical/14_width_11_height_21_mm_depth/part
+link_1_name: link_main
+link_main: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/tray_vertical/14_width_11_height_21_mm_depth/part
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%201c21e
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%201c21e
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%201c21e
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%201c21e
+link_redirect: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/parts/oobb_tray_vertical_14_11_21
+manufacturer: ''
+manufacturer_name: ''
+md5: 223652358684e1f9121350ab32d359d7
+md5_10: '2236523586'
+md5_10_upper: '2236523586'
+md5_5: '22365'
+md5_5_upper: '22365'
+md5_6: '223652'
+md5_6_alpha: 1c21e
+md5_6_alpha_upper: 1C21E
+md5_6_upper: '223652'
+name: Oobb Part Tray Vertical 14 Width 11 Height 21 mm Depth
+name_no_class: Part Tray Vertical 14 Width 11 Height 21 mm Depth
+name_no_color: 14Width11Height21mmdepth
+name_no_size: 14 Width 11 Height 21 mm Depth
+name_no_type: Tray Vertical 14 Width 11 Height 21 mm Depth
+name_short: 'Tray Vertical 14x11x21 '
+oomlout_detail_hierarchy_1: oobb
+oomlout_detail_hierarchy_1_upper: OOBB
+oomlout_detail_hierarchy_1_upper_length_4: OOBB
+oomlout_detail_hierarchy_2: part
+oomlout_detail_hierarchy_2_upper: PART
+oomlout_detail_hierarchy_2_upper_length_4: PART
+oomlout_detail_hierarchy_3: tray_vertical
+oomlout_detail_hierarchy_3_upper: TRAY_VERTICAL
+oomlout_detail_hierarchy_3_upper_length_4: TRAY
+oomlout_detail_hierarchy_4: 21_mm_depth
+oomlout_detail_hierarchy_4_upper: 21_MM_DEPTH
+oomlout_detail_hierarchy_4_upper_length_4: 21DE
+oomlout_oomp_utility_custom_data_manipulation: true
+oomp_key: oomp_oobb_part_tray_vertical_14_width_11_height_21_mm_depth
+oomp_word: lips rabbit octopus
+oomp_word_emoji: ':lips: :rabbit: :octopus:'
+oomp_word_emoji_list:
+- ':lips:'
+- ':rabbit:'
+- ':octopus:'
+oomp_word_list:
+- lips
+- rabbit
+- octopus
+part_number: ''
+part_number_name: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
+short_name: ''
+size: tray_vertical
+size_length_1: t
+size_length_2: tr
+size_length_3: tra
+size_length_4: tray
+size_length_5: tray_
+size_length_6: tray_v
+size_name: Tray Vertical
+size_no_space_length_1: t
+size_no_space_length_2: tr
+size_no_space_length_3: tra
+size_no_space_length_4: tray
+size_no_space_length_5: trayv
+size_no_space_length_6: trayve
+size_no_space_upper_length_1: T
+size_no_space_upper_length_2: TR
+size_no_space_upper_length_3: TRA
+size_no_space_upper_length_4: TRAY
+size_no_space_upper_length_5: TRAYV
+size_no_space_upper_length_6: TRAYVE
+size_upper_length_1: T
+size_upper_length_2: TR
+size_upper_length_3: TRA
+size_upper_length_4: TRAY
+size_upper_length_5: TRAY_
+size_upper_length_6: TRAY_V
+thickness: 21
+thickness_mm: 21
+type: part
+type_length_1: p
+type_length_2: pa
+type_length_3: par
+type_length_4: part
+type_length_5: part
+type_length_6: part
+type_name: Part
+type_no_space_length_1: p
+type_no_space_length_2: pa
+type_no_space_length_3: par
+type_no_space_length_4: part
+type_no_space_length_5: part
+type_no_space_length_6: part
+type_no_space_upper_length_1: P
+type_no_space_upper_length_2: PA
+type_no_space_upper_length_3: PAR
+type_no_space_upper_length_4: PART
+type_no_space_upper_length_5: PART
+type_no_space_upper_length_6: PART
+type_upper_length_1: P
+type_upper_length_2: PA
+type_upper_length_3: PAR
+type_upper_length_4: PART
+type_upper_length_5: PART
+type_upper_length_6: PART
+width: 14
+width_mm: 209

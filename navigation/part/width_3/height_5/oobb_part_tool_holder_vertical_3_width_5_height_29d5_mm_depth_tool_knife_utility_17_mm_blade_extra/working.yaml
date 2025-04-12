@@ -1,0 +1,263 @@
+bip_39_word_dash_12: beach-viable-fog-achieve-smile-area-dentist-office-ride-course-visit-assist
+bip_39_word_dash_2: beach-viable
+bip_39_word_dash_3: beach-viable-fog
+bip_39_word_new_br_12: beach<br>viable<br>fog<br>achieve<br>smile<br>area<br>dentist<br>office<br>ride<br>course<br>visit<br>assist
+bip_39_word_new_br_2: beach<br>viable
+bip_39_word_new_br_3: beach<br>viable<br>fog
+bip_39_word_new_line_12: 'beach
+
+  viable
+
+  fog
+
+  achieve
+
+  smile
+
+  area
+
+  dentist
+
+  office
+
+  ride
+
+  course
+
+  visit
+
+  assist'
+bip_39_word_new_line_2: 'beach
+
+  viable'
+bip_39_word_new_line_3: 'beach
+
+  viable
+
+  fog'
+bip_39_word_no_space_12: beachviablefogachievesmileareadentistofficeridecoursevisitassist
+bip_39_word_no_space_2: beachviable
+bip_39_word_no_space_3: beachviablefog
+bip_39_word_space_12: beach viable fog achieve smile area dentist office ride course
+  visit assist
+bip_39_word_space_2: beach viable
+bip_39_word_space_3: beach viable fog
+bip_39_word_underscore_12: beach_viable_fog_achieve_smile_area_dentist_office_ride_course_visit_assist
+bip_39_word_underscore_2: beach_viable
+bip_39_word_underscore_3: beach_viable_fog
+classification: oobb
+classification_length_1: o
+classification_length_2: oo
+classification_length_3: oob
+classification_length_4: oobb
+classification_length_5: oobb
+classification_length_6: oobb
+classification_name: Oobb
+classification_no_space_length_1: o
+classification_no_space_length_2: oo
+classification_no_space_length_3: oob
+classification_no_space_length_4: oobb
+classification_no_space_length_5: oobb
+classification_no_space_length_6: oobb
+classification_no_space_upper_length_1: O
+classification_no_space_upper_length_2: OO
+classification_no_space_upper_length_3: OOB
+classification_no_space_upper_length_4: OOBB
+classification_no_space_upper_length_5: OOBB
+classification_no_space_upper_length_6: OOBB
+classification_upper_length_1: O
+classification_upper_length_2: OO
+classification_upper_length_3: OOB
+classification_upper_length_4: OOBB
+classification_upper_length_5: OOBB
+classification_upper_length_6: OOBB
+color: ''
+color_name: ''
+components: []
+components_objects: []
+components_string: []
+description: tool holder vertical 3x5x29.5
+description_extra: tool_knife_utility_17_mm_blade_extra
+description_extra_length_1: t
+description_extra_length_2: to
+description_extra_length_3: too
+description_extra_length_4: tool
+description_extra_length_5: tool_
+description_extra_length_6: tool_k
+description_extra_name: Tool Knife Utility 17 mm Blade Extra
+description_extra_no_space_length_1: t
+description_extra_no_space_length_2: to
+description_extra_no_space_length_3: too
+description_extra_no_space_length_4: tool
+description_extra_no_space_length_5: toolk
+description_extra_no_space_length_6: toolkn
+description_extra_no_space_upper_length_1: T
+description_extra_no_space_upper_length_2: TO
+description_extra_no_space_upper_length_3: TOO
+description_extra_no_space_upper_length_4: TOOL
+description_extra_no_space_upper_length_5: TOOLK
+description_extra_no_space_upper_length_6: TOOLKN
+description_extra_upper_length_1: T
+description_extra_upper_length_2: TO
+description_extra_upper_length_3: TOO
+description_extra_upper_length_4: TOOL
+description_extra_upper_length_5: TOOL_
+description_extra_upper_length_6: TOOL_K
+description_main: 3_width_5_height_29.5_mm_depth
+description_main_length_1: '3'
+description_main_length_2: '3_'
+description_main_length_3: 3_w
+description_main_length_4: 3_wi
+description_main_length_5: 3_wid
+description_main_length_6: 3_widt
+description_main_name: 3 Width 5 Height 29.5 mm Depth
+description_main_no_space_length_1: '3'
+description_main_no_space_length_2: 3w
+description_main_no_space_length_3: 3wi
+description_main_no_space_length_4: 3wid
+description_main_no_space_length_5: 3widt
+description_main_no_space_length_6: 3width
+description_main_no_space_upper_length_1: '3'
+description_main_no_space_upper_length_2: 3W
+description_main_no_space_upper_length_3: 3WI
+description_main_no_space_upper_length_4: 3WID
+description_main_no_space_upper_length_5: 3WIDT
+description_main_no_space_upper_length_6: 3WIDTH
+description_main_upper_length_1: '3'
+description_main_upper_length_2: '3_'
+description_main_upper_length_3: 3_W
+description_main_upper_length_4: 3_WI
+description_main_upper_length_5: 3_WID
+description_main_upper_length_6: 3_WIDT
+directory: parts/oobb_part_tool_holder_vertical_3_width_5_height_29d5_mm_depth_tool_knife_utility_17_mm_blade_extra
+extra: tool_knife_utility_17_mm_blade
+folder: C:\gh\oomlout_oobb_version_4_generated_parts\parts\oobb_part_tool_holder_vertical_3_width_5_height_29d5_mm_depth_tool_knife_utility_17_mm_blade_extra
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tool_holder_vertical_3_width_5_height_29d5_mm_depth_tool_knife_utility_17_mm_blade_extra
+height: 5
+height_mm: 74
+id: oobb_part_tool_holder_vertical_3_width_5_height_29d5_mm_depth_tool_knife_utility_17_mm_blade_extra
+id_no_class: part_tool_holder_vertical_3_width_5_height_29d5_mm_depth_tool_knife_utility_17_mm_blade_extra
+id_no_color: 3width5height29d5mmdepthtoolknifeutility17mmbladeextra
+id_no_size: 3_width_5_height_29d5_mm_depth_tool_knife_utility_17_mm_blade_extra
+id_no_type: tool_holder_vertical_3_width_5_height_29d5_mm_depth_tool_knife_utility_17_mm_blade_extra
+link_1: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/tool_holder_vertical/3_width_5_height_29.5_mm_depth/tool_knife_utility_17_mm_blade_extra/part
+link_1_name: link_main
+link_main: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/tool_holder_vertical/3_width_5_height_29.5_mm_depth/tool_knife_utility_17_mm_blade_extra/part
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%208npn0
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%208npn0
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%208npn0
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%208npn0
+link_redirect: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/parts/oobb_tool_holder_vertical_03_05_29d5_ex_tool_knife_utility_17_mm_blade
+manufacturer: ''
+manufacturer_name: ''
+md5: dde98c55cb9987502d66501cb4bcd09b
+md5_10: dde98c55cb
+md5_10_upper: DDE98C55CB
+md5_5: dde98
+md5_5_upper: DDE98
+md5_6: dde98c
+md5_6_alpha: 8npn0
+md5_6_alpha_upper: 8NPN0
+md5_6_upper: DDE98C
+name: Oobb Part Tool Holder Vertical 3 Width 5 Height 29D5 mm Depth Tool Knife Utility
+  17 mm Blade Extra
+name_no_class: Part Tool Holder Vertical 3 Width 5 Height 29D5 mm Depth Tool Knife
+  Utility 17 mm Blade Extra
+name_no_color: 3Width5Height29D5mmdepthtoolknifeutility17mmbladeextra
+name_no_size: 3 Width 5 Height 29D5 mm Depth Tool Knife Utility 17 mm Blade Extra
+name_no_type: Tool Holder Vertical 3 Width 5 Height 29D5 mm Depth Tool Knife Utility
+  17 mm Blade Extra
+name_short: Tool Holder Vertical 3x5x29D5 Tool
+oomlout_detail_hierarchy_1: oobb
+oomlout_detail_hierarchy_1_upper: OOBB
+oomlout_detail_hierarchy_1_upper_length_4: OOBB
+oomlout_detail_hierarchy_2: part
+oomlout_detail_hierarchy_2_upper: PART
+oomlout_detail_hierarchy_2_upper_length_4: PART
+oomlout_detail_hierarchy_3: tool_holder_vertical
+oomlout_detail_hierarchy_3_upper: TOOL_HOLDER_VERTICAL
+oomlout_detail_hierarchy_3_upper_length_4: TOOL
+oomlout_detail_hierarchy_4: 5_mm_depth
+oomlout_detail_hierarchy_4_upper: 5_MM_DEPTH
+oomlout_detail_hierarchy_4_upper_length_4: 5DEP
+oomlout_detail_hierarchy_5: tool_knife_utility_17
+oomlout_detail_hierarchy_5_upper: TOOL_KNIFE_UTILITY_17
+oomlout_detail_hierarchy_5_upper_length_4: TOOL
+oomlout_detail_hierarchy_6: mm_blade_extra
+oomlout_detail_hierarchy_6_upper: MM_BLADE_EXTRA
+oomlout_detail_hierarchy_6_upper_length_4: MM_B
+oomlout_oomp_utility_custom_data_manipulation: true
+oomp_key: oomp_oobb_part_tool_holder_vertical_3_width_5_height_29d5_mm_depth_tool_knife_utility_17_mm_blade_extra
+oomp_word: stars bike pill
+oomp_word_emoji: ':stars: :bike: :pill:'
+oomp_word_emoji_list:
+- ':stars:'
+- ':bike:'
+- ':pill:'
+oomp_word_list:
+- stars
+- bike
+- pill
+part_number: ''
+part_number_name: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
+short_name: ''
+size: tool_holder_vertical
+size_length_1: t
+size_length_2: to
+size_length_3: too
+size_length_4: tool
+size_length_5: tool_
+size_length_6: tool_h
+size_name: Tool Holder Vertical
+size_no_space_length_1: t
+size_no_space_length_2: to
+size_no_space_length_3: too
+size_no_space_length_4: tool
+size_no_space_length_5: toolh
+size_no_space_length_6: toolho
+size_no_space_upper_length_1: T
+size_no_space_upper_length_2: TO
+size_no_space_upper_length_3: TOO
+size_no_space_upper_length_4: TOOL
+size_no_space_upper_length_5: TOOLH
+size_no_space_upper_length_6: TOOLHO
+size_upper_length_1: T
+size_upper_length_2: TO
+size_upper_length_3: TOO
+size_upper_length_4: TOOL
+size_upper_length_5: TOOL_
+size_upper_length_6: TOOL_H
+thickness: 29.5
+thickness_mm: 29.5
+type: part
+type_length_1: p
+type_length_2: pa
+type_length_3: par
+type_length_4: part
+type_length_5: part
+type_length_6: part
+type_name: Part
+type_no_space_length_1: p
+type_no_space_length_2: pa
+type_no_space_length_3: par
+type_no_space_length_4: part
+type_no_space_length_5: part
+type_no_space_length_6: part
+type_no_space_upper_length_1: P
+type_no_space_upper_length_2: PA
+type_no_space_upper_length_3: PAR
+type_no_space_upper_length_4: PART
+type_no_space_upper_length_5: PART
+type_no_space_upper_length_6: PART
+type_upper_length_1: P
+type_upper_length_2: PA
+type_upper_length_3: PAR
+type_upper_length_4: PART
+type_upper_length_5: PART
+type_upper_length_6: PART
+width: 3
+width_mm: 44

@@ -1,0 +1,261 @@
+bip_39_word_dash_12: level-unfold-dwarf-lawsuit-artwork-chest-security-right-suit-rifle-fetch-alcohol
+bip_39_word_dash_2: level-unfold
+bip_39_word_dash_3: level-unfold-dwarf
+bip_39_word_new_br_12: level<br>unfold<br>dwarf<br>lawsuit<br>artwork<br>chest<br>security<br>right<br>suit<br>rifle<br>fetch<br>alcohol
+bip_39_word_new_br_2: level<br>unfold
+bip_39_word_new_br_3: level<br>unfold<br>dwarf
+bip_39_word_new_line_12: 'level
+
+  unfold
+
+  dwarf
+
+  lawsuit
+
+  artwork
+
+  chest
+
+  security
+
+  right
+
+  suit
+
+  rifle
+
+  fetch
+
+  alcohol'
+bip_39_word_new_line_2: 'level
+
+  unfold'
+bip_39_word_new_line_3: 'level
+
+  unfold
+
+  dwarf'
+bip_39_word_no_space_12: levelunfolddwarflawsuitartworkchestsecurityrightsuitriflefetchalcohol
+bip_39_word_no_space_2: levelunfold
+bip_39_word_no_space_3: levelunfolddwarf
+bip_39_word_space_12: level unfold dwarf lawsuit artwork chest security right suit
+  rifle fetch alcohol
+bip_39_word_space_2: level unfold
+bip_39_word_space_3: level unfold dwarf
+bip_39_word_underscore_12: level_unfold_dwarf_lawsuit_artwork_chest_security_right_suit_rifle_fetch_alcohol
+bip_39_word_underscore_2: level_unfold
+bip_39_word_underscore_3: level_unfold_dwarf
+classification: oobb
+classification_length_1: o
+classification_length_2: oo
+classification_length_3: oob
+classification_length_4: oobb
+classification_length_5: oobb
+classification_length_6: oobb
+classification_name: Oobb
+classification_no_space_length_1: o
+classification_no_space_length_2: oo
+classification_no_space_length_3: oob
+classification_no_space_length_4: oobb
+classification_no_space_length_5: oobb
+classification_no_space_length_6: oobb
+classification_no_space_upper_length_1: O
+classification_no_space_upper_length_2: OO
+classification_no_space_upper_length_3: OOB
+classification_no_space_upper_length_4: OOBB
+classification_no_space_upper_length_5: OOBB
+classification_no_space_upper_length_6: OOBB
+classification_upper_length_1: O
+classification_upper_length_2: OO
+classification_upper_length_3: OOB
+classification_upper_length_4: OOBB
+classification_upper_length_5: OOBB
+classification_upper_length_6: OOBB
+color: ''
+color_name: ''
+components: []
+components_objects: []
+components_string: []
+description: gear 0x0x9
+description_extra: m6_grubscrew_m3_shaft_72_teeth_extra
+description_extra_length_1: m
+description_extra_length_2: m6
+description_extra_length_3: m6_
+description_extra_length_4: m6_g
+description_extra_length_5: m6_gr
+description_extra_length_6: m6_gru
+description_extra_name: M6 Grubscrew M3 Shaft 72 Teeth Extra
+description_extra_no_space_length_1: m
+description_extra_no_space_length_2: m6
+description_extra_no_space_length_3: m6g
+description_extra_no_space_length_4: m6gr
+description_extra_no_space_length_5: m6gru
+description_extra_no_space_length_6: m6grub
+description_extra_no_space_upper_length_1: M
+description_extra_no_space_upper_length_2: M6
+description_extra_no_space_upper_length_3: M6G
+description_extra_no_space_upper_length_4: M6GR
+description_extra_no_space_upper_length_5: M6GRU
+description_extra_no_space_upper_length_6: M6GRUB
+description_extra_upper_length_1: M
+description_extra_upper_length_2: M6
+description_extra_upper_length_3: M6_
+description_extra_upper_length_4: M6_G
+description_extra_upper_length_5: M6_GR
+description_extra_upper_length_6: M6_GRU
+description_main: 9_diameter_9_mm_depth
+description_main_length_1: '9'
+description_main_length_2: '9_'
+description_main_length_3: 9_d
+description_main_length_4: 9_di
+description_main_length_5: 9_dia
+description_main_length_6: 9_diam
+description_main_name: 9 Diameter 9 mm Depth
+description_main_no_space_length_1: '9'
+description_main_no_space_length_2: 9d
+description_main_no_space_length_3: 9di
+description_main_no_space_length_4: 9dia
+description_main_no_space_length_5: 9diam
+description_main_no_space_length_6: 9diame
+description_main_no_space_upper_length_1: '9'
+description_main_no_space_upper_length_2: 9D
+description_main_no_space_upper_length_3: 9DI
+description_main_no_space_upper_length_4: 9DIA
+description_main_no_space_upper_length_5: 9DIAM
+description_main_no_space_upper_length_6: 9DIAME
+description_main_upper_length_1: '9'
+description_main_upper_length_2: '9_'
+description_main_upper_length_3: 9_D
+description_main_upper_length_4: 9_DI
+description_main_upper_length_5: 9_DIA
+description_main_upper_length_6: 9_DIAM
+diameter: 9
+directory: parts/oobb_part_gear_9_diameter_9_mm_depth_m6_grubscrew_m3_shaft_72_teeth_extra
+extra: 72_teeth
+folder: C:\gh\oomlout_oobb_version_4_generated_parts\parts\oobb_part_gear_9_diameter_9_mm_depth_m6_grubscrew_m3_shaft_72_teeth_extra
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_gear_9_diameter_9_mm_depth_m6_grubscrew_m3_shaft_72_teeth_extra
+id: oobb_part_gear_9_diameter_9_mm_depth_m6_grubscrew_m3_shaft_72_teeth_extra
+id_no_class: part_gear_9_diameter_9_mm_depth_m6_grubscrew_m3_shaft_72_teeth_extra
+id_no_color: 9diameter9mmdepthm6grubscrewm3shaft72teethextra
+id_no_size: 9_diameter_9_mm_depth_m6_grubscrew_m3_shaft_72_teeth_extra
+id_no_type: gear_9_diameter_9_mm_depth_m6_grubscrew_m3_shaft_72_teeth_extra
+link_1: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/gear/9_diameter_9_mm_depth/m6_grubscrew_m3_shaft_72_teeth_extra/part
+link_1_name: link_main
+link_main: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/gear/9_diameter_9_mm_depth/m6_grubscrew_m3_shaft_72_teeth_extra/part
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%203rs8e
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%203rs8e
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%203rs8e
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%203rs8e
+link_redirect: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/parts/oobb_gear_09_09_ex_72_teeth_sh_m6_grubscrew_m3
+manufacturer: ''
+manufacturer_name: ''
+md5: 60aaae6ec8b9d8589e0697e2897b4c05
+md5_10: 60aaae6ec8
+md5_10_upper: 60AAAE6EC8
+md5_5: 60aaa
+md5_5_upper: 60AAA
+md5_6: 60aaae
+md5_6_alpha: 3rs8e
+md5_6_alpha_upper: 3RS8E
+md5_6_upper: 60AAAE
+name: Oobb Part Gear 9 Diameter 9 mm Depth M6 Grubscrew M3 Shaft 72 Teeth Extra
+name_no_class: Part Gear 9 Diameter 9 mm Depth M6 Grubscrew M3 Shaft 72 Teeth Extra
+name_no_color: 9Diameter9mmdepthm6Grubscrewm3Shaft72Teethextra
+name_no_size: 9 Diameter 9 mm Depth M6 Grubscrew M3 Shaft 72 Teeth Extra
+name_no_type: Gear 9 Diameter 9 mm Depth M6 Grubscrew M3 Shaft 72 Teeth Extra
+name_short: Gear 9x9 M6 Grubscrew M3 Shaft 72 Teeth
+oomlout_detail_hierarchy_1: oobb
+oomlout_detail_hierarchy_1_upper: OOBB
+oomlout_detail_hierarchy_1_upper_length_4: OOBB
+oomlout_detail_hierarchy_2: part
+oomlout_detail_hierarchy_2_upper: PART
+oomlout_detail_hierarchy_2_upper_length_4: PART
+oomlout_detail_hierarchy_3: gear
+oomlout_detail_hierarchy_3_upper: GEAR
+oomlout_detail_hierarchy_3_upper_length_4: GEAR
+oomlout_detail_hierarchy_4: 9_diameter
+oomlout_detail_hierarchy_4_upper: 9_DIAMETER
+oomlout_detail_hierarchy_4_upper_length_4: 9_DI
+oomlout_detail_hierarchy_5: 9_mm_depth
+oomlout_detail_hierarchy_5_upper: 9_MM_DEPTH
+oomlout_detail_hierarchy_5_upper_length_4: 9DEP
+oomlout_detail_hierarchy_6: m6_grubsm3_shaft_72
+oomlout_detail_hierarchy_6_upper: M6_GRUBSM3_SHAFT_72
+oomlout_detail_hierarchy_6_upper_length_4: M6_G
+oomlout_detail_hierarchy_7: teeth_extra
+oomlout_detail_hierarchy_7_upper: TEETH_EXTRA
+oomlout_detail_hierarchy_7_upper_length_4: TEET
+oomlout_oomp_utility_custom_data_manipulation: true
+oomp_key: oomp_oobb_part_gear_9_diameter_9_mm_depth_m6_grubscrew_m3_shaft_72_teeth_extra
+oomp_word: poodle lipstick jeans
+oomp_word_emoji: ':poodle: :lipstick: :jeans:'
+oomp_word_emoji_list:
+- ':poodle:'
+- ':lipstick:'
+- ':jeans:'
+oomp_word_list:
+- poodle
+- lipstick
+- jeans
+part_number: ''
+part_number_name: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
+shaft: m6_grubscrew_m3
+short_name: ''
+size: gear
+size_length_1: g
+size_length_2: ge
+size_length_3: gea
+size_length_4: gear
+size_length_5: gear
+size_length_6: gear
+size_name: Gear
+size_no_space_length_1: g
+size_no_space_length_2: ge
+size_no_space_length_3: gea
+size_no_space_length_4: gear
+size_no_space_length_5: gear
+size_no_space_length_6: gear
+size_no_space_upper_length_1: G
+size_no_space_upper_length_2: GE
+size_no_space_upper_length_3: GEA
+size_no_space_upper_length_4: GEAR
+size_no_space_upper_length_5: GEAR
+size_no_space_upper_length_6: GEAR
+size_upper_length_1: G
+size_upper_length_2: GE
+size_upper_length_3: GEA
+size_upper_length_4: GEAR
+size_upper_length_5: GEAR
+size_upper_length_6: GEAR
+thickness: 9
+thickness_mm: 9
+type: part
+type_length_1: p
+type_length_2: pa
+type_length_3: par
+type_length_4: part
+type_length_5: part
+type_length_6: part
+type_name: Part
+type_no_space_length_1: p
+type_no_space_length_2: pa
+type_no_space_length_3: par
+type_no_space_length_4: part
+type_no_space_length_5: part
+type_no_space_length_6: part
+type_no_space_upper_length_1: P
+type_no_space_upper_length_2: PA
+type_no_space_upper_length_3: PAR
+type_no_space_upper_length_4: PART
+type_no_space_upper_length_5: PART
+type_no_space_upper_length_6: PART
+type_upper_length_1: P
+type_upper_length_2: PA
+type_upper_length_3: PAR
+type_upper_length_4: PART
+type_upper_length_5: PART
+type_upper_length_6: PART

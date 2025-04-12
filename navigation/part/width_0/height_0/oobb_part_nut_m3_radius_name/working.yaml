@@ -1,0 +1,224 @@
+bip_39_word_dash_12: opera-sun-ancient-profit-protect-maple-fever-prevent-shrug-grace-industry-autumn
+bip_39_word_dash_2: opera-sun
+bip_39_word_dash_3: opera-sun-ancient
+bip_39_word_new_br_12: opera<br>sun<br>ancient<br>profit<br>protect<br>maple<br>fever<br>prevent<br>shrug<br>grace<br>industry<br>autumn
+bip_39_word_new_br_2: opera<br>sun
+bip_39_word_new_br_3: opera<br>sun<br>ancient
+bip_39_word_new_line_12: 'opera
+
+  sun
+
+  ancient
+
+  profit
+
+  protect
+
+  maple
+
+  fever
+
+  prevent
+
+  shrug
+
+  grace
+
+  industry
+
+  autumn'
+bip_39_word_new_line_2: 'opera
+
+  sun'
+bip_39_word_new_line_3: 'opera
+
+  sun
+
+  ancient'
+bip_39_word_no_space_12: operasunancientprofitprotectmaplefeverpreventshruggraceindustryautumn
+bip_39_word_no_space_2: operasun
+bip_39_word_no_space_3: operasunancient
+bip_39_word_space_12: opera sun ancient profit protect maple fever prevent shrug grace
+  industry autumn
+bip_39_word_space_2: opera sun
+bip_39_word_space_3: opera sun ancient
+bip_39_word_underscore_12: opera_sun_ancient_profit_protect_maple_fever_prevent_shrug_grace_industry_autumn
+bip_39_word_underscore_2: opera_sun
+bip_39_word_underscore_3: opera_sun_ancient
+classification: oobb
+classification_length_1: o
+classification_length_2: oo
+classification_length_3: oob
+classification_length_4: oobb
+classification_length_5: oobb
+classification_length_6: oobb
+classification_name: Oobb
+classification_no_space_length_1: o
+classification_no_space_length_2: oo
+classification_no_space_length_3: oob
+classification_no_space_length_4: oobb
+classification_no_space_length_5: oobb
+classification_no_space_length_6: oobb
+classification_no_space_upper_length_1: O
+classification_no_space_upper_length_2: OO
+classification_no_space_upper_length_3: OOB
+classification_no_space_upper_length_4: OOBB
+classification_no_space_upper_length_5: OOBB
+classification_no_space_upper_length_6: OOBB
+classification_upper_length_1: O
+classification_upper_length_2: OO
+classification_upper_length_3: OOB
+classification_upper_length_4: OOBB
+classification_upper_length_5: OOBB
+classification_upper_length_6: OOBB
+color: ''
+color_name: ''
+components: []
+components_objects: []
+components_string: []
+description: nut 0x0x0
+description_extra: m3_radius_name
+description_extra_length_1: m
+description_extra_length_2: m3
+description_extra_length_3: m3_
+description_extra_length_4: m3_r
+description_extra_length_5: m3_ra
+description_extra_length_6: m3_rad
+description_extra_name: M3 Radius Name
+description_extra_no_space_length_1: m
+description_extra_no_space_length_2: m3
+description_extra_no_space_length_3: m3r
+description_extra_no_space_length_4: m3ra
+description_extra_no_space_length_5: m3rad
+description_extra_no_space_length_6: m3radi
+description_extra_no_space_upper_length_1: M
+description_extra_no_space_upper_length_2: M3
+description_extra_no_space_upper_length_3: M3R
+description_extra_no_space_upper_length_4: M3RA
+description_extra_no_space_upper_length_5: M3RAD
+description_extra_no_space_upper_length_6: M3RADI
+description_extra_upper_length_1: M
+description_extra_upper_length_2: M3
+description_extra_upper_length_3: M3_
+description_extra_upper_length_4: M3_R
+description_extra_upper_length_5: M3_RA
+description_extra_upper_length_6: M3_RAD
+description_main: ''
+description_main_name: ''
+directory: parts/oobb_part_nut_m3_radius_name
+folder: C:\gh\oomlout_oobb_version_4_generated_parts\parts\oobb_part_nut_m3_radius_name
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_nut_m3_radius_name
+id: oobb_part_nut_m3_radius_name
+id_no_class: part_nut_m3_radius_name
+id_no_color: m3radiusname
+id_no_size: m3_radius_name
+id_no_type: nut_m3_radius_name
+link_1: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/nut//m3_radius_name/part
+link_1_name: link_main
+link_main: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/nut//m3_radius_name/part
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%209sfh5
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%209sfh5
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%209sfh5
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%209sfh5
+link_redirect: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/parts/hardware_nut_m3
+manufacturer: ''
+manufacturer_name: ''
+md5: fae6595e3aaa4aae1e565abc113654da
+md5_10: fae6595e3a
+md5_10_upper: FAE6595E3A
+md5_5: fae65
+md5_5_upper: FAE65
+md5_6: fae659
+md5_6_alpha: 9sfh5
+md5_6_alpha_upper: 9SFH5
+md5_6_upper: FAE659
+name: Oobb Part Nut M3 Radius Name
+name_no_class: Part Nut M3 Radius Name
+name_no_color: M3Radiusname
+name_no_size: M3 Radius Name
+name_no_type: Nut M3 Radius Name
+name_short: Nut M3 Radius Name
+oomlout_detail_hierarchy_1: oobb
+oomlout_detail_hierarchy_1_upper: OOBB
+oomlout_detail_hierarchy_1_upper_length_4: OOBB
+oomlout_detail_hierarchy_2: part
+oomlout_detail_hierarchy_2_upper: PART
+oomlout_detail_hierarchy_2_upper_length_4: PART
+oomlout_detail_hierarchy_3: nut
+oomlout_detail_hierarchy_3_upper: NUT
+oomlout_detail_hierarchy_3_upper_length_4: NUT
+oomlout_detail_hierarchy_4: m3_radius_name
+oomlout_detail_hierarchy_4_upper: M3_RADIUS_NAME
+oomlout_detail_hierarchy_4_upper_length_4: M3_R
+oomlout_oomp_utility_custom_data_manipulation: true
+oomp_key: oomp_oobb_part_nut_m3_radius_name
+oomp_word: nine airplane dragon
+oomp_word_emoji: ':nine: :airplane: :dragon:'
+oomp_word_emoji_list:
+- ':nine:'
+- ':airplane:'
+- ':dragon:'
+oomp_word_list:
+- nine
+- airplane
+- dragon
+part_number: ''
+part_number_name: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
+radius_name: m3
+short_name: ''
+size: nut
+size_length_1: n
+size_length_2: nu
+size_length_3: nut
+size_length_4: nut
+size_length_5: nut
+size_length_6: nut
+size_name: Nut
+size_no_space_length_1: n
+size_no_space_length_2: nu
+size_no_space_length_3: nut
+size_no_space_length_4: nut
+size_no_space_length_5: nut
+size_no_space_length_6: nut
+size_no_space_upper_length_1: N
+size_no_space_upper_length_2: NU
+size_no_space_upper_length_3: NUT
+size_no_space_upper_length_4: NUT
+size_no_space_upper_length_5: NUT
+size_no_space_upper_length_6: NUT
+size_upper_length_1: N
+size_upper_length_2: NU
+size_upper_length_3: NUT
+size_upper_length_4: NUT
+size_upper_length_5: NUT
+size_upper_length_6: NUT
+type: part
+type_length_1: p
+type_length_2: pa
+type_length_3: par
+type_length_4: part
+type_length_5: part
+type_length_6: part
+type_name: Part
+type_no_space_length_1: p
+type_no_space_length_2: pa
+type_no_space_length_3: par
+type_no_space_length_4: part
+type_no_space_length_5: part
+type_no_space_length_6: part
+type_no_space_upper_length_1: P
+type_no_space_upper_length_2: PA
+type_no_space_upper_length_3: PAR
+type_no_space_upper_length_4: PART
+type_no_space_upper_length_5: PART
+type_no_space_upper_length_6: PART
+type_upper_length_1: P
+type_upper_length_2: PA
+type_upper_length_3: PAR
+type_upper_length_4: PART
+type_upper_length_5: PART
+type_upper_length_6: PART

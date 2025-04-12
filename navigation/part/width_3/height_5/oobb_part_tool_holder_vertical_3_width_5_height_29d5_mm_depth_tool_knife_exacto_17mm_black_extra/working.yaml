@@ -1,0 +1,263 @@
+bip_39_word_dash_12: hammer-dry-become-empty-position-liberty-enrich-device-way-expire-combine-access
+bip_39_word_dash_2: hammer-dry
+bip_39_word_dash_3: hammer-dry-become
+bip_39_word_new_br_12: hammer<br>dry<br>become<br>empty<br>position<br>liberty<br>enrich<br>device<br>way<br>expire<br>combine<br>access
+bip_39_word_new_br_2: hammer<br>dry
+bip_39_word_new_br_3: hammer<br>dry<br>become
+bip_39_word_new_line_12: 'hammer
+
+  dry
+
+  become
+
+  empty
+
+  position
+
+  liberty
+
+  enrich
+
+  device
+
+  way
+
+  expire
+
+  combine
+
+  access'
+bip_39_word_new_line_2: 'hammer
+
+  dry'
+bip_39_word_new_line_3: 'hammer
+
+  dry
+
+  become'
+bip_39_word_no_space_12: hammerdrybecomeemptypositionlibertyenrichdevicewayexpirecombineaccess
+bip_39_word_no_space_2: hammerdry
+bip_39_word_no_space_3: hammerdrybecome
+bip_39_word_space_12: hammer dry become empty position liberty enrich device way expire
+  combine access
+bip_39_word_space_2: hammer dry
+bip_39_word_space_3: hammer dry become
+bip_39_word_underscore_12: hammer_dry_become_empty_position_liberty_enrich_device_way_expire_combine_access
+bip_39_word_underscore_2: hammer_dry
+bip_39_word_underscore_3: hammer_dry_become
+classification: oobb
+classification_length_1: o
+classification_length_2: oo
+classification_length_3: oob
+classification_length_4: oobb
+classification_length_5: oobb
+classification_length_6: oobb
+classification_name: Oobb
+classification_no_space_length_1: o
+classification_no_space_length_2: oo
+classification_no_space_length_3: oob
+classification_no_space_length_4: oobb
+classification_no_space_length_5: oobb
+classification_no_space_length_6: oobb
+classification_no_space_upper_length_1: O
+classification_no_space_upper_length_2: OO
+classification_no_space_upper_length_3: OOB
+classification_no_space_upper_length_4: OOBB
+classification_no_space_upper_length_5: OOBB
+classification_no_space_upper_length_6: OOBB
+classification_upper_length_1: O
+classification_upper_length_2: OO
+classification_upper_length_3: OOB
+classification_upper_length_4: OOBB
+classification_upper_length_5: OOBB
+classification_upper_length_6: OOBB
+color: ''
+color_name: ''
+components: []
+components_objects: []
+components_string: []
+description: tool holder vertical 3x5x29.5
+description_extra: tool_knife_exacto_17mm_black_extra
+description_extra_length_1: t
+description_extra_length_2: to
+description_extra_length_3: too
+description_extra_length_4: tool
+description_extra_length_5: tool_
+description_extra_length_6: tool_k
+description_extra_name: Tool Knife Exacto 17mm Black Extra
+description_extra_no_space_length_1: t
+description_extra_no_space_length_2: to
+description_extra_no_space_length_3: too
+description_extra_no_space_length_4: tool
+description_extra_no_space_length_5: toolk
+description_extra_no_space_length_6: toolkn
+description_extra_no_space_upper_length_1: T
+description_extra_no_space_upper_length_2: TO
+description_extra_no_space_upper_length_3: TOO
+description_extra_no_space_upper_length_4: TOOL
+description_extra_no_space_upper_length_5: TOOLK
+description_extra_no_space_upper_length_6: TOOLKN
+description_extra_upper_length_1: T
+description_extra_upper_length_2: TO
+description_extra_upper_length_3: TOO
+description_extra_upper_length_4: TOOL
+description_extra_upper_length_5: TOOL_
+description_extra_upper_length_6: TOOL_K
+description_main: 3_width_5_height_29.5_mm_depth
+description_main_length_1: '3'
+description_main_length_2: '3_'
+description_main_length_3: 3_w
+description_main_length_4: 3_wi
+description_main_length_5: 3_wid
+description_main_length_6: 3_widt
+description_main_name: 3 Width 5 Height 29.5 mm Depth
+description_main_no_space_length_1: '3'
+description_main_no_space_length_2: 3w
+description_main_no_space_length_3: 3wi
+description_main_no_space_length_4: 3wid
+description_main_no_space_length_5: 3widt
+description_main_no_space_length_6: 3width
+description_main_no_space_upper_length_1: '3'
+description_main_no_space_upper_length_2: 3W
+description_main_no_space_upper_length_3: 3WI
+description_main_no_space_upper_length_4: 3WID
+description_main_no_space_upper_length_5: 3WIDT
+description_main_no_space_upper_length_6: 3WIDTH
+description_main_upper_length_1: '3'
+description_main_upper_length_2: '3_'
+description_main_upper_length_3: 3_W
+description_main_upper_length_4: 3_WI
+description_main_upper_length_5: 3_WID
+description_main_upper_length_6: 3_WIDT
+directory: parts/oobb_part_tool_holder_vertical_3_width_5_height_29d5_mm_depth_tool_knife_exacto_17mm_black_extra
+extra: tool_knife_exacto_17mm_black
+folder: C:\gh\oomlout_oobb_version_4_generated_parts\parts\oobb_part_tool_holder_vertical_3_width_5_height_29d5_mm_depth_tool_knife_exacto_17mm_black_extra
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tool_holder_vertical_3_width_5_height_29d5_mm_depth_tool_knife_exacto_17mm_black_extra
+height: 5
+height_mm: 74
+id: oobb_part_tool_holder_vertical_3_width_5_height_29d5_mm_depth_tool_knife_exacto_17mm_black_extra
+id_no_class: part_tool_holder_vertical_3_width_5_height_29d5_mm_depth_tool_knife_exacto_17mm_black_extra
+id_no_color: 3width5height29d5mmdepthtoolknifeexacto17mmblackextra
+id_no_size: 3_width_5_height_29d5_mm_depth_tool_knife_exacto_17mm_black_extra
+id_no_type: tool_holder_vertical_3_width_5_height_29d5_mm_depth_tool_knife_exacto_17mm_black_extra
+link_1: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/tool_holder_vertical/3_width_5_height_29.5_mm_depth/tool_knife_exacto_17mm_black_extra/part
+link_1_name: link_main
+link_main: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/tool_holder_vertical/3_width_5_height_29.5_mm_depth/tool_knife_exacto_17mm_black_extra/part
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%20slhw
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%20slhw
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%20slhw
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%20slhw
+link_redirect: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/parts/oobb_tool_holder_vertical_03_05_29d5_ex_tool_knife_exacto_17mm_black
+manufacturer: ''
+manufacturer_name: ''
+md5: 145bd41fc03ca96203d4349227d0eb44
+md5_10: 145bd41fc0
+md5_10_upper: 145BD41FC0
+md5_5: 145bd
+md5_5_upper: 145BD
+md5_6: 145bd4
+md5_6_alpha: slhw
+md5_6_alpha_upper: SLHW
+md5_6_upper: 145BD4
+name: Oobb Part Tool Holder Vertical 3 Width 5 Height 29D5 mm Depth Tool Knife Exacto
+  17mm Black Extra
+name_no_class: Part Tool Holder Vertical 3 Width 5 Height 29D5 mm Depth Tool Knife
+  Exacto 17mm Black Extra
+name_no_color: 3Width5Height29D5mmdepthtoolknifeexacto17mmblackextra
+name_no_size: 3 Width 5 Height 29D5 mm Depth Tool Knife Exacto 17mm Black Extra
+name_no_type: Tool Holder Vertical 3 Width 5 Height 29D5 mm Depth Tool Knife Exacto
+  17mm Black Extra
+name_short: Tool Holder Vertical 3x5x29D5 Tool
+oomlout_detail_hierarchy_1: oobb
+oomlout_detail_hierarchy_1_upper: OOBB
+oomlout_detail_hierarchy_1_upper_length_4: OOBB
+oomlout_detail_hierarchy_2: part
+oomlout_detail_hierarchy_2_upper: PART
+oomlout_detail_hierarchy_2_upper_length_4: PART
+oomlout_detail_hierarchy_3: tool_holder_vertical
+oomlout_detail_hierarchy_3_upper: TOOL_HOLDER_VERTICAL
+oomlout_detail_hierarchy_3_upper_length_4: TOOL
+oomlout_detail_hierarchy_4: 5_mm_depth
+oomlout_detail_hierarchy_4_upper: 5_MM_DEPTH
+oomlout_detail_hierarchy_4_upper_length_4: 5DEP
+oomlout_detail_hierarchy_5: tool_knife_exacto_17mm
+oomlout_detail_hierarchy_5_upper: TOOL_KNIFE_EXACTO_17MM
+oomlout_detail_hierarchy_5_upper_length_4: TOOL
+oomlout_detail_hierarchy_6: black_extra
+oomlout_detail_hierarchy_6_upper: BLACK_EXTRA
+oomlout_detail_hierarchy_6_upper_length_4: BLAC
+oomlout_oomp_utility_custom_data_manipulation: true
+oomp_key: oomp_oobb_part_tool_holder_vertical_3_width_5_height_29d5_mm_depth_tool_knife_exacto_17mm_black_extra
+oomp_word: fire rooster corn
+oomp_word_emoji: ':fire: :rooster: :corn:'
+oomp_word_emoji_list:
+- ':fire:'
+- ':rooster:'
+- ':corn:'
+oomp_word_list:
+- fire
+- rooster
+- corn
+part_number: ''
+part_number_name: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
+short_name: ''
+size: tool_holder_vertical
+size_length_1: t
+size_length_2: to
+size_length_3: too
+size_length_4: tool
+size_length_5: tool_
+size_length_6: tool_h
+size_name: Tool Holder Vertical
+size_no_space_length_1: t
+size_no_space_length_2: to
+size_no_space_length_3: too
+size_no_space_length_4: tool
+size_no_space_length_5: toolh
+size_no_space_length_6: toolho
+size_no_space_upper_length_1: T
+size_no_space_upper_length_2: TO
+size_no_space_upper_length_3: TOO
+size_no_space_upper_length_4: TOOL
+size_no_space_upper_length_5: TOOLH
+size_no_space_upper_length_6: TOOLHO
+size_upper_length_1: T
+size_upper_length_2: TO
+size_upper_length_3: TOO
+size_upper_length_4: TOOL
+size_upper_length_5: TOOL_
+size_upper_length_6: TOOL_H
+thickness: 29.5
+thickness_mm: 29.5
+type: part
+type_length_1: p
+type_length_2: pa
+type_length_3: par
+type_length_4: part
+type_length_5: part
+type_length_6: part
+type_name: Part
+type_no_space_length_1: p
+type_no_space_length_2: pa
+type_no_space_length_3: par
+type_no_space_length_4: part
+type_no_space_length_5: part
+type_no_space_length_6: part
+type_no_space_upper_length_1: P
+type_no_space_upper_length_2: PA
+type_no_space_upper_length_3: PAR
+type_no_space_upper_length_4: PART
+type_no_space_upper_length_5: PART
+type_no_space_upper_length_6: PART
+type_upper_length_1: P
+type_upper_length_2: PA
+type_upper_length_3: PAR
+type_upper_length_4: PART
+type_upper_length_5: PART
+type_upper_length_6: PART
+width: 3
+width_mm: 44

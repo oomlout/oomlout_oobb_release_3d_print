@@ -1,0 +1,229 @@
+bip_39_word_dash_12: shine-eyebrow-bomb-account-purse-gravity-pipe-float-slow-bacon-legend-asset
+bip_39_word_dash_2: shine-eyebrow
+bip_39_word_dash_3: shine-eyebrow-bomb
+bip_39_word_new_br_12: shine<br>eyebrow<br>bomb<br>account<br>purse<br>gravity<br>pipe<br>float<br>slow<br>bacon<br>legend<br>asset
+bip_39_word_new_br_2: shine<br>eyebrow
+bip_39_word_new_br_3: shine<br>eyebrow<br>bomb
+bip_39_word_new_line_12: 'shine
+
+  eyebrow
+
+  bomb
+
+  account
+
+  purse
+
+  gravity
+
+  pipe
+
+  float
+
+  slow
+
+  bacon
+
+  legend
+
+  asset'
+bip_39_word_new_line_2: 'shine
+
+  eyebrow'
+bip_39_word_new_line_3: 'shine
+
+  eyebrow
+
+  bomb'
+bip_39_word_no_space_12: shineeyebrowbombaccountpursegravitypipefloatslowbaconlegendasset
+bip_39_word_no_space_2: shineeyebrow
+bip_39_word_no_space_3: shineeyebrowbomb
+bip_39_word_space_12: shine eyebrow bomb account purse gravity pipe float slow bacon
+  legend asset
+bip_39_word_space_2: shine eyebrow
+bip_39_word_space_3: shine eyebrow bomb
+bip_39_word_underscore_12: shine_eyebrow_bomb_account_purse_gravity_pipe_float_slow_bacon_legend_asset
+bip_39_word_underscore_2: shine_eyebrow
+bip_39_word_underscore_3: shine_eyebrow_bomb
+classification: oobb
+classification_length_1: o
+classification_length_2: oo
+classification_length_3: oob
+classification_length_4: oobb
+classification_length_5: oobb
+classification_length_6: oobb
+classification_name: Oobb
+classification_no_space_length_1: o
+classification_no_space_length_2: oo
+classification_no_space_length_3: oob
+classification_no_space_length_4: oobb
+classification_no_space_length_5: oobb
+classification_no_space_length_6: oobb
+classification_no_space_upper_length_1: O
+classification_no_space_upper_length_2: OO
+classification_no_space_upper_length_3: OOB
+classification_no_space_upper_length_4: OOBB
+classification_no_space_upper_length_5: OOBB
+classification_no_space_upper_length_6: OOBB
+classification_upper_length_1: O
+classification_upper_length_2: OO
+classification_upper_length_3: OOB
+classification_upper_length_4: OOBB
+classification_upper_length_5: OOBB
+classification_upper_length_6: OOBB
+color: ''
+color_name: ''
+components: []
+components_objects: []
+components_string: []
+description: tray thin 6x5x27
+description_extra: ''
+description_extra_name: ''
+description_main: 6_width_5_height_27_mm_depth
+description_main_length_1: '6'
+description_main_length_2: '6_'
+description_main_length_3: 6_w
+description_main_length_4: 6_wi
+description_main_length_5: 6_wid
+description_main_length_6: 6_widt
+description_main_name: 6 Width 5 Height 27 mm Depth
+description_main_no_space_length_1: '6'
+description_main_no_space_length_2: 6w
+description_main_no_space_length_3: 6wi
+description_main_no_space_length_4: 6wid
+description_main_no_space_length_5: 6widt
+description_main_no_space_length_6: 6width
+description_main_no_space_upper_length_1: '6'
+description_main_no_space_upper_length_2: 6W
+description_main_no_space_upper_length_3: 6WI
+description_main_no_space_upper_length_4: 6WID
+description_main_no_space_upper_length_5: 6WIDT
+description_main_no_space_upper_length_6: 6WIDTH
+description_main_upper_length_1: '6'
+description_main_upper_length_2: '6_'
+description_main_upper_length_3: 6_W
+description_main_upper_length_4: 6_WI
+description_main_upper_length_5: 6_WID
+description_main_upper_length_6: 6_WIDT
+directory: parts/oobb_part_tray_thin_6_width_5_height_27_mm_depth
+folder: C:\gh\oomlout_oobb_version_4_generated_parts\parts\oobb_part_tray_thin_6_width_5_height_27_mm_depth
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_6_width_5_height_27_mm_depth
+height: 5
+height_mm: 74
+id: oobb_part_tray_thin_6_width_5_height_27_mm_depth
+id_no_class: part_tray_thin_6_width_5_height_27_mm_depth
+id_no_color: 6width5height27mmdepth
+id_no_size: 6_width_5_height_27_mm_depth
+id_no_type: tray_thin_6_width_5_height_27_mm_depth
+link_1: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/tray_thin/6_width_5_height_27_mm_depth/part
+link_1_name: link_main
+link_main: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/tray_thin/6_width_5_height_27_mm_depth/part
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%208jm6c
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%208jm6c
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%208jm6c
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%208jm6c
+link_redirect: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/parts/oobb_tray_thin_06_05_27
+manufacturer: ''
+manufacturer_name: ''
+md5: daff0456615934a9985740183254562f
+md5_10: daff045661
+md5_10_upper: DAFF045661
+md5_5: daff0
+md5_5_upper: DAFF0
+md5_6: daff04
+md5_6_alpha: 8jm6c
+md5_6_alpha_upper: 8JM6C
+md5_6_upper: DAFF04
+name: Oobb Part Tray Thin 6 Width 5 Height 27 mm Depth
+name_no_class: Part Tray Thin 6 Width 5 Height 27 mm Depth
+name_no_color: 6Width5Height27mmdepth
+name_no_size: 6 Width 5 Height 27 mm Depth
+name_no_type: Tray Thin 6 Width 5 Height 27 mm Depth
+name_short: 'Tray Thin 6x5x27 '
+oomlout_detail_hierarchy_1: oobb
+oomlout_detail_hierarchy_1_upper: OOBB
+oomlout_detail_hierarchy_1_upper_length_4: OOBB
+oomlout_detail_hierarchy_2: part
+oomlout_detail_hierarchy_2_upper: PART
+oomlout_detail_hierarchy_2_upper_length_4: PART
+oomlout_detail_hierarchy_3: tray_thin
+oomlout_detail_hierarchy_3_upper: TRAY_THIN
+oomlout_detail_hierarchy_3_upper_length_4: TRAY
+oomlout_detail_hierarchy_4: 27_mm_depth
+oomlout_detail_hierarchy_4_upper: 27_MM_DEPTH
+oomlout_detail_hierarchy_4_upper_length_4: 27DE
+oomlout_oomp_utility_custom_data_manipulation: true
+oomp_key: oomp_oobb_part_tray_thin_6_width_5_height_27_mm_depth
+oomp_word: hotel trident wink
+oomp_word_emoji: ':hotel: :trident: :wink:'
+oomp_word_emoji_list:
+- ':hotel:'
+- ':trident:'
+- ':wink:'
+oomp_word_list:
+- hotel
+- trident
+- wink
+part_number: ''
+part_number_name: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
+short_name: ''
+size: tray_thin
+size_length_1: t
+size_length_2: tr
+size_length_3: tra
+size_length_4: tray
+size_length_5: tray_
+size_length_6: tray_t
+size_name: Tray Thin
+size_no_space_length_1: t
+size_no_space_length_2: tr
+size_no_space_length_3: tra
+size_no_space_length_4: tray
+size_no_space_length_5: trayt
+size_no_space_length_6: trayth
+size_no_space_upper_length_1: T
+size_no_space_upper_length_2: TR
+size_no_space_upper_length_3: TRA
+size_no_space_upper_length_4: TRAY
+size_no_space_upper_length_5: TRAYT
+size_no_space_upper_length_6: TRAYTH
+size_upper_length_1: T
+size_upper_length_2: TR
+size_upper_length_3: TRA
+size_upper_length_4: TRAY
+size_upper_length_5: TRAY_
+size_upper_length_6: TRAY_T
+thickness: 27
+thickness_mm: 27
+type: part
+type_length_1: p
+type_length_2: pa
+type_length_3: par
+type_length_4: part
+type_length_5: part
+type_length_6: part
+type_name: Part
+type_no_space_length_1: p
+type_no_space_length_2: pa
+type_no_space_length_3: par
+type_no_space_length_4: part
+type_no_space_length_5: part
+type_no_space_length_6: part
+type_no_space_upper_length_1: P
+type_no_space_upper_length_2: PA
+type_no_space_upper_length_3: PAR
+type_no_space_upper_length_4: PART
+type_no_space_upper_length_5: PART
+type_no_space_upper_length_6: PART
+type_upper_length_1: P
+type_upper_length_2: PA
+type_upper_length_3: PAR
+type_upper_length_4: PART
+type_upper_length_5: PART
+type_upper_length_6: PART
+width: 6
+width_mm: 89

@@ -1,0 +1,229 @@
+bip_39_word_dash_12: explain-fault-puppy-element-achieve-neither-coast-survey-shaft-bread-ranch-alarm
+bip_39_word_dash_2: explain-fault
+bip_39_word_dash_3: explain-fault-puppy
+bip_39_word_new_br_12: explain<br>fault<br>puppy<br>element<br>achieve<br>neither<br>coast<br>survey<br>shaft<br>bread<br>ranch<br>alarm
+bip_39_word_new_br_2: explain<br>fault
+bip_39_word_new_br_3: explain<br>fault<br>puppy
+bip_39_word_new_line_12: 'explain
+
+  fault
+
+  puppy
+
+  element
+
+  achieve
+
+  neither
+
+  coast
+
+  survey
+
+  shaft
+
+  bread
+
+  ranch
+
+  alarm'
+bip_39_word_new_line_2: 'explain
+
+  fault'
+bip_39_word_new_line_3: 'explain
+
+  fault
+
+  puppy'
+bip_39_word_no_space_12: explainfaultpuppyelementachieveneithercoastsurveyshaftbreadranchalarm
+bip_39_word_no_space_2: explainfault
+bip_39_word_no_space_3: explainfaultpuppy
+bip_39_word_space_12: explain fault puppy element achieve neither coast survey shaft
+  bread ranch alarm
+bip_39_word_space_2: explain fault
+bip_39_word_space_3: explain fault puppy
+bip_39_word_underscore_12: explain_fault_puppy_element_achieve_neither_coast_survey_shaft_bread_ranch_alarm
+bip_39_word_underscore_2: explain_fault
+bip_39_word_underscore_3: explain_fault_puppy
+classification: oobb
+classification_length_1: o
+classification_length_2: oo
+classification_length_3: oob
+classification_length_4: oobb
+classification_length_5: oobb
+classification_length_6: oobb
+classification_name: Oobb
+classification_no_space_length_1: o
+classification_no_space_length_2: oo
+classification_no_space_length_3: oob
+classification_no_space_length_4: oobb
+classification_no_space_length_5: oobb
+classification_no_space_length_6: oobb
+classification_no_space_upper_length_1: O
+classification_no_space_upper_length_2: OO
+classification_no_space_upper_length_3: OOB
+classification_no_space_upper_length_4: OOBB
+classification_no_space_upper_length_5: OOBB
+classification_no_space_upper_length_6: OOBB
+classification_upper_length_1: O
+classification_upper_length_2: OO
+classification_upper_length_3: OOB
+classification_upper_length_4: OOBB
+classification_upper_length_5: OOBB
+classification_upper_length_6: OOBB
+color: ''
+color_name: ''
+components: []
+components_objects: []
+components_string: []
+description: tray thin 10x5x24
+description_extra: ''
+description_extra_name: ''
+description_main: 10_width_5_height_24_mm_depth
+description_main_length_1: '1'
+description_main_length_2: '10'
+description_main_length_3: '10_'
+description_main_length_4: 10_w
+description_main_length_5: 10_wi
+description_main_length_6: 10_wid
+description_main_name: 10 Width 5 Height 24 mm Depth
+description_main_no_space_length_1: '1'
+description_main_no_space_length_2: '10'
+description_main_no_space_length_3: 10w
+description_main_no_space_length_4: 10wi
+description_main_no_space_length_5: 10wid
+description_main_no_space_length_6: 10widt
+description_main_no_space_upper_length_1: '1'
+description_main_no_space_upper_length_2: '10'
+description_main_no_space_upper_length_3: 10W
+description_main_no_space_upper_length_4: 10WI
+description_main_no_space_upper_length_5: 10WID
+description_main_no_space_upper_length_6: 10WIDT
+description_main_upper_length_1: '1'
+description_main_upper_length_2: '10'
+description_main_upper_length_3: '10_'
+description_main_upper_length_4: 10_W
+description_main_upper_length_5: 10_WI
+description_main_upper_length_6: 10_WID
+directory: parts/oobb_part_tray_thin_10_width_5_height_24_mm_depth
+folder: C:\gh\oomlout_oobb_version_4_generated_parts\parts\oobb_part_tray_thin_10_width_5_height_24_mm_depth
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_10_width_5_height_24_mm_depth
+height: 5
+height_mm: 74
+id: oobb_part_tray_thin_10_width_5_height_24_mm_depth
+id_no_class: part_tray_thin_10_width_5_height_24_mm_depth
+id_no_color: 10width5height24mmdepth
+id_no_size: 10_width_5_height_24_mm_depth
+id_no_type: tray_thin_10_width_5_height_24_mm_depth
+link_1: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/tray_thin/10_width_5_height_24_mm_depth/part
+link_1_name: link_main
+link_main: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/tray_thin/10_width_5_height_24_mm_depth/part
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%203n6di
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%203n6di
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%203n6di
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%203n6di
+link_redirect: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/parts/oobb_tray_thin_10_05_24
+manufacturer: ''
+manufacturer_name: ''
+md5: 5d6306de27daa59a5080e47b5c14fa84
+md5_10: 5d6306de27
+md5_10_upper: 5D6306DE27
+md5_5: 5d630
+md5_5_upper: 5D630
+md5_6: 5d6306
+md5_6_alpha: 3n6di
+md5_6_alpha_upper: 3N6DI
+md5_6_upper: 5D6306
+name: Oobb Part Tray Thin 10 Width 5 Height 24 mm Depth
+name_no_class: Part Tray Thin 10 Width 5 Height 24 mm Depth
+name_no_color: 10Width5Height24mmdepth
+name_no_size: 10 Width 5 Height 24 mm Depth
+name_no_type: Tray Thin 10 Width 5 Height 24 mm Depth
+name_short: 'Tray Thin 10x5x24 '
+oomlout_detail_hierarchy_1: oobb
+oomlout_detail_hierarchy_1_upper: OOBB
+oomlout_detail_hierarchy_1_upper_length_4: OOBB
+oomlout_detail_hierarchy_2: part
+oomlout_detail_hierarchy_2_upper: PART
+oomlout_detail_hierarchy_2_upper_length_4: PART
+oomlout_detail_hierarchy_3: tray_thin
+oomlout_detail_hierarchy_3_upper: TRAY_THIN
+oomlout_detail_hierarchy_3_upper_length_4: TRAY
+oomlout_detail_hierarchy_4: 24_mm_depth
+oomlout_detail_hierarchy_4_upper: 24_MM_DEPTH
+oomlout_detail_hierarchy_4_upper_length_4: 24DE
+oomlout_oomp_utility_custom_data_manipulation: true
+oomp_key: oomp_oobb_part_tray_thin_10_width_5_height_24_mm_depth
+oomp_word: blowfish rose sleeping
+oomp_word_emoji: ':blowfish: :rose: :sleeping:'
+oomp_word_emoji_list:
+- ':blowfish:'
+- ':rose:'
+- ':sleeping:'
+oomp_word_list:
+- blowfish
+- rose
+- sleeping
+part_number: ''
+part_number_name: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
+short_name: ''
+size: tray_thin
+size_length_1: t
+size_length_2: tr
+size_length_3: tra
+size_length_4: tray
+size_length_5: tray_
+size_length_6: tray_t
+size_name: Tray Thin
+size_no_space_length_1: t
+size_no_space_length_2: tr
+size_no_space_length_3: tra
+size_no_space_length_4: tray
+size_no_space_length_5: trayt
+size_no_space_length_6: trayth
+size_no_space_upper_length_1: T
+size_no_space_upper_length_2: TR
+size_no_space_upper_length_3: TRA
+size_no_space_upper_length_4: TRAY
+size_no_space_upper_length_5: TRAYT
+size_no_space_upper_length_6: TRAYTH
+size_upper_length_1: T
+size_upper_length_2: TR
+size_upper_length_3: TRA
+size_upper_length_4: TRAY
+size_upper_length_5: TRAY_
+size_upper_length_6: TRAY_T
+thickness: 24
+thickness_mm: 24
+type: part
+type_length_1: p
+type_length_2: pa
+type_length_3: par
+type_length_4: part
+type_length_5: part
+type_length_6: part
+type_name: Part
+type_no_space_length_1: p
+type_no_space_length_2: pa
+type_no_space_length_3: par
+type_no_space_length_4: part
+type_no_space_length_5: part
+type_no_space_length_6: part
+type_no_space_upper_length_1: P
+type_no_space_upper_length_2: PA
+type_no_space_upper_length_3: PAR
+type_no_space_upper_length_4: PART
+type_no_space_upper_length_5: PART
+type_no_space_upper_length_6: PART
+type_upper_length_1: P
+type_upper_length_2: PA
+type_upper_length_3: PAR
+type_upper_length_4: PART
+type_upper_length_5: PART
+type_upper_length_6: PART
+width: 10
+width_mm: 149

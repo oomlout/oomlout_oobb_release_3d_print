@@ -1,0 +1,268 @@
+bip_39_word_dash_12: syrup-doctor-alter-cigar-hamster-myself-dress-rural-glimpse-vendor-section-annual
+bip_39_word_dash_2: syrup-doctor
+bip_39_word_dash_3: syrup-doctor-alter
+bip_39_word_new_br_12: syrup<br>doctor<br>alter<br>cigar<br>hamster<br>myself<br>dress<br>rural<br>glimpse<br>vendor<br>section<br>annual
+bip_39_word_new_br_2: syrup<br>doctor
+bip_39_word_new_br_3: syrup<br>doctor<br>alter
+bip_39_word_new_line_12: 'syrup
+
+  doctor
+
+  alter
+
+  cigar
+
+  hamster
+
+  myself
+
+  dress
+
+  rural
+
+  glimpse
+
+  vendor
+
+  section
+
+  annual'
+bip_39_word_new_line_2: 'syrup
+
+  doctor'
+bip_39_word_new_line_3: 'syrup
+
+  doctor
+
+  alter'
+bip_39_word_no_space_12: syrupdoctoraltercigarhamstermyselfdressruralglimpsevendorsectionannual
+bip_39_word_no_space_2: syrupdoctor
+bip_39_word_no_space_3: syrupdoctoralter
+bip_39_word_space_12: syrup doctor alter cigar hamster myself dress rural glimpse
+  vendor section annual
+bip_39_word_space_2: syrup doctor
+bip_39_word_space_3: syrup doctor alter
+bip_39_word_underscore_12: syrup_doctor_alter_cigar_hamster_myself_dress_rural_glimpse_vendor_section_annual
+bip_39_word_underscore_2: syrup_doctor
+bip_39_word_underscore_3: syrup_doctor_alter
+classification: oobb
+classification_length_1: o
+classification_length_2: oo
+classification_length_3: oob
+classification_length_4: oobb
+classification_length_5: oobb
+classification_length_6: oobb
+classification_name: Oobb
+classification_no_space_length_1: o
+classification_no_space_length_2: oo
+classification_no_space_length_3: oob
+classification_no_space_length_4: oobb
+classification_no_space_length_5: oobb
+classification_no_space_length_6: oobb
+classification_no_space_upper_length_1: O
+classification_no_space_upper_length_2: OO
+classification_no_space_upper_length_3: OOB
+classification_no_space_upper_length_4: OOBB
+classification_no_space_upper_length_5: OOBB
+classification_no_space_upper_length_6: OOBB
+classification_upper_length_1: O
+classification_upper_length_2: OO
+classification_upper_length_3: OOB
+classification_upper_length_4: OOBB
+classification_upper_length_5: OOBB
+classification_upper_length_6: OOBB
+color: ''
+color_name: ''
+components: []
+components_objects: []
+components_string: []
+description: holder 9x6x3
+description_extra: computer_power_supply_microsoft_surface_standalone_microsoft_model_1625_extra
+description_extra_length_1: c
+description_extra_length_2: co
+description_extra_length_3: com
+description_extra_length_4: comp
+description_extra_length_5: compu
+description_extra_length_6: comput
+description_extra_name: Computer Power Supply Microsoft Surface Standalone Microsoft
+  Model 1625 Extra
+description_extra_no_space_length_1: c
+description_extra_no_space_length_2: co
+description_extra_no_space_length_3: com
+description_extra_no_space_length_4: comp
+description_extra_no_space_length_5: compu
+description_extra_no_space_length_6: comput
+description_extra_no_space_upper_length_1: C
+description_extra_no_space_upper_length_2: CO
+description_extra_no_space_upper_length_3: COM
+description_extra_no_space_upper_length_4: COMP
+description_extra_no_space_upper_length_5: COMPU
+description_extra_no_space_upper_length_6: COMPUT
+description_extra_upper_length_1: C
+description_extra_upper_length_2: CO
+description_extra_upper_length_3: COM
+description_extra_upper_length_4: COMP
+description_extra_upper_length_5: COMPU
+description_extra_upper_length_6: COMPUT
+description_main: 9_width_6_height_3_mm_depth
+description_main_length_1: '9'
+description_main_length_2: '9_'
+description_main_length_3: 9_w
+description_main_length_4: 9_wi
+description_main_length_5: 9_wid
+description_main_length_6: 9_widt
+description_main_name: 9 Width 6 Height 3 mm Depth
+description_main_no_space_length_1: '9'
+description_main_no_space_length_2: 9w
+description_main_no_space_length_3: 9wi
+description_main_no_space_length_4: 9wid
+description_main_no_space_length_5: 9widt
+description_main_no_space_length_6: 9width
+description_main_no_space_upper_length_1: '9'
+description_main_no_space_upper_length_2: 9W
+description_main_no_space_upper_length_3: 9WI
+description_main_no_space_upper_length_4: 9WID
+description_main_no_space_upper_length_5: 9WIDT
+description_main_no_space_upper_length_6: 9WIDTH
+description_main_upper_length_1: '9'
+description_main_upper_length_2: '9_'
+description_main_upper_length_3: 9_W
+description_main_upper_length_4: 9_WI
+description_main_upper_length_5: 9_WID
+description_main_upper_length_6: 9_WIDT
+directory: parts/oobb_part_holder_9_width_6_height_3_mm_depth_computer_power_supply_microsoft_surface_standalone_microsoft_model_1625_extra
+extra: computer_power_supply_microsoft_surface_standalone_microsoft_model_1625
+folder: C:\gh\oomlout_oobb_version_4_generated_parts\parts\oobb_part_holder_9_width_6_height_3_mm_depth_computer_power_supply_microsoft_surface_standalone_microsoft_model_1625_extra
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_holder_9_width_6_height_3_mm_depth_computer_power_supply_microsoft_surface_standalone_microsoft_model_1625_extra
+height: 6
+height_mm: 89
+id: oobb_part_holder_9_width_6_height_3_mm_depth_computer_power_supply_microsoft_surface_standalone_microsoft_model_1625_extra
+id_no_class: part_holder_9_width_6_height_3_mm_depth_computer_power_supply_microsoft_surface_standalone_microsoft_model_1625_extra
+id_no_color: 9width6height3mmdepthcomputerpowersupplymicrosoftsurfacestandalonemicrosoftmodel1625extra
+id_no_size: 9_width_6_height_3_mm_depth_computer_power_supply_microsoft_surface_standalone_microsoft_model_1625_extra
+id_no_type: holder_9_width_6_height_3_mm_depth_computer_power_supply_microsoft_surface_standalone_microsoft_model_1625_extra
+link_1: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/holder/9_width_6_height_3_mm_depth/computer_power_supply_microsoft_surface_standalone_microsoft_model_1625_extra/part
+link_1_name: link_main
+link_main: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/holder/9_width_6_height_3_mm_depth/computer_power_supply_microsoft_surface_standalone_microsoft_model_1625_extra/part
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%205wu4c
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%205wu4c
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%205wu4c
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%205wu4c
+link_redirect: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/parts/oobb_holder_09_06_03_ex_computer_power_supply_microsoft_surface_standalone_microsoft_model_1625
+manufacturer: ''
+manufacturer_name: ''
+md5: 97857c8b19bd88564934528e0ed016e5
+md5_10: 97857c8b19
+md5_10_upper: 97857C8B19
+md5_5: '97857'
+md5_5_upper: '97857'
+md5_6: 97857c
+md5_6_alpha: 5wu4c
+md5_6_alpha_upper: 5WU4C
+md5_6_upper: 97857C
+name: Oobb Part Holder 9 Width 6 Height 3 mm Depth Computer Power Supply Microsoft
+  Surface Standalone Microsoft Model 1625 Extra
+name_no_class: Part Holder 9 Width 6 Height 3 mm Depth Computer Power Supply Microsoft
+  Surface Standalone Microsoft Model 1625 Extra
+name_no_color: 9Width6Height3mmdepthcomputerpowersupplymicrosoftsurfacestandalonemicrosoftmodel1625Extra
+name_no_size: 9 Width 6 Height 3 mm Depth Computer Power Supply Microsoft Surface
+  Standalone Microsoft Model 1625 Extra
+name_no_type: Holder 9 Width 6 Height 3 mm Depth Computer Power Supply Microsoft Surface
+  Standalone Microsoft Model 1625 Extra
+name_short: Holder 9x6x3 Computer Power Supply
+oomlout_detail_hierarchy_1: oobb
+oomlout_detail_hierarchy_1_upper: OOBB
+oomlout_detail_hierarchy_1_upper_length_4: OOBB
+oomlout_detail_hierarchy_2: part
+oomlout_detail_hierarchy_2_upper: PART
+oomlout_detail_hierarchy_2_upper_length_4: PART
+oomlout_detail_hierarchy_3: holder
+oomlout_detail_hierarchy_3_upper: HOLDER
+oomlout_detail_hierarchy_3_upper_length_4: HOLD
+oomlout_detail_hierarchy_4: 3_mm_depth
+oomlout_detail_hierarchy_4_upper: 3_MM_DEPTH
+oomlout_detail_hierarchy_4_upper_length_4: 3DEP
+oomlout_detail_hierarchy_5: computer_power_supply_microsoft
+oomlout_detail_hierarchy_5_upper: COMPUTER_POWER_SUPPLY_MICROSOFT
+oomlout_detail_hierarchy_5_upper_length_4: COMP
+oomlout_detail_hierarchy_6: surface_standalone_microsoft_model
+oomlout_detail_hierarchy_6_upper: SURFACE_STANDALONE_MICROSOFT_MODEL
+oomlout_detail_hierarchy_6_upper_length_4: SURF
+oomlout_detail_hierarchy_7: 1625_extra
+oomlout_detail_hierarchy_7_upper: 1625_EXTRA
+oomlout_detail_hierarchy_7_upper_length_4: '1625'
+oomlout_oomp_utility_custom_data_manipulation: true
+oomp_key: oomp_oobb_part_holder_9_width_6_height_3_mm_depth_computer_power_supply_microsoft_surface_standalone_microsoft_model_1625_extra
+oomp_word: baseball bulb tv
+oomp_word_emoji: ':baseball: :bulb: :tv:'
+oomp_word_emoji_list:
+- ':baseball:'
+- ':bulb:'
+- ':tv:'
+oomp_word_list:
+- baseball
+- bulb
+- tv
+part_number: ''
+part_number_name: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
+short_name: ''
+size: holder
+size_length_1: h
+size_length_2: ho
+size_length_3: hol
+size_length_4: hold
+size_length_5: holde
+size_length_6: holder
+size_name: Holder
+size_no_space_length_1: h
+size_no_space_length_2: ho
+size_no_space_length_3: hol
+size_no_space_length_4: hold
+size_no_space_length_5: holde
+size_no_space_length_6: holder
+size_no_space_upper_length_1: H
+size_no_space_upper_length_2: HO
+size_no_space_upper_length_3: HOL
+size_no_space_upper_length_4: HOLD
+size_no_space_upper_length_5: HOLDE
+size_no_space_upper_length_6: HOLDER
+size_upper_length_1: H
+size_upper_length_2: HO
+size_upper_length_3: HOL
+size_upper_length_4: HOLD
+size_upper_length_5: HOLDE
+size_upper_length_6: HOLDER
+thickness: 3
+thickness_mm: 3
+type: part
+type_length_1: p
+type_length_2: pa
+type_length_3: par
+type_length_4: part
+type_length_5: part
+type_length_6: part
+type_name: Part
+type_no_space_length_1: p
+type_no_space_length_2: pa
+type_no_space_length_3: par
+type_no_space_length_4: part
+type_no_space_length_5: part
+type_no_space_length_6: part
+type_no_space_upper_length_1: P
+type_no_space_upper_length_2: PA
+type_no_space_upper_length_3: PAR
+type_no_space_upper_length_4: PART
+type_no_space_upper_length_5: PART
+type_no_space_upper_length_6: PART
+type_upper_length_1: P
+type_upper_length_2: PA
+type_upper_length_3: PAR
+type_upper_length_4: PART
+type_upper_length_5: PART
+type_upper_length_6: PART
+width: 9
+width_mm: 134

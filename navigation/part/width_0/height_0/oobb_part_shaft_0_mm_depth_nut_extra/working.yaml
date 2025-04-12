@@ -1,0 +1,253 @@
+bip_39_word_dash_12: leisure-spray-wheel-prison-muffin-cliff-effort-actress-unaware-shrimp-vibrant-artefact
+bip_39_word_dash_2: leisure-spray
+bip_39_word_dash_3: leisure-spray-wheel
+bip_39_word_new_br_12: leisure<br>spray<br>wheel<br>prison<br>muffin<br>cliff<br>effort<br>actress<br>unaware<br>shrimp<br>vibrant<br>artefact
+bip_39_word_new_br_2: leisure<br>spray
+bip_39_word_new_br_3: leisure<br>spray<br>wheel
+bip_39_word_new_line_12: 'leisure
+
+  spray
+
+  wheel
+
+  prison
+
+  muffin
+
+  cliff
+
+  effort
+
+  actress
+
+  unaware
+
+  shrimp
+
+  vibrant
+
+  artefact'
+bip_39_word_new_line_2: 'leisure
+
+  spray'
+bip_39_word_new_line_3: 'leisure
+
+  spray
+
+  wheel'
+bip_39_word_no_space_12: leisurespraywheelprisonmuffincliffeffortactressunawareshrimpvibrantartefact
+bip_39_word_no_space_2: leisurespray
+bip_39_word_no_space_3: leisurespraywheel
+bip_39_word_space_12: leisure spray wheel prison muffin cliff effort actress unaware
+  shrimp vibrant artefact
+bip_39_word_space_2: leisure spray
+bip_39_word_space_3: leisure spray wheel
+bip_39_word_underscore_12: leisure_spray_wheel_prison_muffin_cliff_effort_actress_unaware_shrimp_vibrant_artefact
+bip_39_word_underscore_2: leisure_spray
+bip_39_word_underscore_3: leisure_spray_wheel
+classification: oobb
+classification_length_1: o
+classification_length_2: oo
+classification_length_3: oob
+classification_length_4: oobb
+classification_length_5: oobb
+classification_length_6: oobb
+classification_name: Oobb
+classification_no_space_length_1: o
+classification_no_space_length_2: oo
+classification_no_space_length_3: oob
+classification_no_space_length_4: oobb
+classification_no_space_length_5: oobb
+classification_no_space_length_6: oobb
+classification_no_space_upper_length_1: O
+classification_no_space_upper_length_2: OO
+classification_no_space_upper_length_3: OOB
+classification_no_space_upper_length_4: OOBB
+classification_no_space_upper_length_5: OOBB
+classification_no_space_upper_length_6: OOBB
+classification_upper_length_1: O
+classification_upper_length_2: OO
+classification_upper_length_3: OOB
+classification_upper_length_4: OOBB
+classification_upper_length_5: OOBB
+classification_upper_length_6: OOBB
+color: ''
+color_name: ''
+components: []
+components_objects: []
+components_string: []
+description: shaft 0x0x0
+description_extra: nut_extra
+description_extra_length_1: n
+description_extra_length_2: nu
+description_extra_length_3: nut
+description_extra_length_4: nut_
+description_extra_length_5: nut_e
+description_extra_length_6: nut_ex
+description_extra_name: Nut Extra
+description_extra_no_space_length_1: n
+description_extra_no_space_length_2: nu
+description_extra_no_space_length_3: nut
+description_extra_no_space_length_4: nute
+description_extra_no_space_length_5: nutex
+description_extra_no_space_length_6: nutext
+description_extra_no_space_upper_length_1: N
+description_extra_no_space_upper_length_2: NU
+description_extra_no_space_upper_length_3: NUT
+description_extra_no_space_upper_length_4: NUTE
+description_extra_no_space_upper_length_5: NUTEX
+description_extra_no_space_upper_length_6: NUTEXT
+description_extra_upper_length_1: N
+description_extra_upper_length_2: NU
+description_extra_upper_length_3: NUT
+description_extra_upper_length_4: NUT_
+description_extra_upper_length_5: NUT_E
+description_extra_upper_length_6: NUT_EX
+description_main: 0_mm_depth
+description_main_length_1: '0'
+description_main_length_2: '0_'
+description_main_length_3: 0_m
+description_main_length_4: 0_mm
+description_main_length_5: 0_mm_
+description_main_length_6: 0_mm_d
+description_main_name: 0 mm Depth
+description_main_no_space_length_1: '0'
+description_main_no_space_length_2: 0m
+description_main_no_space_length_3: 0mm
+description_main_no_space_length_4: 0mmd
+description_main_no_space_length_5: 0mmde
+description_main_no_space_length_6: 0mmdep
+description_main_no_space_upper_length_1: '0'
+description_main_no_space_upper_length_2: 0M
+description_main_no_space_upper_length_3: 0MM
+description_main_no_space_upper_length_4: 0MMD
+description_main_no_space_upper_length_5: 0MMDE
+description_main_no_space_upper_length_6: 0MMDEP
+description_main_upper_length_1: '0'
+description_main_upper_length_2: '0_'
+description_main_upper_length_3: 0_M
+description_main_upper_length_4: 0_MM
+description_main_upper_length_5: 0_MM_
+description_main_upper_length_6: 0_MM_D
+directory: parts/oobb_part_shaft_0_mm_depth_nut_extra
+extra: nut
+folder: C:\gh\oomlout_oobb_version_4_generated_parts\parts\oobb_part_shaft_0_mm_depth_nut_extra
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_shaft_0_mm_depth_nut_extra
+id: oobb_part_shaft_0_mm_depth_nut_extra
+id_no_class: part_shaft_0_mm_depth_nut_extra
+id_no_color: 0mmdepthnutextra
+id_no_size: 0_mm_depth_nut_extra
+id_no_type: shaft_0_mm_depth_nut_extra
+link_1: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/shaft/0_mm_depth/nut_extra/part
+link_1_name: link_main
+link_main: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/shaft/0_mm_depth/nut_extra/part
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2084169
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2084169
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%2084169
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2084169
+link_redirect: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/parts/oobb_shaft_00_ex_nut
+manufacturer: ''
+manufacturer_name: ''
+md5: cfe6f1cf6302c8d4abc89ab1f434bbfd
+md5_10: cfe6f1cf63
+md5_10_upper: CFE6F1CF63
+md5_5: cfe6f
+md5_5_upper: CFE6F
+md5_6: cfe6f1
+md5_6_alpha: '84169'
+md5_6_alpha_upper: '84169'
+md5_6_upper: CFE6F1
+name: Oobb Part Shaft 0 mm Depth Nut Extra
+name_no_class: Part Shaft 0 mm Depth Nut Extra
+name_no_color: 0mmdepthnutextra
+name_no_size: 0 mm Depth Nut Extra
+name_no_type: Shaft 0 mm Depth Nut Extra
+name_short: Shaft 0 Nut Extra
+oomlout_detail_hierarchy_1: oobb
+oomlout_detail_hierarchy_1_upper: OOBB
+oomlout_detail_hierarchy_1_upper_length_4: OOBB
+oomlout_detail_hierarchy_2: part
+oomlout_detail_hierarchy_2_upper: PART
+oomlout_detail_hierarchy_2_upper_length_4: PART
+oomlout_detail_hierarchy_3: shaft
+oomlout_detail_hierarchy_3_upper: SHAFT
+oomlout_detail_hierarchy_3_upper_length_4: SHAF
+oomlout_detail_hierarchy_4: 0_mm_depth
+oomlout_detail_hierarchy_4_upper: 0_MM_DEPTH
+oomlout_detail_hierarchy_4_upper_length_4: 0DEP
+oomlout_detail_hierarchy_5: nut_extra
+oomlout_detail_hierarchy_5_upper: NUT_EXTRA
+oomlout_detail_hierarchy_5_upper_length_4: NUT_
+oomlout_oomp_utility_custom_data_manipulation: true
+oomp_key: oomp_oobb_part_shaft_0_mm_depth_nut_extra
+oomp_word: melon airplane ticket
+oomp_word_emoji: ':melon: :airplane: :ticket:'
+oomp_word_emoji_list:
+- ':melon:'
+- ':airplane:'
+- ':ticket:'
+oomp_word_list:
+- melon
+- airplane
+- ticket
+part_number: ''
+part_number_name: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
+short_name: ''
+size: shaft
+size_length_1: s
+size_length_2: sh
+size_length_3: sha
+size_length_4: shaf
+size_length_5: shaft
+size_length_6: shaft
+size_name: Shaft
+size_no_space_length_1: s
+size_no_space_length_2: sh
+size_no_space_length_3: sha
+size_no_space_length_4: shaf
+size_no_space_length_5: shaft
+size_no_space_length_6: shaft
+size_no_space_upper_length_1: S
+size_no_space_upper_length_2: SH
+size_no_space_upper_length_3: SHA
+size_no_space_upper_length_4: SHAF
+size_no_space_upper_length_5: SHAFT
+size_no_space_upper_length_6: SHAFT
+size_upper_length_1: S
+size_upper_length_2: SH
+size_upper_length_3: SHA
+size_upper_length_4: SHAF
+size_upper_length_5: SHAFT
+size_upper_length_6: SHAFT
+thickness: 0
+thickness_mm: 0
+type: part
+type_length_1: p
+type_length_2: pa
+type_length_3: par
+type_length_4: part
+type_length_5: part
+type_length_6: part
+type_name: Part
+type_no_space_length_1: p
+type_no_space_length_2: pa
+type_no_space_length_3: par
+type_no_space_length_4: part
+type_no_space_length_5: part
+type_no_space_length_6: part
+type_no_space_upper_length_1: P
+type_no_space_upper_length_2: PA
+type_no_space_upper_length_3: PAR
+type_no_space_upper_length_4: PART
+type_no_space_upper_length_5: PART
+type_no_space_upper_length_6: PART
+type_upper_length_1: P
+type_upper_length_2: PA
+type_upper_length_3: PAR
+type_upper_length_4: PART
+type_upper_length_5: PART
+type_upper_length_6: PART

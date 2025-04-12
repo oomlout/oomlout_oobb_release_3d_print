@@ -1,0 +1,225 @@
+bip_39_word_dash_12: enter-custom-plunge-sentence-hundred-food-impulse-program-glass-minute-pizza-assume
+bip_39_word_dash_2: enter-custom
+bip_39_word_dash_3: enter-custom-plunge
+bip_39_word_new_br_12: enter<br>custom<br>plunge<br>sentence<br>hundred<br>food<br>impulse<br>program<br>glass<br>minute<br>pizza<br>assume
+bip_39_word_new_br_2: enter<br>custom
+bip_39_word_new_br_3: enter<br>custom<br>plunge
+bip_39_word_new_line_12: 'enter
+
+  custom
+
+  plunge
+
+  sentence
+
+  hundred
+
+  food
+
+  impulse
+
+  program
+
+  glass
+
+  minute
+
+  pizza
+
+  assume'
+bip_39_word_new_line_2: 'enter
+
+  custom'
+bip_39_word_new_line_3: 'enter
+
+  custom
+
+  plunge'
+bip_39_word_no_space_12: entercustomplungesentencehundredfoodimpulseprogramglassminutepizzaassume
+bip_39_word_no_space_2: entercustom
+bip_39_word_no_space_3: entercustomplunge
+bip_39_word_space_12: enter custom plunge sentence hundred food impulse program glass
+  minute pizza assume
+bip_39_word_space_2: enter custom
+bip_39_word_space_3: enter custom plunge
+bip_39_word_underscore_12: enter_custom_plunge_sentence_hundred_food_impulse_program_glass_minute_pizza_assume
+bip_39_word_underscore_2: enter_custom
+bip_39_word_underscore_3: enter_custom_plunge
+classification: oobb
+classification_length_1: o
+classification_length_2: oo
+classification_length_3: oob
+classification_length_4: oobb
+classification_length_5: oobb
+classification_length_6: oobb
+classification_name: Oobb
+classification_no_space_length_1: o
+classification_no_space_length_2: oo
+classification_no_space_length_3: oob
+classification_no_space_length_4: oobb
+classification_no_space_length_5: oobb
+classification_no_space_length_6: oobb
+classification_no_space_upper_length_1: O
+classification_no_space_upper_length_2: OO
+classification_no_space_upper_length_3: OOB
+classification_no_space_upper_length_4: OOBB
+classification_no_space_upper_length_5: OOBB
+classification_no_space_upper_length_6: OOBB
+classification_upper_length_1: O
+classification_upper_length_2: OO
+classification_upper_length_3: OOB
+classification_upper_length_4: OOBB
+classification_upper_length_5: OOBB
+classification_upper_length_6: OOBB
+color: ''
+color_name: ''
+components: []
+components_objects: []
+components_string: []
+depth: 18
+description: bolt 0x0x0
+description_extra: m5_radius_name_18_depth
+description_extra_length_1: m
+description_extra_length_2: m5
+description_extra_length_3: m5_
+description_extra_length_4: m5_r
+description_extra_length_5: m5_ra
+description_extra_length_6: m5_rad
+description_extra_name: M5 Radius Name 18 Depth
+description_extra_no_space_length_1: m
+description_extra_no_space_length_2: m5
+description_extra_no_space_length_3: m5r
+description_extra_no_space_length_4: m5ra
+description_extra_no_space_length_5: m5rad
+description_extra_no_space_length_6: m5radi
+description_extra_no_space_upper_length_1: M
+description_extra_no_space_upper_length_2: M5
+description_extra_no_space_upper_length_3: M5R
+description_extra_no_space_upper_length_4: M5RA
+description_extra_no_space_upper_length_5: M5RAD
+description_extra_no_space_upper_length_6: M5RADI
+description_extra_upper_length_1: M
+description_extra_upper_length_2: M5
+description_extra_upper_length_3: M5_
+description_extra_upper_length_4: M5_R
+description_extra_upper_length_5: M5_RA
+description_extra_upper_length_6: M5_RAD
+description_main: ''
+description_main_name: ''
+directory: parts/oobb_part_bolt_m5_radius_name_18_depth
+folder: C:\gh\oomlout_oobb_version_4_generated_parts\parts\oobb_part_bolt_m5_radius_name_18_depth
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bolt_m5_radius_name_18_depth
+id: oobb_part_bolt_m5_radius_name_18_depth
+id_no_class: part_bolt_m5_radius_name_18_depth
+id_no_color: m5radiusname18depth
+id_no_size: m5_radius_name_18_depth
+id_no_type: bolt_m5_radius_name_18_depth
+link_1: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/bolt//m5_radius_name_18_depth/part
+link_1_name: link_main
+link_main: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/bolt//m5_radius_name_18_depth/part
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%208pnj7
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%208pnj7
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%208pnj7
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%208pnj7
+link_redirect: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/parts/hardware_bolt_m5_18
+manufacturer: ''
+manufacturer_name: ''
+md5: df4b635317abee456b379c3f4dcda25b
+md5_10: df4b635317
+md5_10_upper: DF4B635317
+md5_5: df4b6
+md5_5_upper: DF4B6
+md5_6: df4b63
+md5_6_alpha: 8pnj7
+md5_6_alpha_upper: 8PNJ7
+md5_6_upper: DF4B63
+name: Oobb Part Bolt M5 Radius Name 18 Depth
+name_no_class: Part Bolt M5 Radius Name 18 Depth
+name_no_color: M5Radiusname18Depth
+name_no_size: M5 Radius Name 18 Depth
+name_no_type: Bolt M5 Radius Name 18 Depth
+name_short: Bolt M5 Radius Name 18 Depth
+oomlout_detail_hierarchy_1: oobb
+oomlout_detail_hierarchy_1_upper: OOBB
+oomlout_detail_hierarchy_1_upper_length_4: OOBB
+oomlout_detail_hierarchy_2: part
+oomlout_detail_hierarchy_2_upper: PART
+oomlout_detail_hierarchy_2_upper_length_4: PART
+oomlout_detail_hierarchy_3: bolt
+oomlout_detail_hierarchy_3_upper: BOLT
+oomlout_detail_hierarchy_3_upper_length_4: BOLT
+oomlout_detail_hierarchy_4: m5_radius_name_18_depth
+oomlout_detail_hierarchy_4_upper: M5_RADIUS_NAME_18_DEPTH
+oomlout_detail_hierarchy_4_upper_length_4: M5_R
+oomlout_oomp_utility_custom_data_manipulation: true
+oomp_key: oomp_oobb_part_bolt_m5_radius_name_18_depth
+oomp_word: fountain penguin rose
+oomp_word_emoji: ':fountain: :penguin: :rose:'
+oomp_word_emoji_list:
+- ':fountain:'
+- ':penguin:'
+- ':rose:'
+oomp_word_list:
+- fountain
+- penguin
+- rose
+part_number: ''
+part_number_name: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
+radius_name: m5
+short_name: ''
+size: bolt
+size_length_1: b
+size_length_2: bo
+size_length_3: bol
+size_length_4: bolt
+size_length_5: bolt
+size_length_6: bolt
+size_name: Bolt
+size_no_space_length_1: b
+size_no_space_length_2: bo
+size_no_space_length_3: bol
+size_no_space_length_4: bolt
+size_no_space_length_5: bolt
+size_no_space_length_6: bolt
+size_no_space_upper_length_1: B
+size_no_space_upper_length_2: BO
+size_no_space_upper_length_3: BOL
+size_no_space_upper_length_4: BOLT
+size_no_space_upper_length_5: BOLT
+size_no_space_upper_length_6: BOLT
+size_upper_length_1: B
+size_upper_length_2: BO
+size_upper_length_3: BOL
+size_upper_length_4: BOLT
+size_upper_length_5: BOLT
+size_upper_length_6: BOLT
+type: part
+type_length_1: p
+type_length_2: pa
+type_length_3: par
+type_length_4: part
+type_length_5: part
+type_length_6: part
+type_name: Part
+type_no_space_length_1: p
+type_no_space_length_2: pa
+type_no_space_length_3: par
+type_no_space_length_4: part
+type_no_space_length_5: part
+type_no_space_length_6: part
+type_no_space_upper_length_1: P
+type_no_space_upper_length_2: PA
+type_no_space_upper_length_3: PAR
+type_no_space_upper_length_4: PART
+type_no_space_upper_length_5: PART
+type_no_space_upper_length_6: PART
+type_upper_length_1: P
+type_upper_length_2: PA
+type_upper_length_3: PAR
+type_upper_length_4: PART
+type_upper_length_5: PART
+type_upper_length_6: PART

@@ -1,0 +1,253 @@
+bip_39_word_dash_12: belt-label-timber-join-slogan-position-remain-today-sad-burst-trap-afford
+bip_39_word_dash_2: belt-label
+bip_39_word_dash_3: belt-label-timber
+bip_39_word_new_br_12: belt<br>label<br>timber<br>join<br>slogan<br>position<br>remain<br>today<br>sad<br>burst<br>trap<br>afford
+bip_39_word_new_br_2: belt<br>label
+bip_39_word_new_br_3: belt<br>label<br>timber
+bip_39_word_new_line_12: 'belt
+
+  label
+
+  timber
+
+  join
+
+  slogan
+
+  position
+
+  remain
+
+  today
+
+  sad
+
+  burst
+
+  trap
+
+  afford'
+bip_39_word_new_line_2: 'belt
+
+  label'
+bip_39_word_new_line_3: 'belt
+
+  label
+
+  timber'
+bip_39_word_no_space_12: beltlabeltimberjoinsloganpositionremaintodaysadbursttrapafford
+bip_39_word_no_space_2: beltlabel
+bip_39_word_no_space_3: beltlabeltimber
+bip_39_word_space_12: belt label timber join slogan position remain today sad burst
+  trap afford
+bip_39_word_space_2: belt label
+bip_39_word_space_3: belt label timber
+bip_39_word_underscore_12: belt_label_timber_join_slogan_position_remain_today_sad_burst_trap_afford
+bip_39_word_underscore_2: belt_label
+bip_39_word_underscore_3: belt_label_timber
+classification: oobb
+classification_length_1: o
+classification_length_2: oo
+classification_length_3: oob
+classification_length_4: oobb
+classification_length_5: oobb
+classification_length_6: oobb
+classification_name: Oobb
+classification_no_space_length_1: o
+classification_no_space_length_2: oo
+classification_no_space_length_3: oob
+classification_no_space_length_4: oobb
+classification_no_space_length_5: oobb
+classification_no_space_length_6: oobb
+classification_no_space_upper_length_1: O
+classification_no_space_upper_length_2: OO
+classification_no_space_upper_length_3: OOB
+classification_no_space_upper_length_4: OOBB
+classification_no_space_upper_length_5: OOBB
+classification_no_space_upper_length_6: OOBB
+classification_upper_length_1: O
+classification_upper_length_2: OO
+classification_upper_length_3: OOB
+classification_upper_length_4: OOBB
+classification_upper_length_5: OOBB
+classification_upper_length_6: OOBB
+color: ''
+color_name: ''
+components: []
+components_objects: []
+components_string: []
+description: shaft 0x0x1
+description_extra: countersunk_extra
+description_extra_length_1: c
+description_extra_length_2: co
+description_extra_length_3: cou
+description_extra_length_4: coun
+description_extra_length_5: count
+description_extra_length_6: counte
+description_extra_name: Countersunk Extra
+description_extra_no_space_length_1: c
+description_extra_no_space_length_2: co
+description_extra_no_space_length_3: cou
+description_extra_no_space_length_4: coun
+description_extra_no_space_length_5: count
+description_extra_no_space_length_6: counte
+description_extra_no_space_upper_length_1: C
+description_extra_no_space_upper_length_2: CO
+description_extra_no_space_upper_length_3: COU
+description_extra_no_space_upper_length_4: COUN
+description_extra_no_space_upper_length_5: COUNT
+description_extra_no_space_upper_length_6: COUNTE
+description_extra_upper_length_1: C
+description_extra_upper_length_2: CO
+description_extra_upper_length_3: COU
+description_extra_upper_length_4: COUN
+description_extra_upper_length_5: COUNT
+description_extra_upper_length_6: COUNTE
+description_main: 1_mm_depth
+description_main_length_1: '1'
+description_main_length_2: '1_'
+description_main_length_3: 1_m
+description_main_length_4: 1_mm
+description_main_length_5: 1_mm_
+description_main_length_6: 1_mm_d
+description_main_name: 1 mm Depth
+description_main_no_space_length_1: '1'
+description_main_no_space_length_2: 1m
+description_main_no_space_length_3: 1mm
+description_main_no_space_length_4: 1mmd
+description_main_no_space_length_5: 1mmde
+description_main_no_space_length_6: 1mmdep
+description_main_no_space_upper_length_1: '1'
+description_main_no_space_upper_length_2: 1M
+description_main_no_space_upper_length_3: 1MM
+description_main_no_space_upper_length_4: 1MMD
+description_main_no_space_upper_length_5: 1MMDE
+description_main_no_space_upper_length_6: 1MMDEP
+description_main_upper_length_1: '1'
+description_main_upper_length_2: '1_'
+description_main_upper_length_3: 1_M
+description_main_upper_length_4: 1_MM
+description_main_upper_length_5: 1_MM_
+description_main_upper_length_6: 1_MM_D
+directory: parts/oobb_part_shaft_1_mm_depth_countersunk_extra
+extra: countersunk
+folder: C:\gh\oomlout_oobb_version_4_generated_parts\parts\oobb_part_shaft_1_mm_depth_countersunk_extra
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_shaft_1_mm_depth_countersunk_extra
+id: oobb_part_shaft_1_mm_depth_countersunk_extra
+id_no_class: part_shaft_1_mm_depth_countersunk_extra
+id_no_color: 1mmdepthcountersunkextra
+id_no_size: 1_mm_depth_countersunk_extra
+id_no_type: shaft_1_mm_depth_countersunk_extra
+link_1: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/shaft/1_mm_depth/countersunk_extra/part
+link_1_name: link_main
+link_main: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/shaft/1_mm_depth/countersunk_extra/part
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%202sv47
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%202sv47
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%202sv47
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%202sv47
+link_redirect: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/parts/oobb_shaft_01_ex_countersunk
+manufacturer: ''
+manufacturer_name: ''
+md5: 47ce87b5ede356b2a1e5f783c45f08a7
+md5_10: 47ce87b5ed
+md5_10_upper: 47CE87B5ED
+md5_5: 47ce8
+md5_5_upper: 47CE8
+md5_6: 47ce87
+md5_6_alpha: 2sv47
+md5_6_alpha_upper: 2SV47
+md5_6_upper: 47CE87
+name: Oobb Part Shaft 1 mm Depth Countersunk Extra
+name_no_class: Part Shaft 1 mm Depth Countersunk Extra
+name_no_color: 1mmdepthcountersunkextra
+name_no_size: 1 mm Depth Countersunk Extra
+name_no_type: Shaft 1 mm Depth Countersunk Extra
+name_short: Shaft 1 Countersunk Extra
+oomlout_detail_hierarchy_1: oobb
+oomlout_detail_hierarchy_1_upper: OOBB
+oomlout_detail_hierarchy_1_upper_length_4: OOBB
+oomlout_detail_hierarchy_2: part
+oomlout_detail_hierarchy_2_upper: PART
+oomlout_detail_hierarchy_2_upper_length_4: PART
+oomlout_detail_hierarchy_3: shaft
+oomlout_detail_hierarchy_3_upper: SHAFT
+oomlout_detail_hierarchy_3_upper_length_4: SHAF
+oomlout_detail_hierarchy_4: 1_mm_depth
+oomlout_detail_hierarchy_4_upper: 1_MM_DEPTH
+oomlout_detail_hierarchy_4_upper_length_4: 1DEP
+oomlout_detail_hierarchy_5: countersunk_extra
+oomlout_detail_hierarchy_5_upper: COUNTERSUNK_EXTRA
+oomlout_detail_hierarchy_5_upper_length_4: COUN
+oomlout_oomp_utility_custom_data_manipulation: true
+oomp_key: oomp_oobb_part_shaft_1_mm_depth_countersunk_extra
+oomp_word: baby_chick peach toilet
+oomp_word_emoji: ':baby_chick: :peach: :toilet:'
+oomp_word_emoji_list:
+- ':baby_chick:'
+- ':peach:'
+- ':toilet:'
+oomp_word_list:
+- baby_chick
+- peach
+- toilet
+part_number: ''
+part_number_name: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
+short_name: ''
+size: shaft
+size_length_1: s
+size_length_2: sh
+size_length_3: sha
+size_length_4: shaf
+size_length_5: shaft
+size_length_6: shaft
+size_name: Shaft
+size_no_space_length_1: s
+size_no_space_length_2: sh
+size_no_space_length_3: sha
+size_no_space_length_4: shaf
+size_no_space_length_5: shaft
+size_no_space_length_6: shaft
+size_no_space_upper_length_1: S
+size_no_space_upper_length_2: SH
+size_no_space_upper_length_3: SHA
+size_no_space_upper_length_4: SHAF
+size_no_space_upper_length_5: SHAFT
+size_no_space_upper_length_6: SHAFT
+size_upper_length_1: S
+size_upper_length_2: SH
+size_upper_length_3: SHA
+size_upper_length_4: SHAF
+size_upper_length_5: SHAFT
+size_upper_length_6: SHAFT
+thickness: 1
+thickness_mm: 1
+type: part
+type_length_1: p
+type_length_2: pa
+type_length_3: par
+type_length_4: part
+type_length_5: part
+type_length_6: part
+type_name: Part
+type_no_space_length_1: p
+type_no_space_length_2: pa
+type_no_space_length_3: par
+type_no_space_length_4: part
+type_no_space_length_5: part
+type_no_space_length_6: part
+type_no_space_upper_length_1: P
+type_no_space_upper_length_2: PA
+type_no_space_upper_length_3: PAR
+type_no_space_upper_length_4: PART
+type_no_space_upper_length_5: PART
+type_no_space_upper_length_6: PART
+type_upper_length_1: P
+type_upper_length_2: PA
+type_upper_length_3: PAR
+type_upper_length_4: PART
+type_upper_length_5: PART
+type_upper_length_6: PART

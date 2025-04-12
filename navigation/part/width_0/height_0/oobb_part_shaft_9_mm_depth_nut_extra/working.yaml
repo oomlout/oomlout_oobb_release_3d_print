@@ -1,0 +1,253 @@
+bip_39_word_dash_12: police-rug-zero-day-false-drink-message-purchase-board-banner-trigger-aim
+bip_39_word_dash_2: police-rug
+bip_39_word_dash_3: police-rug-zero
+bip_39_word_new_br_12: police<br>rug<br>zero<br>day<br>false<br>drink<br>message<br>purchase<br>board<br>banner<br>trigger<br>aim
+bip_39_word_new_br_2: police<br>rug
+bip_39_word_new_br_3: police<br>rug<br>zero
+bip_39_word_new_line_12: 'police
+
+  rug
+
+  zero
+
+  day
+
+  false
+
+  drink
+
+  message
+
+  purchase
+
+  board
+
+  banner
+
+  trigger
+
+  aim'
+bip_39_word_new_line_2: 'police
+
+  rug'
+bip_39_word_new_line_3: 'police
+
+  rug
+
+  zero'
+bip_39_word_no_space_12: policerugzerodayfalsedrinkmessagepurchaseboardbannertriggeraim
+bip_39_word_no_space_2: policerug
+bip_39_word_no_space_3: policerugzero
+bip_39_word_space_12: police rug zero day false drink message purchase board banner
+  trigger aim
+bip_39_word_space_2: police rug
+bip_39_word_space_3: police rug zero
+bip_39_word_underscore_12: police_rug_zero_day_false_drink_message_purchase_board_banner_trigger_aim
+bip_39_word_underscore_2: police_rug
+bip_39_word_underscore_3: police_rug_zero
+classification: oobb
+classification_length_1: o
+classification_length_2: oo
+classification_length_3: oob
+classification_length_4: oobb
+classification_length_5: oobb
+classification_length_6: oobb
+classification_name: Oobb
+classification_no_space_length_1: o
+classification_no_space_length_2: oo
+classification_no_space_length_3: oob
+classification_no_space_length_4: oobb
+classification_no_space_length_5: oobb
+classification_no_space_length_6: oobb
+classification_no_space_upper_length_1: O
+classification_no_space_upper_length_2: OO
+classification_no_space_upper_length_3: OOB
+classification_no_space_upper_length_4: OOBB
+classification_no_space_upper_length_5: OOBB
+classification_no_space_upper_length_6: OOBB
+classification_upper_length_1: O
+classification_upper_length_2: OO
+classification_upper_length_3: OOB
+classification_upper_length_4: OOBB
+classification_upper_length_5: OOBB
+classification_upper_length_6: OOBB
+color: ''
+color_name: ''
+components: []
+components_objects: []
+components_string: []
+description: shaft 0x0x9
+description_extra: nut_extra
+description_extra_length_1: n
+description_extra_length_2: nu
+description_extra_length_3: nut
+description_extra_length_4: nut_
+description_extra_length_5: nut_e
+description_extra_length_6: nut_ex
+description_extra_name: Nut Extra
+description_extra_no_space_length_1: n
+description_extra_no_space_length_2: nu
+description_extra_no_space_length_3: nut
+description_extra_no_space_length_4: nute
+description_extra_no_space_length_5: nutex
+description_extra_no_space_length_6: nutext
+description_extra_no_space_upper_length_1: N
+description_extra_no_space_upper_length_2: NU
+description_extra_no_space_upper_length_3: NUT
+description_extra_no_space_upper_length_4: NUTE
+description_extra_no_space_upper_length_5: NUTEX
+description_extra_no_space_upper_length_6: NUTEXT
+description_extra_upper_length_1: N
+description_extra_upper_length_2: NU
+description_extra_upper_length_3: NUT
+description_extra_upper_length_4: NUT_
+description_extra_upper_length_5: NUT_E
+description_extra_upper_length_6: NUT_EX
+description_main: 9_mm_depth
+description_main_length_1: '9'
+description_main_length_2: '9_'
+description_main_length_3: 9_m
+description_main_length_4: 9_mm
+description_main_length_5: 9_mm_
+description_main_length_6: 9_mm_d
+description_main_name: 9 mm Depth
+description_main_no_space_length_1: '9'
+description_main_no_space_length_2: 9m
+description_main_no_space_length_3: 9mm
+description_main_no_space_length_4: 9mmd
+description_main_no_space_length_5: 9mmde
+description_main_no_space_length_6: 9mmdep
+description_main_no_space_upper_length_1: '9'
+description_main_no_space_upper_length_2: 9M
+description_main_no_space_upper_length_3: 9MM
+description_main_no_space_upper_length_4: 9MMD
+description_main_no_space_upper_length_5: 9MMDE
+description_main_no_space_upper_length_6: 9MMDEP
+description_main_upper_length_1: '9'
+description_main_upper_length_2: '9_'
+description_main_upper_length_3: 9_M
+description_main_upper_length_4: 9_MM
+description_main_upper_length_5: 9_MM_
+description_main_upper_length_6: 9_MM_D
+directory: parts/oobb_part_shaft_9_mm_depth_nut_extra
+extra: nut
+folder: C:\gh\oomlout_oobb_version_4_generated_parts\parts\oobb_part_shaft_9_mm_depth_nut_extra
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_shaft_9_mm_depth_nut_extra
+id: oobb_part_shaft_9_mm_depth_nut_extra
+id_no_class: part_shaft_9_mm_depth_nut_extra
+id_no_color: 9mmdepthnutextra
+id_no_size: 9_mm_depth_nut_extra
+id_no_type: shaft_9_mm_depth_nut_extra
+link_1: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/shaft/9_mm_depth/nut_extra/part
+link_1_name: link_main
+link_main: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/shaft/9_mm_depth/nut_extra/part
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%203cjk4
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%203cjk4
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%203cjk4
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%203cjk4
+link_redirect: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/parts/oobb_shaft_09_ex_nut
+manufacturer: ''
+manufacturer_name: ''
+md5: 55d10490c5ae317d0c292381ff6f453d
+md5_10: 55d10490c5
+md5_10_upper: 55D10490C5
+md5_5: 55d10
+md5_5_upper: 55D10
+md5_6: 55d104
+md5_6_alpha: 3cjk4
+md5_6_alpha_upper: 3CJK4
+md5_6_upper: 55D104
+name: Oobb Part Shaft 9 mm Depth Nut Extra
+name_no_class: Part Shaft 9 mm Depth Nut Extra
+name_no_color: 9mmdepthnutextra
+name_no_size: 9 mm Depth Nut Extra
+name_no_type: Shaft 9 mm Depth Nut Extra
+name_short: Shaft 9 Nut Extra
+oomlout_detail_hierarchy_1: oobb
+oomlout_detail_hierarchy_1_upper: OOBB
+oomlout_detail_hierarchy_1_upper_length_4: OOBB
+oomlout_detail_hierarchy_2: part
+oomlout_detail_hierarchy_2_upper: PART
+oomlout_detail_hierarchy_2_upper_length_4: PART
+oomlout_detail_hierarchy_3: shaft
+oomlout_detail_hierarchy_3_upper: SHAFT
+oomlout_detail_hierarchy_3_upper_length_4: SHAF
+oomlout_detail_hierarchy_4: 9_mm_depth
+oomlout_detail_hierarchy_4_upper: 9_MM_DEPTH
+oomlout_detail_hierarchy_4_upper_length_4: 9DEP
+oomlout_detail_hierarchy_5: nut_extra
+oomlout_detail_hierarchy_5_upper: NUT_EXTRA
+oomlout_detail_hierarchy_5_upper_length_4: NUT_
+oomlout_oomp_utility_custom_data_manipulation: true
+oomp_key: oomp_oobb_part_shaft_9_mm_depth_nut_extra
+oomp_word: dolphin pear wink
+oomp_word_emoji: ':dolphin: :pear: :wink:'
+oomp_word_emoji_list:
+- ':dolphin:'
+- ':pear:'
+- ':wink:'
+oomp_word_list:
+- dolphin
+- pear
+- wink
+part_number: ''
+part_number_name: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
+short_name: ''
+size: shaft
+size_length_1: s
+size_length_2: sh
+size_length_3: sha
+size_length_4: shaf
+size_length_5: shaft
+size_length_6: shaft
+size_name: Shaft
+size_no_space_length_1: s
+size_no_space_length_2: sh
+size_no_space_length_3: sha
+size_no_space_length_4: shaf
+size_no_space_length_5: shaft
+size_no_space_length_6: shaft
+size_no_space_upper_length_1: S
+size_no_space_upper_length_2: SH
+size_no_space_upper_length_3: SHA
+size_no_space_upper_length_4: SHAF
+size_no_space_upper_length_5: SHAFT
+size_no_space_upper_length_6: SHAFT
+size_upper_length_1: S
+size_upper_length_2: SH
+size_upper_length_3: SHA
+size_upper_length_4: SHAF
+size_upper_length_5: SHAFT
+size_upper_length_6: SHAFT
+thickness: 9
+thickness_mm: 9
+type: part
+type_length_1: p
+type_length_2: pa
+type_length_3: par
+type_length_4: part
+type_length_5: part
+type_length_6: part
+type_name: Part
+type_no_space_length_1: p
+type_no_space_length_2: pa
+type_no_space_length_3: par
+type_no_space_length_4: part
+type_no_space_length_5: part
+type_no_space_length_6: part
+type_no_space_upper_length_1: P
+type_no_space_upper_length_2: PA
+type_no_space_upper_length_3: PAR
+type_no_space_upper_length_4: PART
+type_no_space_upper_length_5: PART
+type_no_space_upper_length_6: PART
+type_upper_length_1: P
+type_upper_length_2: PA
+type_upper_length_3: PAR
+type_upper_length_4: PART
+type_upper_length_5: PART
+type_upper_length_6: PART

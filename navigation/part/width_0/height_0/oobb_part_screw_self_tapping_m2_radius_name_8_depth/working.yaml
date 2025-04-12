@@ -1,0 +1,225 @@
+bip_39_word_dash_12: tooth-obtain-fashion-certain-breeze-kid-oblige-grit-certain-village-multiply-any
+bip_39_word_dash_2: tooth-obtain
+bip_39_word_dash_3: tooth-obtain-fashion
+bip_39_word_new_br_12: tooth<br>obtain<br>fashion<br>certain<br>breeze<br>kid<br>oblige<br>grit<br>certain<br>village<br>multiply<br>any
+bip_39_word_new_br_2: tooth<br>obtain
+bip_39_word_new_br_3: tooth<br>obtain<br>fashion
+bip_39_word_new_line_12: 'tooth
+
+  obtain
+
+  fashion
+
+  certain
+
+  breeze
+
+  kid
+
+  oblige
+
+  grit
+
+  certain
+
+  village
+
+  multiply
+
+  any'
+bip_39_word_new_line_2: 'tooth
+
+  obtain'
+bip_39_word_new_line_3: 'tooth
+
+  obtain
+
+  fashion'
+bip_39_word_no_space_12: toothobtainfashioncertainbreezekidobligegritcertainvillagemultiplyany
+bip_39_word_no_space_2: toothobtain
+bip_39_word_no_space_3: toothobtainfashion
+bip_39_word_space_12: tooth obtain fashion certain breeze kid oblige grit certain
+  village multiply any
+bip_39_word_space_2: tooth obtain
+bip_39_word_space_3: tooth obtain fashion
+bip_39_word_underscore_12: tooth_obtain_fashion_certain_breeze_kid_oblige_grit_certain_village_multiply_any
+bip_39_word_underscore_2: tooth_obtain
+bip_39_word_underscore_3: tooth_obtain_fashion
+classification: oobb
+classification_length_1: o
+classification_length_2: oo
+classification_length_3: oob
+classification_length_4: oobb
+classification_length_5: oobb
+classification_length_6: oobb
+classification_name: Oobb
+classification_no_space_length_1: o
+classification_no_space_length_2: oo
+classification_no_space_length_3: oob
+classification_no_space_length_4: oobb
+classification_no_space_length_5: oobb
+classification_no_space_length_6: oobb
+classification_no_space_upper_length_1: O
+classification_no_space_upper_length_2: OO
+classification_no_space_upper_length_3: OOB
+classification_no_space_upper_length_4: OOBB
+classification_no_space_upper_length_5: OOBB
+classification_no_space_upper_length_6: OOBB
+classification_upper_length_1: O
+classification_upper_length_2: OO
+classification_upper_length_3: OOB
+classification_upper_length_4: OOBB
+classification_upper_length_5: OOBB
+classification_upper_length_6: OOBB
+color: ''
+color_name: ''
+components: []
+components_objects: []
+components_string: []
+depth: 8
+description: screw self tapping 0x0x0
+description_extra: m2_radius_name_8_depth
+description_extra_length_1: m
+description_extra_length_2: m2
+description_extra_length_3: m2_
+description_extra_length_4: m2_r
+description_extra_length_5: m2_ra
+description_extra_length_6: m2_rad
+description_extra_name: M2 Radius Name 8 Depth
+description_extra_no_space_length_1: m
+description_extra_no_space_length_2: m2
+description_extra_no_space_length_3: m2r
+description_extra_no_space_length_4: m2ra
+description_extra_no_space_length_5: m2rad
+description_extra_no_space_length_6: m2radi
+description_extra_no_space_upper_length_1: M
+description_extra_no_space_upper_length_2: M2
+description_extra_no_space_upper_length_3: M2R
+description_extra_no_space_upper_length_4: M2RA
+description_extra_no_space_upper_length_5: M2RAD
+description_extra_no_space_upper_length_6: M2RADI
+description_extra_upper_length_1: M
+description_extra_upper_length_2: M2
+description_extra_upper_length_3: M2_
+description_extra_upper_length_4: M2_R
+description_extra_upper_length_5: M2_RA
+description_extra_upper_length_6: M2_RAD
+description_main: ''
+description_main_name: ''
+directory: parts/oobb_part_screw_self_tapping_m2_radius_name_8_depth
+folder: C:\gh\oomlout_oobb_version_4_generated_parts\parts\oobb_part_screw_self_tapping_m2_radius_name_8_depth
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_screw_self_tapping_m2_radius_name_8_depth
+id: oobb_part_screw_self_tapping_m2_radius_name_8_depth
+id_no_class: part_screw_self_tapping_m2_radius_name_8_depth
+id_no_color: m2radiusname8depth
+id_no_size: m2_radius_name_8_depth
+id_no_type: screw_self_tapping_m2_radius_name_8_depth
+link_1: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/screw_self_tapping//m2_radius_name_8_depth/part
+link_1_name: link_main
+link_main: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/screw_self_tapping//m2_radius_name_8_depth/part
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%206d5h9
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%206d5h9
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%206d5h9
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%206d5h9
+link_redirect: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/parts/hardware_screw_self_tapping_m2_08
+manufacturer: ''
+manufacturer_name: ''
+md5: a322fd012d66b305e90dc25aa6a62726
+md5_10: a322fd012d
+md5_10_upper: A322FD012D
+md5_5: a322f
+md5_5_upper: A322F
+md5_6: a322fd
+md5_6_alpha: 6d5h9
+md5_6_alpha_upper: 6D5H9
+md5_6_upper: A322FD
+name: Oobb Part Screw Self Tapping M2 Radius Name 8 Depth
+name_no_class: Part Screw Self Tapping M2 Radius Name 8 Depth
+name_no_color: M2Radiusname8Depth
+name_no_size: M2 Radius Name 8 Depth
+name_no_type: Screw Self Tapping M2 Radius Name 8 Depth
+name_short: Screw Self Tapping M2 Radius Name 8
+oomlout_detail_hierarchy_1: oobb
+oomlout_detail_hierarchy_1_upper: OOBB
+oomlout_detail_hierarchy_1_upper_length_4: OOBB
+oomlout_detail_hierarchy_2: part
+oomlout_detail_hierarchy_2_upper: PART
+oomlout_detail_hierarchy_2_upper_length_4: PART
+oomlout_detail_hierarchy_3: sself_tapping
+oomlout_detail_hierarchy_3_upper: SSELF_TAPPING
+oomlout_detail_hierarchy_3_upper_length_4: SSEL
+oomlout_detail_hierarchy_4: m2_radius_name_8_depth
+oomlout_detail_hierarchy_4_upper: M2_RADIUS_NAME_8_DEPTH
+oomlout_detail_hierarchy_4_upper_length_4: M2_R
+oomlout_oomp_utility_custom_data_manipulation: true
+oomp_key: oomp_oobb_part_screw_self_tapping_m2_radius_name_8_depth
+oomp_word: pencil lips parking
+oomp_word_emoji: ':pencil: :lips: :parking:'
+oomp_word_emoji_list:
+- ':pencil:'
+- ':lips:'
+- ':parking:'
+oomp_word_list:
+- pencil
+- lips
+- parking
+part_number: ''
+part_number_name: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
+radius_name: m2
+short_name: ''
+size: screw_self_tapping
+size_length_1: s
+size_length_2: sc
+size_length_3: scr
+size_length_4: scre
+size_length_5: screw
+size_length_6: screw_
+size_name: Screw Self Tapping
+size_no_space_length_1: s
+size_no_space_length_2: sc
+size_no_space_length_3: scr
+size_no_space_length_4: scre
+size_no_space_length_5: screw
+size_no_space_length_6: screws
+size_no_space_upper_length_1: S
+size_no_space_upper_length_2: SC
+size_no_space_upper_length_3: SCR
+size_no_space_upper_length_4: SCRE
+size_no_space_upper_length_5: SCREW
+size_no_space_upper_length_6: SCREWS
+size_upper_length_1: S
+size_upper_length_2: SC
+size_upper_length_3: SCR
+size_upper_length_4: SCRE
+size_upper_length_5: SCREW
+size_upper_length_6: SCREW_
+type: part
+type_length_1: p
+type_length_2: pa
+type_length_3: par
+type_length_4: part
+type_length_5: part
+type_length_6: part
+type_name: Part
+type_no_space_length_1: p
+type_no_space_length_2: pa
+type_no_space_length_3: par
+type_no_space_length_4: part
+type_no_space_length_5: part
+type_no_space_length_6: part
+type_no_space_upper_length_1: P
+type_no_space_upper_length_2: PA
+type_no_space_upper_length_3: PAR
+type_no_space_upper_length_4: PART
+type_no_space_upper_length_5: PART
+type_no_space_upper_length_6: PART
+type_upper_length_1: P
+type_upper_length_2: PA
+type_upper_length_3: PAR
+type_upper_length_4: PART
+type_upper_length_5: PART
+type_upper_length_6: PART

@@ -1,0 +1,257 @@
+bip_39_word_dash_12: spot-bubble-satoshi-empty-rocket-behind-extra-reunion-obtain-transfer-early-afraid
+bip_39_word_dash_2: spot-bubble
+bip_39_word_dash_3: spot-bubble-satoshi
+bip_39_word_new_br_12: spot<br>bubble<br>satoshi<br>empty<br>rocket<br>behind<br>extra<br>reunion<br>obtain<br>transfer<br>early<br>afraid
+bip_39_word_new_br_2: spot<br>bubble
+bip_39_word_new_br_3: spot<br>bubble<br>satoshi
+bip_39_word_new_line_12: 'spot
+
+  bubble
+
+  satoshi
+
+  empty
+
+  rocket
+
+  behind
+
+  extra
+
+  reunion
+
+  obtain
+
+  transfer
+
+  early
+
+  afraid'
+bip_39_word_new_line_2: 'spot
+
+  bubble'
+bip_39_word_new_line_3: 'spot
+
+  bubble
+
+  satoshi'
+bip_39_word_no_space_12: spotbubblesatoshiemptyrocketbehindextrareunionobtaintransferearlyafraid
+bip_39_word_no_space_2: spotbubble
+bip_39_word_no_space_3: spotbubblesatoshi
+bip_39_word_space_12: spot bubble satoshi empty rocket behind extra reunion obtain
+  transfer early afraid
+bip_39_word_space_2: spot bubble
+bip_39_word_space_3: spot bubble satoshi
+bip_39_word_underscore_12: spot_bubble_satoshi_empty_rocket_behind_extra_reunion_obtain_transfer_early_afraid
+bip_39_word_underscore_2: spot_bubble
+bip_39_word_underscore_3: spot_bubble_satoshi
+classification: oobb
+classification_length_1: o
+classification_length_2: oo
+classification_length_3: oob
+classification_length_4: oobb
+classification_length_5: oobb
+classification_length_6: oobb
+classification_name: Oobb
+classification_no_space_length_1: o
+classification_no_space_length_2: oo
+classification_no_space_length_3: oob
+classification_no_space_length_4: oobb
+classification_no_space_length_5: oobb
+classification_no_space_length_6: oobb
+classification_no_space_upper_length_1: O
+classification_no_space_upper_length_2: OO
+classification_no_space_upper_length_3: OOB
+classification_no_space_upper_length_4: OOBB
+classification_no_space_upper_length_5: OOBB
+classification_no_space_upper_length_6: OOBB
+classification_upper_length_1: O
+classification_upper_length_2: OO
+classification_upper_length_3: OOB
+classification_upper_length_4: OOBB
+classification_upper_length_5: OOBB
+classification_upper_length_6: OOBB
+color: ''
+color_name: ''
+components: []
+components_objects: []
+components_string: []
+description: plate 10x7x3
+description_extra: paper_sheet_a6_extra
+description_extra_length_1: p
+description_extra_length_2: pa
+description_extra_length_3: pap
+description_extra_length_4: pape
+description_extra_length_5: paper
+description_extra_length_6: paper_
+description_extra_name: Paper Sheet A6 Extra
+description_extra_no_space_length_1: p
+description_extra_no_space_length_2: pa
+description_extra_no_space_length_3: pap
+description_extra_no_space_length_4: pape
+description_extra_no_space_length_5: paper
+description_extra_no_space_length_6: papers
+description_extra_no_space_upper_length_1: P
+description_extra_no_space_upper_length_2: PA
+description_extra_no_space_upper_length_3: PAP
+description_extra_no_space_upper_length_4: PAPE
+description_extra_no_space_upper_length_5: PAPER
+description_extra_no_space_upper_length_6: PAPERS
+description_extra_upper_length_1: P
+description_extra_upper_length_2: PA
+description_extra_upper_length_3: PAP
+description_extra_upper_length_4: PAPE
+description_extra_upper_length_5: PAPER
+description_extra_upper_length_6: PAPER_
+description_main: 10_width_7_height_3_mm_depth
+description_main_length_1: '1'
+description_main_length_2: '10'
+description_main_length_3: '10_'
+description_main_length_4: 10_w
+description_main_length_5: 10_wi
+description_main_length_6: 10_wid
+description_main_name: 10 Width 7 Height 3 mm Depth
+description_main_no_space_length_1: '1'
+description_main_no_space_length_2: '10'
+description_main_no_space_length_3: 10w
+description_main_no_space_length_4: 10wi
+description_main_no_space_length_5: 10wid
+description_main_no_space_length_6: 10widt
+description_main_no_space_upper_length_1: '1'
+description_main_no_space_upper_length_2: '10'
+description_main_no_space_upper_length_3: 10W
+description_main_no_space_upper_length_4: 10WI
+description_main_no_space_upper_length_5: 10WID
+description_main_no_space_upper_length_6: 10WIDT
+description_main_upper_length_1: '1'
+description_main_upper_length_2: '10'
+description_main_upper_length_3: '10_'
+description_main_upper_length_4: 10_W
+description_main_upper_length_5: 10_WI
+description_main_upper_length_6: 10_WID
+directory: parts/oobb_part_plate_10_width_7_height_3_mm_depth_paper_sheet_a6_extra
+extra: paper_sheet_a6
+folder: C:\gh\oomlout_oobb_version_4_generated_parts\parts\oobb_part_plate_10_width_7_height_3_mm_depth_paper_sheet_a6_extra
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_10_width_7_height_3_mm_depth_paper_sheet_a6_extra
+height: 7
+height_mm: 104
+id: oobb_part_plate_10_width_7_height_3_mm_depth_paper_sheet_a6_extra
+id_no_class: part_plate_10_width_7_height_3_mm_depth_paper_sheet_a6_extra
+id_no_color: 10width7height3mmdepthpapersheeta6extra
+id_no_size: 10_width_7_height_3_mm_depth_paper_sheet_a6_extra
+id_no_type: plate_10_width_7_height_3_mm_depth_paper_sheet_a6_extra
+link_1: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/plate/10_width_7_height_3_mm_depth/paper_sheet_a6_extra/part
+link_1_name: link_main
+link_main: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/plate/10_width_7_height_3_mm_depth/paper_sheet_a6_extra/part
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%202tw8p
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%202tw8p
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%202tw8p
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%202tw8p
+link_redirect: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/parts/oobb_plate_10_07_03_ex_paper_sheet_a6
+manufacturer: ''
+manufacturer_name: ''
+md5: 488a79ccc4b84a20525db4937ec75696
+md5_10: 488a79ccc4
+md5_10_upper: 488A79CCC4
+md5_5: 488a7
+md5_5_upper: 488A7
+md5_6: 488a79
+md5_6_alpha: 2tw8p
+md5_6_alpha_upper: 2TW8P
+md5_6_upper: 488A79
+name: Oobb Part Plate 10 Width 7 Height 3 mm Depth Paper Sheet A6 Extra
+name_no_class: Part Plate 10 Width 7 Height 3 mm Depth Paper Sheet A6 Extra
+name_no_color: 10Width7Height3mmdepthpapersheeta6Extra
+name_no_size: 10 Width 7 Height 3 mm Depth Paper Sheet A6 Extra
+name_no_type: Plate 10 Width 7 Height 3 mm Depth Paper Sheet A6 Extra
+name_short: Plate 10x7x3 Paper Sheet A6 Extra
+oomlout_detail_hierarchy_1: oobb
+oomlout_detail_hierarchy_1_upper: OOBB
+oomlout_detail_hierarchy_1_upper_length_4: OOBB
+oomlout_detail_hierarchy_2: part
+oomlout_detail_hierarchy_2_upper: PART
+oomlout_detail_hierarchy_2_upper_length_4: PART
+oomlout_detail_hierarchy_3: plate
+oomlout_detail_hierarchy_3_upper: PLATE
+oomlout_detail_hierarchy_3_upper_length_4: PLAT
+oomlout_detail_hierarchy_4: 3_mm_depth
+oomlout_detail_hierarchy_4_upper: 3_MM_DEPTH
+oomlout_detail_hierarchy_4_upper_length_4: 3DEP
+oomlout_detail_hierarchy_5: paper_sheet_a6_extra
+oomlout_detail_hierarchy_5_upper: PAPER_SHEET_A6_EXTRA
+oomlout_detail_hierarchy_5_upper_length_4: PAPE
+oomlout_oomp_utility_custom_data_manipulation: true
+oomp_key: oomp_oobb_part_plate_10_width_7_height_3_mm_depth_paper_sheet_a6_extra
+oomp_word: hatched_chick envelope balloon
+oomp_word_emoji: ':hatched_chick: :envelope: :balloon:'
+oomp_word_emoji_list:
+- ':hatched_chick:'
+- ':envelope:'
+- ':balloon:'
+oomp_word_list:
+- hatched_chick
+- envelope
+- balloon
+part_number: ''
+part_number_name: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
+short_name: ''
+size: plate
+size_length_1: p
+size_length_2: pl
+size_length_3: pla
+size_length_4: plat
+size_length_5: plate
+size_length_6: plate
+size_name: Plate
+size_no_space_length_1: p
+size_no_space_length_2: pl
+size_no_space_length_3: pla
+size_no_space_length_4: plat
+size_no_space_length_5: plate
+size_no_space_length_6: plate
+size_no_space_upper_length_1: P
+size_no_space_upper_length_2: PL
+size_no_space_upper_length_3: PLA
+size_no_space_upper_length_4: PLAT
+size_no_space_upper_length_5: PLATE
+size_no_space_upper_length_6: PLATE
+size_upper_length_1: P
+size_upper_length_2: PL
+size_upper_length_3: PLA
+size_upper_length_4: PLAT
+size_upper_length_5: PLATE
+size_upper_length_6: PLATE
+thickness: 3
+thickness_mm: 3
+type: part
+type_length_1: p
+type_length_2: pa
+type_length_3: par
+type_length_4: part
+type_length_5: part
+type_length_6: part
+type_name: Part
+type_no_space_length_1: p
+type_no_space_length_2: pa
+type_no_space_length_3: par
+type_no_space_length_4: part
+type_no_space_length_5: part
+type_no_space_length_6: part
+type_no_space_upper_length_1: P
+type_no_space_upper_length_2: PA
+type_no_space_upper_length_3: PAR
+type_no_space_upper_length_4: PART
+type_no_space_upper_length_5: PART
+type_no_space_upper_length_6: PART
+type_upper_length_1: P
+type_upper_length_2: PA
+type_upper_length_3: PAR
+type_upper_length_4: PART
+type_upper_length_5: PART
+type_upper_length_6: PART
+width: 10
+width_mm: 149

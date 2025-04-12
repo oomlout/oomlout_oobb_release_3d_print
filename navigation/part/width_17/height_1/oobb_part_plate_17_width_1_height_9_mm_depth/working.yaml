@@ -1,0 +1,229 @@
+bip_39_word_dash_12: loop-code-hour-edit-sea-happy-robust-shoe-reunion-foster-retire-animal
+bip_39_word_dash_2: loop-code
+bip_39_word_dash_3: loop-code-hour
+bip_39_word_new_br_12: loop<br>code<br>hour<br>edit<br>sea<br>happy<br>robust<br>shoe<br>reunion<br>foster<br>retire<br>animal
+bip_39_word_new_br_2: loop<br>code
+bip_39_word_new_br_3: loop<br>code<br>hour
+bip_39_word_new_line_12: 'loop
+
+  code
+
+  hour
+
+  edit
+
+  sea
+
+  happy
+
+  robust
+
+  shoe
+
+  reunion
+
+  foster
+
+  retire
+
+  animal'
+bip_39_word_new_line_2: 'loop
+
+  code'
+bip_39_word_new_line_3: 'loop
+
+  code
+
+  hour'
+bip_39_word_no_space_12: loopcodehoureditseahappyrobustshoereunionfosterretireanimal
+bip_39_word_no_space_2: loopcode
+bip_39_word_no_space_3: loopcodehour
+bip_39_word_space_12: loop code hour edit sea happy robust shoe reunion foster retire
+  animal
+bip_39_word_space_2: loop code
+bip_39_word_space_3: loop code hour
+bip_39_word_underscore_12: loop_code_hour_edit_sea_happy_robust_shoe_reunion_foster_retire_animal
+bip_39_word_underscore_2: loop_code
+bip_39_word_underscore_3: loop_code_hour
+classification: oobb
+classification_length_1: o
+classification_length_2: oo
+classification_length_3: oob
+classification_length_4: oobb
+classification_length_5: oobb
+classification_length_6: oobb
+classification_name: Oobb
+classification_no_space_length_1: o
+classification_no_space_length_2: oo
+classification_no_space_length_3: oob
+classification_no_space_length_4: oobb
+classification_no_space_length_5: oobb
+classification_no_space_length_6: oobb
+classification_no_space_upper_length_1: O
+classification_no_space_upper_length_2: OO
+classification_no_space_upper_length_3: OOB
+classification_no_space_upper_length_4: OOBB
+classification_no_space_upper_length_5: OOBB
+classification_no_space_upper_length_6: OOBB
+classification_upper_length_1: O
+classification_upper_length_2: OO
+classification_upper_length_3: OOB
+classification_upper_length_4: OOBB
+classification_upper_length_5: OOBB
+classification_upper_length_6: OOBB
+color: ''
+color_name: ''
+components: []
+components_objects: []
+components_string: []
+description: plate 17x1x9
+description_extra: ''
+description_extra_name: ''
+description_main: 17_width_1_height_9_mm_depth
+description_main_length_1: '1'
+description_main_length_2: '17'
+description_main_length_3: '17_'
+description_main_length_4: 17_w
+description_main_length_5: 17_wi
+description_main_length_6: 17_wid
+description_main_name: 17 Width 1 Height 9 mm Depth
+description_main_no_space_length_1: '1'
+description_main_no_space_length_2: '17'
+description_main_no_space_length_3: 17w
+description_main_no_space_length_4: 17wi
+description_main_no_space_length_5: 17wid
+description_main_no_space_length_6: 17widt
+description_main_no_space_upper_length_1: '1'
+description_main_no_space_upper_length_2: '17'
+description_main_no_space_upper_length_3: 17W
+description_main_no_space_upper_length_4: 17WI
+description_main_no_space_upper_length_5: 17WID
+description_main_no_space_upper_length_6: 17WIDT
+description_main_upper_length_1: '1'
+description_main_upper_length_2: '17'
+description_main_upper_length_3: '17_'
+description_main_upper_length_4: 17_W
+description_main_upper_length_5: 17_WI
+description_main_upper_length_6: 17_WID
+directory: parts/oobb_part_plate_17_width_1_height_9_mm_depth
+folder: C:\gh\oomlout_oobb_version_4_generated_parts\parts\oobb_part_plate_17_width_1_height_9_mm_depth
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_17_width_1_height_9_mm_depth
+height: 1
+height_mm: 14
+id: oobb_part_plate_17_width_1_height_9_mm_depth
+id_no_class: part_plate_17_width_1_height_9_mm_depth
+id_no_color: 17width1height9mmdepth
+id_no_size: 17_width_1_height_9_mm_depth
+id_no_type: plate_17_width_1_height_9_mm_depth
+link_1: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/plate/17_width_1_height_9_mm_depth/part
+link_1_name: link_main
+link_main: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/plate/17_width_1_height_9_mm_depth/part
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%205oafr
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%205oafr
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%205oafr
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%205oafr
+link_redirect: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/parts/oobb_plate_17_01_09
+manufacturer: ''
+manufacturer_name: ''
+md5: 916fd705c2c67769a3e0f466dc8b441f
+md5_10: 916fd705c2
+md5_10_upper: 916FD705C2
+md5_5: 916fd
+md5_5_upper: 916FD
+md5_6: 916fd7
+md5_6_alpha: 5oafr
+md5_6_alpha_upper: 5OAFR
+md5_6_upper: 916FD7
+name: Oobb Part Plate 17 Width 1 Height 9 mm Depth
+name_no_class: Part Plate 17 Width 1 Height 9 mm Depth
+name_no_color: 17Width1Height9mmdepth
+name_no_size: 17 Width 1 Height 9 mm Depth
+name_no_type: Plate 17 Width 1 Height 9 mm Depth
+name_short: 'Plate 17x1x9 '
+oomlout_detail_hierarchy_1: oobb
+oomlout_detail_hierarchy_1_upper: OOBB
+oomlout_detail_hierarchy_1_upper_length_4: OOBB
+oomlout_detail_hierarchy_2: part
+oomlout_detail_hierarchy_2_upper: PART
+oomlout_detail_hierarchy_2_upper_length_4: PART
+oomlout_detail_hierarchy_3: plate
+oomlout_detail_hierarchy_3_upper: PLATE
+oomlout_detail_hierarchy_3_upper_length_4: PLAT
+oomlout_detail_hierarchy_4: 9_mm_depth
+oomlout_detail_hierarchy_4_upper: 9_MM_DEPTH
+oomlout_detail_hierarchy_4_upper_length_4: 9DEP
+oomlout_oomp_utility_custom_data_manipulation: true
+oomp_key: oomp_oobb_part_plate_17_width_1_height_9_mm_depth
+oomp_word: pushpin moon office
+oomp_word_emoji: ':pushpin: :moon: :office:'
+oomp_word_emoji_list:
+- ':pushpin:'
+- ':moon:'
+- ':office:'
+oomp_word_list:
+- pushpin
+- moon
+- office
+part_number: ''
+part_number_name: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
+short_name: ''
+size: plate
+size_length_1: p
+size_length_2: pl
+size_length_3: pla
+size_length_4: plat
+size_length_5: plate
+size_length_6: plate
+size_name: Plate
+size_no_space_length_1: p
+size_no_space_length_2: pl
+size_no_space_length_3: pla
+size_no_space_length_4: plat
+size_no_space_length_5: plate
+size_no_space_length_6: plate
+size_no_space_upper_length_1: P
+size_no_space_upper_length_2: PL
+size_no_space_upper_length_3: PLA
+size_no_space_upper_length_4: PLAT
+size_no_space_upper_length_5: PLATE
+size_no_space_upper_length_6: PLATE
+size_upper_length_1: P
+size_upper_length_2: PL
+size_upper_length_3: PLA
+size_upper_length_4: PLAT
+size_upper_length_5: PLATE
+size_upper_length_6: PLATE
+thickness: 9
+thickness_mm: 9
+type: part
+type_length_1: p
+type_length_2: pa
+type_length_3: par
+type_length_4: part
+type_length_5: part
+type_length_6: part
+type_name: Part
+type_no_space_length_1: p
+type_no_space_length_2: pa
+type_no_space_length_3: par
+type_no_space_length_4: part
+type_no_space_length_5: part
+type_no_space_length_6: part
+type_no_space_upper_length_1: P
+type_no_space_upper_length_2: PA
+type_no_space_upper_length_3: PAR
+type_no_space_upper_length_4: PART
+type_no_space_upper_length_5: PART
+type_no_space_upper_length_6: PART
+type_upper_length_1: P
+type_upper_length_2: PA
+type_upper_length_3: PAR
+type_upper_length_4: PART
+type_upper_length_5: PART
+type_upper_length_6: PART
+width: 17
+width_mm: 254

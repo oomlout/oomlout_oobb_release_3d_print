@@ -1,0 +1,257 @@
+bip_39_word_dash_12: goddess-hybrid-effort-hockey-tumble-permit-sight-cupboard-quarter-romance-outdoor-armed
+bip_39_word_dash_2: goddess-hybrid
+bip_39_word_dash_3: goddess-hybrid-effort
+bip_39_word_new_br_12: goddess<br>hybrid<br>effort<br>hockey<br>tumble<br>permit<br>sight<br>cupboard<br>quarter<br>romance<br>outdoor<br>armed
+bip_39_word_new_br_2: goddess<br>hybrid
+bip_39_word_new_br_3: goddess<br>hybrid<br>effort
+bip_39_word_new_line_12: 'goddess
+
+  hybrid
+
+  effort
+
+  hockey
+
+  tumble
+
+  permit
+
+  sight
+
+  cupboard
+
+  quarter
+
+  romance
+
+  outdoor
+
+  armed'
+bip_39_word_new_line_2: 'goddess
+
+  hybrid'
+bip_39_word_new_line_3: 'goddess
+
+  hybrid
+
+  effort'
+bip_39_word_no_space_12: goddesshybridefforthockeytumblepermitsightcupboardquarterromanceoutdoorarmed
+bip_39_word_no_space_2: goddesshybrid
+bip_39_word_no_space_3: goddesshybrideffort
+bip_39_word_space_12: goddess hybrid effort hockey tumble permit sight cupboard quarter
+  romance outdoor armed
+bip_39_word_space_2: goddess hybrid
+bip_39_word_space_3: goddess hybrid effort
+bip_39_word_underscore_12: goddess_hybrid_effort_hockey_tumble_permit_sight_cupboard_quarter_romance_outdoor_armed
+bip_39_word_underscore_2: goddess_hybrid
+bip_39_word_underscore_3: goddess_hybrid_effort
+classification: oobb
+classification_length_1: o
+classification_length_2: oo
+classification_length_3: oob
+classification_length_4: oobb
+classification_length_5: oobb
+classification_length_6: oobb
+classification_name: Oobb
+classification_no_space_length_1: o
+classification_no_space_length_2: oo
+classification_no_space_length_3: oob
+classification_no_space_length_4: oobb
+classification_no_space_length_5: oobb
+classification_no_space_length_6: oobb
+classification_no_space_upper_length_1: O
+classification_no_space_upper_length_2: OO
+classification_no_space_upper_length_3: OOB
+classification_no_space_upper_length_4: OOBB
+classification_no_space_upper_length_5: OOBB
+classification_no_space_upper_length_6: OOBB
+classification_upper_length_1: O
+classification_upper_length_2: OO
+classification_upper_length_3: OOB
+classification_upper_length_4: OOBB
+classification_upper_length_5: OOBB
+classification_upper_length_6: OOBB
+color: ''
+color_name: ''
+components: []
+components_objects: []
+components_string: []
+description: smd magazine 2x2x18
+description_extra: 2_extra
+description_extra_length_1: '2'
+description_extra_length_2: '2_'
+description_extra_length_3: 2_e
+description_extra_length_4: 2_ex
+description_extra_length_5: 2_ext
+description_extra_length_6: 2_extr
+description_extra_name: 2 Extra
+description_extra_no_space_length_1: '2'
+description_extra_no_space_length_2: 2e
+description_extra_no_space_length_3: 2ex
+description_extra_no_space_length_4: 2ext
+description_extra_no_space_length_5: 2extr
+description_extra_no_space_length_6: 2extra
+description_extra_no_space_upper_length_1: '2'
+description_extra_no_space_upper_length_2: 2E
+description_extra_no_space_upper_length_3: 2EX
+description_extra_no_space_upper_length_4: 2EXT
+description_extra_no_space_upper_length_5: 2EXTR
+description_extra_no_space_upper_length_6: 2EXTRA
+description_extra_upper_length_1: '2'
+description_extra_upper_length_2: '2_'
+description_extra_upper_length_3: 2_E
+description_extra_upper_length_4: 2_EX
+description_extra_upper_length_5: 2_EXT
+description_extra_upper_length_6: 2_EXTR
+description_main: 2_width_2_height_18_mm_depth
+description_main_length_1: '2'
+description_main_length_2: '2_'
+description_main_length_3: 2_w
+description_main_length_4: 2_wi
+description_main_length_5: 2_wid
+description_main_length_6: 2_widt
+description_main_name: 2 Width 2 Height 18 mm Depth
+description_main_no_space_length_1: '2'
+description_main_no_space_length_2: 2w
+description_main_no_space_length_3: 2wi
+description_main_no_space_length_4: 2wid
+description_main_no_space_length_5: 2widt
+description_main_no_space_length_6: 2width
+description_main_no_space_upper_length_1: '2'
+description_main_no_space_upper_length_2: 2W
+description_main_no_space_upper_length_3: 2WI
+description_main_no_space_upper_length_4: 2WID
+description_main_no_space_upper_length_5: 2WIDT
+description_main_no_space_upper_length_6: 2WIDTH
+description_main_upper_length_1: '2'
+description_main_upper_length_2: '2_'
+description_main_upper_length_3: 2_W
+description_main_upper_length_4: 2_WI
+description_main_upper_length_5: 2_WID
+description_main_upper_length_6: 2_WIDT
+directory: parts/oobb_part_smd_magazine_2_width_2_height_18_mm_depth_2_extra
+extra: 2
+folder: C:\gh\oomlout_oobb_version_4_generated_parts\parts\oobb_part_smd_magazine_2_width_2_height_18_mm_depth_2_extra
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_smd_magazine_2_width_2_height_18_mm_depth_2_extra
+height: 2
+height_mm: 29
+id: oobb_part_smd_magazine_2_width_2_height_18_mm_depth_2_extra
+id_no_class: part_smd_magazine_2_width_2_height_18_mm_depth_2_extra
+id_no_color: 2width2height18mmdepth2extra
+id_no_size: 2_width_2_height_18_mm_depth_2_extra
+id_no_type: smd_magazine_2_width_2_height_18_mm_depth_2_extra
+link_1: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/smd_magazine/2_width_2_height_18_mm_depth/2_extra/part
+link_1_name: link_main
+link_main: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/smd_magazine/2_width_2_height_18_mm_depth/2_extra/part
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%207dsvi
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%207dsvi
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%207dsvi
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%207dsvi
+link_redirect: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/parts/oobb_smd_magazine_02_02_18_nm_16_mm_tape_width_2_mm_tape_thickness_ex_2
+manufacturer: ''
+manufacturer_name: ''
+md5: bd3a6ee57b35d9068cf526c68d5c0321
+md5_10: bd3a6ee57b
+md5_10_upper: BD3A6EE57B
+md5_5: bd3a6
+md5_5_upper: BD3A6
+md5_6: bd3a6e
+md5_6_alpha: 7dsvi
+md5_6_alpha_upper: 7DSVI
+md5_6_upper: BD3A6E
+name: Oobb Part SMD Magazine 2 Width 2 Height 18 mm Depth 2 Extra
+name_no_class: Part SMD Magazine 2 Width 2 Height 18 mm Depth 2 Extra
+name_no_color: 2Width2Height18mmdepth2Extra
+name_no_size: 2 Width 2 Height 18 mm Depth 2 Extra
+name_no_type: SMD Magazine 2 Width 2 Height 18 mm Depth 2 Extra
+name_short: Smd Magazine 2x2x18 2 Extra
+oomlout_detail_hierarchy_1: oobb
+oomlout_detail_hierarchy_1_upper: OOBB
+oomlout_detail_hierarchy_1_upper_length_4: OOBB
+oomlout_detail_hierarchy_2: part
+oomlout_detail_hierarchy_2_upper: PART
+oomlout_detail_hierarchy_2_upper_length_4: PART
+oomlout_detail_hierarchy_3: smd_magazine
+oomlout_detail_hierarchy_3_upper: SMD_MAGAZINE
+oomlout_detail_hierarchy_3_upper_length_4: SMD_
+oomlout_detail_hierarchy_4: 18_mm_depth
+oomlout_detail_hierarchy_4_upper: 18_MM_DEPTH
+oomlout_detail_hierarchy_4_upper_length_4: 18DE
+oomlout_detail_hierarchy_5: 2_extra
+oomlout_detail_hierarchy_5_upper: 2_EXTRA
+oomlout_detail_hierarchy_5_upper_length_4: 2_EX
+oomlout_oomp_utility_custom_data_manipulation: true
+oomp_key: oomp_oobb_part_smd_magazine_2_width_2_height_18_mm_depth_2_extra
+oomp_word: rice koala new_moon
+oomp_word_emoji: ':rice: :koala: :new_moon:'
+oomp_word_emoji_list:
+- ':rice:'
+- ':koala:'
+- ':new_moon:'
+oomp_word_list:
+- rice
+- koala
+- new_moon
+part_number: ''
+part_number_name: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
+short_name: ''
+size: smd_magazine
+size_length_1: s
+size_length_2: sm
+size_length_3: smd
+size_length_4: smd_
+size_length_5: smd_m
+size_length_6: smd_ma
+size_name: SMD Magazine
+size_no_space_length_1: s
+size_no_space_length_2: sm
+size_no_space_length_3: smd
+size_no_space_length_4: smdm
+size_no_space_length_5: smdma
+size_no_space_length_6: smdmag
+size_no_space_upper_length_1: S
+size_no_space_upper_length_2: SM
+size_no_space_upper_length_3: SMD
+size_no_space_upper_length_4: SMDM
+size_no_space_upper_length_5: SMDMA
+size_no_space_upper_length_6: SMDMAG
+size_upper_length_1: S
+size_upper_length_2: SM
+size_upper_length_3: SMD
+size_upper_length_4: SMD_
+size_upper_length_5: SMD_M
+size_upper_length_6: SMD_MA
+thickness: 18
+thickness_mm: 18
+type: part
+type_length_1: p
+type_length_2: pa
+type_length_3: par
+type_length_4: part
+type_length_5: part
+type_length_6: part
+type_name: Part
+type_no_space_length_1: p
+type_no_space_length_2: pa
+type_no_space_length_3: par
+type_no_space_length_4: part
+type_no_space_length_5: part
+type_no_space_length_6: part
+type_no_space_upper_length_1: P
+type_no_space_upper_length_2: PA
+type_no_space_upper_length_3: PAR
+type_no_space_upper_length_4: PART
+type_no_space_upper_length_5: PART
+type_no_space_upper_length_6: PART
+type_upper_length_1: P
+type_upper_length_2: PA
+type_upper_length_3: PAR
+type_upper_length_4: PART
+type_upper_length_5: PART
+type_upper_length_6: PART
+width: 2
+width_mm: 29

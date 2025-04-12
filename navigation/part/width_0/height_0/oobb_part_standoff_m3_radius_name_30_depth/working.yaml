@@ -1,0 +1,225 @@
+bip_39_word_dash_12: once-knife-daring-obey-october-depth-design-payment-flip-carry-biology-agent
+bip_39_word_dash_2: once-knife
+bip_39_word_dash_3: once-knife-daring
+bip_39_word_new_br_12: once<br>knife<br>daring<br>obey<br>october<br>depth<br>design<br>payment<br>flip<br>carry<br>biology<br>agent
+bip_39_word_new_br_2: once<br>knife
+bip_39_word_new_br_3: once<br>knife<br>daring
+bip_39_word_new_line_12: 'once
+
+  knife
+
+  daring
+
+  obey
+
+  october
+
+  depth
+
+  design
+
+  payment
+
+  flip
+
+  carry
+
+  biology
+
+  agent'
+bip_39_word_new_line_2: 'once
+
+  knife'
+bip_39_word_new_line_3: 'once
+
+  knife
+
+  daring'
+bip_39_word_no_space_12: onceknifedaringobeyoctoberdepthdesignpaymentflipcarrybiologyagent
+bip_39_word_no_space_2: onceknife
+bip_39_word_no_space_3: onceknifedaring
+bip_39_word_space_12: once knife daring obey october depth design payment flip carry
+  biology agent
+bip_39_word_space_2: once knife
+bip_39_word_space_3: once knife daring
+bip_39_word_underscore_12: once_knife_daring_obey_october_depth_design_payment_flip_carry_biology_agent
+bip_39_word_underscore_2: once_knife
+bip_39_word_underscore_3: once_knife_daring
+classification: oobb
+classification_length_1: o
+classification_length_2: oo
+classification_length_3: oob
+classification_length_4: oobb
+classification_length_5: oobb
+classification_length_6: oobb
+classification_name: Oobb
+classification_no_space_length_1: o
+classification_no_space_length_2: oo
+classification_no_space_length_3: oob
+classification_no_space_length_4: oobb
+classification_no_space_length_5: oobb
+classification_no_space_length_6: oobb
+classification_no_space_upper_length_1: O
+classification_no_space_upper_length_2: OO
+classification_no_space_upper_length_3: OOB
+classification_no_space_upper_length_4: OOBB
+classification_no_space_upper_length_5: OOBB
+classification_no_space_upper_length_6: OOBB
+classification_upper_length_1: O
+classification_upper_length_2: OO
+classification_upper_length_3: OOB
+classification_upper_length_4: OOBB
+classification_upper_length_5: OOBB
+classification_upper_length_6: OOBB
+color: ''
+color_name: ''
+components: []
+components_objects: []
+components_string: []
+depth: 30
+description: standoff 0x0x0
+description_extra: m3_radius_name_30_depth
+description_extra_length_1: m
+description_extra_length_2: m3
+description_extra_length_3: m3_
+description_extra_length_4: m3_r
+description_extra_length_5: m3_ra
+description_extra_length_6: m3_rad
+description_extra_name: M3 Radius Name 30 Depth
+description_extra_no_space_length_1: m
+description_extra_no_space_length_2: m3
+description_extra_no_space_length_3: m3r
+description_extra_no_space_length_4: m3ra
+description_extra_no_space_length_5: m3rad
+description_extra_no_space_length_6: m3radi
+description_extra_no_space_upper_length_1: M
+description_extra_no_space_upper_length_2: M3
+description_extra_no_space_upper_length_3: M3R
+description_extra_no_space_upper_length_4: M3RA
+description_extra_no_space_upper_length_5: M3RAD
+description_extra_no_space_upper_length_6: M3RADI
+description_extra_upper_length_1: M
+description_extra_upper_length_2: M3
+description_extra_upper_length_3: M3_
+description_extra_upper_length_4: M3_R
+description_extra_upper_length_5: M3_RA
+description_extra_upper_length_6: M3_RAD
+description_main: ''
+description_main_name: ''
+directory: parts/oobb_part_standoff_m3_radius_name_30_depth
+folder: C:\gh\oomlout_oobb_version_4_generated_parts\parts\oobb_part_standoff_m3_radius_name_30_depth
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_standoff_m3_radius_name_30_depth
+id: oobb_part_standoff_m3_radius_name_30_depth
+id_no_class: part_standoff_m3_radius_name_30_depth
+id_no_color: m3radiusname30depth
+id_no_size: m3_radius_name_30_depth
+id_no_type: standoff_m3_radius_name_30_depth
+link_1: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/standoff//m3_radius_name_30_depth/part
+link_1_name: link_main
+link_main: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/standoff//m3_radius_name_30_depth/part
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2031t54
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2031t54
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%2031t54
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2031t54
+link_redirect: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/parts/hardware_standoff_m3_30
+manufacturer: ''
+manufacturer_name: ''
+md5: 4e2cc8bac8a1a778eccc897e6f1eecd4
+md5_10: 4e2cc8bac8
+md5_10_upper: 4E2CC8BAC8
+md5_5: 4e2cc
+md5_5_upper: 4E2CC
+md5_6: 4e2cc8
+md5_6_alpha: 31t54
+md5_6_alpha_upper: 31T54
+md5_6_upper: 4E2CC8
+name: Oobb Part Standoff M3 Radius Name 30 Depth
+name_no_class: Part Standoff M3 Radius Name 30 Depth
+name_no_color: M3Radiusname30Depth
+name_no_size: M3 Radius Name 30 Depth
+name_no_type: Standoff M3 Radius Name 30 Depth
+name_short: Standoff M3 Radius Name 30 Depth
+oomlout_detail_hierarchy_1: oobb
+oomlout_detail_hierarchy_1_upper: OOBB
+oomlout_detail_hierarchy_1_upper_length_4: OOBB
+oomlout_detail_hierarchy_2: part
+oomlout_detail_hierarchy_2_upper: PART
+oomlout_detail_hierarchy_2_upper_length_4: PART
+oomlout_detail_hierarchy_3: standoff
+oomlout_detail_hierarchy_3_upper: STANDOFF
+oomlout_detail_hierarchy_3_upper_length_4: STAN
+oomlout_detail_hierarchy_4: m3_radius_name_30_depth
+oomlout_detail_hierarchy_4_upper: M3_RADIUS_NAME_30_DEPTH
+oomlout_detail_hierarchy_4_upper_length_4: M3_R
+oomlout_oomp_utility_custom_data_manipulation: true
+oomp_key: oomp_oobb_part_standoff_m3_radius_name_30_depth
+oomp_word: honeybee snowflake apple
+oomp_word_emoji: ':honeybee: :snowflake: :apple:'
+oomp_word_emoji_list:
+- ':honeybee:'
+- ':snowflake:'
+- ':apple:'
+oomp_word_list:
+- honeybee
+- snowflake
+- apple
+part_number: ''
+part_number_name: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
+radius_name: m3
+short_name: ''
+size: standoff
+size_length_1: s
+size_length_2: st
+size_length_3: sta
+size_length_4: stan
+size_length_5: stand
+size_length_6: stando
+size_name: Standoff
+size_no_space_length_1: s
+size_no_space_length_2: st
+size_no_space_length_3: sta
+size_no_space_length_4: stan
+size_no_space_length_5: stand
+size_no_space_length_6: stando
+size_no_space_upper_length_1: S
+size_no_space_upper_length_2: ST
+size_no_space_upper_length_3: STA
+size_no_space_upper_length_4: STAN
+size_no_space_upper_length_5: STAND
+size_no_space_upper_length_6: STANDO
+size_upper_length_1: S
+size_upper_length_2: ST
+size_upper_length_3: STA
+size_upper_length_4: STAN
+size_upper_length_5: STAND
+size_upper_length_6: STANDO
+type: part
+type_length_1: p
+type_length_2: pa
+type_length_3: par
+type_length_4: part
+type_length_5: part
+type_length_6: part
+type_name: Part
+type_no_space_length_1: p
+type_no_space_length_2: pa
+type_no_space_length_3: par
+type_no_space_length_4: part
+type_no_space_length_5: part
+type_no_space_length_6: part
+type_no_space_upper_length_1: P
+type_no_space_upper_length_2: PA
+type_no_space_upper_length_3: PAR
+type_no_space_upper_length_4: PART
+type_no_space_upper_length_5: PART
+type_no_space_upper_length_6: PART
+type_upper_length_1: P
+type_upper_length_2: PA
+type_upper_length_3: PAR
+type_upper_length_4: PART
+type_upper_length_5: PART
+type_upper_length_6: PART

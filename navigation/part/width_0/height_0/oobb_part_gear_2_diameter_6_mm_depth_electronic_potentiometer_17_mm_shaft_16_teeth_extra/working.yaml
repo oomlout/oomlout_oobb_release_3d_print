@@ -1,0 +1,265 @@
+bip_39_word_dash_12: diesel-disorder-tell-panther-general-avoid-debate-trade-crack-off-reflect-alley
+bip_39_word_dash_2: diesel-disorder
+bip_39_word_dash_3: diesel-disorder-tell
+bip_39_word_new_br_12: diesel<br>disorder<br>tell<br>panther<br>general<br>avoid<br>debate<br>trade<br>crack<br>off<br>reflect<br>alley
+bip_39_word_new_br_2: diesel<br>disorder
+bip_39_word_new_br_3: diesel<br>disorder<br>tell
+bip_39_word_new_line_12: 'diesel
+
+  disorder
+
+  tell
+
+  panther
+
+  general
+
+  avoid
+
+  debate
+
+  trade
+
+  crack
+
+  off
+
+  reflect
+
+  alley'
+bip_39_word_new_line_2: 'diesel
+
+  disorder'
+bip_39_word_new_line_3: 'diesel
+
+  disorder
+
+  tell'
+bip_39_word_no_space_12: dieseldisordertellpanthergeneralavoiddebatetradecrackoffreflectalley
+bip_39_word_no_space_2: dieseldisorder
+bip_39_word_no_space_3: dieseldisordertell
+bip_39_word_space_12: diesel disorder tell panther general avoid debate trade crack
+  off reflect alley
+bip_39_word_space_2: diesel disorder
+bip_39_word_space_3: diesel disorder tell
+bip_39_word_underscore_12: diesel_disorder_tell_panther_general_avoid_debate_trade_crack_off_reflect_alley
+bip_39_word_underscore_2: diesel_disorder
+bip_39_word_underscore_3: diesel_disorder_tell
+classification: oobb
+classification_length_1: o
+classification_length_2: oo
+classification_length_3: oob
+classification_length_4: oobb
+classification_length_5: oobb
+classification_length_6: oobb
+classification_name: Oobb
+classification_no_space_length_1: o
+classification_no_space_length_2: oo
+classification_no_space_length_3: oob
+classification_no_space_length_4: oobb
+classification_no_space_length_5: oobb
+classification_no_space_length_6: oobb
+classification_no_space_upper_length_1: O
+classification_no_space_upper_length_2: OO
+classification_no_space_upper_length_3: OOB
+classification_no_space_upper_length_4: OOBB
+classification_no_space_upper_length_5: OOBB
+classification_no_space_upper_length_6: OOBB
+classification_upper_length_1: O
+classification_upper_length_2: OO
+classification_upper_length_3: OOB
+classification_upper_length_4: OOBB
+classification_upper_length_5: OOBB
+classification_upper_length_6: OOBB
+color: ''
+color_name: ''
+components: []
+components_objects: []
+components_string: []
+description: gear 0x0x6
+description_extra: electronic_potentiometer_17_mm_shaft_16_teeth_extra
+description_extra_length_1: e
+description_extra_length_2: el
+description_extra_length_3: ele
+description_extra_length_4: elec
+description_extra_length_5: elect
+description_extra_length_6: electr
+description_extra_name: Electronic Potentiometer 17 mm Shaft 16 Teeth Extra
+description_extra_no_space_length_1: e
+description_extra_no_space_length_2: el
+description_extra_no_space_length_3: ele
+description_extra_no_space_length_4: elec
+description_extra_no_space_length_5: elect
+description_extra_no_space_length_6: electr
+description_extra_no_space_upper_length_1: E
+description_extra_no_space_upper_length_2: EL
+description_extra_no_space_upper_length_3: ELE
+description_extra_no_space_upper_length_4: ELEC
+description_extra_no_space_upper_length_5: ELECT
+description_extra_no_space_upper_length_6: ELECTR
+description_extra_upper_length_1: E
+description_extra_upper_length_2: EL
+description_extra_upper_length_3: ELE
+description_extra_upper_length_4: ELEC
+description_extra_upper_length_5: ELECT
+description_extra_upper_length_6: ELECTR
+description_main: 2_diameter_6_mm_depth
+description_main_length_1: '2'
+description_main_length_2: '2_'
+description_main_length_3: 2_d
+description_main_length_4: 2_di
+description_main_length_5: 2_dia
+description_main_length_6: 2_diam
+description_main_name: 2 Diameter 6 mm Depth
+description_main_no_space_length_1: '2'
+description_main_no_space_length_2: 2d
+description_main_no_space_length_3: 2di
+description_main_no_space_length_4: 2dia
+description_main_no_space_length_5: 2diam
+description_main_no_space_length_6: 2diame
+description_main_no_space_upper_length_1: '2'
+description_main_no_space_upper_length_2: 2D
+description_main_no_space_upper_length_3: 2DI
+description_main_no_space_upper_length_4: 2DIA
+description_main_no_space_upper_length_5: 2DIAM
+description_main_no_space_upper_length_6: 2DIAME
+description_main_upper_length_1: '2'
+description_main_upper_length_2: '2_'
+description_main_upper_length_3: 2_D
+description_main_upper_length_4: 2_DI
+description_main_upper_length_5: 2_DIA
+description_main_upper_length_6: 2_DIAM
+diameter: 2
+directory: parts/oobb_part_gear_2_diameter_6_mm_depth_electronic_potentiometer_17_mm_shaft_16_teeth_extra
+extra: 16_teeth
+folder: C:\gh\oomlout_oobb_version_4_generated_parts\parts\oobb_part_gear_2_diameter_6_mm_depth_electronic_potentiometer_17_mm_shaft_16_teeth_extra
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_gear_2_diameter_6_mm_depth_electronic_potentiometer_17_mm_shaft_16_teeth_extra
+id: oobb_part_gear_2_diameter_6_mm_depth_electronic_potentiometer_17_mm_shaft_16_teeth_extra
+id_no_class: part_gear_2_diameter_6_mm_depth_electronic_potentiometer_17_mm_shaft_16_teeth_extra
+id_no_color: 2diameter6mmdepthelectronicpotentiometer17mmshaft16teethextra
+id_no_size: 2_diameter_6_mm_depth_electronic_potentiometer_17_mm_shaft_16_teeth_extra
+id_no_type: gear_2_diameter_6_mm_depth_electronic_potentiometer_17_mm_shaft_16_teeth_extra
+link_1: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/gear/2_diameter_6_mm_depth/electronic_potentiometer_17_mm_shaft_16_teeth_extra/part
+link_1_name: link_main
+link_main: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/gear/2_diameter_6_mm_depth/electronic_potentiometer_17_mm_shaft_16_teeth_extra/part
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2044292
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2044292
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%2044292
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2044292
+link_redirect: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/parts/oobb_gear_02_06_ex_16_teeth_sh_electronic_potentiometer_17_mm
+manufacturer: ''
+manufacturer_name: ''
+md5: 696866518ee6a708403069fdbd8fd9ec
+md5_10: 696866518e
+md5_10_upper: 696866518E
+md5_5: '69686'
+md5_5_upper: '69686'
+md5_6: '696866'
+md5_6_alpha: '44292'
+md5_6_alpha_upper: '44292'
+md5_6_upper: '696866'
+name: Oobb Part Gear 2 Diameter 6 mm Depth Electronic Potentiometer 17 mm Shaft 16
+  Teeth Extra
+name_no_class: Part Gear 2 Diameter 6 mm Depth Electronic Potentiometer 17 mm Shaft
+  16 Teeth Extra
+name_no_color: 2Diameter6mmdepthelectronicpotentiometer17mmshaft16Teethextra
+name_no_size: 2 Diameter 6 mm Depth Electronic Potentiometer 17 mm Shaft 16 Teeth
+  Extra
+name_no_type: Gear 2 Diameter 6 mm Depth Electronic Potentiometer 17 mm Shaft 16 Teeth
+  Extra
+name_short: Gear 2x6 Electronic Potentiometer 17 mm
+oomlout_detail_hierarchy_1: oobb
+oomlout_detail_hierarchy_1_upper: OOBB
+oomlout_detail_hierarchy_1_upper_length_4: OOBB
+oomlout_detail_hierarchy_2: part
+oomlout_detail_hierarchy_2_upper: PART
+oomlout_detail_hierarchy_2_upper_length_4: PART
+oomlout_detail_hierarchy_3: gear
+oomlout_detail_hierarchy_3_upper: GEAR
+oomlout_detail_hierarchy_3_upper_length_4: GEAR
+oomlout_detail_hierarchy_4: 2_diameter
+oomlout_detail_hierarchy_4_upper: 2_DIAMETER
+oomlout_detail_hierarchy_4_upper_length_4: 2_DI
+oomlout_detail_hierarchy_5: 6_mm_depth
+oomlout_detail_hierarchy_5_upper: 6_MM_DEPTH
+oomlout_detail_hierarchy_5_upper_length_4: 6DEP
+oomlout_detail_hierarchy_6: electronic_potentiometer_17_mm
+oomlout_detail_hierarchy_6_upper: ELECTRONIC_POTENTIOMETER_17_MM
+oomlout_detail_hierarchy_6_upper_length_4: ELEC
+oomlout_detail_hierarchy_7: shaft_16_teeth_extra
+oomlout_detail_hierarchy_7_upper: SHAFT_16_TEETH_EXTRA
+oomlout_detail_hierarchy_7_upper_length_4: SHAF
+oomlout_oomp_utility_custom_data_manipulation: true
+oomp_key: oomp_oobb_part_gear_2_diameter_6_mm_depth_electronic_potentiometer_17_mm_shaft_16_teeth_extra
+oomp_word: cactus mushroom leaves
+oomp_word_emoji: ':cactus: :mushroom: :leaves:'
+oomp_word_emoji_list:
+- ':cactus:'
+- ':mushroom:'
+- ':leaves:'
+oomp_word_list:
+- cactus
+- mushroom
+- leaves
+part_number: ''
+part_number_name: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
+shaft: electronic_potentiometer_17_mm
+short_name: ''
+size: gear
+size_length_1: g
+size_length_2: ge
+size_length_3: gea
+size_length_4: gear
+size_length_5: gear
+size_length_6: gear
+size_name: Gear
+size_no_space_length_1: g
+size_no_space_length_2: ge
+size_no_space_length_3: gea
+size_no_space_length_4: gear
+size_no_space_length_5: gear
+size_no_space_length_6: gear
+size_no_space_upper_length_1: G
+size_no_space_upper_length_2: GE
+size_no_space_upper_length_3: GEA
+size_no_space_upper_length_4: GEAR
+size_no_space_upper_length_5: GEAR
+size_no_space_upper_length_6: GEAR
+size_upper_length_1: G
+size_upper_length_2: GE
+size_upper_length_3: GEA
+size_upper_length_4: GEAR
+size_upper_length_5: GEAR
+size_upper_length_6: GEAR
+thickness: 6
+thickness_mm: 6
+type: part
+type_length_1: p
+type_length_2: pa
+type_length_3: par
+type_length_4: part
+type_length_5: part
+type_length_6: part
+type_name: Part
+type_no_space_length_1: p
+type_no_space_length_2: pa
+type_no_space_length_3: par
+type_no_space_length_4: part
+type_no_space_length_5: part
+type_no_space_length_6: part
+type_no_space_upper_length_1: P
+type_no_space_upper_length_2: PA
+type_no_space_upper_length_3: PAR
+type_no_space_upper_length_4: PART
+type_no_space_upper_length_5: PART
+type_no_space_upper_length_6: PART
+type_upper_length_1: P
+type_upper_length_2: PA
+type_upper_length_3: PAR
+type_upper_length_4: PART
+type_upper_length_5: PART
+type_upper_length_6: PART

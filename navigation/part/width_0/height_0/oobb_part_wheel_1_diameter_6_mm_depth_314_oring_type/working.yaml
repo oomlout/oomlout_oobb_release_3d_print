@@ -1,0 +1,257 @@
+bip_39_word_dash_12: flavor-turkey-bulk-between-base-hover-catalog-margin-coil-bachelor-little-airport
+bip_39_word_dash_2: flavor-turkey
+bip_39_word_dash_3: flavor-turkey-bulk
+bip_39_word_new_br_12: flavor<br>turkey<br>bulk<br>between<br>base<br>hover<br>catalog<br>margin<br>coil<br>bachelor<br>little<br>airport
+bip_39_word_new_br_2: flavor<br>turkey
+bip_39_word_new_br_3: flavor<br>turkey<br>bulk
+bip_39_word_new_line_12: 'flavor
+
+  turkey
+
+  bulk
+
+  between
+
+  base
+
+  hover
+
+  catalog
+
+  margin
+
+  coil
+
+  bachelor
+
+  little
+
+  airport'
+bip_39_word_new_line_2: 'flavor
+
+  turkey'
+bip_39_word_new_line_3: 'flavor
+
+  turkey
+
+  bulk'
+bip_39_word_no_space_12: flavorturkeybulkbetweenbasehovercatalogmargincoilbachelorlittleairport
+bip_39_word_no_space_2: flavorturkey
+bip_39_word_no_space_3: flavorturkeybulk
+bip_39_word_space_12: flavor turkey bulk between base hover catalog margin coil bachelor
+  little airport
+bip_39_word_space_2: flavor turkey
+bip_39_word_space_3: flavor turkey bulk
+bip_39_word_underscore_12: flavor_turkey_bulk_between_base_hover_catalog_margin_coil_bachelor_little_airport
+bip_39_word_underscore_2: flavor_turkey
+bip_39_word_underscore_3: flavor_turkey_bulk
+classification: oobb
+classification_length_1: o
+classification_length_2: oo
+classification_length_3: oob
+classification_length_4: oobb
+classification_length_5: oobb
+classification_length_6: oobb
+classification_name: Oobb
+classification_no_space_length_1: o
+classification_no_space_length_2: oo
+classification_no_space_length_3: oob
+classification_no_space_length_4: oobb
+classification_no_space_length_5: oobb
+classification_no_space_length_6: oobb
+classification_no_space_upper_length_1: O
+classification_no_space_upper_length_2: OO
+classification_no_space_upper_length_3: OOB
+classification_no_space_upper_length_4: OOBB
+classification_no_space_upper_length_5: OOBB
+classification_no_space_upper_length_6: OOBB
+classification_upper_length_1: O
+classification_upper_length_2: OO
+classification_upper_length_3: OOB
+classification_upper_length_4: OOBB
+classification_upper_length_5: OOBB
+classification_upper_length_6: OOBB
+color: ''
+color_name: ''
+components: []
+components_objects: []
+components_string: []
+description: wheel 0x0x6
+description_extra: 314_oring_type
+description_extra_length_1: '3'
+description_extra_length_2: '31'
+description_extra_length_3: '314'
+description_extra_length_4: '314_'
+description_extra_length_5: 314_o
+description_extra_length_6: 314_or
+description_extra_name: 314 Oring Type
+description_extra_no_space_length_1: '3'
+description_extra_no_space_length_2: '31'
+description_extra_no_space_length_3: '314'
+description_extra_no_space_length_4: 314o
+description_extra_no_space_length_5: 314or
+description_extra_no_space_length_6: 314ori
+description_extra_no_space_upper_length_1: '3'
+description_extra_no_space_upper_length_2: '31'
+description_extra_no_space_upper_length_3: '314'
+description_extra_no_space_upper_length_4: 314O
+description_extra_no_space_upper_length_5: 314OR
+description_extra_no_space_upper_length_6: 314ORI
+description_extra_upper_length_1: '3'
+description_extra_upper_length_2: '31'
+description_extra_upper_length_3: '314'
+description_extra_upper_length_4: '314_'
+description_extra_upper_length_5: 314_O
+description_extra_upper_length_6: 314_OR
+description_main: 1_diameter_6_mm_depth
+description_main_length_1: '1'
+description_main_length_2: '1_'
+description_main_length_3: 1_d
+description_main_length_4: 1_di
+description_main_length_5: 1_dia
+description_main_length_6: 1_diam
+description_main_name: 1 Diameter 6 mm Depth
+description_main_no_space_length_1: '1'
+description_main_no_space_length_2: 1d
+description_main_no_space_length_3: 1di
+description_main_no_space_length_4: 1dia
+description_main_no_space_length_5: 1diam
+description_main_no_space_length_6: 1diame
+description_main_no_space_upper_length_1: '1'
+description_main_no_space_upper_length_2: 1D
+description_main_no_space_upper_length_3: 1DI
+description_main_no_space_upper_length_4: 1DIA
+description_main_no_space_upper_length_5: 1DIAM
+description_main_no_space_upper_length_6: 1DIAME
+description_main_upper_length_1: '1'
+description_main_upper_length_2: '1_'
+description_main_upper_length_3: 1_D
+description_main_upper_length_4: 1_DI
+description_main_upper_length_5: 1_DIA
+description_main_upper_length_6: 1_DIAM
+diameter: 1
+directory: parts/oobb_part_wheel_1_diameter_6_mm_depth_314_oring_type
+folder: C:\gh\oomlout_oobb_version_4_generated_parts\parts\oobb_part_wheel_1_diameter_6_mm_depth_314_oring_type
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_wheel_1_diameter_6_mm_depth_314_oring_type
+id: oobb_part_wheel_1_diameter_6_mm_depth_314_oring_type
+id_no_class: part_wheel_1_diameter_6_mm_depth_314_oring_type
+id_no_color: 1diameter6mmdepth314oringtype
+id_no_size: 1_diameter_6_mm_depth_314_oring_type
+id_no_type: wheel_1_diameter_6_mm_depth_314_oring_type
+link_1: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/wheel/1_diameter_6_mm_depth/314_oring_type/part
+link_1_name: link_main
+link_main: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/wheel/1_diameter_6_mm_depth/314_oring_type/part
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%203h1j8
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%203h1j8
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%203h1j8
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%203h1j8
+link_redirect: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/parts/oobb_wheel_01_06_or_314
+manufacturer: ''
+manufacturer_name: ''
+md5: 590504496a87e47db989715a3c3aaac5
+md5_10: 590504496a
+md5_10_upper: 590504496A
+md5_5: '59050'
+md5_5_upper: '59050'
+md5_6: '590504'
+md5_6_alpha: 3h1j8
+md5_6_alpha_upper: 3H1J8
+md5_6_upper: '590504'
+name: Oobb Part Wheel 1 Diameter 6 mm Depth 314 Oring Type
+name_no_class: Part Wheel 1 Diameter 6 mm Depth 314 Oring Type
+name_no_color: 1Diameter6mmdepth314Oringtype
+name_no_size: 1 Diameter 6 mm Depth 314 Oring Type
+name_no_type: Wheel 1 Diameter 6 mm Depth 314 Oring Type
+name_short: Wheel 1x6 314 Oring Type
+oomlout_detail_hierarchy_1: oobb
+oomlout_detail_hierarchy_1_upper: OOBB
+oomlout_detail_hierarchy_1_upper_length_4: OOBB
+oomlout_detail_hierarchy_2: part
+oomlout_detail_hierarchy_2_upper: PART
+oomlout_detail_hierarchy_2_upper_length_4: PART
+oomlout_detail_hierarchy_3: wheel
+oomlout_detail_hierarchy_3_upper: WHEEL
+oomlout_detail_hierarchy_3_upper_length_4: WHEE
+oomlout_detail_hierarchy_4: 1_diameter
+oomlout_detail_hierarchy_4_upper: 1_DIAMETER
+oomlout_detail_hierarchy_4_upper_length_4: 1_DI
+oomlout_detail_hierarchy_5: 6_mm_depth
+oomlout_detail_hierarchy_5_upper: 6_MM_DEPTH
+oomlout_detail_hierarchy_5_upper_length_4: 6DEP
+oomlout_detail_hierarchy_6: 314_oring_type
+oomlout_detail_hierarchy_6_upper: 314_ORING_TYPE
+oomlout_detail_hierarchy_6_upper_length_4: '314_'
+oomlout_oomp_utility_custom_data_manipulation: true
+oomp_key: oomp_oobb_part_wheel_1_diameter_6_mm_depth_314_oring_type
+oomp_word: dragon kissing wink
+oomp_word_emoji: ':dragon: :kissing: :wink:'
+oomp_word_emoji_list:
+- ':dragon:'
+- ':kissing:'
+- ':wink:'
+oomp_word_list:
+- dragon
+- kissing
+- wink
+oring_type: '314'
+part_number: ''
+part_number_name: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
+short_name: ''
+size: wheel
+size_length_1: w
+size_length_2: wh
+size_length_3: whe
+size_length_4: whee
+size_length_5: wheel
+size_length_6: wheel
+size_name: Wheel
+size_no_space_length_1: w
+size_no_space_length_2: wh
+size_no_space_length_3: whe
+size_no_space_length_4: whee
+size_no_space_length_5: wheel
+size_no_space_length_6: wheel
+size_no_space_upper_length_1: W
+size_no_space_upper_length_2: WH
+size_no_space_upper_length_3: WHE
+size_no_space_upper_length_4: WHEE
+size_no_space_upper_length_5: WHEEL
+size_no_space_upper_length_6: WHEEL
+size_upper_length_1: W
+size_upper_length_2: WH
+size_upper_length_3: WHE
+size_upper_length_4: WHEE
+size_upper_length_5: WHEEL
+size_upper_length_6: WHEEL
+thickness: 6
+thickness_mm: 6
+type: part
+type_length_1: p
+type_length_2: pa
+type_length_3: par
+type_length_4: part
+type_length_5: part
+type_length_6: part
+type_name: Part
+type_no_space_length_1: p
+type_no_space_length_2: pa
+type_no_space_length_3: par
+type_no_space_length_4: part
+type_no_space_length_5: part
+type_no_space_length_6: part
+type_no_space_upper_length_1: P
+type_no_space_upper_length_2: PA
+type_no_space_upper_length_3: PAR
+type_no_space_upper_length_4: PART
+type_no_space_upper_length_5: PART
+type_no_space_upper_length_6: PART
+type_upper_length_1: P
+type_upper_length_2: PA
+type_upper_length_3: PAR
+type_upper_length_4: PART
+type_upper_length_5: PART
+type_upper_length_6: PART

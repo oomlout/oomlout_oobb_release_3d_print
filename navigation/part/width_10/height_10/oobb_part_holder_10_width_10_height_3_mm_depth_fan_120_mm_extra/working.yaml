@@ -1,0 +1,257 @@
+bip_39_word_dash_12: own-scrap-doll-myself-subject-odor-outer-obvious-cereal-gown-coach-arrest
+bip_39_word_dash_2: own-scrap
+bip_39_word_dash_3: own-scrap-doll
+bip_39_word_new_br_12: own<br>scrap<br>doll<br>myself<br>subject<br>odor<br>outer<br>obvious<br>cereal<br>gown<br>coach<br>arrest
+bip_39_word_new_br_2: own<br>scrap
+bip_39_word_new_br_3: own<br>scrap<br>doll
+bip_39_word_new_line_12: 'own
+
+  scrap
+
+  doll
+
+  myself
+
+  subject
+
+  odor
+
+  outer
+
+  obvious
+
+  cereal
+
+  gown
+
+  coach
+
+  arrest'
+bip_39_word_new_line_2: 'own
+
+  scrap'
+bip_39_word_new_line_3: 'own
+
+  scrap
+
+  doll'
+bip_39_word_no_space_12: ownscrapdollmyselfsubjectodorouterobviouscerealgowncoacharrest
+bip_39_word_no_space_2: ownscrap
+bip_39_word_no_space_3: ownscrapdoll
+bip_39_word_space_12: own scrap doll myself subject odor outer obvious cereal gown
+  coach arrest
+bip_39_word_space_2: own scrap
+bip_39_word_space_3: own scrap doll
+bip_39_word_underscore_12: own_scrap_doll_myself_subject_odor_outer_obvious_cereal_gown_coach_arrest
+bip_39_word_underscore_2: own_scrap
+bip_39_word_underscore_3: own_scrap_doll
+classification: oobb
+classification_length_1: o
+classification_length_2: oo
+classification_length_3: oob
+classification_length_4: oobb
+classification_length_5: oobb
+classification_length_6: oobb
+classification_name: Oobb
+classification_no_space_length_1: o
+classification_no_space_length_2: oo
+classification_no_space_length_3: oob
+classification_no_space_length_4: oobb
+classification_no_space_length_5: oobb
+classification_no_space_length_6: oobb
+classification_no_space_upper_length_1: O
+classification_no_space_upper_length_2: OO
+classification_no_space_upper_length_3: OOB
+classification_no_space_upper_length_4: OOBB
+classification_no_space_upper_length_5: OOBB
+classification_no_space_upper_length_6: OOBB
+classification_upper_length_1: O
+classification_upper_length_2: OO
+classification_upper_length_3: OOB
+classification_upper_length_4: OOBB
+classification_upper_length_5: OOBB
+classification_upper_length_6: OOBB
+color: ''
+color_name: ''
+components: []
+components_objects: []
+components_string: []
+description: holder 10x10x3
+description_extra: fan_120_mm_extra
+description_extra_length_1: f
+description_extra_length_2: fa
+description_extra_length_3: fan
+description_extra_length_4: fan_
+description_extra_length_5: fan_1
+description_extra_length_6: fan_12
+description_extra_name: Fan 120 mm Extra
+description_extra_no_space_length_1: f
+description_extra_no_space_length_2: fa
+description_extra_no_space_length_3: fan
+description_extra_no_space_length_4: fan1
+description_extra_no_space_length_5: fan12
+description_extra_no_space_length_6: fan120
+description_extra_no_space_upper_length_1: F
+description_extra_no_space_upper_length_2: FA
+description_extra_no_space_upper_length_3: FAN
+description_extra_no_space_upper_length_4: FAN1
+description_extra_no_space_upper_length_5: FAN12
+description_extra_no_space_upper_length_6: FAN120
+description_extra_upper_length_1: F
+description_extra_upper_length_2: FA
+description_extra_upper_length_3: FAN
+description_extra_upper_length_4: FAN_
+description_extra_upper_length_5: FAN_1
+description_extra_upper_length_6: FAN_12
+description_main: 10_width_10_height_3_mm_depth
+description_main_length_1: '1'
+description_main_length_2: '10'
+description_main_length_3: '10_'
+description_main_length_4: 10_w
+description_main_length_5: 10_wi
+description_main_length_6: 10_wid
+description_main_name: 10 Width 10 Height 3 mm Depth
+description_main_no_space_length_1: '1'
+description_main_no_space_length_2: '10'
+description_main_no_space_length_3: 10w
+description_main_no_space_length_4: 10wi
+description_main_no_space_length_5: 10wid
+description_main_no_space_length_6: 10widt
+description_main_no_space_upper_length_1: '1'
+description_main_no_space_upper_length_2: '10'
+description_main_no_space_upper_length_3: 10W
+description_main_no_space_upper_length_4: 10WI
+description_main_no_space_upper_length_5: 10WID
+description_main_no_space_upper_length_6: 10WIDT
+description_main_upper_length_1: '1'
+description_main_upper_length_2: '10'
+description_main_upper_length_3: '10_'
+description_main_upper_length_4: 10_W
+description_main_upper_length_5: 10_WI
+description_main_upper_length_6: 10_WID
+directory: parts/oobb_part_holder_10_width_10_height_3_mm_depth_fan_120_mm_extra
+extra: fan_120_mm
+folder: C:\gh\oomlout_oobb_version_4_generated_parts\parts\oobb_part_holder_10_width_10_height_3_mm_depth_fan_120_mm_extra
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_holder_10_width_10_height_3_mm_depth_fan_120_mm_extra
+height: 10
+height_mm: 149
+id: oobb_part_holder_10_width_10_height_3_mm_depth_fan_120_mm_extra
+id_no_class: part_holder_10_width_10_height_3_mm_depth_fan_120_mm_extra
+id_no_color: 10width10height3mmdepthfan120mmextra
+id_no_size: 10_width_10_height_3_mm_depth_fan_120_mm_extra
+id_no_type: holder_10_width_10_height_3_mm_depth_fan_120_mm_extra
+link_1: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/holder/10_width_10_height_3_mm_depth/fan_120_mm_extra/part
+link_1_name: link_main
+link_main: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/holder/10_width_10_height_3_mm_depth/fan_120_mm_extra/part
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%207qm3d
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%207qm3d
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%207qm3d
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%207qm3d
+link_redirect: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/parts/oobb_holder_10_10_03_ex_fan_120_mm
+manufacturer: ''
+manufacturer_name: ''
+md5: c65959492c98b3aa64ebf92481705cf0
+md5_10: c65959492c
+md5_10_upper: C65959492C
+md5_5: c6595
+md5_5_upper: C6595
+md5_6: c65959
+md5_6_alpha: 7qm3d
+md5_6_alpha_upper: 7QM3D
+md5_6_upper: C65959
+name: Oobb Part Holder 10 Width 10 Height 3 mm Depth Fan 120 mm Extra
+name_no_class: Part Holder 10 Width 10 Height 3 mm Depth Fan 120 mm Extra
+name_no_color: 10Width10Height3mmdepthfan120mmextra
+name_no_size: 10 Width 10 Height 3 mm Depth Fan 120 mm Extra
+name_no_type: Holder 10 Width 10 Height 3 mm Depth Fan 120 mm Extra
+name_short: Holder 10x10x3 Fan 120 mm Extra
+oomlout_detail_hierarchy_1: oobb
+oomlout_detail_hierarchy_1_upper: OOBB
+oomlout_detail_hierarchy_1_upper_length_4: OOBB
+oomlout_detail_hierarchy_2: part
+oomlout_detail_hierarchy_2_upper: PART
+oomlout_detail_hierarchy_2_upper_length_4: PART
+oomlout_detail_hierarchy_3: holder
+oomlout_detail_hierarchy_3_upper: HOLDER
+oomlout_detail_hierarchy_3_upper_length_4: HOLD
+oomlout_detail_hierarchy_4: 3_mm_depth
+oomlout_detail_hierarchy_4_upper: 3_MM_DEPTH
+oomlout_detail_hierarchy_4_upper_length_4: 3DEP
+oomlout_detail_hierarchy_5: fan_120_mm_extra
+oomlout_detail_hierarchy_5_upper: FAN_120_MM_EXTRA
+oomlout_detail_hierarchy_5_upper_length_4: FAN_
+oomlout_oomp_utility_custom_data_manipulation: true
+oomp_key: oomp_oobb_part_holder_10_width_10_height_3_mm_depth_fan_120_mm_extra
+oomp_word: lollipop dragon dragon
+oomp_word_emoji: ':lollipop: :dragon: :dragon:'
+oomp_word_emoji_list:
+- ':lollipop:'
+- ':dragon:'
+- ':dragon:'
+oomp_word_list:
+- lollipop
+- dragon
+- dragon
+part_number: ''
+part_number_name: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
+short_name: ''
+size: holder
+size_length_1: h
+size_length_2: ho
+size_length_3: hol
+size_length_4: hold
+size_length_5: holde
+size_length_6: holder
+size_name: Holder
+size_no_space_length_1: h
+size_no_space_length_2: ho
+size_no_space_length_3: hol
+size_no_space_length_4: hold
+size_no_space_length_5: holde
+size_no_space_length_6: holder
+size_no_space_upper_length_1: H
+size_no_space_upper_length_2: HO
+size_no_space_upper_length_3: HOL
+size_no_space_upper_length_4: HOLD
+size_no_space_upper_length_5: HOLDE
+size_no_space_upper_length_6: HOLDER
+size_upper_length_1: H
+size_upper_length_2: HO
+size_upper_length_3: HOL
+size_upper_length_4: HOLD
+size_upper_length_5: HOLDE
+size_upper_length_6: HOLDER
+thickness: 3
+thickness_mm: 3
+type: part
+type_length_1: p
+type_length_2: pa
+type_length_3: par
+type_length_4: part
+type_length_5: part
+type_length_6: part
+type_name: Part
+type_no_space_length_1: p
+type_no_space_length_2: pa
+type_no_space_length_3: par
+type_no_space_length_4: part
+type_no_space_length_5: part
+type_no_space_length_6: part
+type_no_space_upper_length_1: P
+type_no_space_upper_length_2: PA
+type_no_space_upper_length_3: PAR
+type_no_space_upper_length_4: PART
+type_no_space_upper_length_5: PART
+type_no_space_upper_length_6: PART
+type_upper_length_1: P
+type_upper_length_2: PA
+type_upper_length_3: PAR
+type_upper_length_4: PART
+type_upper_length_5: PART
+type_upper_length_6: PART
+width: 10
+width_mm: 149

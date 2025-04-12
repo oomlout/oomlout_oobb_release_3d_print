@@ -1,0 +1,229 @@
+bip_39_word_dash_12: display-amount-help-service-ribbon-stove-cinnamon-luggage-debris-dune-behind-apple
+bip_39_word_dash_2: display-amount
+bip_39_word_dash_3: display-amount-help
+bip_39_word_new_br_12: display<br>amount<br>help<br>service<br>ribbon<br>stove<br>cinnamon<br>luggage<br>debris<br>dune<br>behind<br>apple
+bip_39_word_new_br_2: display<br>amount
+bip_39_word_new_br_3: display<br>amount<br>help
+bip_39_word_new_line_12: 'display
+
+  amount
+
+  help
+
+  service
+
+  ribbon
+
+  stove
+
+  cinnamon
+
+  luggage
+
+  debris
+
+  dune
+
+  behind
+
+  apple'
+bip_39_word_new_line_2: 'display
+
+  amount'
+bip_39_word_new_line_3: 'display
+
+  amount
+
+  help'
+bip_39_word_no_space_12: displayamounthelpserviceribbonstovecinnamonluggagedebrisdunebehindapple
+bip_39_word_no_space_2: displayamount
+bip_39_word_no_space_3: displayamounthelp
+bip_39_word_space_12: display amount help service ribbon stove cinnamon luggage debris
+  dune behind apple
+bip_39_word_space_2: display amount
+bip_39_word_space_3: display amount help
+bip_39_word_underscore_12: display_amount_help_service_ribbon_stove_cinnamon_luggage_debris_dune_behind_apple
+bip_39_word_underscore_2: display_amount
+bip_39_word_underscore_3: display_amount_help
+classification: oobb
+classification_length_1: o
+classification_length_2: oo
+classification_length_3: oob
+classification_length_4: oobb
+classification_length_5: oobb
+classification_length_6: oobb
+classification_name: Oobb
+classification_no_space_length_1: o
+classification_no_space_length_2: oo
+classification_no_space_length_3: oob
+classification_no_space_length_4: oobb
+classification_no_space_length_5: oobb
+classification_no_space_length_6: oobb
+classification_no_space_upper_length_1: O
+classification_no_space_upper_length_2: OO
+classification_no_space_upper_length_3: OOB
+classification_no_space_upper_length_4: OOBB
+classification_no_space_upper_length_5: OOBB
+classification_no_space_upper_length_6: OOBB
+classification_upper_length_1: O
+classification_upper_length_2: OO
+classification_upper_length_3: OOB
+classification_upper_length_4: OOBB
+classification_upper_length_5: OOBB
+classification_upper_length_6: OOBB
+color: ''
+color_name: ''
+components: []
+components_objects: []
+components_string: []
+description: tray 8x14x21
+description_extra: ''
+description_extra_name: ''
+description_main: 8_width_14_height_21_mm_depth
+description_main_length_1: '8'
+description_main_length_2: '8_'
+description_main_length_3: 8_w
+description_main_length_4: 8_wi
+description_main_length_5: 8_wid
+description_main_length_6: 8_widt
+description_main_name: 8 Width 14 Height 21 mm Depth
+description_main_no_space_length_1: '8'
+description_main_no_space_length_2: 8w
+description_main_no_space_length_3: 8wi
+description_main_no_space_length_4: 8wid
+description_main_no_space_length_5: 8widt
+description_main_no_space_length_6: 8width
+description_main_no_space_upper_length_1: '8'
+description_main_no_space_upper_length_2: 8W
+description_main_no_space_upper_length_3: 8WI
+description_main_no_space_upper_length_4: 8WID
+description_main_no_space_upper_length_5: 8WIDT
+description_main_no_space_upper_length_6: 8WIDTH
+description_main_upper_length_1: '8'
+description_main_upper_length_2: '8_'
+description_main_upper_length_3: 8_W
+description_main_upper_length_4: 8_WI
+description_main_upper_length_5: 8_WID
+description_main_upper_length_6: 8_WIDT
+directory: parts/oobb_part_tray_8_width_14_height_21_mm_depth
+folder: C:\gh\oomlout_oobb_version_4_generated_parts\parts\oobb_part_tray_8_width_14_height_21_mm_depth
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_8_width_14_height_21_mm_depth
+height: 14
+height_mm: 209
+id: oobb_part_tray_8_width_14_height_21_mm_depth
+id_no_class: part_tray_8_width_14_height_21_mm_depth
+id_no_color: 8width14height21mmdepth
+id_no_size: 8_width_14_height_21_mm_depth
+id_no_type: tray_8_width_14_height_21_mm_depth
+link_1: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/tray/8_width_14_height_21_mm_depth/part
+link_1_name: link_main
+link_main: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/tray/8_width_14_height_21_mm_depth/part
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%206n0nl
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%206n0nl
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%206n0nl
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%206n0nl
+link_redirect: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/parts/oobb_tray_08_14_21
+manufacturer: ''
+manufacturer_name: ''
+md5: aa291101c384c5235adc8c42d60201fc
+md5_10: aa291101c3
+md5_10_upper: AA291101C3
+md5_5: aa291
+md5_5_upper: AA291
+md5_6: aa2911
+md5_6_alpha: 6n0nl
+md5_6_alpha_upper: 6N0NL
+md5_6_upper: AA2911
+name: Oobb Part Tray 8 Width 14 Height 21 mm Depth
+name_no_class: Part Tray 8 Width 14 Height 21 mm Depth
+name_no_color: 8Width14Height21mmdepth
+name_no_size: 8 Width 14 Height 21 mm Depth
+name_no_type: Tray 8 Width 14 Height 21 mm Depth
+name_short: 'Tray 8x14x21 '
+oomlout_detail_hierarchy_1: oobb
+oomlout_detail_hierarchy_1_upper: OOBB
+oomlout_detail_hierarchy_1_upper_length_4: OOBB
+oomlout_detail_hierarchy_2: part
+oomlout_detail_hierarchy_2_upper: PART
+oomlout_detail_hierarchy_2_upper_length_4: PART
+oomlout_detail_hierarchy_3: tray
+oomlout_detail_hierarchy_3_upper: TRAY
+oomlout_detail_hierarchy_3_upper_length_4: TRAY
+oomlout_detail_hierarchy_4: 21_mm_depth
+oomlout_detail_hierarchy_4_upper: 21_MM_DEPTH
+oomlout_detail_hierarchy_4_upper_length_4: 21DE
+oomlout_oomp_utility_custom_data_manipulation: true
+oomp_key: oomp_oobb_part_tray_8_width_14_height_21_mm_depth
+oomp_word: lipstick sunny dizzy
+oomp_word_emoji: ':lipstick: :sunny: :dizzy:'
+oomp_word_emoji_list:
+- ':lipstick:'
+- ':sunny:'
+- ':dizzy:'
+oomp_word_list:
+- lipstick
+- sunny
+- dizzy
+part_number: ''
+part_number_name: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
+short_name: ''
+size: tray
+size_length_1: t
+size_length_2: tr
+size_length_3: tra
+size_length_4: tray
+size_length_5: tray
+size_length_6: tray
+size_name: Tray
+size_no_space_length_1: t
+size_no_space_length_2: tr
+size_no_space_length_3: tra
+size_no_space_length_4: tray
+size_no_space_length_5: tray
+size_no_space_length_6: tray
+size_no_space_upper_length_1: T
+size_no_space_upper_length_2: TR
+size_no_space_upper_length_3: TRA
+size_no_space_upper_length_4: TRAY
+size_no_space_upper_length_5: TRAY
+size_no_space_upper_length_6: TRAY
+size_upper_length_1: T
+size_upper_length_2: TR
+size_upper_length_3: TRA
+size_upper_length_4: TRAY
+size_upper_length_5: TRAY
+size_upper_length_6: TRAY
+thickness: 21
+thickness_mm: 21
+type: part
+type_length_1: p
+type_length_2: pa
+type_length_3: par
+type_length_4: part
+type_length_5: part
+type_length_6: part
+type_name: Part
+type_no_space_length_1: p
+type_no_space_length_2: pa
+type_no_space_length_3: par
+type_no_space_length_4: part
+type_no_space_length_5: part
+type_no_space_length_6: part
+type_no_space_upper_length_1: P
+type_no_space_upper_length_2: PA
+type_no_space_upper_length_3: PAR
+type_no_space_upper_length_4: PART
+type_no_space_upper_length_5: PART
+type_no_space_upper_length_6: PART
+type_upper_length_1: P
+type_upper_length_2: PA
+type_upper_length_3: PAR
+type_upper_length_4: PART
+type_upper_length_5: PART
+type_upper_length_6: PART
+width: 8
+width_mm: 119

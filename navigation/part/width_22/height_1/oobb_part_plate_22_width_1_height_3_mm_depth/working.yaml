@@ -1,0 +1,229 @@
+bip_39_word_dash_12: warm-balance-matter-vast-minute-giggle-away-dust-settle-silent-add-avocado
+bip_39_word_dash_2: warm-balance
+bip_39_word_dash_3: warm-balance-matter
+bip_39_word_new_br_12: warm<br>balance<br>matter<br>vast<br>minute<br>giggle<br>away<br>dust<br>settle<br>silent<br>add<br>avocado
+bip_39_word_new_br_2: warm<br>balance
+bip_39_word_new_br_3: warm<br>balance<br>matter
+bip_39_word_new_line_12: 'warm
+
+  balance
+
+  matter
+
+  vast
+
+  minute
+
+  giggle
+
+  away
+
+  dust
+
+  settle
+
+  silent
+
+  add
+
+  avocado'
+bip_39_word_new_line_2: 'warm
+
+  balance'
+bip_39_word_new_line_3: 'warm
+
+  balance
+
+  matter'
+bip_39_word_no_space_12: warmbalancemattervastminutegiggleawaydustsettlesilentaddavocado
+bip_39_word_no_space_2: warmbalance
+bip_39_word_no_space_3: warmbalancematter
+bip_39_word_space_12: warm balance matter vast minute giggle away dust settle silent
+  add avocado
+bip_39_word_space_2: warm balance
+bip_39_word_space_3: warm balance matter
+bip_39_word_underscore_12: warm_balance_matter_vast_minute_giggle_away_dust_settle_silent_add_avocado
+bip_39_word_underscore_2: warm_balance
+bip_39_word_underscore_3: warm_balance_matter
+classification: oobb
+classification_length_1: o
+classification_length_2: oo
+classification_length_3: oob
+classification_length_4: oobb
+classification_length_5: oobb
+classification_length_6: oobb
+classification_name: Oobb
+classification_no_space_length_1: o
+classification_no_space_length_2: oo
+classification_no_space_length_3: oob
+classification_no_space_length_4: oobb
+classification_no_space_length_5: oobb
+classification_no_space_length_6: oobb
+classification_no_space_upper_length_1: O
+classification_no_space_upper_length_2: OO
+classification_no_space_upper_length_3: OOB
+classification_no_space_upper_length_4: OOBB
+classification_no_space_upper_length_5: OOBB
+classification_no_space_upper_length_6: OOBB
+classification_upper_length_1: O
+classification_upper_length_2: OO
+classification_upper_length_3: OOB
+classification_upper_length_4: OOBB
+classification_upper_length_5: OOBB
+classification_upper_length_6: OOBB
+color: ''
+color_name: ''
+components: []
+components_objects: []
+components_string: []
+description: plate 22x1x3
+description_extra: ''
+description_extra_name: ''
+description_main: 22_width_1_height_3_mm_depth
+description_main_length_1: '2'
+description_main_length_2: '22'
+description_main_length_3: '22_'
+description_main_length_4: 22_w
+description_main_length_5: 22_wi
+description_main_length_6: 22_wid
+description_main_name: 22 Width 1 Height 3 mm Depth
+description_main_no_space_length_1: '2'
+description_main_no_space_length_2: '22'
+description_main_no_space_length_3: 22w
+description_main_no_space_length_4: 22wi
+description_main_no_space_length_5: 22wid
+description_main_no_space_length_6: 22widt
+description_main_no_space_upper_length_1: '2'
+description_main_no_space_upper_length_2: '22'
+description_main_no_space_upper_length_3: 22W
+description_main_no_space_upper_length_4: 22WI
+description_main_no_space_upper_length_5: 22WID
+description_main_no_space_upper_length_6: 22WIDT
+description_main_upper_length_1: '2'
+description_main_upper_length_2: '22'
+description_main_upper_length_3: '22_'
+description_main_upper_length_4: 22_W
+description_main_upper_length_5: 22_WI
+description_main_upper_length_6: 22_WID
+directory: parts/oobb_part_plate_22_width_1_height_3_mm_depth
+folder: C:\gh\oomlout_oobb_version_4_generated_parts\parts\oobb_part_plate_22_width_1_height_3_mm_depth
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_22_width_1_height_3_mm_depth
+height: 1
+height_mm: 14
+id: oobb_part_plate_22_width_1_height_3_mm_depth
+id_no_class: part_plate_22_width_1_height_3_mm_depth
+id_no_color: 22width1height3mmdepth
+id_no_size: 22_width_1_height_3_mm_depth
+id_no_type: plate_22_width_1_height_3_mm_depth
+link_1: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/plate/22_width_1_height_3_mm_depth/part
+link_1_name: link_main
+link_main: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/plate/22_width_1_height_3_mm_depth/part
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%209wtiq
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%209wtiq
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%209wtiq
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%209wtiq
+link_redirect: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/parts/oobb_plate_22_01_03
+manufacturer: ''
+manufacturer_name: ''
+md5: fe06721e2344420d87c6af1b12846fb9
+md5_10: fe06721e23
+md5_10_upper: FE06721E23
+md5_5: fe067
+md5_5_upper: FE067
+md5_6: fe0672
+md5_6_alpha: 9wtiq
+md5_6_alpha_upper: 9WTIQ
+md5_6_upper: FE0672
+name: Oobb Part Plate 22 Width 1 Height 3 mm Depth
+name_no_class: Part Plate 22 Width 1 Height 3 mm Depth
+name_no_color: 22Width1Height3mmdepth
+name_no_size: 22 Width 1 Height 3 mm Depth
+name_no_type: Plate 22 Width 1 Height 3 mm Depth
+name_short: 'Plate 22x1x3 '
+oomlout_detail_hierarchy_1: oobb
+oomlout_detail_hierarchy_1_upper: OOBB
+oomlout_detail_hierarchy_1_upper_length_4: OOBB
+oomlout_detail_hierarchy_2: part
+oomlout_detail_hierarchy_2_upper: PART
+oomlout_detail_hierarchy_2_upper_length_4: PART
+oomlout_detail_hierarchy_3: plate
+oomlout_detail_hierarchy_3_upper: PLATE
+oomlout_detail_hierarchy_3_upper_length_4: PLAT
+oomlout_detail_hierarchy_4: 3_mm_depth
+oomlout_detail_hierarchy_4_upper: 3_MM_DEPTH
+oomlout_detail_hierarchy_4_upper_length_4: 3DEP
+oomlout_oomp_utility_custom_data_manipulation: true
+oomp_key: oomp_oobb_part_plate_22_width_1_height_3_mm_depth
+oomp_word: recycle sleeping dolls
+oomp_word_emoji: ':recycle: :sleeping: :dolls:'
+oomp_word_emoji_list:
+- ':recycle:'
+- ':sleeping:'
+- ':dolls:'
+oomp_word_list:
+- recycle
+- sleeping
+- dolls
+part_number: ''
+part_number_name: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
+short_name: ''
+size: plate
+size_length_1: p
+size_length_2: pl
+size_length_3: pla
+size_length_4: plat
+size_length_5: plate
+size_length_6: plate
+size_name: Plate
+size_no_space_length_1: p
+size_no_space_length_2: pl
+size_no_space_length_3: pla
+size_no_space_length_4: plat
+size_no_space_length_5: plate
+size_no_space_length_6: plate
+size_no_space_upper_length_1: P
+size_no_space_upper_length_2: PL
+size_no_space_upper_length_3: PLA
+size_no_space_upper_length_4: PLAT
+size_no_space_upper_length_5: PLATE
+size_no_space_upper_length_6: PLATE
+size_upper_length_1: P
+size_upper_length_2: PL
+size_upper_length_3: PLA
+size_upper_length_4: PLAT
+size_upper_length_5: PLATE
+size_upper_length_6: PLATE
+thickness: 3
+thickness_mm: 3
+type: part
+type_length_1: p
+type_length_2: pa
+type_length_3: par
+type_length_4: part
+type_length_5: part
+type_length_6: part
+type_name: Part
+type_no_space_length_1: p
+type_no_space_length_2: pa
+type_no_space_length_3: par
+type_no_space_length_4: part
+type_no_space_length_5: part
+type_no_space_length_6: part
+type_no_space_upper_length_1: P
+type_no_space_upper_length_2: PA
+type_no_space_upper_length_3: PAR
+type_no_space_upper_length_4: PART
+type_no_space_upper_length_5: PART
+type_no_space_upper_length_6: PART
+type_upper_length_1: P
+type_upper_length_2: PA
+type_upper_length_3: PAR
+type_upper_length_4: PART
+type_upper_length_5: PART
+type_upper_length_6: PART
+width: 22
+width_mm: 329

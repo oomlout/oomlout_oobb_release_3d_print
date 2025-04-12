@@ -1,0 +1,229 @@
+bip_39_word_dash_12: worry-sure-glory-toast-online-later-record-mind-tent-milk-virtual-another
+bip_39_word_dash_2: worry-sure
+bip_39_word_dash_3: worry-sure-glory
+bip_39_word_new_br_12: worry<br>sure<br>glory<br>toast<br>online<br>later<br>record<br>mind<br>tent<br>milk<br>virtual<br>another
+bip_39_word_new_br_2: worry<br>sure
+bip_39_word_new_br_3: worry<br>sure<br>glory
+bip_39_word_new_line_12: 'worry
+
+  sure
+
+  glory
+
+  toast
+
+  online
+
+  later
+
+  record
+
+  mind
+
+  tent
+
+  milk
+
+  virtual
+
+  another'
+bip_39_word_new_line_2: 'worry
+
+  sure'
+bip_39_word_new_line_3: 'worry
+
+  sure
+
+  glory'
+bip_39_word_no_space_12: worrysureglorytoastonlinelaterrecordmindtentmilkvirtualanother
+bip_39_word_no_space_2: worrysure
+bip_39_word_no_space_3: worrysureglory
+bip_39_word_space_12: worry sure glory toast online later record mind tent milk virtual
+  another
+bip_39_word_space_2: worry sure
+bip_39_word_space_3: worry sure glory
+bip_39_word_underscore_12: worry_sure_glory_toast_online_later_record_mind_tent_milk_virtual_another
+bip_39_word_underscore_2: worry_sure
+bip_39_word_underscore_3: worry_sure_glory
+classification: oobb
+classification_length_1: o
+classification_length_2: oo
+classification_length_3: oob
+classification_length_4: oobb
+classification_length_5: oobb
+classification_length_6: oobb
+classification_name: Oobb
+classification_no_space_length_1: o
+classification_no_space_length_2: oo
+classification_no_space_length_3: oob
+classification_no_space_length_4: oobb
+classification_no_space_length_5: oobb
+classification_no_space_length_6: oobb
+classification_no_space_upper_length_1: O
+classification_no_space_upper_length_2: OO
+classification_no_space_upper_length_3: OOB
+classification_no_space_upper_length_4: OOBB
+classification_no_space_upper_length_5: OOBB
+classification_no_space_upper_length_6: OOBB
+classification_upper_length_1: O
+classification_upper_length_2: OO
+classification_upper_length_3: OOB
+classification_upper_length_4: OOBB
+classification_upper_length_5: OOBB
+classification_upper_length_6: OOBB
+color: ''
+color_name: ''
+components: []
+components_objects: []
+components_string: []
+description: tray vertical 12x12x24
+description_extra: ''
+description_extra_name: ''
+description_main: 12_width_12_height_24_mm_depth
+description_main_length_1: '1'
+description_main_length_2: '12'
+description_main_length_3: '12_'
+description_main_length_4: 12_w
+description_main_length_5: 12_wi
+description_main_length_6: 12_wid
+description_main_name: 12 Width 12 Height 24 mm Depth
+description_main_no_space_length_1: '1'
+description_main_no_space_length_2: '12'
+description_main_no_space_length_3: 12w
+description_main_no_space_length_4: 12wi
+description_main_no_space_length_5: 12wid
+description_main_no_space_length_6: 12widt
+description_main_no_space_upper_length_1: '1'
+description_main_no_space_upper_length_2: '12'
+description_main_no_space_upper_length_3: 12W
+description_main_no_space_upper_length_4: 12WI
+description_main_no_space_upper_length_5: 12WID
+description_main_no_space_upper_length_6: 12WIDT
+description_main_upper_length_1: '1'
+description_main_upper_length_2: '12'
+description_main_upper_length_3: '12_'
+description_main_upper_length_4: 12_W
+description_main_upper_length_5: 12_WI
+description_main_upper_length_6: 12_WID
+directory: parts/oobb_part_tray_vertical_12_width_12_height_24_mm_depth
+folder: C:\gh\oomlout_oobb_version_4_generated_parts\parts\oobb_part_tray_vertical_12_width_12_height_24_mm_depth
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_12_width_12_height_24_mm_depth
+height: 12
+height_mm: 179
+id: oobb_part_tray_vertical_12_width_12_height_24_mm_depth
+id_no_class: part_tray_vertical_12_width_12_height_24_mm_depth
+id_no_color: 12width12height24mmdepth
+id_no_size: 12_width_12_height_24_mm_depth
+id_no_type: tray_vertical_12_width_12_height_24_mm_depth
+link_1: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/tray_vertical/12_width_12_height_24_mm_depth/part
+link_1_name: link_main
+link_main: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/tray_vertical/12_width_12_height_24_mm_depth/part
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%20606w3
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%20606w3
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%20606w3
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%20606w3
+link_redirect: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/parts/oobb_tray_vertical_12_12_24
+manufacturer: ''
+manufacturer_name: ''
+md5: 99e8e326fa8cf679f54d7e30c73687ee
+md5_10: 99e8e326fa
+md5_10_upper: 99E8E326FA
+md5_5: 99e8e
+md5_5_upper: 99E8E
+md5_6: 99e8e3
+md5_6_alpha: 606w3
+md5_6_alpha_upper: 606W3
+md5_6_upper: 99E8E3
+name: Oobb Part Tray Vertical 12 Width 12 Height 24 mm Depth
+name_no_class: Part Tray Vertical 12 Width 12 Height 24 mm Depth
+name_no_color: 12Width12Height24mmdepth
+name_no_size: 12 Width 12 Height 24 mm Depth
+name_no_type: Tray Vertical 12 Width 12 Height 24 mm Depth
+name_short: 'Tray Vertical 12x12x24 '
+oomlout_detail_hierarchy_1: oobb
+oomlout_detail_hierarchy_1_upper: OOBB
+oomlout_detail_hierarchy_1_upper_length_4: OOBB
+oomlout_detail_hierarchy_2: part
+oomlout_detail_hierarchy_2_upper: PART
+oomlout_detail_hierarchy_2_upper_length_4: PART
+oomlout_detail_hierarchy_3: tray_vertical
+oomlout_detail_hierarchy_3_upper: TRAY_VERTICAL
+oomlout_detail_hierarchy_3_upper_length_4: TRAY
+oomlout_detail_hierarchy_4: 24_mm_depth
+oomlout_detail_hierarchy_4_upper: 24_MM_DEPTH
+oomlout_detail_hierarchy_4_upper_length_4: 24DE
+oomlout_oomp_utility_custom_data_manipulation: true
+oomp_key: oomp_oobb_part_tray_vertical_12_width_12_height_24_mm_depth
+oomp_word: bowling tram rowboat
+oomp_word_emoji: ':bowling: :tram: :rowboat:'
+oomp_word_emoji_list:
+- ':bowling:'
+- ':tram:'
+- ':rowboat:'
+oomp_word_list:
+- bowling
+- tram
+- rowboat
+part_number: ''
+part_number_name: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
+short_name: ''
+size: tray_vertical
+size_length_1: t
+size_length_2: tr
+size_length_3: tra
+size_length_4: tray
+size_length_5: tray_
+size_length_6: tray_v
+size_name: Tray Vertical
+size_no_space_length_1: t
+size_no_space_length_2: tr
+size_no_space_length_3: tra
+size_no_space_length_4: tray
+size_no_space_length_5: trayv
+size_no_space_length_6: trayve
+size_no_space_upper_length_1: T
+size_no_space_upper_length_2: TR
+size_no_space_upper_length_3: TRA
+size_no_space_upper_length_4: TRAY
+size_no_space_upper_length_5: TRAYV
+size_no_space_upper_length_6: TRAYVE
+size_upper_length_1: T
+size_upper_length_2: TR
+size_upper_length_3: TRA
+size_upper_length_4: TRAY
+size_upper_length_5: TRAY_
+size_upper_length_6: TRAY_V
+thickness: 24
+thickness_mm: 24
+type: part
+type_length_1: p
+type_length_2: pa
+type_length_3: par
+type_length_4: part
+type_length_5: part
+type_length_6: part
+type_name: Part
+type_no_space_length_1: p
+type_no_space_length_2: pa
+type_no_space_length_3: par
+type_no_space_length_4: part
+type_no_space_length_5: part
+type_no_space_length_6: part
+type_no_space_upper_length_1: P
+type_no_space_upper_length_2: PA
+type_no_space_upper_length_3: PAR
+type_no_space_upper_length_4: PART
+type_no_space_upper_length_5: PART
+type_no_space_upper_length_6: PART
+type_upper_length_1: P
+type_upper_length_2: PA
+type_upper_length_3: PAR
+type_upper_length_4: PART
+type_upper_length_5: PART
+type_upper_length_6: PART
+width: 12
+width_mm: 179

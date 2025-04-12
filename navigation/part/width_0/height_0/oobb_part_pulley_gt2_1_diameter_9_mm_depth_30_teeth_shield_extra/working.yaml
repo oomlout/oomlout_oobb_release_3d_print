@@ -1,0 +1,258 @@
+bip_39_word_dash_12: illegal-sail-sad-garlic-panic-crucial-word-increase-spray-museum-purchase-audit
+bip_39_word_dash_2: illegal-sail
+bip_39_word_dash_3: illegal-sail-sad
+bip_39_word_new_br_12: illegal<br>sail<br>sad<br>garlic<br>panic<br>crucial<br>word<br>increase<br>spray<br>museum<br>purchase<br>audit
+bip_39_word_new_br_2: illegal<br>sail
+bip_39_word_new_br_3: illegal<br>sail<br>sad
+bip_39_word_new_line_12: 'illegal
+
+  sail
+
+  sad
+
+  garlic
+
+  panic
+
+  crucial
+
+  word
+
+  increase
+
+  spray
+
+  museum
+
+  purchase
+
+  audit'
+bip_39_word_new_line_2: 'illegal
+
+  sail'
+bip_39_word_new_line_3: 'illegal
+
+  sail
+
+  sad'
+bip_39_word_no_space_12: illegalsailsadgarlicpaniccrucialwordincreasespraymuseumpurchaseaudit
+bip_39_word_no_space_2: illegalsail
+bip_39_word_no_space_3: illegalsailsad
+bip_39_word_space_12: illegal sail sad garlic panic crucial word increase spray museum
+  purchase audit
+bip_39_word_space_2: illegal sail
+bip_39_word_space_3: illegal sail sad
+bip_39_word_underscore_12: illegal_sail_sad_garlic_panic_crucial_word_increase_spray_museum_purchase_audit
+bip_39_word_underscore_2: illegal_sail
+bip_39_word_underscore_3: illegal_sail_sad
+classification: oobb
+classification_length_1: o
+classification_length_2: oo
+classification_length_3: oob
+classification_length_4: oobb
+classification_length_5: oobb
+classification_length_6: oobb
+classification_name: Oobb
+classification_no_space_length_1: o
+classification_no_space_length_2: oo
+classification_no_space_length_3: oob
+classification_no_space_length_4: oobb
+classification_no_space_length_5: oobb
+classification_no_space_length_6: oobb
+classification_no_space_upper_length_1: O
+classification_no_space_upper_length_2: OO
+classification_no_space_upper_length_3: OOB
+classification_no_space_upper_length_4: OOBB
+classification_no_space_upper_length_5: OOBB
+classification_no_space_upper_length_6: OOBB
+classification_upper_length_1: O
+classification_upper_length_2: OO
+classification_upper_length_3: OOB
+classification_upper_length_4: OOBB
+classification_upper_length_5: OOBB
+classification_upper_length_6: OOBB
+color: ''
+color_name: ''
+components: []
+components_objects: []
+components_string: []
+description: pulley gt2 0x0x9
+description_extra: 30_teeth_shield_extra
+description_extra_length_1: '3'
+description_extra_length_2: '30'
+description_extra_length_3: '30_'
+description_extra_length_4: 30_t
+description_extra_length_5: 30_te
+description_extra_length_6: 30_tee
+description_extra_name: 30 Teeth Shield Extra
+description_extra_no_space_length_1: '3'
+description_extra_no_space_length_2: '30'
+description_extra_no_space_length_3: 30t
+description_extra_no_space_length_4: 30te
+description_extra_no_space_length_5: 30tee
+description_extra_no_space_length_6: 30teet
+description_extra_no_space_upper_length_1: '3'
+description_extra_no_space_upper_length_2: '30'
+description_extra_no_space_upper_length_3: 30T
+description_extra_no_space_upper_length_4: 30TE
+description_extra_no_space_upper_length_5: 30TEE
+description_extra_no_space_upper_length_6: 30TEET
+description_extra_upper_length_1: '3'
+description_extra_upper_length_2: '30'
+description_extra_upper_length_3: '30_'
+description_extra_upper_length_4: 30_T
+description_extra_upper_length_5: 30_TE
+description_extra_upper_length_6: 30_TEE
+description_main: 1_diameter_9_mm_depth
+description_main_length_1: '1'
+description_main_length_2: '1_'
+description_main_length_3: 1_d
+description_main_length_4: 1_di
+description_main_length_5: 1_dia
+description_main_length_6: 1_diam
+description_main_name: 1 Diameter 9 mm Depth
+description_main_no_space_length_1: '1'
+description_main_no_space_length_2: 1d
+description_main_no_space_length_3: 1di
+description_main_no_space_length_4: 1dia
+description_main_no_space_length_5: 1diam
+description_main_no_space_length_6: 1diame
+description_main_no_space_upper_length_1: '1'
+description_main_no_space_upper_length_2: 1D
+description_main_no_space_upper_length_3: 1DI
+description_main_no_space_upper_length_4: 1DIA
+description_main_no_space_upper_length_5: 1DIAM
+description_main_no_space_upper_length_6: 1DIAME
+description_main_upper_length_1: '1'
+description_main_upper_length_2: '1_'
+description_main_upper_length_3: 1_D
+description_main_upper_length_4: 1_DI
+description_main_upper_length_5: 1_DIA
+description_main_upper_length_6: 1_DIAM
+diameter: 1
+directory: parts/oobb_part_pulley_gt2_1_diameter_9_mm_depth_30_teeth_shield_extra
+extra: 30_teeth_shield
+folder: C:\gh\oomlout_oobb_version_4_generated_parts\parts\oobb_part_pulley_gt2_1_diameter_9_mm_depth_30_teeth_shield_extra
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_pulley_gt2_1_diameter_9_mm_depth_30_teeth_shield_extra
+id: oobb_part_pulley_gt2_1_diameter_9_mm_depth_30_teeth_shield_extra
+id_no_class: part_pulley_gt2_1_diameter_9_mm_depth_30_teeth_shield_extra
+id_no_color: 1diameter9mmdepth30teethshieldextra
+id_no_size: 1_diameter_9_mm_depth_30_teeth_shield_extra
+id_no_type: pulley_gt2_1_diameter_9_mm_depth_30_teeth_shield_extra
+link_1: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/pulley_gt2/1_diameter_9_mm_depth/30_teeth_shield_extra/part
+link_1_name: link_main
+link_main: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/pulley_gt2/1_diameter_9_mm_depth/30_teeth_shield_extra/part
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%209f144
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%209f144
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%209f144
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%209f144
+link_redirect: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/parts/oobb_pulley_gt2_01_09_ex_30_teeth_shield
+manufacturer: ''
+manufacturer_name: ''
+md5: f15c646e9772bfacd1cfd5fd7b6f8b88
+md5_10: f15c646e97
+md5_10_upper: F15C646E97
+md5_5: f15c6
+md5_5_upper: F15C6
+md5_6: f15c64
+md5_6_alpha: 9f144
+md5_6_alpha_upper: 9F144
+md5_6_upper: F15C64
+name: Oobb Part Pulley Gt2 1 Diameter 9 mm Depth 30 Teeth Shield Extra
+name_no_class: Part Pulley Gt2 1 Diameter 9 mm Depth 30 Teeth Shield Extra
+name_no_color: 1Diameter9mmdepth30Teethshieldextra
+name_no_size: 1 Diameter 9 mm Depth 30 Teeth Shield Extra
+name_no_type: Pulley Gt2 1 Diameter 9 mm Depth 30 Teeth Shield Extra
+name_short: Pulley Gt2 1x9 30 Teeth Shield Extra
+oomlout_detail_hierarchy_1: oobb
+oomlout_detail_hierarchy_1_upper: OOBB
+oomlout_detail_hierarchy_1_upper_length_4: OOBB
+oomlout_detail_hierarchy_2: part
+oomlout_detail_hierarchy_2_upper: PART
+oomlout_detail_hierarchy_2_upper_length_4: PART
+oomlout_detail_hierarchy_3: pulley_gt2
+oomlout_detail_hierarchy_3_upper: PULLEY_GT2
+oomlout_detail_hierarchy_3_upper_length_4: PULL
+oomlout_detail_hierarchy_4: 1_diameter
+oomlout_detail_hierarchy_4_upper: 1_DIAMETER
+oomlout_detail_hierarchy_4_upper_length_4: 1_DI
+oomlout_detail_hierarchy_5: 9_mm_depth
+oomlout_detail_hierarchy_5_upper: 9_MM_DEPTH
+oomlout_detail_hierarchy_5_upper_length_4: 9DEP
+oomlout_detail_hierarchy_6: 30_teeth_shield_extra
+oomlout_detail_hierarchy_6_upper: 30_TEETH_SHIELD_EXTRA
+oomlout_detail_hierarchy_6_upper_length_4: 30_T
+oomlout_oomp_utility_custom_data_manipulation: true
+oomp_key: oomp_oobb_part_pulley_gt2_1_diameter_9_mm_depth_30_teeth_shield_extra
+oomp_word: ticket ox sunflower
+oomp_word_emoji: ':ticket: :ox: :sunflower:'
+oomp_word_emoji_list:
+- ':ticket:'
+- ':ox:'
+- ':sunflower:'
+oomp_word_list:
+- ticket
+- ox
+- sunflower
+part_number: ''
+part_number_name: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
+shaft: ''
+short_name: ''
+size: pulley_gt2
+size_length_1: p
+size_length_2: pu
+size_length_3: pul
+size_length_4: pull
+size_length_5: pulle
+size_length_6: pulley
+size_name: Pulley Gt2
+size_no_space_length_1: p
+size_no_space_length_2: pu
+size_no_space_length_3: pul
+size_no_space_length_4: pull
+size_no_space_length_5: pulle
+size_no_space_length_6: pulley
+size_no_space_upper_length_1: P
+size_no_space_upper_length_2: PU
+size_no_space_upper_length_3: PUL
+size_no_space_upper_length_4: PULL
+size_no_space_upper_length_5: PULLE
+size_no_space_upper_length_6: PULLEY
+size_upper_length_1: P
+size_upper_length_2: PU
+size_upper_length_3: PUL
+size_upper_length_4: PULL
+size_upper_length_5: PULLE
+size_upper_length_6: PULLEY
+thickness: 9
+thickness_mm: 9
+type: part
+type_length_1: p
+type_length_2: pa
+type_length_3: par
+type_length_4: part
+type_length_5: part
+type_length_6: part
+type_name: Part
+type_no_space_length_1: p
+type_no_space_length_2: pa
+type_no_space_length_3: par
+type_no_space_length_4: part
+type_no_space_length_5: part
+type_no_space_length_6: part
+type_no_space_upper_length_1: P
+type_no_space_upper_length_2: PA
+type_no_space_upper_length_3: PAR
+type_no_space_upper_length_4: PART
+type_no_space_upper_length_5: PART
+type_no_space_upper_length_6: PART
+type_upper_length_1: P
+type_upper_length_2: PA
+type_upper_length_3: PAR
+type_upper_length_4: PART
+type_upper_length_5: PART
+type_upper_length_6: PART

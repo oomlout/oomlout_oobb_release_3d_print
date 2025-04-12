@@ -1,0 +1,229 @@
+bip_39_word_dash_12: warfare-inform-scrub-senior-ceiling-device-vacant-ranch-spare-mask-youth-animal
+bip_39_word_dash_2: warfare-inform
+bip_39_word_dash_3: warfare-inform-scrub
+bip_39_word_new_br_12: warfare<br>inform<br>scrub<br>senior<br>ceiling<br>device<br>vacant<br>ranch<br>spare<br>mask<br>youth<br>animal
+bip_39_word_new_br_2: warfare<br>inform
+bip_39_word_new_br_3: warfare<br>inform<br>scrub
+bip_39_word_new_line_12: 'warfare
+
+  inform
+
+  scrub
+
+  senior
+
+  ceiling
+
+  device
+
+  vacant
+
+  ranch
+
+  spare
+
+  mask
+
+  youth
+
+  animal'
+bip_39_word_new_line_2: 'warfare
+
+  inform'
+bip_39_word_new_line_3: 'warfare
+
+  inform
+
+  scrub'
+bip_39_word_no_space_12: warfareinformscrubseniorceilingdevicevacantranchsparemaskyouthanimal
+bip_39_word_no_space_2: warfareinform
+bip_39_word_no_space_3: warfareinformscrub
+bip_39_word_space_12: warfare inform scrub senior ceiling device vacant ranch spare
+  mask youth animal
+bip_39_word_space_2: warfare inform
+bip_39_word_space_3: warfare inform scrub
+bip_39_word_underscore_12: warfare_inform_scrub_senior_ceiling_device_vacant_ranch_spare_mask_youth_animal
+bip_39_word_underscore_2: warfare_inform
+bip_39_word_underscore_3: warfare_inform_scrub
+classification: oobb
+classification_length_1: o
+classification_length_2: oo
+classification_length_3: oob
+classification_length_4: oobb
+classification_length_5: oobb
+classification_length_6: oobb
+classification_name: Oobb
+classification_no_space_length_1: o
+classification_no_space_length_2: oo
+classification_no_space_length_3: oob
+classification_no_space_length_4: oobb
+classification_no_space_length_5: oobb
+classification_no_space_length_6: oobb
+classification_no_space_upper_length_1: O
+classification_no_space_upper_length_2: OO
+classification_no_space_upper_length_3: OOB
+classification_no_space_upper_length_4: OOBB
+classification_no_space_upper_length_5: OOBB
+classification_no_space_upper_length_6: OOBB
+classification_upper_length_1: O
+classification_upper_length_2: OO
+classification_upper_length_3: OOB
+classification_upper_length_4: OOBB
+classification_upper_length_5: OOBB
+classification_upper_length_6: OOBB
+color: ''
+color_name: ''
+components: []
+components_objects: []
+components_string: []
+description: plate 15x12x3
+description_extra: ''
+description_extra_name: ''
+description_main: 15_width_12_height_3_mm_depth
+description_main_length_1: '1'
+description_main_length_2: '15'
+description_main_length_3: '15_'
+description_main_length_4: 15_w
+description_main_length_5: 15_wi
+description_main_length_6: 15_wid
+description_main_name: 15 Width 12 Height 3 mm Depth
+description_main_no_space_length_1: '1'
+description_main_no_space_length_2: '15'
+description_main_no_space_length_3: 15w
+description_main_no_space_length_4: 15wi
+description_main_no_space_length_5: 15wid
+description_main_no_space_length_6: 15widt
+description_main_no_space_upper_length_1: '1'
+description_main_no_space_upper_length_2: '15'
+description_main_no_space_upper_length_3: 15W
+description_main_no_space_upper_length_4: 15WI
+description_main_no_space_upper_length_5: 15WID
+description_main_no_space_upper_length_6: 15WIDT
+description_main_upper_length_1: '1'
+description_main_upper_length_2: '15'
+description_main_upper_length_3: '15_'
+description_main_upper_length_4: 15_W
+description_main_upper_length_5: 15_WI
+description_main_upper_length_6: 15_WID
+directory: parts/oobb_part_plate_15_width_12_height_3_mm_depth
+folder: C:\gh\oomlout_oobb_version_4_generated_parts\parts\oobb_part_plate_15_width_12_height_3_mm_depth
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_15_width_12_height_3_mm_depth
+height: 12
+height_mm: 179
+id: oobb_part_plate_15_width_12_height_3_mm_depth
+id_no_class: part_plate_15_width_12_height_3_mm_depth
+id_no_color: 15width12height3mmdepth
+id_no_size: 15_width_12_height_3_mm_depth
+id_no_type: plate_15_width_12_height_3_mm_depth
+link_1: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/plate/15_width_12_height_3_mm_depth/part
+link_1_name: link_main
+link_main: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/plate/15_width_12_height_3_mm_depth/part
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%205p2oy
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%205p2oy
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%205p2oy
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%205p2oy
+link_redirect: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/parts/oobb_plate_15_12_03
+manufacturer: ''
+manufacturer_name: ''
+md5: 91fee21e83b19e0cf2927c3b839ce7b8
+md5_10: 91fee21e83
+md5_10_upper: 91FEE21E83
+md5_5: 91fee
+md5_5_upper: 91FEE
+md5_6: 91fee2
+md5_6_alpha: 5p2oy
+md5_6_alpha_upper: 5P2OY
+md5_6_upper: 91FEE2
+name: Oobb Part Plate 15 Width 12 Height 3 mm Depth
+name_no_class: Part Plate 15 Width 12 Height 3 mm Depth
+name_no_color: 15Width12Height3mmdepth
+name_no_size: 15 Width 12 Height 3 mm Depth
+name_no_type: Plate 15 Width 12 Height 3 mm Depth
+name_short: 'Plate 15x12x3 '
+oomlout_detail_hierarchy_1: oobb
+oomlout_detail_hierarchy_1_upper: OOBB
+oomlout_detail_hierarchy_1_upper_length_4: OOBB
+oomlout_detail_hierarchy_2: part
+oomlout_detail_hierarchy_2_upper: PART
+oomlout_detail_hierarchy_2_upper_length_4: PART
+oomlout_detail_hierarchy_3: plate
+oomlout_detail_hierarchy_3_upper: PLATE
+oomlout_detail_hierarchy_3_upper_length_4: PLAT
+oomlout_detail_hierarchy_4: 3_mm_depth
+oomlout_detail_hierarchy_4_upper: 3_MM_DEPTH
+oomlout_detail_hierarchy_4_upper_length_4: 3DEP
+oomlout_oomp_utility_custom_data_manipulation: true
+oomp_key: oomp_oobb_part_plate_15_width_12_height_3_mm_depth
+oomp_word: pushpin recycle sailboat
+oomp_word_emoji: ':pushpin: :recycle: :sailboat:'
+oomp_word_emoji_list:
+- ':pushpin:'
+- ':recycle:'
+- ':sailboat:'
+oomp_word_list:
+- pushpin
+- recycle
+- sailboat
+part_number: ''
+part_number_name: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
+short_name: ''
+size: plate
+size_length_1: p
+size_length_2: pl
+size_length_3: pla
+size_length_4: plat
+size_length_5: plate
+size_length_6: plate
+size_name: Plate
+size_no_space_length_1: p
+size_no_space_length_2: pl
+size_no_space_length_3: pla
+size_no_space_length_4: plat
+size_no_space_length_5: plate
+size_no_space_length_6: plate
+size_no_space_upper_length_1: P
+size_no_space_upper_length_2: PL
+size_no_space_upper_length_3: PLA
+size_no_space_upper_length_4: PLAT
+size_no_space_upper_length_5: PLATE
+size_no_space_upper_length_6: PLATE
+size_upper_length_1: P
+size_upper_length_2: PL
+size_upper_length_3: PLA
+size_upper_length_4: PLAT
+size_upper_length_5: PLATE
+size_upper_length_6: PLATE
+thickness: 3
+thickness_mm: 3
+type: part
+type_length_1: p
+type_length_2: pa
+type_length_3: par
+type_length_4: part
+type_length_5: part
+type_length_6: part
+type_name: Part
+type_no_space_length_1: p
+type_no_space_length_2: pa
+type_no_space_length_3: par
+type_no_space_length_4: part
+type_no_space_length_5: part
+type_no_space_length_6: part
+type_no_space_upper_length_1: P
+type_no_space_upper_length_2: PA
+type_no_space_upper_length_3: PAR
+type_no_space_upper_length_4: PART
+type_no_space_upper_length_5: PART
+type_no_space_upper_length_6: PART
+type_upper_length_1: P
+type_upper_length_2: PA
+type_upper_length_3: PAR
+type_upper_length_4: PART
+type_upper_length_5: PART
+type_upper_length_6: PART
+width: 15
+width_mm: 224

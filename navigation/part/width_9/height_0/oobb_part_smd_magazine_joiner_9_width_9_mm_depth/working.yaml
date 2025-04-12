@@ -1,0 +1,227 @@
+bip_39_word_dash_12: man-scheme-margin-young-double-box-canal-print-sunny-mixed-awesome-audit
+bip_39_word_dash_2: man-scheme
+bip_39_word_dash_3: man-scheme-margin
+bip_39_word_new_br_12: man<br>scheme<br>margin<br>young<br>double<br>box<br>canal<br>print<br>sunny<br>mixed<br>awesome<br>audit
+bip_39_word_new_br_2: man<br>scheme
+bip_39_word_new_br_3: man<br>scheme<br>margin
+bip_39_word_new_line_12: 'man
+
+  scheme
+
+  margin
+
+  young
+
+  double
+
+  box
+
+  canal
+
+  print
+
+  sunny
+
+  mixed
+
+  awesome
+
+  audit'
+bip_39_word_new_line_2: 'man
+
+  scheme'
+bip_39_word_new_line_3: 'man
+
+  scheme
+
+  margin'
+bip_39_word_no_space_12: manschememarginyoungdoubleboxcanalprintsunnymixedawesomeaudit
+bip_39_word_no_space_2: manscheme
+bip_39_word_no_space_3: manschememargin
+bip_39_word_space_12: man scheme margin young double box canal print sunny mixed awesome
+  audit
+bip_39_word_space_2: man scheme
+bip_39_word_space_3: man scheme margin
+bip_39_word_underscore_12: man_scheme_margin_young_double_box_canal_print_sunny_mixed_awesome_audit
+bip_39_word_underscore_2: man_scheme
+bip_39_word_underscore_3: man_scheme_margin
+classification: oobb
+classification_length_1: o
+classification_length_2: oo
+classification_length_3: oob
+classification_length_4: oobb
+classification_length_5: oobb
+classification_length_6: oobb
+classification_name: Oobb
+classification_no_space_length_1: o
+classification_no_space_length_2: oo
+classification_no_space_length_3: oob
+classification_no_space_length_4: oobb
+classification_no_space_length_5: oobb
+classification_no_space_length_6: oobb
+classification_no_space_upper_length_1: O
+classification_no_space_upper_length_2: OO
+classification_no_space_upper_length_3: OOB
+classification_no_space_upper_length_4: OOBB
+classification_no_space_upper_length_5: OOBB
+classification_no_space_upper_length_6: OOBB
+classification_upper_length_1: O
+classification_upper_length_2: OO
+classification_upper_length_3: OOB
+classification_upper_length_4: OOBB
+classification_upper_length_5: OOBB
+classification_upper_length_6: OOBB
+color: ''
+color_name: ''
+components: []
+components_objects: []
+components_string: []
+description: smd magazine joiner 9x0x9
+description_extra: ''
+description_extra_name: ''
+description_main: 9_width_9_mm_depth
+description_main_length_1: '9'
+description_main_length_2: '9_'
+description_main_length_3: 9_w
+description_main_length_4: 9_wi
+description_main_length_5: 9_wid
+description_main_length_6: 9_widt
+description_main_name: 9 Width 9 mm Depth
+description_main_no_space_length_1: '9'
+description_main_no_space_length_2: 9w
+description_main_no_space_length_3: 9wi
+description_main_no_space_length_4: 9wid
+description_main_no_space_length_5: 9widt
+description_main_no_space_length_6: 9width
+description_main_no_space_upper_length_1: '9'
+description_main_no_space_upper_length_2: 9W
+description_main_no_space_upper_length_3: 9WI
+description_main_no_space_upper_length_4: 9WID
+description_main_no_space_upper_length_5: 9WIDT
+description_main_no_space_upper_length_6: 9WIDTH
+description_main_upper_length_1: '9'
+description_main_upper_length_2: '9_'
+description_main_upper_length_3: 9_W
+description_main_upper_length_4: 9_WI
+description_main_upper_length_5: 9_WID
+description_main_upper_length_6: 9_WIDT
+directory: parts/oobb_part_smd_magazine_joiner_9_width_9_mm_depth
+folder: C:\gh\oomlout_oobb_version_4_generated_parts\parts\oobb_part_smd_magazine_joiner_9_width_9_mm_depth
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_smd_magazine_joiner_9_width_9_mm_depth
+id: oobb_part_smd_magazine_joiner_9_width_9_mm_depth
+id_no_class: part_smd_magazine_joiner_9_width_9_mm_depth
+id_no_color: 9width9mmdepth
+id_no_size: 9_width_9_mm_depth
+id_no_type: smd_magazine_joiner_9_width_9_mm_depth
+link_1: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/smd_magazine_joiner/9_width_9_mm_depth/part
+link_1_name: link_main
+link_main: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/smd_magazine_joiner/9_width_9_mm_depth/part
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%209daub
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%209daub
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%209daub
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%209daub
+link_redirect: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/parts/oobb_smd_magazine_joiner_09_09
+manufacturer: ''
+manufacturer_name: ''
+md5: f021238ecbaac4206a20dff50ff02c36
+md5_10: f021238ecb
+md5_10_upper: F021238ECB
+md5_5: f0212
+md5_5_upper: F0212
+md5_6: f02123
+md5_6_alpha: 9daub
+md5_6_alpha_upper: 9DAUB
+md5_6_upper: F02123
+name: Oobb Part SMD Magazine Joiner 9 Width 9 mm Depth
+name_no_class: Part SMD Magazine Joiner 9 Width 9 mm Depth
+name_no_color: 9Width9mmdepth
+name_no_size: 9 Width 9 mm Depth
+name_no_type: SMD Magazine Joiner 9 Width 9 mm Depth
+name_short: 'Smd Magazine Joiner 9x9 '
+oomlout_detail_hierarchy_1: oobb
+oomlout_detail_hierarchy_1_upper: OOBB
+oomlout_detail_hierarchy_1_upper_length_4: OOBB
+oomlout_detail_hierarchy_2: part
+oomlout_detail_hierarchy_2_upper: PART
+oomlout_detail_hierarchy_2_upper_length_4: PART
+oomlout_detail_hierarchy_3: smd_magazine_joiner
+oomlout_detail_hierarchy_3_upper: SMD_MAGAZINE_JOINER
+oomlout_detail_hierarchy_3_upper_length_4: SMD_
+oomlout_detail_hierarchy_4: 9_mm_depth
+oomlout_detail_hierarchy_4_upper: 9_MM_DEPTH
+oomlout_detail_hierarchy_4_upper_length_4: 9DEP
+oomlout_oomp_utility_custom_data_manipulation: true
+oomp_key: oomp_oobb_part_smd_magazine_joiner_9_width_9_mm_depth
+oomp_word: train feet kiss
+oomp_word_emoji: ':train: :feet: :kiss:'
+oomp_word_emoji_list:
+- ':train:'
+- ':feet:'
+- ':kiss:'
+oomp_word_list:
+- train
+- feet
+- kiss
+part_number: ''
+part_number_name: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
+short_name: ''
+size: smd_magazine_joiner
+size_length_1: s
+size_length_2: sm
+size_length_3: smd
+size_length_4: smd_
+size_length_5: smd_m
+size_length_6: smd_ma
+size_name: SMD Magazine Joiner
+size_no_space_length_1: s
+size_no_space_length_2: sm
+size_no_space_length_3: smd
+size_no_space_length_4: smdm
+size_no_space_length_5: smdma
+size_no_space_length_6: smdmag
+size_no_space_upper_length_1: S
+size_no_space_upper_length_2: SM
+size_no_space_upper_length_3: SMD
+size_no_space_upper_length_4: SMDM
+size_no_space_upper_length_5: SMDMA
+size_no_space_upper_length_6: SMDMAG
+size_upper_length_1: S
+size_upper_length_2: SM
+size_upper_length_3: SMD
+size_upper_length_4: SMD_
+size_upper_length_5: SMD_M
+size_upper_length_6: SMD_MA
+thickness: 9
+thickness_mm: 9
+type: part
+type_length_1: p
+type_length_2: pa
+type_length_3: par
+type_length_4: part
+type_length_5: part
+type_length_6: part
+type_name: Part
+type_no_space_length_1: p
+type_no_space_length_2: pa
+type_no_space_length_3: par
+type_no_space_length_4: part
+type_no_space_length_5: part
+type_no_space_length_6: part
+type_no_space_upper_length_1: P
+type_no_space_upper_length_2: PA
+type_no_space_upper_length_3: PAR
+type_no_space_upper_length_4: PART
+type_no_space_upper_length_5: PART
+type_no_space_upper_length_6: PART
+type_upper_length_1: P
+type_upper_length_2: PA
+type_upper_length_3: PAR
+type_upper_length_4: PART
+type_upper_length_5: PART
+type_upper_length_6: PART
+width: 9
+width_mm: 134

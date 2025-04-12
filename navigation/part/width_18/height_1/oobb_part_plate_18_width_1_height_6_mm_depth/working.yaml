@@ -1,0 +1,229 @@
+bip_39_word_dash_12: shoot-plate-biology-mechanic-burger-divide-away-wasp-romance-nice-aunt-amateur
+bip_39_word_dash_2: shoot-plate
+bip_39_word_dash_3: shoot-plate-biology
+bip_39_word_new_br_12: shoot<br>plate<br>biology<br>mechanic<br>burger<br>divide<br>away<br>wasp<br>romance<br>nice<br>aunt<br>amateur
+bip_39_word_new_br_2: shoot<br>plate
+bip_39_word_new_br_3: shoot<br>plate<br>biology
+bip_39_word_new_line_12: 'shoot
+
+  plate
+
+  biology
+
+  mechanic
+
+  burger
+
+  divide
+
+  away
+
+  wasp
+
+  romance
+
+  nice
+
+  aunt
+
+  amateur'
+bip_39_word_new_line_2: 'shoot
+
+  plate'
+bip_39_word_new_line_3: 'shoot
+
+  plate
+
+  biology'
+bip_39_word_no_space_12: shootplatebiologymechanicburgerdivideawaywaspromanceniceauntamateur
+bip_39_word_no_space_2: shootplate
+bip_39_word_no_space_3: shootplatebiology
+bip_39_word_space_12: shoot plate biology mechanic burger divide away wasp romance
+  nice aunt amateur
+bip_39_word_space_2: shoot plate
+bip_39_word_space_3: shoot plate biology
+bip_39_word_underscore_12: shoot_plate_biology_mechanic_burger_divide_away_wasp_romance_nice_aunt_amateur
+bip_39_word_underscore_2: shoot_plate
+bip_39_word_underscore_3: shoot_plate_biology
+classification: oobb
+classification_length_1: o
+classification_length_2: oo
+classification_length_3: oob
+classification_length_4: oobb
+classification_length_5: oobb
+classification_length_6: oobb
+classification_name: Oobb
+classification_no_space_length_1: o
+classification_no_space_length_2: oo
+classification_no_space_length_3: oob
+classification_no_space_length_4: oobb
+classification_no_space_length_5: oobb
+classification_no_space_length_6: oobb
+classification_no_space_upper_length_1: O
+classification_no_space_upper_length_2: OO
+classification_no_space_upper_length_3: OOB
+classification_no_space_upper_length_4: OOBB
+classification_no_space_upper_length_5: OOBB
+classification_no_space_upper_length_6: OOBB
+classification_upper_length_1: O
+classification_upper_length_2: OO
+classification_upper_length_3: OOB
+classification_upper_length_4: OOBB
+classification_upper_length_5: OOBB
+classification_upper_length_6: OOBB
+color: ''
+color_name: ''
+components: []
+components_objects: []
+components_string: []
+description: plate 18x1x6
+description_extra: ''
+description_extra_name: ''
+description_main: 18_width_1_height_6_mm_depth
+description_main_length_1: '1'
+description_main_length_2: '18'
+description_main_length_3: '18_'
+description_main_length_4: 18_w
+description_main_length_5: 18_wi
+description_main_length_6: 18_wid
+description_main_name: 18 Width 1 Height 6 mm Depth
+description_main_no_space_length_1: '1'
+description_main_no_space_length_2: '18'
+description_main_no_space_length_3: 18w
+description_main_no_space_length_4: 18wi
+description_main_no_space_length_5: 18wid
+description_main_no_space_length_6: 18widt
+description_main_no_space_upper_length_1: '1'
+description_main_no_space_upper_length_2: '18'
+description_main_no_space_upper_length_3: 18W
+description_main_no_space_upper_length_4: 18WI
+description_main_no_space_upper_length_5: 18WID
+description_main_no_space_upper_length_6: 18WIDT
+description_main_upper_length_1: '1'
+description_main_upper_length_2: '18'
+description_main_upper_length_3: '18_'
+description_main_upper_length_4: 18_W
+description_main_upper_length_5: 18_WI
+description_main_upper_length_6: 18_WID
+directory: parts/oobb_part_plate_18_width_1_height_6_mm_depth
+folder: C:\gh\oomlout_oobb_version_4_generated_parts\parts\oobb_part_plate_18_width_1_height_6_mm_depth
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_18_width_1_height_6_mm_depth
+height: 1
+height_mm: 14
+id: oobb_part_plate_18_width_1_height_6_mm_depth
+id_no_class: part_plate_18_width_1_height_6_mm_depth
+id_no_color: 18width1height6mmdepth
+id_no_size: 18_width_1_height_6_mm_depth
+id_no_type: plate_18_width_1_height_6_mm_depth
+link_1: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/plate/18_width_1_height_6_mm_depth/part
+link_1_name: link_main
+link_main: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/plate/18_width_1_height_6_mm_depth/part
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%204rjc5
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%204rjc5
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%204rjc5
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%204rjc5
+link_redirect: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/parts/oobb_plate_18_01_06
+manufacturer: ''
+manufacturer_name: ''
+md5: 7a1ea55ddcf7820cff8f58a22ce98e34
+md5_10: 7a1ea55ddc
+md5_10_upper: 7A1EA55DDC
+md5_5: 7a1ea
+md5_5_upper: 7A1EA
+md5_6: 7a1ea5
+md5_6_alpha: 4rjc5
+md5_6_alpha_upper: 4RJC5
+md5_6_upper: 7A1EA5
+name: Oobb Part Plate 18 Width 1 Height 6 mm Depth
+name_no_class: Part Plate 18 Width 1 Height 6 mm Depth
+name_no_color: 18Width1Height6mmdepth
+name_no_size: 18 Width 1 Height 6 mm Depth
+name_no_type: Plate 18 Width 1 Height 6 mm Depth
+name_short: 'Plate 18x1x6 '
+oomlout_detail_hierarchy_1: oobb
+oomlout_detail_hierarchy_1_upper: OOBB
+oomlout_detail_hierarchy_1_upper_length_4: OOBB
+oomlout_detail_hierarchy_2: part
+oomlout_detail_hierarchy_2_upper: PART
+oomlout_detail_hierarchy_2_upper_length_4: PART
+oomlout_detail_hierarchy_3: plate
+oomlout_detail_hierarchy_3_upper: PLATE
+oomlout_detail_hierarchy_3_upper_length_4: PLAT
+oomlout_detail_hierarchy_4: 6_mm_depth
+oomlout_detail_hierarchy_4_upper: 6_MM_DEPTH
+oomlout_detail_hierarchy_4_upper_length_4: 6DEP
+oomlout_oomp_utility_custom_data_manipulation: true
+oomp_key: oomp_oobb_part_plate_18_width_1_height_6_mm_depth
+oomp_word: camera angel headphones
+oomp_word_emoji: ':camera: :angel: :headphones:'
+oomp_word_emoji_list:
+- ':camera:'
+- ':angel:'
+- ':headphones:'
+oomp_word_list:
+- camera
+- angel
+- headphones
+part_number: ''
+part_number_name: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
+short_name: ''
+size: plate
+size_length_1: p
+size_length_2: pl
+size_length_3: pla
+size_length_4: plat
+size_length_5: plate
+size_length_6: plate
+size_name: Plate
+size_no_space_length_1: p
+size_no_space_length_2: pl
+size_no_space_length_3: pla
+size_no_space_length_4: plat
+size_no_space_length_5: plate
+size_no_space_length_6: plate
+size_no_space_upper_length_1: P
+size_no_space_upper_length_2: PL
+size_no_space_upper_length_3: PLA
+size_no_space_upper_length_4: PLAT
+size_no_space_upper_length_5: PLATE
+size_no_space_upper_length_6: PLATE
+size_upper_length_1: P
+size_upper_length_2: PL
+size_upper_length_3: PLA
+size_upper_length_4: PLAT
+size_upper_length_5: PLATE
+size_upper_length_6: PLATE
+thickness: 6
+thickness_mm: 6
+type: part
+type_length_1: p
+type_length_2: pa
+type_length_3: par
+type_length_4: part
+type_length_5: part
+type_length_6: part
+type_name: Part
+type_no_space_length_1: p
+type_no_space_length_2: pa
+type_no_space_length_3: par
+type_no_space_length_4: part
+type_no_space_length_5: part
+type_no_space_length_6: part
+type_no_space_upper_length_1: P
+type_no_space_upper_length_2: PA
+type_no_space_upper_length_3: PAR
+type_no_space_upper_length_4: PART
+type_no_space_upper_length_5: PART
+type_no_space_upper_length_6: PART
+type_upper_length_1: P
+type_upper_length_2: PA
+type_upper_length_3: PAR
+type_upper_length_4: PART
+type_upper_length_5: PART
+type_upper_length_6: PART
+width: 18
+width_mm: 269

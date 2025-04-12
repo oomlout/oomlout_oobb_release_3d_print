@@ -1,0 +1,264 @@
+bip_39_word_dash_12: piece-cigar-cricket-immense-birth-pluck-slot-slight-conduct-goose-donate-auto
+bip_39_word_dash_2: piece-cigar
+bip_39_word_dash_3: piece-cigar-cricket
+bip_39_word_new_br_12: piece<br>cigar<br>cricket<br>immense<br>birth<br>pluck<br>slot<br>slight<br>conduct<br>goose<br>donate<br>auto
+bip_39_word_new_br_2: piece<br>cigar
+bip_39_word_new_br_3: piece<br>cigar<br>cricket
+bip_39_word_new_line_12: 'piece
+
+  cigar
+
+  cricket
+
+  immense
+
+  birth
+
+  pluck
+
+  slot
+
+  slight
+
+  conduct
+
+  goose
+
+  donate
+
+  auto'
+bip_39_word_new_line_2: 'piece
+
+  cigar'
+bip_39_word_new_line_3: 'piece
+
+  cigar
+
+  cricket'
+bip_39_word_no_space_12: piececigarcricketimmensebirthpluckslotslightconductgoosedonateauto
+bip_39_word_no_space_2: piececigar
+bip_39_word_no_space_3: piececigarcricket
+bip_39_word_space_12: piece cigar cricket immense birth pluck slot slight conduct
+  goose donate auto
+bip_39_word_space_2: piece cigar
+bip_39_word_space_3: piece cigar cricket
+bip_39_word_underscore_12: piece_cigar_cricket_immense_birth_pluck_slot_slight_conduct_goose_donate_auto
+bip_39_word_underscore_2: piece_cigar
+bip_39_word_underscore_3: piece_cigar_cricket
+classification: oobb
+classification_length_1: o
+classification_length_2: oo
+classification_length_3: oob
+classification_length_4: oobb
+classification_length_5: oobb
+classification_length_6: oobb
+classification_name: Oobb
+classification_no_space_length_1: o
+classification_no_space_length_2: oo
+classification_no_space_length_3: oob
+classification_no_space_length_4: oobb
+classification_no_space_length_5: oobb
+classification_no_space_length_6: oobb
+classification_no_space_upper_length_1: O
+classification_no_space_upper_length_2: OO
+classification_no_space_upper_length_3: OOB
+classification_no_space_upper_length_4: OOBB
+classification_no_space_upper_length_5: OOBB
+classification_no_space_upper_length_6: OOBB
+classification_upper_length_1: O
+classification_upper_length_2: OO
+classification_upper_length_3: OOB
+classification_upper_length_4: OOBB
+classification_upper_length_5: OOBB
+classification_upper_length_6: OOBB
+color: ''
+color_name: ''
+components: []
+components_objects: []
+components_string: []
+description: pulley gt2 0x0x9
+description_extra: motor_servo_standard_01_shaft_72_teeth_extra
+description_extra_length_1: m
+description_extra_length_2: mo
+description_extra_length_3: mot
+description_extra_length_4: moto
+description_extra_length_5: motor
+description_extra_length_6: motor_
+description_extra_name: Motor Servo Standard 01 Shaft 72 Teeth Extra
+description_extra_no_space_length_1: m
+description_extra_no_space_length_2: mo
+description_extra_no_space_length_3: mot
+description_extra_no_space_length_4: moto
+description_extra_no_space_length_5: motor
+description_extra_no_space_length_6: motors
+description_extra_no_space_upper_length_1: M
+description_extra_no_space_upper_length_2: MO
+description_extra_no_space_upper_length_3: MOT
+description_extra_no_space_upper_length_4: MOTO
+description_extra_no_space_upper_length_5: MOTOR
+description_extra_no_space_upper_length_6: MOTORS
+description_extra_upper_length_1: M
+description_extra_upper_length_2: MO
+description_extra_upper_length_3: MOT
+description_extra_upper_length_4: MOTO
+description_extra_upper_length_5: MOTOR
+description_extra_upper_length_6: MOTOR_
+description_main: 3_diameter_9_mm_depth
+description_main_length_1: '3'
+description_main_length_2: '3_'
+description_main_length_3: 3_d
+description_main_length_4: 3_di
+description_main_length_5: 3_dia
+description_main_length_6: 3_diam
+description_main_name: 3 Diameter 9 mm Depth
+description_main_no_space_length_1: '3'
+description_main_no_space_length_2: 3d
+description_main_no_space_length_3: 3di
+description_main_no_space_length_4: 3dia
+description_main_no_space_length_5: 3diam
+description_main_no_space_length_6: 3diame
+description_main_no_space_upper_length_1: '3'
+description_main_no_space_upper_length_2: 3D
+description_main_no_space_upper_length_3: 3DI
+description_main_no_space_upper_length_4: 3DIA
+description_main_no_space_upper_length_5: 3DIAM
+description_main_no_space_upper_length_6: 3DIAME
+description_main_upper_length_1: '3'
+description_main_upper_length_2: '3_'
+description_main_upper_length_3: 3_D
+description_main_upper_length_4: 3_DI
+description_main_upper_length_5: 3_DIA
+description_main_upper_length_6: 3_DIAM
+diameter: 3
+directory: parts/oobb_part_pulley_gt2_3_diameter_9_mm_depth_motor_servo_standard_01_shaft_72_teeth_extra
+extra: 72_teeth
+folder: C:\gh\oomlout_oobb_version_4_generated_parts\parts\oobb_part_pulley_gt2_3_diameter_9_mm_depth_motor_servo_standard_01_shaft_72_teeth_extra
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_pulley_gt2_3_diameter_9_mm_depth_motor_servo_standard_01_shaft_72_teeth_extra
+id: oobb_part_pulley_gt2_3_diameter_9_mm_depth_motor_servo_standard_01_shaft_72_teeth_extra
+id_no_class: part_pulley_gt2_3_diameter_9_mm_depth_motor_servo_standard_01_shaft_72_teeth_extra
+id_no_color: 3diameter9mmdepthmotorservostandard01shaft72teethextra
+id_no_size: 3_diameter_9_mm_depth_motor_servo_standard_01_shaft_72_teeth_extra
+id_no_type: pulley_gt2_3_diameter_9_mm_depth_motor_servo_standard_01_shaft_72_teeth_extra
+link_1: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/pulley_gt2/3_diameter_9_mm_depth/motor_servo_standard_01_shaft_72_teeth_extra/part
+link_1_name: link_main
+link_main: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/pulley_gt2/3_diameter_9_mm_depth/motor_servo_standard_01_shaft_72_teeth_extra/part
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%209p2jd
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%209p2jd
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%209p2jd
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%209p2jd
+link_redirect: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/parts/oobb_pulley_gt2_03_09_ex_72_teeth_sh_motor_servo_standard_01
+manufacturer: ''
+manufacturer_name: ''
+md5: f882192176cbb9829a8b571866ca3d23
+md5_10: f882192176
+md5_10_upper: F882192176
+md5_5: f8821
+md5_5_upper: F8821
+md5_6: f88219
+md5_6_alpha: 9p2jd
+md5_6_alpha_upper: 9P2JD
+md5_6_upper: F88219
+name: Oobb Part Pulley Gt2 3 Diameter 9 mm Depth Motor Servo Standard 01 Shaft 72
+  Teeth Extra
+name_no_class: Part Pulley Gt2 3 Diameter 9 mm Depth Motor Servo Standard 01 Shaft
+  72 Teeth Extra
+name_no_color: 3Diameter9mmdepthmotorservostandard01Shaft72Teethextra
+name_no_size: 3 Diameter 9 mm Depth Motor Servo Standard 01 Shaft 72 Teeth Extra
+name_no_type: Pulley Gt2 3 Diameter 9 mm Depth Motor Servo Standard 01 Shaft 72 Teeth
+  Extra
+name_short: Pulley Gt2 3x9 Motor Servo Standard 01
+oomlout_detail_hierarchy_1: oobb
+oomlout_detail_hierarchy_1_upper: OOBB
+oomlout_detail_hierarchy_1_upper_length_4: OOBB
+oomlout_detail_hierarchy_2: part
+oomlout_detail_hierarchy_2_upper: PART
+oomlout_detail_hierarchy_2_upper_length_4: PART
+oomlout_detail_hierarchy_3: pulley_gt2
+oomlout_detail_hierarchy_3_upper: PULLEY_GT2
+oomlout_detail_hierarchy_3_upper_length_4: PULL
+oomlout_detail_hierarchy_4: 3_diameter
+oomlout_detail_hierarchy_4_upper: 3_DIAMETER
+oomlout_detail_hierarchy_4_upper_length_4: 3_DI
+oomlout_detail_hierarchy_5: 9_mm_depth
+oomlout_detail_hierarchy_5_upper: 9_MM_DEPTH
+oomlout_detail_hierarchy_5_upper_length_4: 9DEP
+oomlout_detail_hierarchy_6: motor_servo_standard_01
+oomlout_detail_hierarchy_6_upper: MOTOR_SERVO_STANDARD_01
+oomlout_detail_hierarchy_6_upper_length_4: MOTO
+oomlout_detail_hierarchy_7: shaft_72_teeth_extra
+oomlout_detail_hierarchy_7_upper: SHAFT_72_TEETH_EXTRA
+oomlout_detail_hierarchy_7_upper_length_4: SHAF
+oomlout_oomp_utility_custom_data_manipulation: true
+oomp_key: oomp_oobb_part_pulley_gt2_3_diameter_9_mm_depth_motor_servo_standard_01_shaft_72_teeth_extra
+oomp_word: seven radio pray
+oomp_word_emoji: ':seven: :radio: :pray:'
+oomp_word_emoji_list:
+- ':seven:'
+- ':radio:'
+- ':pray:'
+oomp_word_list:
+- seven
+- radio
+- pray
+part_number: ''
+part_number_name: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
+shaft: motor_servo_standard_01
+short_name: ''
+size: pulley_gt2
+size_length_1: p
+size_length_2: pu
+size_length_3: pul
+size_length_4: pull
+size_length_5: pulle
+size_length_6: pulley
+size_name: Pulley Gt2
+size_no_space_length_1: p
+size_no_space_length_2: pu
+size_no_space_length_3: pul
+size_no_space_length_4: pull
+size_no_space_length_5: pulle
+size_no_space_length_6: pulley
+size_no_space_upper_length_1: P
+size_no_space_upper_length_2: PU
+size_no_space_upper_length_3: PUL
+size_no_space_upper_length_4: PULL
+size_no_space_upper_length_5: PULLE
+size_no_space_upper_length_6: PULLEY
+size_upper_length_1: P
+size_upper_length_2: PU
+size_upper_length_3: PUL
+size_upper_length_4: PULL
+size_upper_length_5: PULLE
+size_upper_length_6: PULLEY
+thickness: 9
+thickness_mm: 9
+type: part
+type_length_1: p
+type_length_2: pa
+type_length_3: par
+type_length_4: part
+type_length_5: part
+type_length_6: part
+type_name: Part
+type_no_space_length_1: p
+type_no_space_length_2: pa
+type_no_space_length_3: par
+type_no_space_length_4: part
+type_no_space_length_5: part
+type_no_space_length_6: part
+type_no_space_upper_length_1: P
+type_no_space_upper_length_2: PA
+type_no_space_upper_length_3: PAR
+type_no_space_upper_length_4: PART
+type_no_space_upper_length_5: PART
+type_no_space_upper_length_6: PART
+type_upper_length_1: P
+type_upper_length_2: PA
+type_upper_length_3: PAR
+type_upper_length_4: PART
+type_upper_length_5: PART
+type_upper_length_6: PART

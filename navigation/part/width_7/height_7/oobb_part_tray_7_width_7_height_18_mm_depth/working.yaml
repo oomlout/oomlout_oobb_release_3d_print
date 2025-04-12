@@ -1,0 +1,229 @@
+bip_39_word_dash_12: level-acoustic-betray-deposit-tonight-emotion-grape-canyon-board-region-primary-alien
+bip_39_word_dash_2: level-acoustic
+bip_39_word_dash_3: level-acoustic-betray
+bip_39_word_new_br_12: level<br>acoustic<br>betray<br>deposit<br>tonight<br>emotion<br>grape<br>canyon<br>board<br>region<br>primary<br>alien
+bip_39_word_new_br_2: level<br>acoustic
+bip_39_word_new_br_3: level<br>acoustic<br>betray
+bip_39_word_new_line_12: 'level
+
+  acoustic
+
+  betray
+
+  deposit
+
+  tonight
+
+  emotion
+
+  grape
+
+  canyon
+
+  board
+
+  region
+
+  primary
+
+  alien'
+bip_39_word_new_line_2: 'level
+
+  acoustic'
+bip_39_word_new_line_3: 'level
+
+  acoustic
+
+  betray'
+bip_39_word_no_space_12: levelacousticbetraydeposittonightemotiongrapecanyonboardregionprimaryalien
+bip_39_word_no_space_2: levelacoustic
+bip_39_word_no_space_3: levelacousticbetray
+bip_39_word_space_12: level acoustic betray deposit tonight emotion grape canyon board
+  region primary alien
+bip_39_word_space_2: level acoustic
+bip_39_word_space_3: level acoustic betray
+bip_39_word_underscore_12: level_acoustic_betray_deposit_tonight_emotion_grape_canyon_board_region_primary_alien
+bip_39_word_underscore_2: level_acoustic
+bip_39_word_underscore_3: level_acoustic_betray
+classification: oobb
+classification_length_1: o
+classification_length_2: oo
+classification_length_3: oob
+classification_length_4: oobb
+classification_length_5: oobb
+classification_length_6: oobb
+classification_name: Oobb
+classification_no_space_length_1: o
+classification_no_space_length_2: oo
+classification_no_space_length_3: oob
+classification_no_space_length_4: oobb
+classification_no_space_length_5: oobb
+classification_no_space_length_6: oobb
+classification_no_space_upper_length_1: O
+classification_no_space_upper_length_2: OO
+classification_no_space_upper_length_3: OOB
+classification_no_space_upper_length_4: OOBB
+classification_no_space_upper_length_5: OOBB
+classification_no_space_upper_length_6: OOBB
+classification_upper_length_1: O
+classification_upper_length_2: OO
+classification_upper_length_3: OOB
+classification_upper_length_4: OOBB
+classification_upper_length_5: OOBB
+classification_upper_length_6: OOBB
+color: ''
+color_name: ''
+components: []
+components_objects: []
+components_string: []
+description: tray 7x7x18
+description_extra: ''
+description_extra_name: ''
+description_main: 7_width_7_height_18_mm_depth
+description_main_length_1: '7'
+description_main_length_2: '7_'
+description_main_length_3: 7_w
+description_main_length_4: 7_wi
+description_main_length_5: 7_wid
+description_main_length_6: 7_widt
+description_main_name: 7 Width 7 Height 18 mm Depth
+description_main_no_space_length_1: '7'
+description_main_no_space_length_2: 7w
+description_main_no_space_length_3: 7wi
+description_main_no_space_length_4: 7wid
+description_main_no_space_length_5: 7widt
+description_main_no_space_length_6: 7width
+description_main_no_space_upper_length_1: '7'
+description_main_no_space_upper_length_2: 7W
+description_main_no_space_upper_length_3: 7WI
+description_main_no_space_upper_length_4: 7WID
+description_main_no_space_upper_length_5: 7WIDT
+description_main_no_space_upper_length_6: 7WIDTH
+description_main_upper_length_1: '7'
+description_main_upper_length_2: '7_'
+description_main_upper_length_3: 7_W
+description_main_upper_length_4: 7_WI
+description_main_upper_length_5: 7_WID
+description_main_upper_length_6: 7_WIDT
+directory: parts/oobb_part_tray_7_width_7_height_18_mm_depth
+folder: C:\gh\oomlout_oobb_version_4_generated_parts\parts\oobb_part_tray_7_width_7_height_18_mm_depth
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_7_width_7_height_18_mm_depth
+height: 7
+height_mm: 104
+id: oobb_part_tray_7_width_7_height_18_mm_depth
+id_no_class: part_tray_7_width_7_height_18_mm_depth
+id_no_color: 7width7height18mmdepth
+id_no_size: 7_width_7_height_18_mm_depth
+id_no_type: tray_7_width_7_height_18_mm_depth
+link_1: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/tray/7_width_7_height_18_mm_depth/part
+link_1_name: link_main
+link_main: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/tray/7_width_7_height_18_mm_depth/part
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%203yc8d
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%203yc8d
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%203yc8d
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%203yc8d
+link_redirect: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/parts/oobb_tray_07_07_18
+manufacturer: ''
+manufacturer_name: ''
+md5: 65556d20c521ccb9237243b02ac08405
+md5_10: 65556d20c5
+md5_10_upper: 65556D20C5
+md5_5: '65556'
+md5_5_upper: '65556'
+md5_6: 65556d
+md5_6_alpha: 3yc8d
+md5_6_alpha_upper: 3YC8D
+md5_6_upper: 65556D
+name: Oobb Part Tray 7 Width 7 Height 18 mm Depth
+name_no_class: Part Tray 7 Width 7 Height 18 mm Depth
+name_no_color: 7Width7Height18mmdepth
+name_no_size: 7 Width 7 Height 18 mm Depth
+name_no_type: Tray 7 Width 7 Height 18 mm Depth
+name_short: 'Tray 7x7x18 '
+oomlout_detail_hierarchy_1: oobb
+oomlout_detail_hierarchy_1_upper: OOBB
+oomlout_detail_hierarchy_1_upper_length_4: OOBB
+oomlout_detail_hierarchy_2: part
+oomlout_detail_hierarchy_2_upper: PART
+oomlout_detail_hierarchy_2_upper_length_4: PART
+oomlout_detail_hierarchy_3: tray
+oomlout_detail_hierarchy_3_upper: TRAY
+oomlout_detail_hierarchy_3_upper_length_4: TRAY
+oomlout_detail_hierarchy_4: 18_mm_depth
+oomlout_detail_hierarchy_4_upper: 18_MM_DEPTH
+oomlout_detail_hierarchy_4_upper_length_4: 18DE
+oomlout_oomp_utility_custom_data_manipulation: true
+oomp_key: oomp_oobb_part_tray_7_width_7_height_18_mm_depth
+oomp_word: maple_leaf dolphin shell
+oomp_word_emoji: ':maple_leaf: :dolphin: :shell:'
+oomp_word_emoji_list:
+- ':maple_leaf:'
+- ':dolphin:'
+- ':shell:'
+oomp_word_list:
+- maple_leaf
+- dolphin
+- shell
+part_number: ''
+part_number_name: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
+short_name: ''
+size: tray
+size_length_1: t
+size_length_2: tr
+size_length_3: tra
+size_length_4: tray
+size_length_5: tray
+size_length_6: tray
+size_name: Tray
+size_no_space_length_1: t
+size_no_space_length_2: tr
+size_no_space_length_3: tra
+size_no_space_length_4: tray
+size_no_space_length_5: tray
+size_no_space_length_6: tray
+size_no_space_upper_length_1: T
+size_no_space_upper_length_2: TR
+size_no_space_upper_length_3: TRA
+size_no_space_upper_length_4: TRAY
+size_no_space_upper_length_5: TRAY
+size_no_space_upper_length_6: TRAY
+size_upper_length_1: T
+size_upper_length_2: TR
+size_upper_length_3: TRA
+size_upper_length_4: TRAY
+size_upper_length_5: TRAY
+size_upper_length_6: TRAY
+thickness: 18
+thickness_mm: 18
+type: part
+type_length_1: p
+type_length_2: pa
+type_length_3: par
+type_length_4: part
+type_length_5: part
+type_length_6: part
+type_name: Part
+type_no_space_length_1: p
+type_no_space_length_2: pa
+type_no_space_length_3: par
+type_no_space_length_4: part
+type_no_space_length_5: part
+type_no_space_length_6: part
+type_no_space_upper_length_1: P
+type_no_space_upper_length_2: PA
+type_no_space_upper_length_3: PAR
+type_no_space_upper_length_4: PART
+type_no_space_upper_length_5: PART
+type_no_space_upper_length_6: PART
+type_upper_length_1: P
+type_upper_length_2: PA
+type_upper_length_3: PAR
+type_upper_length_4: PART
+type_upper_length_5: PART
+type_upper_length_6: PART
+width: 7
+width_mm: 104

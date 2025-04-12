@@ -1,0 +1,257 @@
+bip_39_word_dash_12: cave-response-harsh-describe-coconut-increase-fame-trial-quantum-artwork-winter-advance
+bip_39_word_dash_2: cave-response
+bip_39_word_dash_3: cave-response-harsh
+bip_39_word_new_br_12: cave<br>response<br>harsh<br>describe<br>coconut<br>increase<br>fame<br>trial<br>quantum<br>artwork<br>winter<br>advance
+bip_39_word_new_br_2: cave<br>response
+bip_39_word_new_br_3: cave<br>response<br>harsh
+bip_39_word_new_line_12: 'cave
+
+  response
+
+  harsh
+
+  describe
+
+  coconut
+
+  increase
+
+  fame
+
+  trial
+
+  quantum
+
+  artwork
+
+  winter
+
+  advance'
+bip_39_word_new_line_2: 'cave
+
+  response'
+bip_39_word_new_line_3: 'cave
+
+  response
+
+  harsh'
+bip_39_word_no_space_12: caveresponseharshdescribecoconutincreasefametrialquantumartworkwinteradvance
+bip_39_word_no_space_2: caveresponse
+bip_39_word_no_space_3: caveresponseharsh
+bip_39_word_space_12: cave response harsh describe coconut increase fame trial quantum
+  artwork winter advance
+bip_39_word_space_2: cave response
+bip_39_word_space_3: cave response harsh
+bip_39_word_underscore_12: cave_response_harsh_describe_coconut_increase_fame_trial_quantum_artwork_winter_advance
+bip_39_word_underscore_2: cave_response
+bip_39_word_underscore_3: cave_response_harsh
+classification: oobb
+classification_length_1: o
+classification_length_2: oo
+classification_length_3: oob
+classification_length_4: oobb
+classification_length_5: oobb
+classification_length_6: oobb
+classification_name: Oobb
+classification_no_space_length_1: o
+classification_no_space_length_2: oo
+classification_no_space_length_3: oob
+classification_no_space_length_4: oobb
+classification_no_space_length_5: oobb
+classification_no_space_length_6: oobb
+classification_no_space_upper_length_1: O
+classification_no_space_upper_length_2: OO
+classification_no_space_upper_length_3: OOB
+classification_no_space_upper_length_4: OOBB
+classification_no_space_upper_length_5: OOBB
+classification_no_space_upper_length_6: OOBB
+classification_upper_length_1: O
+classification_upper_length_2: OO
+classification_upper_length_3: OOB
+classification_upper_length_4: OOBB
+classification_upper_length_5: OOBB
+classification_upper_length_6: OOBB
+color: ''
+color_name: ''
+components: []
+components_objects: []
+components_string: []
+description: other 2.5x1.5x6
+description_extra: timing_belt_clamp_gt2_extra
+description_extra_length_1: t
+description_extra_length_2: ti
+description_extra_length_3: tim
+description_extra_length_4: timi
+description_extra_length_5: timin
+description_extra_length_6: timing
+description_extra_name: Timing Belt Clamp Gt2 Extra
+description_extra_no_space_length_1: t
+description_extra_no_space_length_2: ti
+description_extra_no_space_length_3: tim
+description_extra_no_space_length_4: timi
+description_extra_no_space_length_5: timin
+description_extra_no_space_length_6: timing
+description_extra_no_space_upper_length_1: T
+description_extra_no_space_upper_length_2: TI
+description_extra_no_space_upper_length_3: TIM
+description_extra_no_space_upper_length_4: TIMI
+description_extra_no_space_upper_length_5: TIMIN
+description_extra_no_space_upper_length_6: TIMING
+description_extra_upper_length_1: T
+description_extra_upper_length_2: TI
+description_extra_upper_length_3: TIM
+description_extra_upper_length_4: TIMI
+description_extra_upper_length_5: TIMIN
+description_extra_upper_length_6: TIMING
+description_main: 2.5_width_1.5_height_6_mm_depth
+description_main_length_1: '2'
+description_main_length_2: '2.'
+description_main_length_3: '2.5'
+description_main_length_4: '2.5_'
+description_main_length_5: 2.5_w
+description_main_length_6: 2.5_wi
+description_main_name: 2.5 Width 1.5 Height 6 mm Depth
+description_main_no_space_length_1: '2'
+description_main_no_space_length_2: '2.'
+description_main_no_space_length_3: '2.5'
+description_main_no_space_length_4: 2.5w
+description_main_no_space_length_5: 2.5wi
+description_main_no_space_length_6: 2.5wid
+description_main_no_space_upper_length_1: '2'
+description_main_no_space_upper_length_2: '2.'
+description_main_no_space_upper_length_3: '2.5'
+description_main_no_space_upper_length_4: 2.5W
+description_main_no_space_upper_length_5: 2.5WI
+description_main_no_space_upper_length_6: 2.5WID
+description_main_upper_length_1: '2'
+description_main_upper_length_2: '2.'
+description_main_upper_length_3: '2.5'
+description_main_upper_length_4: '2.5_'
+description_main_upper_length_5: 2.5_W
+description_main_upper_length_6: 2.5_WI
+directory: parts/oobb_part_other_2d5_width_1d5_height_6_mm_depth_timing_belt_clamp_gt2_extra
+extra: timing_belt_clamp_gt2
+folder: C:\gh\oomlout_oobb_version_4_generated_parts\parts\oobb_part_other_2d5_width_1d5_height_6_mm_depth_timing_belt_clamp_gt2_extra
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_other_2d5_width_1d5_height_6_mm_depth_timing_belt_clamp_gt2_extra
+height: 1.5
+height_mm: 21.5
+id: oobb_part_other_2d5_width_1d5_height_6_mm_depth_timing_belt_clamp_gt2_extra
+id_no_class: part_other_2d5_width_1d5_height_6_mm_depth_timing_belt_clamp_gt2_extra
+id_no_color: 2d5width1d5height6mmdepthtimingbeltclampgt2extra
+id_no_size: 2d5_width_1d5_height_6_mm_depth_timing_belt_clamp_gt2_extra
+id_no_type: other_2d5_width_1d5_height_6_mm_depth_timing_belt_clamp_gt2_extra
+link_1: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/other/2.5_width_1.5_height_6_mm_depth/timing_belt_clamp_gt2_extra/part
+link_1_name: link_main
+link_main: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/other/2.5_width_1.5_height_6_mm_depth/timing_belt_clamp_gt2_extra/part
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%202hurn
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%202hurn
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%202hurn
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%202hurn
+link_redirect: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/parts/oobb_other_2d5_1d5_06_ex_timing_belt_clamp_gt2
+manufacturer: ''
+manufacturer_name: ''
+md5: 3ff8034d7ae82a4dca9673b8d2ade926
+md5_10: 3ff8034d7a
+md5_10_upper: 3FF8034D7A
+md5_5: 3ff80
+md5_5_upper: 3FF80
+md5_6: 3ff803
+md5_6_alpha: 2hurn
+md5_6_alpha_upper: 2HURN
+md5_6_upper: 3FF803
+name: Oobb Part Other 2D5 Width 1D5 Height 6 mm Depth Timing Belt Clamp Gt2 Extra
+name_no_class: Part Other 2D5 Width 1D5 Height 6 mm Depth Timing Belt Clamp Gt2 Extra
+name_no_color: 2D5Width1D5Height6mmdepthtimingbeltclampgt2Extra
+name_no_size: 2D5 Width 1D5 Height 6 mm Depth Timing Belt Clamp Gt2 Extra
+name_no_type: Other 2D5 Width 1D5 Height 6 mm Depth Timing Belt Clamp Gt2 Extra
+name_short: Other 2D5x1D5x6 Timing Belt Clamp Gt2
+oomlout_detail_hierarchy_1: oobb
+oomlout_detail_hierarchy_1_upper: OOBB
+oomlout_detail_hierarchy_1_upper_length_4: OOBB
+oomlout_detail_hierarchy_2: part
+oomlout_detail_hierarchy_2_upper: PART
+oomlout_detail_hierarchy_2_upper_length_4: PART
+oomlout_detail_hierarchy_3: other
+oomlout_detail_hierarchy_3_upper: OTHER
+oomlout_detail_hierarchy_3_upper_length_4: OTHE
+oomlout_detail_hierarchy_4: 6_mm_depth
+oomlout_detail_hierarchy_4_upper: 6_MM_DEPTH
+oomlout_detail_hierarchy_4_upper_length_4: 6DEP
+oomlout_detail_hierarchy_5: timing_belt_clamp_gt2_extra
+oomlout_detail_hierarchy_5_upper: TIMING_BELT_CLAMP_GT2_EXTRA
+oomlout_detail_hierarchy_5_upper_length_4: TIMI
+oomlout_oomp_utility_custom_data_manipulation: true
+oomp_key: oomp_oobb_part_other_2d5_width_1d5_height_6_mm_depth_timing_belt_clamp_gt2_extra
+oomp_word: horse seven grin
+oomp_word_emoji: ':horse: :seven: :grin:'
+oomp_word_emoji_list:
+- ':horse:'
+- ':seven:'
+- ':grin:'
+oomp_word_list:
+- horse
+- seven
+- grin
+part_number: ''
+part_number_name: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
+short_name: ''
+size: other
+size_length_1: o
+size_length_2: ot
+size_length_3: oth
+size_length_4: othe
+size_length_5: other
+size_length_6: other
+size_name: Other
+size_no_space_length_1: o
+size_no_space_length_2: ot
+size_no_space_length_3: oth
+size_no_space_length_4: othe
+size_no_space_length_5: other
+size_no_space_length_6: other
+size_no_space_upper_length_1: O
+size_no_space_upper_length_2: OT
+size_no_space_upper_length_3: OTH
+size_no_space_upper_length_4: OTHE
+size_no_space_upper_length_5: OTHER
+size_no_space_upper_length_6: OTHER
+size_upper_length_1: O
+size_upper_length_2: OT
+size_upper_length_3: OTH
+size_upper_length_4: OTHE
+size_upper_length_5: OTHER
+size_upper_length_6: OTHER
+thickness: 6
+thickness_mm: 6
+type: part
+type_length_1: p
+type_length_2: pa
+type_length_3: par
+type_length_4: part
+type_length_5: part
+type_length_6: part
+type_name: Part
+type_no_space_length_1: p
+type_no_space_length_2: pa
+type_no_space_length_3: par
+type_no_space_length_4: part
+type_no_space_length_5: part
+type_no_space_length_6: part
+type_no_space_upper_length_1: P
+type_no_space_upper_length_2: PA
+type_no_space_upper_length_3: PAR
+type_no_space_upper_length_4: PART
+type_no_space_upper_length_5: PART
+type_no_space_upper_length_6: PART
+type_upper_length_1: P
+type_upper_length_2: PA
+type_upper_length_3: PAR
+type_upper_length_4: PART
+type_upper_length_5: PART
+type_upper_length_6: PART
+width: 2.5
+width_mm: 36.5

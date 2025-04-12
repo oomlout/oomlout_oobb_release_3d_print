@@ -1,0 +1,257 @@
+bip_39_word_dash_12: country-proof-ride-vendor-hover-charge-keen-sniff-chronic-anxiety-bright-accuse
+bip_39_word_dash_2: country-proof
+bip_39_word_dash_3: country-proof-ride
+bip_39_word_new_br_12: country<br>proof<br>ride<br>vendor<br>hover<br>charge<br>keen<br>sniff<br>chronic<br>anxiety<br>bright<br>accuse
+bip_39_word_new_br_2: country<br>proof
+bip_39_word_new_br_3: country<br>proof<br>ride
+bip_39_word_new_line_12: 'country
+
+  proof
+
+  ride
+
+  vendor
+
+  hover
+
+  charge
+
+  keen
+
+  sniff
+
+  chronic
+
+  anxiety
+
+  bright
+
+  accuse'
+bip_39_word_new_line_2: 'country
+
+  proof'
+bip_39_word_new_line_3: 'country
+
+  proof
+
+  ride'
+bip_39_word_no_space_12: countryproofridevendorhoverchargekeensniffchronicanxietybrightaccuse
+bip_39_word_no_space_2: countryproof
+bip_39_word_no_space_3: countryproofride
+bip_39_word_space_12: country proof ride vendor hover charge keen sniff chronic anxiety
+  bright accuse
+bip_39_word_space_2: country proof
+bip_39_word_space_3: country proof ride
+bip_39_word_underscore_12: country_proof_ride_vendor_hover_charge_keen_sniff_chronic_anxiety_bright_accuse
+bip_39_word_underscore_2: country_proof
+bip_39_word_underscore_3: country_proof_ride
+classification: oobb
+classification_length_1: o
+classification_length_2: oo
+classification_length_3: oob
+classification_length_4: oobb
+classification_length_5: oobb
+classification_length_6: oobb
+classification_name: Oobb
+classification_no_space_length_1: o
+classification_no_space_length_2: oo
+classification_no_space_length_3: oob
+classification_no_space_length_4: oobb
+classification_no_space_length_5: oobb
+classification_no_space_length_6: oobb
+classification_no_space_upper_length_1: O
+classification_no_space_upper_length_2: OO
+classification_no_space_upper_length_3: OOB
+classification_no_space_upper_length_4: OOBB
+classification_no_space_upper_length_5: OOBB
+classification_no_space_upper_length_6: OOBB
+classification_upper_length_1: O
+classification_upper_length_2: OO
+classification_upper_length_3: OOB
+classification_upper_length_4: OOBB
+classification_upper_length_5: OOBB
+classification_upper_length_6: OOBB
+color: ''
+color_name: ''
+components: []
+components_objects: []
+components_string: []
+description: holder 5x3x15
+description_extra: motor_servo_standard_01_extra
+description_extra_length_1: m
+description_extra_length_2: mo
+description_extra_length_3: mot
+description_extra_length_4: moto
+description_extra_length_5: motor
+description_extra_length_6: motor_
+description_extra_name: Motor Servo Standard 01 Extra
+description_extra_no_space_length_1: m
+description_extra_no_space_length_2: mo
+description_extra_no_space_length_3: mot
+description_extra_no_space_length_4: moto
+description_extra_no_space_length_5: motor
+description_extra_no_space_length_6: motors
+description_extra_no_space_upper_length_1: M
+description_extra_no_space_upper_length_2: MO
+description_extra_no_space_upper_length_3: MOT
+description_extra_no_space_upper_length_4: MOTO
+description_extra_no_space_upper_length_5: MOTOR
+description_extra_no_space_upper_length_6: MOTORS
+description_extra_upper_length_1: M
+description_extra_upper_length_2: MO
+description_extra_upper_length_3: MOT
+description_extra_upper_length_4: MOTO
+description_extra_upper_length_5: MOTOR
+description_extra_upper_length_6: MOTOR_
+description_main: 5_width_3_height_15_mm_depth
+description_main_length_1: '5'
+description_main_length_2: '5_'
+description_main_length_3: 5_w
+description_main_length_4: 5_wi
+description_main_length_5: 5_wid
+description_main_length_6: 5_widt
+description_main_name: 5 Width 3 Height 15 mm Depth
+description_main_no_space_length_1: '5'
+description_main_no_space_length_2: 5w
+description_main_no_space_length_3: 5wi
+description_main_no_space_length_4: 5wid
+description_main_no_space_length_5: 5widt
+description_main_no_space_length_6: 5width
+description_main_no_space_upper_length_1: '5'
+description_main_no_space_upper_length_2: 5W
+description_main_no_space_upper_length_3: 5WI
+description_main_no_space_upper_length_4: 5WID
+description_main_no_space_upper_length_5: 5WIDT
+description_main_no_space_upper_length_6: 5WIDTH
+description_main_upper_length_1: '5'
+description_main_upper_length_2: '5_'
+description_main_upper_length_3: 5_W
+description_main_upper_length_4: 5_WI
+description_main_upper_length_5: 5_WID
+description_main_upper_length_6: 5_WIDT
+directory: parts/oobb_part_holder_5_width_3_height_15_mm_depth_motor_servo_standard_01_extra
+extra: motor_servo_standard_01
+folder: C:\gh\oomlout_oobb_version_4_generated_parts\parts\oobb_part_holder_5_width_3_height_15_mm_depth_motor_servo_standard_01_extra
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_holder_5_width_3_height_15_mm_depth_motor_servo_standard_01_extra
+height: 3
+height_mm: 44
+id: oobb_part_holder_5_width_3_height_15_mm_depth_motor_servo_standard_01_extra
+id_no_class: part_holder_5_width_3_height_15_mm_depth_motor_servo_standard_01_extra
+id_no_color: 5width3height15mmdepthmotorservostandard01extra
+id_no_size: 5_width_3_height_15_mm_depth_motor_servo_standard_01_extra
+id_no_type: holder_5_width_3_height_15_mm_depth_motor_servo_standard_01_extra
+link_1: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/holder/5_width_3_height_15_mm_depth/motor_servo_standard_01_extra/part
+link_1_name: link_main
+link_main: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/holder/5_width_3_height_15_mm_depth/motor_servo_standard_01_extra/part
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2010ttu
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2010ttu
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%2010ttu
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2010ttu
+link_redirect: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/parts/oobb_holder_05_03_15_ex_motor_servo_standard_01
+manufacturer: ''
+manufacturer_name: ''
+md5: 1a38028143cd6f349a373f2372eb1188
+md5_10: 1a38028143
+md5_10_upper: 1A38028143
+md5_5: 1a380
+md5_5_upper: 1A380
+md5_6: 1a3802
+md5_6_alpha: 10ttu
+md5_6_alpha_upper: 10TTU
+md5_6_upper: 1A3802
+name: Oobb Part Holder 5 Width 3 Height 15 mm Depth Motor Servo Standard 01 Extra
+name_no_class: Part Holder 5 Width 3 Height 15 mm Depth Motor Servo Standard 01 Extra
+name_no_color: 5Width3Height15mmdepthmotorservostandard01Extra
+name_no_size: 5 Width 3 Height 15 mm Depth Motor Servo Standard 01 Extra
+name_no_type: Holder 5 Width 3 Height 15 mm Depth Motor Servo Standard 01 Extra
+name_short: Holder 5x3x15 Motor Servo Standard 01
+oomlout_detail_hierarchy_1: oobb
+oomlout_detail_hierarchy_1_upper: OOBB
+oomlout_detail_hierarchy_1_upper_length_4: OOBB
+oomlout_detail_hierarchy_2: part
+oomlout_detail_hierarchy_2_upper: PART
+oomlout_detail_hierarchy_2_upper_length_4: PART
+oomlout_detail_hierarchy_3: holder
+oomlout_detail_hierarchy_3_upper: HOLDER
+oomlout_detail_hierarchy_3_upper_length_4: HOLD
+oomlout_detail_hierarchy_4: 15_mm_depth
+oomlout_detail_hierarchy_4_upper: 15_MM_DEPTH
+oomlout_detail_hierarchy_4_upper_length_4: 15DE
+oomlout_detail_hierarchy_5: motor_servo_standard_01_extra
+oomlout_detail_hierarchy_5_upper: MOTOR_SERVO_STANDARD_01_EXTRA
+oomlout_detail_hierarchy_5_upper_length_4: MOTO
+oomlout_oomp_utility_custom_data_manipulation: true
+oomp_key: oomp_oobb_part_holder_5_width_3_height_15_mm_depth_motor_servo_standard_01_extra
+oomp_word: clap frog blush
+oomp_word_emoji: ':clap: :frog: :blush:'
+oomp_word_emoji_list:
+- ':clap:'
+- ':frog:'
+- ':blush:'
+oomp_word_list:
+- clap
+- frog
+- blush
+part_number: ''
+part_number_name: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
+short_name: ''
+size: holder
+size_length_1: h
+size_length_2: ho
+size_length_3: hol
+size_length_4: hold
+size_length_5: holde
+size_length_6: holder
+size_name: Holder
+size_no_space_length_1: h
+size_no_space_length_2: ho
+size_no_space_length_3: hol
+size_no_space_length_4: hold
+size_no_space_length_5: holde
+size_no_space_length_6: holder
+size_no_space_upper_length_1: H
+size_no_space_upper_length_2: HO
+size_no_space_upper_length_3: HOL
+size_no_space_upper_length_4: HOLD
+size_no_space_upper_length_5: HOLDE
+size_no_space_upper_length_6: HOLDER
+size_upper_length_1: H
+size_upper_length_2: HO
+size_upper_length_3: HOL
+size_upper_length_4: HOLD
+size_upper_length_5: HOLDE
+size_upper_length_6: HOLDER
+thickness: 15
+thickness_mm: 15
+type: part
+type_length_1: p
+type_length_2: pa
+type_length_3: par
+type_length_4: part
+type_length_5: part
+type_length_6: part
+type_name: Part
+type_no_space_length_1: p
+type_no_space_length_2: pa
+type_no_space_length_3: par
+type_no_space_length_4: part
+type_no_space_length_5: part
+type_no_space_length_6: part
+type_no_space_upper_length_1: P
+type_no_space_upper_length_2: PA
+type_no_space_upper_length_3: PAR
+type_no_space_upper_length_4: PART
+type_no_space_upper_length_5: PART
+type_no_space_upper_length_6: PART
+type_upper_length_1: P
+type_upper_length_2: PA
+type_upper_length_3: PAR
+type_upper_length_4: PART
+type_upper_length_5: PART
+type_upper_length_6: PART
+width: 5
+width_mm: 74

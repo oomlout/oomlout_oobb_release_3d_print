@@ -1,0 +1,258 @@
+bip_39_word_dash_12: broom-denial-force-find-glare-cart-ribbon-solar-rabbit-enrich-index-auction
+bip_39_word_dash_2: broom-denial
+bip_39_word_dash_3: broom-denial-force
+bip_39_word_new_br_12: broom<br>denial<br>force<br>find<br>glare<br>cart<br>ribbon<br>solar<br>rabbit<br>enrich<br>index<br>auction
+bip_39_word_new_br_2: broom<br>denial
+bip_39_word_new_br_3: broom<br>denial<br>force
+bip_39_word_new_line_12: 'broom
+
+  denial
+
+  force
+
+  find
+
+  glare
+
+  cart
+
+  ribbon
+
+  solar
+
+  rabbit
+
+  enrich
+
+  index
+
+  auction'
+bip_39_word_new_line_2: 'broom
+
+  denial'
+bip_39_word_new_line_3: 'broom
+
+  denial
+
+  force'
+bip_39_word_no_space_12: broomdenialforcefindglarecartribbonsolarrabbitenrichindexauction
+bip_39_word_no_space_2: broomdenial
+bip_39_word_no_space_3: broomdenialforce
+bip_39_word_space_12: broom denial force find glare cart ribbon solar rabbit enrich
+  index auction
+bip_39_word_space_2: broom denial
+bip_39_word_space_3: broom denial force
+bip_39_word_underscore_12: broom_denial_force_find_glare_cart_ribbon_solar_rabbit_enrich_index_auction
+bip_39_word_underscore_2: broom_denial
+bip_39_word_underscore_3: broom_denial_force
+classification: oobb
+classification_length_1: o
+classification_length_2: oo
+classification_length_3: oob
+classification_length_4: oobb
+classification_length_5: oobb
+classification_length_6: oobb
+classification_name: Oobb
+classification_no_space_length_1: o
+classification_no_space_length_2: oo
+classification_no_space_length_3: oob
+classification_no_space_length_4: oobb
+classification_no_space_length_5: oobb
+classification_no_space_length_6: oobb
+classification_no_space_upper_length_1: O
+classification_no_space_upper_length_2: OO
+classification_no_space_upper_length_3: OOB
+classification_no_space_upper_length_4: OOBB
+classification_no_space_upper_length_5: OOBB
+classification_no_space_upper_length_6: OOBB
+classification_upper_length_1: O
+classification_upper_length_2: OO
+classification_upper_length_3: OOB
+classification_upper_length_4: OOBB
+classification_upper_length_5: OOBB
+classification_upper_length_6: OOBB
+color: ''
+color_name: ''
+components: []
+components_objects: []
+components_string: []
+description: gear 0x0x3
+description_extra: 32_teeth_extra
+description_extra_length_1: '3'
+description_extra_length_2: '32'
+description_extra_length_3: '32_'
+description_extra_length_4: 32_t
+description_extra_length_5: 32_te
+description_extra_length_6: 32_tee
+description_extra_name: 32 Teeth Extra
+description_extra_no_space_length_1: '3'
+description_extra_no_space_length_2: '32'
+description_extra_no_space_length_3: 32t
+description_extra_no_space_length_4: 32te
+description_extra_no_space_length_5: 32tee
+description_extra_no_space_length_6: 32teet
+description_extra_no_space_upper_length_1: '3'
+description_extra_no_space_upper_length_2: '32'
+description_extra_no_space_upper_length_3: 32T
+description_extra_no_space_upper_length_4: 32TE
+description_extra_no_space_upper_length_5: 32TEE
+description_extra_no_space_upper_length_6: 32TEET
+description_extra_upper_length_1: '3'
+description_extra_upper_length_2: '32'
+description_extra_upper_length_3: '32_'
+description_extra_upper_length_4: 32_T
+description_extra_upper_length_5: 32_TE
+description_extra_upper_length_6: 32_TEE
+description_main: 4_diameter_3_mm_depth
+description_main_length_1: '4'
+description_main_length_2: '4_'
+description_main_length_3: 4_d
+description_main_length_4: 4_di
+description_main_length_5: 4_dia
+description_main_length_6: 4_diam
+description_main_name: 4 Diameter 3 mm Depth
+description_main_no_space_length_1: '4'
+description_main_no_space_length_2: 4d
+description_main_no_space_length_3: 4di
+description_main_no_space_length_4: 4dia
+description_main_no_space_length_5: 4diam
+description_main_no_space_length_6: 4diame
+description_main_no_space_upper_length_1: '4'
+description_main_no_space_upper_length_2: 4D
+description_main_no_space_upper_length_3: 4DI
+description_main_no_space_upper_length_4: 4DIA
+description_main_no_space_upper_length_5: 4DIAM
+description_main_no_space_upper_length_6: 4DIAME
+description_main_upper_length_1: '4'
+description_main_upper_length_2: '4_'
+description_main_upper_length_3: 4_D
+description_main_upper_length_4: 4_DI
+description_main_upper_length_5: 4_DIA
+description_main_upper_length_6: 4_DIAM
+diameter: 4
+directory: parts/oobb_part_gear_4_diameter_3_mm_depth_32_teeth_extra
+extra: 32_teeth
+folder: C:\gh\oomlout_oobb_version_4_generated_parts\parts\oobb_part_gear_4_diameter_3_mm_depth_32_teeth_extra
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_gear_4_diameter_3_mm_depth_32_teeth_extra
+id: oobb_part_gear_4_diameter_3_mm_depth_32_teeth_extra
+id_no_class: part_gear_4_diameter_3_mm_depth_32_teeth_extra
+id_no_color: 4diameter3mmdepth32teethextra
+id_no_size: 4_diameter_3_mm_depth_32_teeth_extra
+id_no_type: gear_4_diameter_3_mm_depth_32_teeth_extra
+link_1: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/gear/4_diameter_3_mm_depth/32_teeth_extra/part
+link_1_name: link_main
+link_main: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/gear/4_diameter_3_mm_depth/32_teeth_extra/part
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%209bkia
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%209bkia
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%209bkia
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%209bkia
+link_redirect: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/parts/oobb_gear_04_03_ex_32_teeth
+manufacturer: ''
+manufacturer_name: ''
+md5: eee592c581ce77208c31656ab60e98e6
+md5_10: eee592c581
+md5_10_upper: EEE592C581
+md5_5: eee59
+md5_5_upper: EEE59
+md5_6: eee592
+md5_6_alpha: 9bkia
+md5_6_alpha_upper: 9BKIA
+md5_6_upper: EEE592
+name: Oobb Part Gear 4 Diameter 3 mm Depth 32 Teeth Extra
+name_no_class: Part Gear 4 Diameter 3 mm Depth 32 Teeth Extra
+name_no_color: 4Diameter3mmdepth32Teethextra
+name_no_size: 4 Diameter 3 mm Depth 32 Teeth Extra
+name_no_type: Gear 4 Diameter 3 mm Depth 32 Teeth Extra
+name_short: Gear 4x3 32 Teeth Extra
+oomlout_detail_hierarchy_1: oobb
+oomlout_detail_hierarchy_1_upper: OOBB
+oomlout_detail_hierarchy_1_upper_length_4: OOBB
+oomlout_detail_hierarchy_2: part
+oomlout_detail_hierarchy_2_upper: PART
+oomlout_detail_hierarchy_2_upper_length_4: PART
+oomlout_detail_hierarchy_3: gear
+oomlout_detail_hierarchy_3_upper: GEAR
+oomlout_detail_hierarchy_3_upper_length_4: GEAR
+oomlout_detail_hierarchy_4: 4_diameter
+oomlout_detail_hierarchy_4_upper: 4_DIAMETER
+oomlout_detail_hierarchy_4_upper_length_4: 4_DI
+oomlout_detail_hierarchy_5: 3_mm_depth
+oomlout_detail_hierarchy_5_upper: 3_MM_DEPTH
+oomlout_detail_hierarchy_5_upper_length_4: 3DEP
+oomlout_detail_hierarchy_6: 32_teeth_extra
+oomlout_detail_hierarchy_6_upper: 32_TEETH_EXTRA
+oomlout_detail_hierarchy_6_upper_length_4: 32_T
+oomlout_oomp_utility_custom_data_manipulation: true
+oomp_key: oomp_oobb_part_gear_4_diameter_3_mm_depth_32_teeth_extra
+oomp_word: ambulance rocket paperclip
+oomp_word_emoji: ':ambulance: :rocket: :paperclip:'
+oomp_word_emoji_list:
+- ':ambulance:'
+- ':rocket:'
+- ':paperclip:'
+oomp_word_list:
+- ambulance
+- rocket
+- paperclip
+part_number: ''
+part_number_name: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
+shaft: ''
+short_name: ''
+size: gear
+size_length_1: g
+size_length_2: ge
+size_length_3: gea
+size_length_4: gear
+size_length_5: gear
+size_length_6: gear
+size_name: Gear
+size_no_space_length_1: g
+size_no_space_length_2: ge
+size_no_space_length_3: gea
+size_no_space_length_4: gear
+size_no_space_length_5: gear
+size_no_space_length_6: gear
+size_no_space_upper_length_1: G
+size_no_space_upper_length_2: GE
+size_no_space_upper_length_3: GEA
+size_no_space_upper_length_4: GEAR
+size_no_space_upper_length_5: GEAR
+size_no_space_upper_length_6: GEAR
+size_upper_length_1: G
+size_upper_length_2: GE
+size_upper_length_3: GEA
+size_upper_length_4: GEAR
+size_upper_length_5: GEAR
+size_upper_length_6: GEAR
+thickness: 3
+thickness_mm: 3
+type: part
+type_length_1: p
+type_length_2: pa
+type_length_3: par
+type_length_4: part
+type_length_5: part
+type_length_6: part
+type_name: Part
+type_no_space_length_1: p
+type_no_space_length_2: pa
+type_no_space_length_3: par
+type_no_space_length_4: part
+type_no_space_length_5: part
+type_no_space_length_6: part
+type_no_space_upper_length_1: P
+type_no_space_upper_length_2: PA
+type_no_space_upper_length_3: PAR
+type_no_space_upper_length_4: PART
+type_no_space_upper_length_5: PART
+type_no_space_upper_length_6: PART
+type_upper_length_1: P
+type_upper_length_2: PA
+type_upper_length_3: PAR
+type_upper_length_4: PART
+type_upper_length_5: PART
+type_upper_length_6: PART

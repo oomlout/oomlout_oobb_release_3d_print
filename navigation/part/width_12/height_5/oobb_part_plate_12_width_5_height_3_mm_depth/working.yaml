@@ -1,0 +1,229 @@
+bip_39_word_dash_12: album-shed-artwork-asthma-photo-now-retire-festival-film-sadness-drill-antenna
+bip_39_word_dash_2: album-shed
+bip_39_word_dash_3: album-shed-artwork
+bip_39_word_new_br_12: album<br>shed<br>artwork<br>asthma<br>photo<br>now<br>retire<br>festival<br>film<br>sadness<br>drill<br>antenna
+bip_39_word_new_br_2: album<br>shed
+bip_39_word_new_br_3: album<br>shed<br>artwork
+bip_39_word_new_line_12: 'album
+
+  shed
+
+  artwork
+
+  asthma
+
+  photo
+
+  now
+
+  retire
+
+  festival
+
+  film
+
+  sadness
+
+  drill
+
+  antenna'
+bip_39_word_new_line_2: 'album
+
+  shed'
+bip_39_word_new_line_3: 'album
+
+  shed
+
+  artwork'
+bip_39_word_no_space_12: albumshedartworkasthmaphotonowretirefestivalfilmsadnessdrillantenna
+bip_39_word_no_space_2: albumshed
+bip_39_word_no_space_3: albumshedartwork
+bip_39_word_space_12: album shed artwork asthma photo now retire festival film sadness
+  drill antenna
+bip_39_word_space_2: album shed
+bip_39_word_space_3: album shed artwork
+bip_39_word_underscore_12: album_shed_artwork_asthma_photo_now_retire_festival_film_sadness_drill_antenna
+bip_39_word_underscore_2: album_shed
+bip_39_word_underscore_3: album_shed_artwork
+classification: oobb
+classification_length_1: o
+classification_length_2: oo
+classification_length_3: oob
+classification_length_4: oobb
+classification_length_5: oobb
+classification_length_6: oobb
+classification_name: Oobb
+classification_no_space_length_1: o
+classification_no_space_length_2: oo
+classification_no_space_length_3: oob
+classification_no_space_length_4: oobb
+classification_no_space_length_5: oobb
+classification_no_space_length_6: oobb
+classification_no_space_upper_length_1: O
+classification_no_space_upper_length_2: OO
+classification_no_space_upper_length_3: OOB
+classification_no_space_upper_length_4: OOBB
+classification_no_space_upper_length_5: OOBB
+classification_no_space_upper_length_6: OOBB
+classification_upper_length_1: O
+classification_upper_length_2: OO
+classification_upper_length_3: OOB
+classification_upper_length_4: OOBB
+classification_upper_length_5: OOBB
+classification_upper_length_6: OOBB
+color: ''
+color_name: ''
+components: []
+components_objects: []
+components_string: []
+description: plate 12x5x3
+description_extra: ''
+description_extra_name: ''
+description_main: 12_width_5_height_3_mm_depth
+description_main_length_1: '1'
+description_main_length_2: '12'
+description_main_length_3: '12_'
+description_main_length_4: 12_w
+description_main_length_5: 12_wi
+description_main_length_6: 12_wid
+description_main_name: 12 Width 5 Height 3 mm Depth
+description_main_no_space_length_1: '1'
+description_main_no_space_length_2: '12'
+description_main_no_space_length_3: 12w
+description_main_no_space_length_4: 12wi
+description_main_no_space_length_5: 12wid
+description_main_no_space_length_6: 12widt
+description_main_no_space_upper_length_1: '1'
+description_main_no_space_upper_length_2: '12'
+description_main_no_space_upper_length_3: 12W
+description_main_no_space_upper_length_4: 12WI
+description_main_no_space_upper_length_5: 12WID
+description_main_no_space_upper_length_6: 12WIDT
+description_main_upper_length_1: '1'
+description_main_upper_length_2: '12'
+description_main_upper_length_3: '12_'
+description_main_upper_length_4: 12_W
+description_main_upper_length_5: 12_WI
+description_main_upper_length_6: 12_WID
+directory: parts/oobb_part_plate_12_width_5_height_3_mm_depth
+folder: C:\gh\oomlout_oobb_version_4_generated_parts\parts\oobb_part_plate_12_width_5_height_3_mm_depth
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_12_width_5_height_3_mm_depth
+height: 5
+height_mm: 74
+id: oobb_part_plate_12_width_5_height_3_mm_depth
+id_no_class: part_plate_12_width_5_height_3_mm_depth
+id_no_color: 12width5height3mmdepth
+id_no_size: 12_width_5_height_3_mm_depth
+id_no_type: plate_12_width_5_height_3_mm_depth
+link_1: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/plate/12_width_5_height_3_mm_depth/part
+link_1_name: link_main
+link_main: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/plate/12_width_5_height_3_mm_depth/part
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2063v1r
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2063v1r
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%2063v1r
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2063v1r
+link_redirect: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/parts/oobb_plate_12_05_03
+manufacturer: ''
+manufacturer_name: ''
+md5: 9c85ef7ab25536fe5cd1d0e01a71502f
+md5_10: 9c85ef7ab2
+md5_10_upper: 9C85EF7AB2
+md5_5: 9c85e
+md5_5_upper: 9C85E
+md5_6: 9c85ef
+md5_6_alpha: 63v1r
+md5_6_alpha_upper: 63V1R
+md5_6_upper: 9C85EF
+name: Oobb Part Plate 12 Width 5 Height 3 mm Depth
+name_no_class: Part Plate 12 Width 5 Height 3 mm Depth
+name_no_color: 12Width5Height3mmdepth
+name_no_size: 12 Width 5 Height 3 mm Depth
+name_no_type: Plate 12 Width 5 Height 3 mm Depth
+name_short: 'Plate 12x5x3 '
+oomlout_detail_hierarchy_1: oobb
+oomlout_detail_hierarchy_1_upper: OOBB
+oomlout_detail_hierarchy_1_upper_length_4: OOBB
+oomlout_detail_hierarchy_2: part
+oomlout_detail_hierarchy_2_upper: PART
+oomlout_detail_hierarchy_2_upper_length_4: PART
+oomlout_detail_hierarchy_3: plate
+oomlout_detail_hierarchy_3_upper: PLATE
+oomlout_detail_hierarchy_3_upper_length_4: PLAT
+oomlout_detail_hierarchy_4: 3_mm_depth
+oomlout_detail_hierarchy_4_upper: 3_MM_DEPTH
+oomlout_detail_hierarchy_4_upper_length_4: 3DEP
+oomlout_oomp_utility_custom_data_manipulation: true
+oomp_key: oomp_oobb_part_plate_12_width_5_height_3_mm_depth
+oomp_word: spades bulb truck
+oomp_word_emoji: ':spades: :bulb: :truck:'
+oomp_word_emoji_list:
+- ':spades:'
+- ':bulb:'
+- ':truck:'
+oomp_word_list:
+- spades
+- bulb
+- truck
+part_number: ''
+part_number_name: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
+short_name: ''
+size: plate
+size_length_1: p
+size_length_2: pl
+size_length_3: pla
+size_length_4: plat
+size_length_5: plate
+size_length_6: plate
+size_name: Plate
+size_no_space_length_1: p
+size_no_space_length_2: pl
+size_no_space_length_3: pla
+size_no_space_length_4: plat
+size_no_space_length_5: plate
+size_no_space_length_6: plate
+size_no_space_upper_length_1: P
+size_no_space_upper_length_2: PL
+size_no_space_upper_length_3: PLA
+size_no_space_upper_length_4: PLAT
+size_no_space_upper_length_5: PLATE
+size_no_space_upper_length_6: PLATE
+size_upper_length_1: P
+size_upper_length_2: PL
+size_upper_length_3: PLA
+size_upper_length_4: PLAT
+size_upper_length_5: PLATE
+size_upper_length_6: PLATE
+thickness: 3
+thickness_mm: 3
+type: part
+type_length_1: p
+type_length_2: pa
+type_length_3: par
+type_length_4: part
+type_length_5: part
+type_length_6: part
+type_name: Part
+type_no_space_length_1: p
+type_no_space_length_2: pa
+type_no_space_length_3: par
+type_no_space_length_4: part
+type_no_space_length_5: part
+type_no_space_length_6: part
+type_no_space_upper_length_1: P
+type_no_space_upper_length_2: PA
+type_no_space_upper_length_3: PAR
+type_no_space_upper_length_4: PART
+type_no_space_upper_length_5: PART
+type_no_space_upper_length_6: PART
+type_upper_length_1: P
+type_upper_length_2: PA
+type_upper_length_3: PAR
+type_upper_length_4: PART
+type_upper_length_5: PART
+type_upper_length_6: PART
+width: 12
+width_mm: 179

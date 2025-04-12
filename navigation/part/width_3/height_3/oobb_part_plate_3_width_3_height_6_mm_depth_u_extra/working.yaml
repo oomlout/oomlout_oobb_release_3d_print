@@ -1,0 +1,257 @@
+bip_39_word_dash_12: drastic-price-intact-orbit-elder-stock-eagle-amateur-view-recipe-final-about
+bip_39_word_dash_2: drastic-price
+bip_39_word_dash_3: drastic-price-intact
+bip_39_word_new_br_12: drastic<br>price<br>intact<br>orbit<br>elder<br>stock<br>eagle<br>amateur<br>view<br>recipe<br>final<br>about
+bip_39_word_new_br_2: drastic<br>price
+bip_39_word_new_br_3: drastic<br>price<br>intact
+bip_39_word_new_line_12: 'drastic
+
+  price
+
+  intact
+
+  orbit
+
+  elder
+
+  stock
+
+  eagle
+
+  amateur
+
+  view
+
+  recipe
+
+  final
+
+  about'
+bip_39_word_new_line_2: 'drastic
+
+  price'
+bip_39_word_new_line_3: 'drastic
+
+  price
+
+  intact'
+bip_39_word_no_space_12: drasticpriceintactorbitelderstockeagleamateurviewrecipefinalabout
+bip_39_word_no_space_2: drasticprice
+bip_39_word_no_space_3: drasticpriceintact
+bip_39_word_space_12: drastic price intact orbit elder stock eagle amateur view recipe
+  final about
+bip_39_word_space_2: drastic price
+bip_39_word_space_3: drastic price intact
+bip_39_word_underscore_12: drastic_price_intact_orbit_elder_stock_eagle_amateur_view_recipe_final_about
+bip_39_word_underscore_2: drastic_price
+bip_39_word_underscore_3: drastic_price_intact
+classification: oobb
+classification_length_1: o
+classification_length_2: oo
+classification_length_3: oob
+classification_length_4: oobb
+classification_length_5: oobb
+classification_length_6: oobb
+classification_name: Oobb
+classification_no_space_length_1: o
+classification_no_space_length_2: oo
+classification_no_space_length_3: oob
+classification_no_space_length_4: oobb
+classification_no_space_length_5: oobb
+classification_no_space_length_6: oobb
+classification_no_space_upper_length_1: O
+classification_no_space_upper_length_2: OO
+classification_no_space_upper_length_3: OOB
+classification_no_space_upper_length_4: OOBB
+classification_no_space_upper_length_5: OOBB
+classification_no_space_upper_length_6: OOBB
+classification_upper_length_1: O
+classification_upper_length_2: OO
+classification_upper_length_3: OOB
+classification_upper_length_4: OOBB
+classification_upper_length_5: OOBB
+classification_upper_length_6: OOBB
+color: ''
+color_name: ''
+components: []
+components_objects: []
+components_string: []
+description: plate 3x3x6
+description_extra: u_extra
+description_extra_length_1: u
+description_extra_length_2: u_
+description_extra_length_3: u_e
+description_extra_length_4: u_ex
+description_extra_length_5: u_ext
+description_extra_length_6: u_extr
+description_extra_name: U Extra
+description_extra_no_space_length_1: u
+description_extra_no_space_length_2: ue
+description_extra_no_space_length_3: uex
+description_extra_no_space_length_4: uext
+description_extra_no_space_length_5: uextr
+description_extra_no_space_length_6: uextra
+description_extra_no_space_upper_length_1: U
+description_extra_no_space_upper_length_2: UE
+description_extra_no_space_upper_length_3: UEX
+description_extra_no_space_upper_length_4: UEXT
+description_extra_no_space_upper_length_5: UEXTR
+description_extra_no_space_upper_length_6: UEXTRA
+description_extra_upper_length_1: U
+description_extra_upper_length_2: U_
+description_extra_upper_length_3: U_E
+description_extra_upper_length_4: U_EX
+description_extra_upper_length_5: U_EXT
+description_extra_upper_length_6: U_EXTR
+description_main: 3_width_3_height_6_mm_depth
+description_main_length_1: '3'
+description_main_length_2: '3_'
+description_main_length_3: 3_w
+description_main_length_4: 3_wi
+description_main_length_5: 3_wid
+description_main_length_6: 3_widt
+description_main_name: 3 Width 3 Height 6 mm Depth
+description_main_no_space_length_1: '3'
+description_main_no_space_length_2: 3w
+description_main_no_space_length_3: 3wi
+description_main_no_space_length_4: 3wid
+description_main_no_space_length_5: 3widt
+description_main_no_space_length_6: 3width
+description_main_no_space_upper_length_1: '3'
+description_main_no_space_upper_length_2: 3W
+description_main_no_space_upper_length_3: 3WI
+description_main_no_space_upper_length_4: 3WID
+description_main_no_space_upper_length_5: 3WIDT
+description_main_no_space_upper_length_6: 3WIDTH
+description_main_upper_length_1: '3'
+description_main_upper_length_2: '3_'
+description_main_upper_length_3: 3_W
+description_main_upper_length_4: 3_WI
+description_main_upper_length_5: 3_WID
+description_main_upper_length_6: 3_WIDT
+directory: parts/oobb_part_plate_3_width_3_height_6_mm_depth_u_extra
+extra: u
+folder: C:\gh\oomlout_oobb_version_4_generated_parts\parts\oobb_part_plate_3_width_3_height_6_mm_depth_u_extra
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_3_width_3_height_6_mm_depth_u_extra
+height: 3
+height_mm: 44
+id: oobb_part_plate_3_width_3_height_6_mm_depth_u_extra
+id_no_class: part_plate_3_width_3_height_6_mm_depth_u_extra
+id_no_color: 3width3height6mmdepthuextra
+id_no_size: 3_width_3_height_6_mm_depth_u_extra
+id_no_type: plate_3_width_3_height_6_mm_depth_u_extra
+link_1: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/plate/3_width_3_height_6_mm_depth/u_extra/part
+link_1_name: link_main
+link_main: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/plate/3_width_3_height_6_mm_depth/u_extra/part
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%209dm4
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%209dm4
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%209dm4
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%209dm4
+link_redirect: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/parts/oobb_plate_03_03_06_ex_u
+manufacturer: ''
+manufacturer_name: ''
+md5: 06ad2cef9f07a8a35823a9beeb2a9a12
+md5_10: 06ad2cef9f
+md5_10_upper: 06AD2CEF9F
+md5_5: 06ad2
+md5_5_upper: 06AD2
+md5_6: 06ad2c
+md5_6_alpha: 9dm4
+md5_6_alpha_upper: 9DM4
+md5_6_upper: 06AD2C
+name: Oobb Part Plate 3 Width 3 Height 6 mm Depth U Extra
+name_no_class: Part Plate 3 Width 3 Height 6 mm Depth U Extra
+name_no_color: 3Width3Height6mmdepthuextra
+name_no_size: 3 Width 3 Height 6 mm Depth U Extra
+name_no_type: Plate 3 Width 3 Height 6 mm Depth U Extra
+name_short: Plate 3x3x6 U Extra
+oomlout_detail_hierarchy_1: oobb
+oomlout_detail_hierarchy_1_upper: OOBB
+oomlout_detail_hierarchy_1_upper_length_4: OOBB
+oomlout_detail_hierarchy_2: part
+oomlout_detail_hierarchy_2_upper: PART
+oomlout_detail_hierarchy_2_upper_length_4: PART
+oomlout_detail_hierarchy_3: plate
+oomlout_detail_hierarchy_3_upper: PLATE
+oomlout_detail_hierarchy_3_upper_length_4: PLAT
+oomlout_detail_hierarchy_4: 6_mm_depth
+oomlout_detail_hierarchy_4_upper: 6_MM_DEPTH
+oomlout_detail_hierarchy_4_upper_length_4: 6DEP
+oomlout_detail_hierarchy_5: u_extra
+oomlout_detail_hierarchy_5_upper: U_EXTRA
+oomlout_detail_hierarchy_5_upper_length_4: U_EX
+oomlout_oomp_utility_custom_data_manipulation: true
+oomp_key: oomp_oobb_part_plate_3_width_3_height_6_mm_depth_u_extra
+oomp_word: sleeping dress snowflake
+oomp_word_emoji: ':sleeping: :dress: :snowflake:'
+oomp_word_emoji_list:
+- ':sleeping:'
+- ':dress:'
+- ':snowflake:'
+oomp_word_list:
+- sleeping
+- dress
+- snowflake
+part_number: ''
+part_number_name: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
+short_name: ''
+size: plate
+size_length_1: p
+size_length_2: pl
+size_length_3: pla
+size_length_4: plat
+size_length_5: plate
+size_length_6: plate
+size_name: Plate
+size_no_space_length_1: p
+size_no_space_length_2: pl
+size_no_space_length_3: pla
+size_no_space_length_4: plat
+size_no_space_length_5: plate
+size_no_space_length_6: plate
+size_no_space_upper_length_1: P
+size_no_space_upper_length_2: PL
+size_no_space_upper_length_3: PLA
+size_no_space_upper_length_4: PLAT
+size_no_space_upper_length_5: PLATE
+size_no_space_upper_length_6: PLATE
+size_upper_length_1: P
+size_upper_length_2: PL
+size_upper_length_3: PLA
+size_upper_length_4: PLAT
+size_upper_length_5: PLATE
+size_upper_length_6: PLATE
+thickness: 6
+thickness_mm: 6
+type: part
+type_length_1: p
+type_length_2: pa
+type_length_3: par
+type_length_4: part
+type_length_5: part
+type_length_6: part
+type_name: Part
+type_no_space_length_1: p
+type_no_space_length_2: pa
+type_no_space_length_3: par
+type_no_space_length_4: part
+type_no_space_length_5: part
+type_no_space_length_6: part
+type_no_space_upper_length_1: P
+type_no_space_upper_length_2: PA
+type_no_space_upper_length_3: PAR
+type_no_space_upper_length_4: PART
+type_no_space_upper_length_5: PART
+type_no_space_upper_length_6: PART
+type_upper_length_1: P
+type_upper_length_2: PA
+type_upper_length_3: PAR
+type_upper_length_4: PART
+type_upper_length_5: PART
+type_upper_length_6: PART
+width: 3
+width_mm: 44

@@ -1,0 +1,229 @@
+bip_39_word_dash_12: drastic-hard-race-strategy-stairs-dentist-rain-clap-print-mad-hamster-allow
+bip_39_word_dash_2: drastic-hard
+bip_39_word_dash_3: drastic-hard-race
+bip_39_word_new_br_12: drastic<br>hard<br>race<br>strategy<br>stairs<br>dentist<br>rain<br>clap<br>print<br>mad<br>hamster<br>allow
+bip_39_word_new_br_2: drastic<br>hard
+bip_39_word_new_br_3: drastic<br>hard<br>race
+bip_39_word_new_line_12: 'drastic
+
+  hard
+
+  race
+
+  strategy
+
+  stairs
+
+  dentist
+
+  rain
+
+  clap
+
+  print
+
+  mad
+
+  hamster
+
+  allow'
+bip_39_word_new_line_2: 'drastic
+
+  hard'
+bip_39_word_new_line_3: 'drastic
+
+  hard
+
+  race'
+bip_39_word_no_space_12: drastichardracestrategystairsdentistrainclapprintmadhamsterallow
+bip_39_word_no_space_2: drastichard
+bip_39_word_no_space_3: drastichardrace
+bip_39_word_space_12: drastic hard race strategy stairs dentist rain clap print mad
+  hamster allow
+bip_39_word_space_2: drastic hard
+bip_39_word_space_3: drastic hard race
+bip_39_word_underscore_12: drastic_hard_race_strategy_stairs_dentist_rain_clap_print_mad_hamster_allow
+bip_39_word_underscore_2: drastic_hard
+bip_39_word_underscore_3: drastic_hard_race
+classification: oobb
+classification_length_1: o
+classification_length_2: oo
+classification_length_3: oob
+classification_length_4: oobb
+classification_length_5: oobb
+classification_length_6: oobb
+classification_name: Oobb
+classification_no_space_length_1: o
+classification_no_space_length_2: oo
+classification_no_space_length_3: oob
+classification_no_space_length_4: oobb
+classification_no_space_length_5: oobb
+classification_no_space_length_6: oobb
+classification_no_space_upper_length_1: O
+classification_no_space_upper_length_2: OO
+classification_no_space_upper_length_3: OOB
+classification_no_space_upper_length_4: OOBB
+classification_no_space_upper_length_5: OOBB
+classification_no_space_upper_length_6: OOBB
+classification_upper_length_1: O
+classification_upper_length_2: OO
+classification_upper_length_3: OOB
+classification_upper_length_4: OOBB
+classification_upper_length_5: OOBB
+classification_upper_length_6: OOBB
+color: ''
+color_name: ''
+components: []
+components_objects: []
+components_string: []
+description: tray thin 13x1x12
+description_extra: ''
+description_extra_name: ''
+description_main: 13_width_1_height_12_mm_depth
+description_main_length_1: '1'
+description_main_length_2: '13'
+description_main_length_3: '13_'
+description_main_length_4: 13_w
+description_main_length_5: 13_wi
+description_main_length_6: 13_wid
+description_main_name: 13 Width 1 Height 12 mm Depth
+description_main_no_space_length_1: '1'
+description_main_no_space_length_2: '13'
+description_main_no_space_length_3: 13w
+description_main_no_space_length_4: 13wi
+description_main_no_space_length_5: 13wid
+description_main_no_space_length_6: 13widt
+description_main_no_space_upper_length_1: '1'
+description_main_no_space_upper_length_2: '13'
+description_main_no_space_upper_length_3: 13W
+description_main_no_space_upper_length_4: 13WI
+description_main_no_space_upper_length_5: 13WID
+description_main_no_space_upper_length_6: 13WIDT
+description_main_upper_length_1: '1'
+description_main_upper_length_2: '13'
+description_main_upper_length_3: '13_'
+description_main_upper_length_4: 13_W
+description_main_upper_length_5: 13_WI
+description_main_upper_length_6: 13_WID
+directory: parts/oobb_part_tray_thin_13_width_1_height_12_mm_depth
+folder: C:\gh\oomlout_oobb_version_4_generated_parts\parts\oobb_part_tray_thin_13_width_1_height_12_mm_depth
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_13_width_1_height_12_mm_depth
+height: 1
+height_mm: 14
+id: oobb_part_tray_thin_13_width_1_height_12_mm_depth
+id_no_class: part_tray_thin_13_width_1_height_12_mm_depth
+id_no_color: 13width1height12mmdepth
+id_no_size: 13_width_1_height_12_mm_depth
+id_no_type: tray_thin_13_width_1_height_12_mm_depth
+link_1: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/tray_thin/13_width_1_height_12_mm_depth/part
+link_1_name: link_main
+link_main: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/tray_thin/13_width_1_height_12_mm_depth/part
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%20461k1
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%20461k1
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%20461k1
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%20461k1
+link_redirect: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/parts/oobb_tray_thin_13_01_12
+manufacturer: ''
+manufacturer_name: ''
+md5: 6ad1616d5629d620ea6a2d6d60da4a12
+md5_10: 6ad1616d56
+md5_10_upper: 6AD1616D56
+md5_5: 6ad16
+md5_5_upper: 6AD16
+md5_6: 6ad161
+md5_6_alpha: 461k1
+md5_6_alpha_upper: 461K1
+md5_6_upper: 6AD161
+name: Oobb Part Tray Thin 13 Width 1 Height 12 mm Depth
+name_no_class: Part Tray Thin 13 Width 1 Height 12 mm Depth
+name_no_color: 13Width1Height12mmdepth
+name_no_size: 13 Width 1 Height 12 mm Depth
+name_no_type: Tray Thin 13 Width 1 Height 12 mm Depth
+name_short: 'Tray Thin 13x1x12 '
+oomlout_detail_hierarchy_1: oobb
+oomlout_detail_hierarchy_1_upper: OOBB
+oomlout_detail_hierarchy_1_upper_length_4: OOBB
+oomlout_detail_hierarchy_2: part
+oomlout_detail_hierarchy_2_upper: PART
+oomlout_detail_hierarchy_2_upper_length_4: PART
+oomlout_detail_hierarchy_3: tray_thin
+oomlout_detail_hierarchy_3_upper: TRAY_THIN
+oomlout_detail_hierarchy_3_upper_length_4: TRAY
+oomlout_detail_hierarchy_4: 12_mm_depth
+oomlout_detail_hierarchy_4_upper: 12_MM_DEPTH
+oomlout_detail_hierarchy_4_upper_length_4: 12DE
+oomlout_oomp_utility_custom_data_manipulation: true
+oomp_key: oomp_oobb_part_tray_thin_13_width_1_height_12_mm_depth
+oomp_word: palm_tree pear bouquet
+oomp_word_emoji: ':palm_tree: :pear: :bouquet:'
+oomp_word_emoji_list:
+- ':palm_tree:'
+- ':pear:'
+- ':bouquet:'
+oomp_word_list:
+- palm_tree
+- pear
+- bouquet
+part_number: ''
+part_number_name: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
+short_name: ''
+size: tray_thin
+size_length_1: t
+size_length_2: tr
+size_length_3: tra
+size_length_4: tray
+size_length_5: tray_
+size_length_6: tray_t
+size_name: Tray Thin
+size_no_space_length_1: t
+size_no_space_length_2: tr
+size_no_space_length_3: tra
+size_no_space_length_4: tray
+size_no_space_length_5: trayt
+size_no_space_length_6: trayth
+size_no_space_upper_length_1: T
+size_no_space_upper_length_2: TR
+size_no_space_upper_length_3: TRA
+size_no_space_upper_length_4: TRAY
+size_no_space_upper_length_5: TRAYT
+size_no_space_upper_length_6: TRAYTH
+size_upper_length_1: T
+size_upper_length_2: TR
+size_upper_length_3: TRA
+size_upper_length_4: TRAY
+size_upper_length_5: TRAY_
+size_upper_length_6: TRAY_T
+thickness: 12
+thickness_mm: 12
+type: part
+type_length_1: p
+type_length_2: pa
+type_length_3: par
+type_length_4: part
+type_length_5: part
+type_length_6: part
+type_name: Part
+type_no_space_length_1: p
+type_no_space_length_2: pa
+type_no_space_length_3: par
+type_no_space_length_4: part
+type_no_space_length_5: part
+type_no_space_length_6: part
+type_no_space_upper_length_1: P
+type_no_space_upper_length_2: PA
+type_no_space_upper_length_3: PAR
+type_no_space_upper_length_4: PART
+type_no_space_upper_length_5: PART
+type_no_space_upper_length_6: PART
+type_upper_length_1: P
+type_upper_length_2: PA
+type_upper_length_3: PAR
+type_upper_length_4: PART
+type_upper_length_5: PART
+type_upper_length_6: PART
+width: 13
+width_mm: 194

@@ -1,0 +1,261 @@
+bip_39_word_dash_12: blanket-cart-scout-must-peanut-oak-wool-roof-farm-fantasy-must-abuse
+bip_39_word_dash_2: blanket-cart
+bip_39_word_dash_3: blanket-cart-scout
+bip_39_word_new_br_12: blanket<br>cart<br>scout<br>must<br>peanut<br>oak<br>wool<br>roof<br>farm<br>fantasy<br>must<br>abuse
+bip_39_word_new_br_2: blanket<br>cart
+bip_39_word_new_br_3: blanket<br>cart<br>scout
+bip_39_word_new_line_12: 'blanket
+
+  cart
+
+  scout
+
+  must
+
+  peanut
+
+  oak
+
+  wool
+
+  roof
+
+  farm
+
+  fantasy
+
+  must
+
+  abuse'
+bip_39_word_new_line_2: 'blanket
+
+  cart'
+bip_39_word_new_line_3: 'blanket
+
+  cart
+
+  scout'
+bip_39_word_no_space_12: blanketcartscoutmustpeanutoakwoolrooffarmfantasymustabuse
+bip_39_word_no_space_2: blanketcart
+bip_39_word_no_space_3: blanketcartscout
+bip_39_word_space_12: blanket cart scout must peanut oak wool roof farm fantasy must
+  abuse
+bip_39_word_space_2: blanket cart
+bip_39_word_space_3: blanket cart scout
+bip_39_word_underscore_12: blanket_cart_scout_must_peanut_oak_wool_roof_farm_fantasy_must_abuse
+bip_39_word_underscore_2: blanket_cart
+bip_39_word_underscore_3: blanket_cart_scout
+classification: oobb
+classification_length_1: o
+classification_length_2: oo
+classification_length_3: oob
+classification_length_4: oobb
+classification_length_5: oobb
+classification_length_6: oobb
+classification_name: Oobb
+classification_no_space_length_1: o
+classification_no_space_length_2: oo
+classification_no_space_length_3: oob
+classification_no_space_length_4: oobb
+classification_no_space_length_5: oobb
+classification_no_space_length_6: oobb
+classification_no_space_upper_length_1: O
+classification_no_space_upper_length_2: OO
+classification_no_space_upper_length_3: OOB
+classification_no_space_upper_length_4: OOBB
+classification_no_space_upper_length_5: OOBB
+classification_no_space_upper_length_6: OOBB
+classification_upper_length_1: O
+classification_upper_length_2: OO
+classification_upper_length_3: OOB
+classification_upper_length_4: OOBB
+classification_upper_length_5: OOBB
+classification_upper_length_6: OOBB
+color: ''
+color_name: ''
+components: []
+components_objects: []
+components_string: []
+description: gear 0x0x6
+description_extra: motor_n20_shaft_12.0_teeth_extra
+description_extra_length_1: m
+description_extra_length_2: mo
+description_extra_length_3: mot
+description_extra_length_4: moto
+description_extra_length_5: motor
+description_extra_length_6: motor_
+description_extra_name: Motor N20 Shaft 12.0 Teeth Extra
+description_extra_no_space_length_1: m
+description_extra_no_space_length_2: mo
+description_extra_no_space_length_3: mot
+description_extra_no_space_length_4: moto
+description_extra_no_space_length_5: motor
+description_extra_no_space_length_6: motorn
+description_extra_no_space_upper_length_1: M
+description_extra_no_space_upper_length_2: MO
+description_extra_no_space_upper_length_3: MOT
+description_extra_no_space_upper_length_4: MOTO
+description_extra_no_space_upper_length_5: MOTOR
+description_extra_no_space_upper_length_6: MOTORN
+description_extra_upper_length_1: M
+description_extra_upper_length_2: MO
+description_extra_upper_length_3: MOT
+description_extra_upper_length_4: MOTO
+description_extra_upper_length_5: MOTOR
+description_extra_upper_length_6: MOTOR_
+description_main: 1.5_diameter_6_mm_depth
+description_main_length_1: '1'
+description_main_length_2: '1.'
+description_main_length_3: '1.5'
+description_main_length_4: '1.5_'
+description_main_length_5: 1.5_d
+description_main_length_6: 1.5_di
+description_main_name: 1.5 Diameter 6 mm Depth
+description_main_no_space_length_1: '1'
+description_main_no_space_length_2: '1.'
+description_main_no_space_length_3: '1.5'
+description_main_no_space_length_4: 1.5d
+description_main_no_space_length_5: 1.5di
+description_main_no_space_length_6: 1.5dia
+description_main_no_space_upper_length_1: '1'
+description_main_no_space_upper_length_2: '1.'
+description_main_no_space_upper_length_3: '1.5'
+description_main_no_space_upper_length_4: 1.5D
+description_main_no_space_upper_length_5: 1.5DI
+description_main_no_space_upper_length_6: 1.5DIA
+description_main_upper_length_1: '1'
+description_main_upper_length_2: '1.'
+description_main_upper_length_3: '1.5'
+description_main_upper_length_4: '1.5_'
+description_main_upper_length_5: 1.5_D
+description_main_upper_length_6: 1.5_DI
+diameter: 1.5
+directory: parts/oobb_part_gear_1d5_diameter_6_mm_depth_motor_n20_shaft_12_teeth_extra
+extra: 12.0_teeth
+folder: C:\gh\oomlout_oobb_version_4_generated_parts\parts\oobb_part_gear_1d5_diameter_6_mm_depth_motor_n20_shaft_12_teeth_extra
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_gear_1d5_diameter_6_mm_depth_motor_n20_shaft_12_teeth_extra
+id: oobb_part_gear_1d5_diameter_6_mm_depth_motor_n20_shaft_12_teeth_extra
+id_no_class: part_gear_1d5_diameter_6_mm_depth_motor_n20_shaft_12_teeth_extra
+id_no_color: 1d5diameter6mmdepthmotorn20shaft12teethextra
+id_no_size: 1d5_diameter_6_mm_depth_motor_n20_shaft_12_teeth_extra
+id_no_type: gear_1d5_diameter_6_mm_depth_motor_n20_shaft_12_teeth_extra
+link_1: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/gear/1.5_diameter_6_mm_depth/motor_n20_shaft_12.0_teeth_extra/part
+link_1_name: link_main
+link_main: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/gear/1.5_diameter_6_mm_depth/motor_n20_shaft_12.0_teeth_extra/part
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%20qvx0
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%20qvx0
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%20qvx0
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%20qvx0
+link_redirect: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/parts/oobb_gear_1d5_06_ex_12d0_teeth_sh_motor_n20
+manufacturer: ''
+manufacturer_name: ''
+md5: 132414c299bbbfaa5f50f9218288c0ba
+md5_10: 132414c299
+md5_10_upper: 132414C299
+md5_5: '13241'
+md5_5_upper: '13241'
+md5_6: '132414'
+md5_6_alpha: qvx0
+md5_6_alpha_upper: QVX0
+md5_6_upper: '132414'
+name: Oobb Part Gear 1D5 Diameter 6 mm Depth Motor N20 Shaft 12 Teeth Extra
+name_no_class: Part Gear 1D5 Diameter 6 mm Depth Motor N20 Shaft 12 Teeth Extra
+name_no_color: 1D5Diameter6mmdepthmotorn20Shaft12Teethextra
+name_no_size: 1D5 Diameter 6 mm Depth Motor N20 Shaft 12 Teeth Extra
+name_no_type: Gear 1D5 Diameter 6 mm Depth Motor N20 Shaft 12 Teeth Extra
+name_short: Gear 1D5x6 Motor N20 Shaft 12 Teeth
+oomlout_detail_hierarchy_1: oobb
+oomlout_detail_hierarchy_1_upper: OOBB
+oomlout_detail_hierarchy_1_upper_length_4: OOBB
+oomlout_detail_hierarchy_2: part
+oomlout_detail_hierarchy_2_upper: PART
+oomlout_detail_hierarchy_2_upper_length_4: PART
+oomlout_detail_hierarchy_3: gear
+oomlout_detail_hierarchy_3_upper: GEAR
+oomlout_detail_hierarchy_3_upper_length_4: GEAR
+oomlout_detail_hierarchy_4: 5_diameter
+oomlout_detail_hierarchy_4_upper: 5_DIAMETER
+oomlout_detail_hierarchy_4_upper_length_4: 5_DI
+oomlout_detail_hierarchy_5: 6_mm_depth
+oomlout_detail_hierarchy_5_upper: 6_MM_DEPTH
+oomlout_detail_hierarchy_5_upper_length_4: 6DEP
+oomlout_detail_hierarchy_6: motor_n20_shaft_12.0
+oomlout_detail_hierarchy_6_upper: MOTOR_N20_SHAFT_12.0
+oomlout_detail_hierarchy_6_upper_length_4: MOTO
+oomlout_detail_hierarchy_7: teeth_extra
+oomlout_detail_hierarchy_7_upper: TEETH_EXTRA
+oomlout_detail_hierarchy_7_upper_length_4: TEET
+oomlout_oomp_utility_custom_data_manipulation: true
+oomp_key: oomp_oobb_part_gear_1d5_diameter_6_mm_depth_motor_n20_shaft_12_teeth_extra
+oomp_word: question droplet fire
+oomp_word_emoji: ':question: :droplet: :fire:'
+oomp_word_emoji_list:
+- ':question:'
+- ':droplet:'
+- ':fire:'
+oomp_word_list:
+- question
+- droplet
+- fire
+part_number: ''
+part_number_name: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
+shaft: motor_n20
+short_name: ''
+size: gear
+size_length_1: g
+size_length_2: ge
+size_length_3: gea
+size_length_4: gear
+size_length_5: gear
+size_length_6: gear
+size_name: Gear
+size_no_space_length_1: g
+size_no_space_length_2: ge
+size_no_space_length_3: gea
+size_no_space_length_4: gear
+size_no_space_length_5: gear
+size_no_space_length_6: gear
+size_no_space_upper_length_1: G
+size_no_space_upper_length_2: GE
+size_no_space_upper_length_3: GEA
+size_no_space_upper_length_4: GEAR
+size_no_space_upper_length_5: GEAR
+size_no_space_upper_length_6: GEAR
+size_upper_length_1: G
+size_upper_length_2: GE
+size_upper_length_3: GEA
+size_upper_length_4: GEAR
+size_upper_length_5: GEAR
+size_upper_length_6: GEAR
+thickness: 6
+thickness_mm: 6
+type: part
+type_length_1: p
+type_length_2: pa
+type_length_3: par
+type_length_4: part
+type_length_5: part
+type_length_6: part
+type_name: Part
+type_no_space_length_1: p
+type_no_space_length_2: pa
+type_no_space_length_3: par
+type_no_space_length_4: part
+type_no_space_length_5: part
+type_no_space_length_6: part
+type_no_space_upper_length_1: P
+type_no_space_upper_length_2: PA
+type_no_space_upper_length_3: PAR
+type_no_space_upper_length_4: PART
+type_no_space_upper_length_5: PART
+type_no_space_upper_length_6: PART
+type_upper_length_1: P
+type_upper_length_2: PA
+type_upper_length_3: PAR
+type_upper_length_4: PART
+type_upper_length_5: PART
+type_upper_length_6: PART

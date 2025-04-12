@@ -1,0 +1,229 @@
+bearing: 0.1
+bip_39_word_dash_12: scorpion-cake-twice-unhappy-capable-visit-hazard-school-actress-mechanic-strategy-attend
+bip_39_word_dash_2: scorpion-cake
+bip_39_word_dash_3: scorpion-cake-twice
+bip_39_word_new_br_12: scorpion<br>cake<br>twice<br>unhappy<br>capable<br>visit<br>hazard<br>school<br>actress<br>mechanic<br>strategy<br>attend
+bip_39_word_new_br_2: scorpion<br>cake
+bip_39_word_new_br_3: scorpion<br>cake<br>twice
+bip_39_word_new_line_12: 'scorpion
+
+  cake
+
+  twice
+
+  unhappy
+
+  capable
+
+  visit
+
+  hazard
+
+  school
+
+  actress
+
+  mechanic
+
+  strategy
+
+  attend'
+bip_39_word_new_line_2: 'scorpion
+
+  cake'
+bip_39_word_new_line_3: 'scorpion
+
+  cake
+
+  twice'
+bip_39_word_no_space_12: scorpioncaketwiceunhappycapablevisithazardschoolactressmechanicstrategyattend
+bip_39_word_no_space_2: scorpioncake
+bip_39_word_no_space_3: scorpioncaketwice
+bip_39_word_space_12: scorpion cake twice unhappy capable visit hazard school actress
+  mechanic strategy attend
+bip_39_word_space_2: scorpion cake
+bip_39_word_space_3: scorpion cake twice
+bip_39_word_underscore_12: scorpion_cake_twice_unhappy_capable_visit_hazard_school_actress_mechanic_strategy_attend
+bip_39_word_underscore_2: scorpion_cake
+bip_39_word_underscore_3: scorpion_cake_twice
+classification: oobb
+classification_length_1: o
+classification_length_2: oo
+classification_length_3: oob
+classification_length_4: oobb
+classification_length_5: oobb
+classification_length_6: oobb
+classification_name: Oobb
+classification_no_space_length_1: o
+classification_no_space_length_2: oo
+classification_no_space_length_3: oob
+classification_no_space_length_4: oobb
+classification_no_space_length_5: oobb
+classification_no_space_length_6: oobb
+classification_no_space_upper_length_1: O
+classification_no_space_upper_length_2: OO
+classification_no_space_upper_length_3: OOB
+classification_no_space_upper_length_4: OOBB
+classification_no_space_upper_length_5: OOBB
+classification_no_space_upper_length_6: OOBB
+classification_upper_length_1: O
+classification_upper_length_2: OO
+classification_upper_length_3: OOB
+classification_upper_length_4: OOBB
+classification_upper_length_5: OOBB
+classification_upper_length_6: OOBB
+color: ''
+color_name: ''
+components: []
+components_objects: []
+components_string: []
+description: test 0x0x0
+description_extra: 0.1_bearing_9.5_shaft_hole_extra
+description_extra_length_1: '0'
+description_extra_length_2: '0.'
+description_extra_length_3: '0.1'
+description_extra_length_4: '0.1_'
+description_extra_length_5: 0.1_b
+description_extra_length_6: 0.1_be
+description_extra_name: 0.1 Bearing 9.5 Shaft Hole Extra
+description_extra_no_space_length_1: '0'
+description_extra_no_space_length_2: '0.'
+description_extra_no_space_length_3: '0.1'
+description_extra_no_space_length_4: 0.1b
+description_extra_no_space_length_5: 0.1be
+description_extra_no_space_length_6: 0.1bea
+description_extra_no_space_upper_length_1: '0'
+description_extra_no_space_upper_length_2: '0.'
+description_extra_no_space_upper_length_3: '0.1'
+description_extra_no_space_upper_length_4: 0.1B
+description_extra_no_space_upper_length_5: 0.1BE
+description_extra_no_space_upper_length_6: 0.1BEA
+description_extra_upper_length_1: '0'
+description_extra_upper_length_2: '0.'
+description_extra_upper_length_3: '0.1'
+description_extra_upper_length_4: '0.1_'
+description_extra_upper_length_5: 0.1_B
+description_extra_upper_length_6: 0.1_BE
+description_main: ''
+description_main_name: ''
+directory: parts/oobb_part_test_0d1_bearing_9d5_shaft_hole_extra
+extra: hole
+folder: C:\gh\oomlout_oobb_version_4_generated_parts\parts\oobb_part_test_0d1_bearing_9d5_shaft_hole_extra
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_test_0d1_bearing_9d5_shaft_hole_extra
+id: oobb_part_test_0d1_bearing_9d5_shaft_hole_extra
+id_no_class: part_test_0d1_bearing_9d5_shaft_hole_extra
+id_no_color: 0d1bearing9d5shaftholeextra
+id_no_size: 0d1_bearing_9d5_shaft_hole_extra
+id_no_type: test_0d1_bearing_9d5_shaft_hole_extra
+link_1: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/test//0.1_bearing_9.5_shaft_hole_extra/part
+link_1_name: link_main
+link_main: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/test//0.1_bearing_9.5_shaft_hole_extra/part
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%20948ma
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%20948ma
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%20948ma
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%20948ma
+link_redirect: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/parts/oobb_test_0d1_ex_hole_sh_9d5
+manufacturer: ''
+manufacturer_name: ''
+md5: e9ada28816c0cd3fd310fed5d6881609
+md5_10: e9ada28816
+md5_10_upper: E9ADA28816
+md5_5: e9ada
+md5_5_upper: E9ADA
+md5_6: e9ada2
+md5_6_alpha: 948ma
+md5_6_alpha_upper: 948MA
+md5_6_upper: E9ADA2
+name: Oobb Part Test 0D1 Bearing 9D5 Shaft Hole Extra
+name_no_class: Part Test 0D1 Bearing 9D5 Shaft Hole Extra
+name_no_color: 0D1Bearing9D5Shaftholeextra
+name_no_size: 0D1 Bearing 9D5 Shaft Hole Extra
+name_no_type: Test 0D1 Bearing 9D5 Shaft Hole Extra
+name_short: Test 0D1 Bearing 9D5 Shaft Hole Extra
+oomlout_detail_hierarchy_1: oobb
+oomlout_detail_hierarchy_1_upper: OOBB
+oomlout_detail_hierarchy_1_upper_length_4: OOBB
+oomlout_detail_hierarchy_2: part
+oomlout_detail_hierarchy_2_upper: PART
+oomlout_detail_hierarchy_2_upper_length_4: PART
+oomlout_detail_hierarchy_3: test
+oomlout_detail_hierarchy_3_upper: TEST
+oomlout_detail_hierarchy_3_upper_length_4: TEST
+oomlout_detail_hierarchy_4: 0.1_bearing_9.5_shaft
+oomlout_detail_hierarchy_4_upper: 0.1_BEARING_9.5_SHAFT
+oomlout_detail_hierarchy_4_upper_length_4: '0.1_'
+oomlout_detail_hierarchy_5: hole_extra
+oomlout_detail_hierarchy_5_upper: HOLE_EXTRA
+oomlout_detail_hierarchy_5_upper_length_4: HOLE
+oomlout_oomp_utility_custom_data_manipulation: true
+oomp_key: oomp_oobb_part_test_0d1_bearing_9d5_shaft_hole_extra
+oomp_word: bike dress violin
+oomp_word_emoji: ':bike: :dress: :violin:'
+oomp_word_emoji_list:
+- ':bike:'
+- ':dress:'
+- ':violin:'
+oomp_word_list:
+- bike
+- dress
+- violin
+part_number: ''
+part_number_name: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
+shaft: 9.5
+short_name: ''
+size: test
+size_length_1: t
+size_length_2: te
+size_length_3: tes
+size_length_4: test
+size_length_5: test
+size_length_6: test
+size_name: Test
+size_no_space_length_1: t
+size_no_space_length_2: te
+size_no_space_length_3: tes
+size_no_space_length_4: test
+size_no_space_length_5: test
+size_no_space_length_6: test
+size_no_space_upper_length_1: T
+size_no_space_upper_length_2: TE
+size_no_space_upper_length_3: TES
+size_no_space_upper_length_4: TEST
+size_no_space_upper_length_5: TEST
+size_no_space_upper_length_6: TEST
+size_upper_length_1: T
+size_upper_length_2: TE
+size_upper_length_3: TES
+size_upper_length_4: TEST
+size_upper_length_5: TEST
+size_upper_length_6: TEST
+type: part
+type_length_1: p
+type_length_2: pa
+type_length_3: par
+type_length_4: part
+type_length_5: part
+type_length_6: part
+type_name: Part
+type_no_space_length_1: p
+type_no_space_length_2: pa
+type_no_space_length_3: par
+type_no_space_length_4: part
+type_no_space_length_5: part
+type_no_space_length_6: part
+type_no_space_upper_length_1: P
+type_no_space_upper_length_2: PA
+type_no_space_upper_length_3: PAR
+type_no_space_upper_length_4: PART
+type_no_space_upper_length_5: PART
+type_no_space_upper_length_6: PART
+type_upper_length_1: P
+type_upper_length_2: PA
+type_upper_length_3: PAR
+type_upper_length_4: PART
+type_upper_length_5: PART
+type_upper_length_6: PART

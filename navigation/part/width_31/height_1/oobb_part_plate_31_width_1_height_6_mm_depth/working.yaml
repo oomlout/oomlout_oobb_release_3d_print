@@ -1,0 +1,229 @@
+bip_39_word_dash_12: polar-tongue-liquid-shoe-busy-mango-display-federal-magnet-soap-weird-audit
+bip_39_word_dash_2: polar-tongue
+bip_39_word_dash_3: polar-tongue-liquid
+bip_39_word_new_br_12: polar<br>tongue<br>liquid<br>shoe<br>busy<br>mango<br>display<br>federal<br>magnet<br>soap<br>weird<br>audit
+bip_39_word_new_br_2: polar<br>tongue
+bip_39_word_new_br_3: polar<br>tongue<br>liquid
+bip_39_word_new_line_12: 'polar
+
+  tongue
+
+  liquid
+
+  shoe
+
+  busy
+
+  mango
+
+  display
+
+  federal
+
+  magnet
+
+  soap
+
+  weird
+
+  audit'
+bip_39_word_new_line_2: 'polar
+
+  tongue'
+bip_39_word_new_line_3: 'polar
+
+  tongue
+
+  liquid'
+bip_39_word_no_space_12: polartongueliquidshoebusymangodisplayfederalmagnetsoapweirdaudit
+bip_39_word_no_space_2: polartongue
+bip_39_word_no_space_3: polartongueliquid
+bip_39_word_space_12: polar tongue liquid shoe busy mango display federal magnet soap
+  weird audit
+bip_39_word_space_2: polar tongue
+bip_39_word_space_3: polar tongue liquid
+bip_39_word_underscore_12: polar_tongue_liquid_shoe_busy_mango_display_federal_magnet_soap_weird_audit
+bip_39_word_underscore_2: polar_tongue
+bip_39_word_underscore_3: polar_tongue_liquid
+classification: oobb
+classification_length_1: o
+classification_length_2: oo
+classification_length_3: oob
+classification_length_4: oobb
+classification_length_5: oobb
+classification_length_6: oobb
+classification_name: Oobb
+classification_no_space_length_1: o
+classification_no_space_length_2: oo
+classification_no_space_length_3: oob
+classification_no_space_length_4: oobb
+classification_no_space_length_5: oobb
+classification_no_space_length_6: oobb
+classification_no_space_upper_length_1: O
+classification_no_space_upper_length_2: OO
+classification_no_space_upper_length_3: OOB
+classification_no_space_upper_length_4: OOBB
+classification_no_space_upper_length_5: OOBB
+classification_no_space_upper_length_6: OOBB
+classification_upper_length_1: O
+classification_upper_length_2: OO
+classification_upper_length_3: OOB
+classification_upper_length_4: OOBB
+classification_upper_length_5: OOBB
+classification_upper_length_6: OOBB
+color: ''
+color_name: ''
+components: []
+components_objects: []
+components_string: []
+description: plate 31x1x6
+description_extra: ''
+description_extra_name: ''
+description_main: 31_width_1_height_6_mm_depth
+description_main_length_1: '3'
+description_main_length_2: '31'
+description_main_length_3: '31_'
+description_main_length_4: 31_w
+description_main_length_5: 31_wi
+description_main_length_6: 31_wid
+description_main_name: 31 Width 1 Height 6 mm Depth
+description_main_no_space_length_1: '3'
+description_main_no_space_length_2: '31'
+description_main_no_space_length_3: 31w
+description_main_no_space_length_4: 31wi
+description_main_no_space_length_5: 31wid
+description_main_no_space_length_6: 31widt
+description_main_no_space_upper_length_1: '3'
+description_main_no_space_upper_length_2: '31'
+description_main_no_space_upper_length_3: 31W
+description_main_no_space_upper_length_4: 31WI
+description_main_no_space_upper_length_5: 31WID
+description_main_no_space_upper_length_6: 31WIDT
+description_main_upper_length_1: '3'
+description_main_upper_length_2: '31'
+description_main_upper_length_3: '31_'
+description_main_upper_length_4: 31_W
+description_main_upper_length_5: 31_WI
+description_main_upper_length_6: 31_WID
+directory: parts/oobb_part_plate_31_width_1_height_6_mm_depth
+folder: C:\gh\oomlout_oobb_version_4_generated_parts\parts\oobb_part_plate_31_width_1_height_6_mm_depth
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_31_width_1_height_6_mm_depth
+height: 1
+height_mm: 14
+id: oobb_part_plate_31_width_1_height_6_mm_depth
+id_no_class: part_plate_31_width_1_height_6_mm_depth
+id_no_color: 31width1height6mmdepth
+id_no_size: 31_width_1_height_6_mm_depth
+id_no_type: plate_31_width_1_height_6_mm_depth
+link_1: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/plate/31_width_1_height_6_mm_depth/part
+link_1_name: link_main
+link_main: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/plate/31_width_1_height_6_mm_depth/part
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%209fur7
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%209fur7
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%209fur7
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%209fur7
+link_redirect: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/parts/oobb_plate_31_01_06
+manufacturer: ''
+manufacturer_name: ''
+md5: f1f2736c2f5467f21c8f9c6704b91d3b
+md5_10: f1f2736c2f
+md5_10_upper: F1F2736C2F
+md5_5: f1f27
+md5_5_upper: F1F27
+md5_6: f1f273
+md5_6_alpha: 9fur7
+md5_6_alpha_upper: 9FUR7
+md5_6_upper: F1F273
+name: Oobb Part Plate 31 Width 1 Height 6 mm Depth
+name_no_class: Part Plate 31 Width 1 Height 6 mm Depth
+name_no_color: 31Width1Height6mmdepth
+name_no_size: 31 Width 1 Height 6 mm Depth
+name_no_type: Plate 31 Width 1 Height 6 mm Depth
+name_short: 'Plate 31x1x6 '
+oomlout_detail_hierarchy_1: oobb
+oomlout_detail_hierarchy_1_upper: OOBB
+oomlout_detail_hierarchy_1_upper_length_4: OOBB
+oomlout_detail_hierarchy_2: part
+oomlout_detail_hierarchy_2_upper: PART
+oomlout_detail_hierarchy_2_upper_length_4: PART
+oomlout_detail_hierarchy_3: plate
+oomlout_detail_hierarchy_3_upper: PLATE
+oomlout_detail_hierarchy_3_upper_length_4: PLAT
+oomlout_detail_hierarchy_4: 6_mm_depth
+oomlout_detail_hierarchy_4_upper: 6_MM_DEPTH
+oomlout_detail_hierarchy_4_upper_length_4: 6DEP
+oomlout_oomp_utility_custom_data_manipulation: true
+oomp_key: oomp_oobb_part_plate_31_width_1_height_6_mm_depth
+oomp_word: ticket one flags
+oomp_word_emoji: ':ticket: :one: :flags:'
+oomp_word_emoji_list:
+- ':ticket:'
+- ':one:'
+- ':flags:'
+oomp_word_list:
+- ticket
+- one
+- flags
+part_number: ''
+part_number_name: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
+short_name: ''
+size: plate
+size_length_1: p
+size_length_2: pl
+size_length_3: pla
+size_length_4: plat
+size_length_5: plate
+size_length_6: plate
+size_name: Plate
+size_no_space_length_1: p
+size_no_space_length_2: pl
+size_no_space_length_3: pla
+size_no_space_length_4: plat
+size_no_space_length_5: plate
+size_no_space_length_6: plate
+size_no_space_upper_length_1: P
+size_no_space_upper_length_2: PL
+size_no_space_upper_length_3: PLA
+size_no_space_upper_length_4: PLAT
+size_no_space_upper_length_5: PLATE
+size_no_space_upper_length_6: PLATE
+size_upper_length_1: P
+size_upper_length_2: PL
+size_upper_length_3: PLA
+size_upper_length_4: PLAT
+size_upper_length_5: PLATE
+size_upper_length_6: PLATE
+thickness: 6
+thickness_mm: 6
+type: part
+type_length_1: p
+type_length_2: pa
+type_length_3: par
+type_length_4: part
+type_length_5: part
+type_length_6: part
+type_name: Part
+type_no_space_length_1: p
+type_no_space_length_2: pa
+type_no_space_length_3: par
+type_no_space_length_4: part
+type_no_space_length_5: part
+type_no_space_length_6: part
+type_no_space_upper_length_1: P
+type_no_space_upper_length_2: PA
+type_no_space_upper_length_3: PAR
+type_no_space_upper_length_4: PART
+type_no_space_upper_length_5: PART
+type_no_space_upper_length_6: PART
+type_upper_length_1: P
+type_upper_length_2: PA
+type_upper_length_3: PAR
+type_upper_length_4: PART
+type_upper_length_5: PART
+type_upper_length_6: PART
+width: 31
+width_mm: 464

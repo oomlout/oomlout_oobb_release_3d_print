@@ -1,0 +1,258 @@
+bip_39_word_dash_12: match-output-bullet-wing-charge-business-insect-tonight-involve-cigar-major-attract
+bip_39_word_dash_2: match-output
+bip_39_word_dash_3: match-output-bullet
+bip_39_word_new_br_12: match<br>output<br>bullet<br>wing<br>charge<br>business<br>insect<br>tonight<br>involve<br>cigar<br>major<br>attract
+bip_39_word_new_br_2: match<br>output
+bip_39_word_new_br_3: match<br>output<br>bullet
+bip_39_word_new_line_12: 'match
+
+  output
+
+  bullet
+
+  wing
+
+  charge
+
+  business
+
+  insect
+
+  tonight
+
+  involve
+
+  cigar
+
+  major
+
+  attract'
+bip_39_word_new_line_2: 'match
+
+  output'
+bip_39_word_new_line_3: 'match
+
+  output
+
+  bullet'
+bip_39_word_no_space_12: matchoutputbulletwingchargebusinessinsecttonightinvolvecigarmajorattract
+bip_39_word_no_space_2: matchoutput
+bip_39_word_no_space_3: matchoutputbullet
+bip_39_word_space_12: match output bullet wing charge business insect tonight involve
+  cigar major attract
+bip_39_word_space_2: match output
+bip_39_word_space_3: match output bullet
+bip_39_word_underscore_12: match_output_bullet_wing_charge_business_insect_tonight_involve_cigar_major_attract
+bip_39_word_underscore_2: match_output
+bip_39_word_underscore_3: match_output_bullet
+classification: oobb
+classification_length_1: o
+classification_length_2: oo
+classification_length_3: oob
+classification_length_4: oobb
+classification_length_5: oobb
+classification_length_6: oobb
+classification_name: Oobb
+classification_no_space_length_1: o
+classification_no_space_length_2: oo
+classification_no_space_length_3: oob
+classification_no_space_length_4: oobb
+classification_no_space_length_5: oobb
+classification_no_space_length_6: oobb
+classification_no_space_upper_length_1: O
+classification_no_space_upper_length_2: OO
+classification_no_space_upper_length_3: OOB
+classification_no_space_upper_length_4: OOBB
+classification_no_space_upper_length_5: OOBB
+classification_no_space_upper_length_6: OOBB
+classification_upper_length_1: O
+classification_upper_length_2: OO
+classification_upper_length_3: OOB
+classification_upper_length_4: OOBB
+classification_upper_length_5: OOBB
+classification_upper_length_6: OOBB
+color: ''
+color_name: ''
+components: []
+components_objects: []
+components_string: []
+description: pulley gt2 0x0x6
+description_extra: m3_shaft_40_teeth_extra
+description_extra_length_1: m
+description_extra_length_2: m3
+description_extra_length_3: m3_
+description_extra_length_4: m3_s
+description_extra_length_5: m3_sh
+description_extra_length_6: m3_sha
+description_extra_name: M3 Shaft 40 Teeth Extra
+description_extra_no_space_length_1: m
+description_extra_no_space_length_2: m3
+description_extra_no_space_length_3: m3s
+description_extra_no_space_length_4: m3sh
+description_extra_no_space_length_5: m3sha
+description_extra_no_space_length_6: m3shaf
+description_extra_no_space_upper_length_1: M
+description_extra_no_space_upper_length_2: M3
+description_extra_no_space_upper_length_3: M3S
+description_extra_no_space_upper_length_4: M3SH
+description_extra_no_space_upper_length_5: M3SHA
+description_extra_no_space_upper_length_6: M3SHAF
+description_extra_upper_length_1: M
+description_extra_upper_length_2: M3
+description_extra_upper_length_3: M3_
+description_extra_upper_length_4: M3_S
+description_extra_upper_length_5: M3_SH
+description_extra_upper_length_6: M3_SHA
+description_main: 2_diameter_6_mm_depth
+description_main_length_1: '2'
+description_main_length_2: '2_'
+description_main_length_3: 2_d
+description_main_length_4: 2_di
+description_main_length_5: 2_dia
+description_main_length_6: 2_diam
+description_main_name: 2 Diameter 6 mm Depth
+description_main_no_space_length_1: '2'
+description_main_no_space_length_2: 2d
+description_main_no_space_length_3: 2di
+description_main_no_space_length_4: 2dia
+description_main_no_space_length_5: 2diam
+description_main_no_space_length_6: 2diame
+description_main_no_space_upper_length_1: '2'
+description_main_no_space_upper_length_2: 2D
+description_main_no_space_upper_length_3: 2DI
+description_main_no_space_upper_length_4: 2DIA
+description_main_no_space_upper_length_5: 2DIAM
+description_main_no_space_upper_length_6: 2DIAME
+description_main_upper_length_1: '2'
+description_main_upper_length_2: '2_'
+description_main_upper_length_3: 2_D
+description_main_upper_length_4: 2_DI
+description_main_upper_length_5: 2_DIA
+description_main_upper_length_6: 2_DIAM
+diameter: 2
+directory: parts/oobb_part_pulley_gt2_2_diameter_6_mm_depth_m3_shaft_40_teeth_extra
+extra: 40_teeth
+folder: C:\gh\oomlout_oobb_version_4_generated_parts\parts\oobb_part_pulley_gt2_2_diameter_6_mm_depth_m3_shaft_40_teeth_extra
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_pulley_gt2_2_diameter_6_mm_depth_m3_shaft_40_teeth_extra
+id: oobb_part_pulley_gt2_2_diameter_6_mm_depth_m3_shaft_40_teeth_extra
+id_no_class: part_pulley_gt2_2_diameter_6_mm_depth_m3_shaft_40_teeth_extra
+id_no_color: 2diameter6mmdepthm3shaft40teethextra
+id_no_size: 2_diameter_6_mm_depth_m3_shaft_40_teeth_extra
+id_no_type: pulley_gt2_2_diameter_6_mm_depth_m3_shaft_40_teeth_extra
+link_1: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/pulley_gt2/2_diameter_6_mm_depth/m3_shaft_40_teeth_extra/part
+link_1_name: link_main
+link_main: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/pulley_gt2/2_diameter_6_mm_depth/m3_shaft_40_teeth_extra/part
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2098z4a
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2098z4a
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%2098z4a
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2098z4a
+link_redirect: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/parts/oobb_pulley_gt2_02_06_ex_40_teeth_sh_m3
+manufacturer: ''
+manufacturer_name: ''
+md5: ed0cca3bb1e48ea07c134fba3c675c46
+md5_10: ed0cca3bb1
+md5_10_upper: ED0CCA3BB1
+md5_5: ed0cc
+md5_5_upper: ED0CC
+md5_6: ed0cca
+md5_6_alpha: 98z4a
+md5_6_alpha_upper: 98Z4A
+md5_6_upper: ED0CCA
+name: Oobb Part Pulley Gt2 2 Diameter 6 mm Depth M3 Shaft 40 Teeth Extra
+name_no_class: Part Pulley Gt2 2 Diameter 6 mm Depth M3 Shaft 40 Teeth Extra
+name_no_color: 2Diameter6mmdepthm3Shaft40Teethextra
+name_no_size: 2 Diameter 6 mm Depth M3 Shaft 40 Teeth Extra
+name_no_type: Pulley Gt2 2 Diameter 6 mm Depth M3 Shaft 40 Teeth Extra
+name_short: Pulley Gt2 2x6 M3 Shaft 40 Teeth Extra
+oomlout_detail_hierarchy_1: oobb
+oomlout_detail_hierarchy_1_upper: OOBB
+oomlout_detail_hierarchy_1_upper_length_4: OOBB
+oomlout_detail_hierarchy_2: part
+oomlout_detail_hierarchy_2_upper: PART
+oomlout_detail_hierarchy_2_upper_length_4: PART
+oomlout_detail_hierarchy_3: pulley_gt2
+oomlout_detail_hierarchy_3_upper: PULLEY_GT2
+oomlout_detail_hierarchy_3_upper_length_4: PULL
+oomlout_detail_hierarchy_4: 2_diameter
+oomlout_detail_hierarchy_4_upper: 2_DIAMETER
+oomlout_detail_hierarchy_4_upper_length_4: 2_DI
+oomlout_detail_hierarchy_5: 6_mm_depth
+oomlout_detail_hierarchy_5_upper: 6_MM_DEPTH
+oomlout_detail_hierarchy_5_upper_length_4: 6DEP
+oomlout_detail_hierarchy_6: m3_shaft_40_teeth_extra
+oomlout_detail_hierarchy_6_upper: M3_SHAFT_40_TEETH_EXTRA
+oomlout_detail_hierarchy_6_upper_length_4: M3_S
+oomlout_oomp_utility_custom_data_manipulation: true
+oomp_key: oomp_oobb_part_pulley_gt2_2_diameter_6_mm_depth_m3_shaft_40_teeth_extra
+oomp_word: bus alien cherries
+oomp_word_emoji: ':bus: :alien: :cherries:'
+oomp_word_emoji_list:
+- ':bus:'
+- ':alien:'
+- ':cherries:'
+oomp_word_list:
+- bus
+- alien
+- cherries
+part_number: ''
+part_number_name: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
+shaft: m3
+short_name: ''
+size: pulley_gt2
+size_length_1: p
+size_length_2: pu
+size_length_3: pul
+size_length_4: pull
+size_length_5: pulle
+size_length_6: pulley
+size_name: Pulley Gt2
+size_no_space_length_1: p
+size_no_space_length_2: pu
+size_no_space_length_3: pul
+size_no_space_length_4: pull
+size_no_space_length_5: pulle
+size_no_space_length_6: pulley
+size_no_space_upper_length_1: P
+size_no_space_upper_length_2: PU
+size_no_space_upper_length_3: PUL
+size_no_space_upper_length_4: PULL
+size_no_space_upper_length_5: PULLE
+size_no_space_upper_length_6: PULLEY
+size_upper_length_1: P
+size_upper_length_2: PU
+size_upper_length_3: PUL
+size_upper_length_4: PULL
+size_upper_length_5: PULLE
+size_upper_length_6: PULLEY
+thickness: 6
+thickness_mm: 6
+type: part
+type_length_1: p
+type_length_2: pa
+type_length_3: par
+type_length_4: part
+type_length_5: part
+type_length_6: part
+type_name: Part
+type_no_space_length_1: p
+type_no_space_length_2: pa
+type_no_space_length_3: par
+type_no_space_length_4: part
+type_no_space_length_5: part
+type_no_space_length_6: part
+type_no_space_upper_length_1: P
+type_no_space_upper_length_2: PA
+type_no_space_upper_length_3: PAR
+type_no_space_upper_length_4: PART
+type_no_space_upper_length_5: PART
+type_no_space_upper_length_6: PART
+type_upper_length_1: P
+type_upper_length_2: PA
+type_upper_length_3: PAR
+type_upper_length_4: PART
+type_upper_length_5: PART
+type_upper_length_6: PART

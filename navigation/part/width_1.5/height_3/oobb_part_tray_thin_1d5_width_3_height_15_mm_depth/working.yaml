@@ -1,0 +1,229 @@
+bip_39_word_dash_12: travel-dial-brain-book-gauge-vicious-aunt-clutch-mouse-guilt-steel-armor
+bip_39_word_dash_2: travel-dial
+bip_39_word_dash_3: travel-dial-brain
+bip_39_word_new_br_12: travel<br>dial<br>brain<br>book<br>gauge<br>vicious<br>aunt<br>clutch<br>mouse<br>guilt<br>steel<br>armor
+bip_39_word_new_br_2: travel<br>dial
+bip_39_word_new_br_3: travel<br>dial<br>brain
+bip_39_word_new_line_12: 'travel
+
+  dial
+
+  brain
+
+  book
+
+  gauge
+
+  vicious
+
+  aunt
+
+  clutch
+
+  mouse
+
+  guilt
+
+  steel
+
+  armor'
+bip_39_word_new_line_2: 'travel
+
+  dial'
+bip_39_word_new_line_3: 'travel
+
+  dial
+
+  brain'
+bip_39_word_no_space_12: traveldialbrainbookgaugeviciousauntclutchmouseguiltsteelarmor
+bip_39_word_no_space_2: traveldial
+bip_39_word_no_space_3: traveldialbrain
+bip_39_word_space_12: travel dial brain book gauge vicious aunt clutch mouse guilt
+  steel armor
+bip_39_word_space_2: travel dial
+bip_39_word_space_3: travel dial brain
+bip_39_word_underscore_12: travel_dial_brain_book_gauge_vicious_aunt_clutch_mouse_guilt_steel_armor
+bip_39_word_underscore_2: travel_dial
+bip_39_word_underscore_3: travel_dial_brain
+classification: oobb
+classification_length_1: o
+classification_length_2: oo
+classification_length_3: oob
+classification_length_4: oobb
+classification_length_5: oobb
+classification_length_6: oobb
+classification_name: Oobb
+classification_no_space_length_1: o
+classification_no_space_length_2: oo
+classification_no_space_length_3: oob
+classification_no_space_length_4: oobb
+classification_no_space_length_5: oobb
+classification_no_space_length_6: oobb
+classification_no_space_upper_length_1: O
+classification_no_space_upper_length_2: OO
+classification_no_space_upper_length_3: OOB
+classification_no_space_upper_length_4: OOBB
+classification_no_space_upper_length_5: OOBB
+classification_no_space_upper_length_6: OOBB
+classification_upper_length_1: O
+classification_upper_length_2: OO
+classification_upper_length_3: OOB
+classification_upper_length_4: OOBB
+classification_upper_length_5: OOBB
+classification_upper_length_6: OOBB
+color: ''
+color_name: ''
+components: []
+components_objects: []
+components_string: []
+description: tray thin 1.5x3x15
+description_extra: ''
+description_extra_name: ''
+description_main: 1.5_width_3_height_15_mm_depth
+description_main_length_1: '1'
+description_main_length_2: '1.'
+description_main_length_3: '1.5'
+description_main_length_4: '1.5_'
+description_main_length_5: 1.5_w
+description_main_length_6: 1.5_wi
+description_main_name: 1.5 Width 3 Height 15 mm Depth
+description_main_no_space_length_1: '1'
+description_main_no_space_length_2: '1.'
+description_main_no_space_length_3: '1.5'
+description_main_no_space_length_4: 1.5w
+description_main_no_space_length_5: 1.5wi
+description_main_no_space_length_6: 1.5wid
+description_main_no_space_upper_length_1: '1'
+description_main_no_space_upper_length_2: '1.'
+description_main_no_space_upper_length_3: '1.5'
+description_main_no_space_upper_length_4: 1.5W
+description_main_no_space_upper_length_5: 1.5WI
+description_main_no_space_upper_length_6: 1.5WID
+description_main_upper_length_1: '1'
+description_main_upper_length_2: '1.'
+description_main_upper_length_3: '1.5'
+description_main_upper_length_4: '1.5_'
+description_main_upper_length_5: 1.5_W
+description_main_upper_length_6: 1.5_WI
+directory: parts/oobb_part_tray_thin_1d5_width_3_height_15_mm_depth
+folder: C:\gh\oomlout_oobb_version_4_generated_parts\parts\oobb_part_tray_thin_1d5_width_3_height_15_mm_depth
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_1d5_width_3_height_15_mm_depth
+height: 3
+height_mm: 44
+id: oobb_part_tray_thin_1d5_width_3_height_15_mm_depth
+id_no_class: part_tray_thin_1d5_width_3_height_15_mm_depth
+id_no_color: 1d5width3height15mmdepth
+id_no_size: 1d5_width_3_height_15_mm_depth
+id_no_type: tray_thin_1d5_width_3_height_15_mm_depth
+link_1: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/tray_thin/1.5_width_3_height_15_mm_depth/part
+link_1_name: link_main
+link_main: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/tray_thin/1.5_width_3_height_15_mm_depth/part
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%207h849
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%207h849
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%207h849
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%207h849
+link_redirect: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/parts/oobb_tray_thin_1d5_03_15
+manufacturer: ''
+manufacturer_name: ''
+md5: bfaa59ec852c81ebce30419835cf473c
+md5_10: bfaa59ec85
+md5_10_upper: BFAA59EC85
+md5_5: bfaa5
+md5_5_upper: BFAA5
+md5_6: bfaa59
+md5_6_alpha: 7h849
+md5_6_alpha_upper: 7H849
+md5_6_upper: BFAA59
+name: Oobb Part Tray Thin 1D5 Width 3 Height 15 mm Depth
+name_no_class: Part Tray Thin 1D5 Width 3 Height 15 mm Depth
+name_no_color: 1D5Width3Height15mmdepth
+name_no_size: 1D5 Width 3 Height 15 mm Depth
+name_no_type: Tray Thin 1D5 Width 3 Height 15 mm Depth
+name_short: 'Tray Thin 1D5x3x15 '
+oomlout_detail_hierarchy_1: oobb
+oomlout_detail_hierarchy_1_upper: OOBB
+oomlout_detail_hierarchy_1_upper_length_4: OOBB
+oomlout_detail_hierarchy_2: part
+oomlout_detail_hierarchy_2_upper: PART
+oomlout_detail_hierarchy_2_upper_length_4: PART
+oomlout_detail_hierarchy_3: tray_thin
+oomlout_detail_hierarchy_3_upper: TRAY_THIN
+oomlout_detail_hierarchy_3_upper_length_4: TRAY
+oomlout_detail_hierarchy_4: 15_mm_depth
+oomlout_detail_hierarchy_4_upper: 15_MM_DEPTH
+oomlout_detail_hierarchy_4_upper_length_4: 15DE
+oomlout_oomp_utility_custom_data_manipulation: true
+oomp_key: oomp_oobb_part_tray_thin_1d5_width_3_height_15_mm_depth
+oomp_word: egg lipstick dragon
+oomp_word_emoji: ':egg: :lipstick: :dragon:'
+oomp_word_emoji_list:
+- ':egg:'
+- ':lipstick:'
+- ':dragon:'
+oomp_word_list:
+- egg
+- lipstick
+- dragon
+part_number: ''
+part_number_name: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
+short_name: ''
+size: tray_thin
+size_length_1: t
+size_length_2: tr
+size_length_3: tra
+size_length_4: tray
+size_length_5: tray_
+size_length_6: tray_t
+size_name: Tray Thin
+size_no_space_length_1: t
+size_no_space_length_2: tr
+size_no_space_length_3: tra
+size_no_space_length_4: tray
+size_no_space_length_5: trayt
+size_no_space_length_6: trayth
+size_no_space_upper_length_1: T
+size_no_space_upper_length_2: TR
+size_no_space_upper_length_3: TRA
+size_no_space_upper_length_4: TRAY
+size_no_space_upper_length_5: TRAYT
+size_no_space_upper_length_6: TRAYTH
+size_upper_length_1: T
+size_upper_length_2: TR
+size_upper_length_3: TRA
+size_upper_length_4: TRAY
+size_upper_length_5: TRAY_
+size_upper_length_6: TRAY_T
+thickness: 15
+thickness_mm: 15
+type: part
+type_length_1: p
+type_length_2: pa
+type_length_3: par
+type_length_4: part
+type_length_5: part
+type_length_6: part
+type_name: Part
+type_no_space_length_1: p
+type_no_space_length_2: pa
+type_no_space_length_3: par
+type_no_space_length_4: part
+type_no_space_length_5: part
+type_no_space_length_6: part
+type_no_space_upper_length_1: P
+type_no_space_upper_length_2: PA
+type_no_space_upper_length_3: PAR
+type_no_space_upper_length_4: PART
+type_no_space_upper_length_5: PART
+type_no_space_upper_length_6: PART
+type_upper_length_1: P
+type_upper_length_2: PA
+type_upper_length_3: PAR
+type_upper_length_4: PART
+type_upper_length_5: PART
+type_upper_length_6: PART
+width: 1.5
+width_mm: 21.5

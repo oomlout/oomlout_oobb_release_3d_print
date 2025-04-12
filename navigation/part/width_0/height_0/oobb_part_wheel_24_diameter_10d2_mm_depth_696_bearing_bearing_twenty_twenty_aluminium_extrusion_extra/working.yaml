@@ -1,0 +1,265 @@
+bearing: '696'
+bip_39_word_dash_12: pistol-elbow-illegal-action-harbor-wrestle-spare-depart-only-lawsuit-coast-add
+bip_39_word_dash_2: pistol-elbow
+bip_39_word_dash_3: pistol-elbow-illegal
+bip_39_word_new_br_12: pistol<br>elbow<br>illegal<br>action<br>harbor<br>wrestle<br>spare<br>depart<br>only<br>lawsuit<br>coast<br>add
+bip_39_word_new_br_2: pistol<br>elbow
+bip_39_word_new_br_3: pistol<br>elbow<br>illegal
+bip_39_word_new_line_12: 'pistol
+
+  elbow
+
+  illegal
+
+  action
+
+  harbor
+
+  wrestle
+
+  spare
+
+  depart
+
+  only
+
+  lawsuit
+
+  coast
+
+  add'
+bip_39_word_new_line_2: 'pistol
+
+  elbow'
+bip_39_word_new_line_3: 'pistol
+
+  elbow
+
+  illegal'
+bip_39_word_no_space_12: pistolelbowillegalactionharborwrestlesparedepartonlylawsuitcoastadd
+bip_39_word_no_space_2: pistolelbow
+bip_39_word_no_space_3: pistolelbowillegal
+bip_39_word_space_12: pistol elbow illegal action harbor wrestle spare depart only
+  lawsuit coast add
+bip_39_word_space_2: pistol elbow
+bip_39_word_space_3: pistol elbow illegal
+bip_39_word_underscore_12: pistol_elbow_illegal_action_harbor_wrestle_spare_depart_only_lawsuit_coast_add
+bip_39_word_underscore_2: pistol_elbow
+bip_39_word_underscore_3: pistol_elbow_illegal
+classification: oobb
+classification_length_1: o
+classification_length_2: oo
+classification_length_3: oob
+classification_length_4: oobb
+classification_length_5: oobb
+classification_length_6: oobb
+classification_name: Oobb
+classification_no_space_length_1: o
+classification_no_space_length_2: oo
+classification_no_space_length_3: oob
+classification_no_space_length_4: oobb
+classification_no_space_length_5: oobb
+classification_no_space_length_6: oobb
+classification_no_space_upper_length_1: O
+classification_no_space_upper_length_2: OO
+classification_no_space_upper_length_3: OOB
+classification_no_space_upper_length_4: OOBB
+classification_no_space_upper_length_5: OOBB
+classification_no_space_upper_length_6: OOBB
+classification_upper_length_1: O
+classification_upper_length_2: OO
+classification_upper_length_3: OOB
+classification_upper_length_4: OOBB
+classification_upper_length_5: OOBB
+classification_upper_length_6: OOBB
+color: ''
+color_name: ''
+components: []
+components_objects: []
+components_string: []
+description: wheel 0x0x10.2
+description_extra: 696_bearing_bearing_twenty_twenty_aluminium_extrusion_extra
+description_extra_length_1: '6'
+description_extra_length_2: '69'
+description_extra_length_3: '696'
+description_extra_length_4: '696_'
+description_extra_length_5: 696_b
+description_extra_length_6: 696_be
+description_extra_name: 696 Bearing Bearing Twenty Twenty Aluminium Extrusion Extra
+description_extra_no_space_length_1: '6'
+description_extra_no_space_length_2: '69'
+description_extra_no_space_length_3: '696'
+description_extra_no_space_length_4: 696b
+description_extra_no_space_length_5: 696be
+description_extra_no_space_length_6: 696bea
+description_extra_no_space_upper_length_1: '6'
+description_extra_no_space_upper_length_2: '69'
+description_extra_no_space_upper_length_3: '696'
+description_extra_no_space_upper_length_4: 696B
+description_extra_no_space_upper_length_5: 696BE
+description_extra_no_space_upper_length_6: 696BEA
+description_extra_upper_length_1: '6'
+description_extra_upper_length_2: '69'
+description_extra_upper_length_3: '696'
+description_extra_upper_length_4: '696_'
+description_extra_upper_length_5: 696_B
+description_extra_upper_length_6: 696_BE
+description_main: 24_diameter_10.2_mm_depth
+description_main_length_1: '2'
+description_main_length_2: '24'
+description_main_length_3: '24_'
+description_main_length_4: 24_d
+description_main_length_5: 24_di
+description_main_length_6: 24_dia
+description_main_name: 24 Diameter 10.2 mm Depth
+description_main_no_space_length_1: '2'
+description_main_no_space_length_2: '24'
+description_main_no_space_length_3: 24d
+description_main_no_space_length_4: 24di
+description_main_no_space_length_5: 24dia
+description_main_no_space_length_6: 24diam
+description_main_no_space_upper_length_1: '2'
+description_main_no_space_upper_length_2: '24'
+description_main_no_space_upper_length_3: 24D
+description_main_no_space_upper_length_4: 24DI
+description_main_no_space_upper_length_5: 24DIA
+description_main_no_space_upper_length_6: 24DIAM
+description_main_upper_length_1: '2'
+description_main_upper_length_2: '24'
+description_main_upper_length_3: '24_'
+description_main_upper_length_4: 24_D
+description_main_upper_length_5: 24_DI
+description_main_upper_length_6: 24_DIA
+diameter: 24
+directory: parts/oobb_part_wheel_24_diameter_10d2_mm_depth_696_bearing_bearing_twenty_twenty_aluminium_extrusion_extra
+extra: bearing_twenty_twenty_aluminium_extrusion
+folder: C:\gh\oomlout_oobb_version_4_generated_parts\parts\oobb_part_wheel_24_diameter_10d2_mm_depth_696_bearing_bearing_twenty_twenty_aluminium_extrusion_extra
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_wheel_24_diameter_10d2_mm_depth_696_bearing_bearing_twenty_twenty_aluminium_extrusion_extra
+id: oobb_part_wheel_24_diameter_10d2_mm_depth_696_bearing_bearing_twenty_twenty_aluminium_extrusion_extra
+id_no_class: part_wheel_24_diameter_10d2_mm_depth_696_bearing_bearing_twenty_twenty_aluminium_extrusion_extra
+id_no_color: 24diameter10d2mmdepth696bearingbearingtwentytwentyaluminiumextrusionextra
+id_no_size: 24_diameter_10d2_mm_depth_696_bearing_bearing_twenty_twenty_aluminium_extrusion_extra
+id_no_type: wheel_24_diameter_10d2_mm_depth_696_bearing_bearing_twenty_twenty_aluminium_extrusion_extra
+link_1: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/wheel/24_diameter_10.2_mm_depth/696_bearing_bearing_twenty_twenty_aluminium_extrusion_extra/part
+link_1_name: link_main
+link_main: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/wheel/24_diameter_10.2_mm_depth/696_bearing_bearing_twenty_twenty_aluminium_extrusion_extra/part
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%201yq3j
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%201yq3j
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%201yq3j
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%201yq3j
+link_redirect: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/parts/oobb_wheel_24_10d2_696_ex_bearing_twenty_twenty_aluminium_extrusion
+manufacturer: ''
+manufacturer_name: ''
+md5: 32599f8cd83ada0ff9348028e211cd2b
+md5_10: 32599f8cd8
+md5_10_upper: 32599F8CD8
+md5_5: '32599'
+md5_5_upper: '32599'
+md5_6: 32599f
+md5_6_alpha: 1yq3j
+md5_6_alpha_upper: 1YQ3J
+md5_6_upper: 32599F
+name: Oobb Part Wheel 24 Diameter 10D2 mm Depth 696 Bearing Bearing Twenty Twenty
+  Aluminium Extrusion Extra
+name_no_class: Part Wheel 24 Diameter 10D2 mm Depth 696 Bearing Bearing Twenty Twenty
+  Aluminium Extrusion Extra
+name_no_color: 24Diameter10D2mmdepth696Bearingbearingtwentytwentyaluminiumextrusionextra
+name_no_size: 24 Diameter 10D2 mm Depth 696 Bearing Bearing Twenty Twenty Aluminium
+  Extrusion Extra
+name_no_type: Wheel 24 Diameter 10D2 mm Depth 696 Bearing Bearing Twenty Twenty Aluminium
+  Extrusion Extra
+name_short: Wheel 24x10D2 696 Bearing Bearing
+oomlout_detail_hierarchy_1: oobb
+oomlout_detail_hierarchy_1_upper: OOBB
+oomlout_detail_hierarchy_1_upper_length_4: OOBB
+oomlout_detail_hierarchy_2: part
+oomlout_detail_hierarchy_2_upper: PART
+oomlout_detail_hierarchy_2_upper_length_4: PART
+oomlout_detail_hierarchy_3: wheel
+oomlout_detail_hierarchy_3_upper: WHEEL
+oomlout_detail_hierarchy_3_upper_length_4: WHEE
+oomlout_detail_hierarchy_4: 24_diameter
+oomlout_detail_hierarchy_4_upper: 24_DIAMETER
+oomlout_detail_hierarchy_4_upper_length_4: 24_D
+oomlout_detail_hierarchy_5: 2_mm_depth
+oomlout_detail_hierarchy_5_upper: 2_MM_DEPTH
+oomlout_detail_hierarchy_5_upper_length_4: 2DEP
+oomlout_detail_hierarchy_6: 696_bearing_bearing_twenty
+oomlout_detail_hierarchy_6_upper: 696_BEARING_BEARING_TWENTY
+oomlout_detail_hierarchy_6_upper_length_4: '696_'
+oomlout_detail_hierarchy_7: twenty_aluminium_extrusion_extra
+oomlout_detail_hierarchy_7_upper: TWENTY_ALUMINIUM_EXTRUSION_EXTRA
+oomlout_detail_hierarchy_7_upper_length_4: TWEN
+oomlout_oomp_utility_custom_data_manipulation: true
+oomp_key: oomp_oobb_part_wheel_24_diameter_10d2_mm_depth_696_bearing_bearing_twenty_twenty_aluminium_extrusion_extra
+oomp_word: cat dragon diamonds
+oomp_word_emoji: ':cat: :dragon: :diamonds:'
+oomp_word_emoji_list:
+- ':cat:'
+- ':dragon:'
+- ':diamonds:'
+oomp_word_list:
+- cat
+- dragon
+- diamonds
+part_number: ''
+part_number_name: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
+short_name: ''
+size: wheel
+size_length_1: w
+size_length_2: wh
+size_length_3: whe
+size_length_4: whee
+size_length_5: wheel
+size_length_6: wheel
+size_name: Wheel
+size_no_space_length_1: w
+size_no_space_length_2: wh
+size_no_space_length_3: whe
+size_no_space_length_4: whee
+size_no_space_length_5: wheel
+size_no_space_length_6: wheel
+size_no_space_upper_length_1: W
+size_no_space_upper_length_2: WH
+size_no_space_upper_length_3: WHE
+size_no_space_upper_length_4: WHEE
+size_no_space_upper_length_5: WHEEL
+size_no_space_upper_length_6: WHEEL
+size_upper_length_1: W
+size_upper_length_2: WH
+size_upper_length_3: WHE
+size_upper_length_4: WHEE
+size_upper_length_5: WHEEL
+size_upper_length_6: WHEEL
+thickness: 10.2
+thickness_mm: 10.2
+type: part
+type_length_1: p
+type_length_2: pa
+type_length_3: par
+type_length_4: part
+type_length_5: part
+type_length_6: part
+type_name: Part
+type_no_space_length_1: p
+type_no_space_length_2: pa
+type_no_space_length_3: par
+type_no_space_length_4: part
+type_no_space_length_5: part
+type_no_space_length_6: part
+type_no_space_upper_length_1: P
+type_no_space_upper_length_2: PA
+type_no_space_upper_length_3: PAR
+type_no_space_upper_length_4: PART
+type_no_space_upper_length_5: PART
+type_no_space_upper_length_6: PART
+type_upper_length_1: P
+type_upper_length_2: PA
+type_upper_length_3: PAR
+type_upper_length_4: PART
+type_upper_length_5: PART
+type_upper_length_6: PART

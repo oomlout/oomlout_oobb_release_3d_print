@@ -1,0 +1,224 @@
+bip_39_word_dash_12: text-drastic-film-warfare-rail-canal-ankle-category-correct-dawn-section-amused
+bip_39_word_dash_2: text-drastic
+bip_39_word_dash_3: text-drastic-film
+bip_39_word_new_br_12: text<br>drastic<br>film<br>warfare<br>rail<br>canal<br>ankle<br>category<br>correct<br>dawn<br>section<br>amused
+bip_39_word_new_br_2: text<br>drastic
+bip_39_word_new_br_3: text<br>drastic<br>film
+bip_39_word_new_line_12: 'text
+
+  drastic
+
+  film
+
+  warfare
+
+  rail
+
+  canal
+
+  ankle
+
+  category
+
+  correct
+
+  dawn
+
+  section
+
+  amused'
+bip_39_word_new_line_2: 'text
+
+  drastic'
+bip_39_word_new_line_3: 'text
+
+  drastic
+
+  film'
+bip_39_word_no_space_12: textdrasticfilmwarfarerailcanalanklecategorycorrectdawnsectionamused
+bip_39_word_no_space_2: textdrastic
+bip_39_word_no_space_3: textdrasticfilm
+bip_39_word_space_12: text drastic film warfare rail canal ankle category correct
+  dawn section amused
+bip_39_word_space_2: text drastic
+bip_39_word_space_3: text drastic film
+bip_39_word_underscore_12: text_drastic_film_warfare_rail_canal_ankle_category_correct_dawn_section_amused
+bip_39_word_underscore_2: text_drastic
+bip_39_word_underscore_3: text_drastic_film
+classification: oobb
+classification_length_1: o
+classification_length_2: oo
+classification_length_3: oob
+classification_length_4: oobb
+classification_length_5: oobb
+classification_length_6: oobb
+classification_name: Oobb
+classification_no_space_length_1: o
+classification_no_space_length_2: oo
+classification_no_space_length_3: oob
+classification_no_space_length_4: oobb
+classification_no_space_length_5: oobb
+classification_no_space_length_6: oobb
+classification_no_space_upper_length_1: O
+classification_no_space_upper_length_2: OO
+classification_no_space_upper_length_3: OOB
+classification_no_space_upper_length_4: OOBB
+classification_no_space_upper_length_5: OOBB
+classification_no_space_upper_length_6: OOBB
+classification_upper_length_1: O
+classification_upper_length_2: OO
+classification_upper_length_3: OOB
+classification_upper_length_4: OOBB
+classification_upper_length_5: OOBB
+classification_upper_length_6: OOBB
+color: ''
+color_name: ''
+components: []
+components_objects: []
+components_string: []
+description: nut 0x0x0
+description_extra: m8_radius_name
+description_extra_length_1: m
+description_extra_length_2: m8
+description_extra_length_3: m8_
+description_extra_length_4: m8_r
+description_extra_length_5: m8_ra
+description_extra_length_6: m8_rad
+description_extra_name: M8 Radius Name
+description_extra_no_space_length_1: m
+description_extra_no_space_length_2: m8
+description_extra_no_space_length_3: m8r
+description_extra_no_space_length_4: m8ra
+description_extra_no_space_length_5: m8rad
+description_extra_no_space_length_6: m8radi
+description_extra_no_space_upper_length_1: M
+description_extra_no_space_upper_length_2: M8
+description_extra_no_space_upper_length_3: M8R
+description_extra_no_space_upper_length_4: M8RA
+description_extra_no_space_upper_length_5: M8RAD
+description_extra_no_space_upper_length_6: M8RADI
+description_extra_upper_length_1: M
+description_extra_upper_length_2: M8
+description_extra_upper_length_3: M8_
+description_extra_upper_length_4: M8_R
+description_extra_upper_length_5: M8_RA
+description_extra_upper_length_6: M8_RAD
+description_main: ''
+description_main_name: ''
+directory: parts/oobb_part_nut_m8_radius_name
+folder: C:\gh\oomlout_oobb_version_4_generated_parts\parts\oobb_part_nut_m8_radius_name
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_nut_m8_radius_name
+id: oobb_part_nut_m8_radius_name
+id_no_class: part_nut_m8_radius_name
+id_no_color: m8radiusname
+id_no_size: m8_radius_name
+id_no_type: nut_m8_radius_name
+link_1: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/nut//m8_radius_name/part
+link_1_name: link_main
+link_main: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/nut//m8_radius_name/part
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2054qq5
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2054qq5
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%2054qq5
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2054qq5
+link_redirect: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/parts/hardware_nut_m8
+manufacturer: ''
+manufacturer_name: ''
+md5: 83854df98424212484587f70ac9096fd
+md5_10: 83854df984
+md5_10_upper: 83854DF984
+md5_5: '83854'
+md5_5_upper: '83854'
+md5_6: 83854d
+md5_6_alpha: 54qq5
+md5_6_alpha_upper: 54QQ5
+md5_6_upper: 83854D
+name: Oobb Part Nut M8 Radius Name
+name_no_class: Part Nut M8 Radius Name
+name_no_color: M8Radiusname
+name_no_size: M8 Radius Name
+name_no_type: Nut M8 Radius Name
+name_short: Nut M8 Radius Name
+oomlout_detail_hierarchy_1: oobb
+oomlout_detail_hierarchy_1_upper: OOBB
+oomlout_detail_hierarchy_1_upper_length_4: OOBB
+oomlout_detail_hierarchy_2: part
+oomlout_detail_hierarchy_2_upper: PART
+oomlout_detail_hierarchy_2_upper_length_4: PART
+oomlout_detail_hierarchy_3: nut
+oomlout_detail_hierarchy_3_upper: NUT
+oomlout_detail_hierarchy_3_upper_length_4: NUT
+oomlout_detail_hierarchy_4: m8_radius_name
+oomlout_detail_hierarchy_4_upper: M8_RADIUS_NAME
+oomlout_detail_hierarchy_4_upper_length_4: M8_R
+oomlout_oomp_utility_custom_data_manipulation: true
+oomp_key: oomp_oobb_part_nut_m8_radius_name
+oomp_word: lock bulb bug
+oomp_word_emoji: ':lock: :bulb: :bug:'
+oomp_word_emoji_list:
+- ':lock:'
+- ':bulb:'
+- ':bug:'
+oomp_word_list:
+- lock
+- bulb
+- bug
+part_number: ''
+part_number_name: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
+radius_name: m8
+short_name: ''
+size: nut
+size_length_1: n
+size_length_2: nu
+size_length_3: nut
+size_length_4: nut
+size_length_5: nut
+size_length_6: nut
+size_name: Nut
+size_no_space_length_1: n
+size_no_space_length_2: nu
+size_no_space_length_3: nut
+size_no_space_length_4: nut
+size_no_space_length_5: nut
+size_no_space_length_6: nut
+size_no_space_upper_length_1: N
+size_no_space_upper_length_2: NU
+size_no_space_upper_length_3: NUT
+size_no_space_upper_length_4: NUT
+size_no_space_upper_length_5: NUT
+size_no_space_upper_length_6: NUT
+size_upper_length_1: N
+size_upper_length_2: NU
+size_upper_length_3: NUT
+size_upper_length_4: NUT
+size_upper_length_5: NUT
+size_upper_length_6: NUT
+type: part
+type_length_1: p
+type_length_2: pa
+type_length_3: par
+type_length_4: part
+type_length_5: part
+type_length_6: part
+type_name: Part
+type_no_space_length_1: p
+type_no_space_length_2: pa
+type_no_space_length_3: par
+type_no_space_length_4: part
+type_no_space_length_5: part
+type_no_space_length_6: part
+type_no_space_upper_length_1: P
+type_no_space_upper_length_2: PA
+type_no_space_upper_length_3: PAR
+type_no_space_upper_length_4: PART
+type_no_space_upper_length_5: PART
+type_no_space_upper_length_6: PART
+type_upper_length_1: P
+type_upper_length_2: PA
+type_upper_length_3: PAR
+type_upper_length_4: PART
+type_upper_length_5: PART
+type_upper_length_6: PART

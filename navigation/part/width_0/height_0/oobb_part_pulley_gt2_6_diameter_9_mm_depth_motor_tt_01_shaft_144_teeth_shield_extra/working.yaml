@@ -1,0 +1,264 @@
+bip_39_word_dash_12: liquid-can-wonder-distance-dust-voice-own-slam-page-pear-drop-average
+bip_39_word_dash_2: liquid-can
+bip_39_word_dash_3: liquid-can-wonder
+bip_39_word_new_br_12: liquid<br>can<br>wonder<br>distance<br>dust<br>voice<br>own<br>slam<br>page<br>pear<br>drop<br>average
+bip_39_word_new_br_2: liquid<br>can
+bip_39_word_new_br_3: liquid<br>can<br>wonder
+bip_39_word_new_line_12: 'liquid
+
+  can
+
+  wonder
+
+  distance
+
+  dust
+
+  voice
+
+  own
+
+  slam
+
+  page
+
+  pear
+
+  drop
+
+  average'
+bip_39_word_new_line_2: 'liquid
+
+  can'
+bip_39_word_new_line_3: 'liquid
+
+  can
+
+  wonder'
+bip_39_word_no_space_12: liquidcanwonderdistancedustvoiceownslampagepeardropaverage
+bip_39_word_no_space_2: liquidcan
+bip_39_word_no_space_3: liquidcanwonder
+bip_39_word_space_12: liquid can wonder distance dust voice own slam page pear drop
+  average
+bip_39_word_space_2: liquid can
+bip_39_word_space_3: liquid can wonder
+bip_39_word_underscore_12: liquid_can_wonder_distance_dust_voice_own_slam_page_pear_drop_average
+bip_39_word_underscore_2: liquid_can
+bip_39_word_underscore_3: liquid_can_wonder
+classification: oobb
+classification_length_1: o
+classification_length_2: oo
+classification_length_3: oob
+classification_length_4: oobb
+classification_length_5: oobb
+classification_length_6: oobb
+classification_name: Oobb
+classification_no_space_length_1: o
+classification_no_space_length_2: oo
+classification_no_space_length_3: oob
+classification_no_space_length_4: oobb
+classification_no_space_length_5: oobb
+classification_no_space_length_6: oobb
+classification_no_space_upper_length_1: O
+classification_no_space_upper_length_2: OO
+classification_no_space_upper_length_3: OOB
+classification_no_space_upper_length_4: OOBB
+classification_no_space_upper_length_5: OOBB
+classification_no_space_upper_length_6: OOBB
+classification_upper_length_1: O
+classification_upper_length_2: OO
+classification_upper_length_3: OOB
+classification_upper_length_4: OOBB
+classification_upper_length_5: OOBB
+classification_upper_length_6: OOBB
+color: ''
+color_name: ''
+components: []
+components_objects: []
+components_string: []
+description: pulley gt2 0x0x9
+description_extra: motor_tt_01_shaft_144_teeth_shield_extra
+description_extra_length_1: m
+description_extra_length_2: mo
+description_extra_length_3: mot
+description_extra_length_4: moto
+description_extra_length_5: motor
+description_extra_length_6: motor_
+description_extra_name: Motor Tt 01 Shaft 144 Teeth Shield Extra
+description_extra_no_space_length_1: m
+description_extra_no_space_length_2: mo
+description_extra_no_space_length_3: mot
+description_extra_no_space_length_4: moto
+description_extra_no_space_length_5: motor
+description_extra_no_space_length_6: motort
+description_extra_no_space_upper_length_1: M
+description_extra_no_space_upper_length_2: MO
+description_extra_no_space_upper_length_3: MOT
+description_extra_no_space_upper_length_4: MOTO
+description_extra_no_space_upper_length_5: MOTOR
+description_extra_no_space_upper_length_6: MOTORT
+description_extra_upper_length_1: M
+description_extra_upper_length_2: MO
+description_extra_upper_length_3: MOT
+description_extra_upper_length_4: MOTO
+description_extra_upper_length_5: MOTOR
+description_extra_upper_length_6: MOTOR_
+description_main: 6_diameter_9_mm_depth
+description_main_length_1: '6'
+description_main_length_2: '6_'
+description_main_length_3: 6_d
+description_main_length_4: 6_di
+description_main_length_5: 6_dia
+description_main_length_6: 6_diam
+description_main_name: 6 Diameter 9 mm Depth
+description_main_no_space_length_1: '6'
+description_main_no_space_length_2: 6d
+description_main_no_space_length_3: 6di
+description_main_no_space_length_4: 6dia
+description_main_no_space_length_5: 6diam
+description_main_no_space_length_6: 6diame
+description_main_no_space_upper_length_1: '6'
+description_main_no_space_upper_length_2: 6D
+description_main_no_space_upper_length_3: 6DI
+description_main_no_space_upper_length_4: 6DIA
+description_main_no_space_upper_length_5: 6DIAM
+description_main_no_space_upper_length_6: 6DIAME
+description_main_upper_length_1: '6'
+description_main_upper_length_2: '6_'
+description_main_upper_length_3: 6_D
+description_main_upper_length_4: 6_DI
+description_main_upper_length_5: 6_DIA
+description_main_upper_length_6: 6_DIAM
+diameter: 6
+directory: parts/oobb_part_pulley_gt2_6_diameter_9_mm_depth_motor_tt_01_shaft_144_teeth_shield_extra
+extra: 144_teeth_shield
+folder: C:\gh\oomlout_oobb_version_4_generated_parts\parts\oobb_part_pulley_gt2_6_diameter_9_mm_depth_motor_tt_01_shaft_144_teeth_shield_extra
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_pulley_gt2_6_diameter_9_mm_depth_motor_tt_01_shaft_144_teeth_shield_extra
+id: oobb_part_pulley_gt2_6_diameter_9_mm_depth_motor_tt_01_shaft_144_teeth_shield_extra
+id_no_class: part_pulley_gt2_6_diameter_9_mm_depth_motor_tt_01_shaft_144_teeth_shield_extra
+id_no_color: 6diameter9mmdepthmotortt01shaft144teethshieldextra
+id_no_size: 6_diameter_9_mm_depth_motor_tt_01_shaft_144_teeth_shield_extra
+id_no_type: pulley_gt2_6_diameter_9_mm_depth_motor_tt_01_shaft_144_teeth_shield_extra
+link_1: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/pulley_gt2/6_diameter_9_mm_depth/motor_tt_01_shaft_144_teeth_shield_extra/part
+link_1_name: link_main
+link_main: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/pulley_gt2/6_diameter_9_mm_depth/motor_tt_01_shaft_144_teeth_shield_extra/part
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%209uprc
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%209uprc
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%209uprc
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%209uprc
+link_redirect: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/parts/oobb_pulley_gt2_06_09_ex_144_teeth_shield_sh_motor_tt_01
+manufacturer: ''
+manufacturer_name: ''
+md5: fc86e884f7cb13c3d5a223fbfa083c12
+md5_10: fc86e884f7
+md5_10_upper: FC86E884F7
+md5_5: fc86e
+md5_5_upper: FC86E
+md5_6: fc86e8
+md5_6_alpha: 9uprc
+md5_6_alpha_upper: 9UPRC
+md5_6_upper: FC86E8
+name: Oobb Part Pulley Gt2 6 Diameter 9 mm Depth Motor Tt 01 Shaft 144 Teeth Shield
+  Extra
+name_no_class: Part Pulley Gt2 6 Diameter 9 mm Depth Motor Tt 01 Shaft 144 Teeth Shield
+  Extra
+name_no_color: 6Diameter9mmdepthmotortt01Shaft144Teethshieldextra
+name_no_size: 6 Diameter 9 mm Depth Motor Tt 01 Shaft 144 Teeth Shield Extra
+name_no_type: Pulley Gt2 6 Diameter 9 mm Depth Motor Tt 01 Shaft 144 Teeth Shield
+  Extra
+name_short: Pulley Gt2 6x9 Motor Tt 01 Shaft 144
+oomlout_detail_hierarchy_1: oobb
+oomlout_detail_hierarchy_1_upper: OOBB
+oomlout_detail_hierarchy_1_upper_length_4: OOBB
+oomlout_detail_hierarchy_2: part
+oomlout_detail_hierarchy_2_upper: PART
+oomlout_detail_hierarchy_2_upper_length_4: PART
+oomlout_detail_hierarchy_3: pulley_gt2
+oomlout_detail_hierarchy_3_upper: PULLEY_GT2
+oomlout_detail_hierarchy_3_upper_length_4: PULL
+oomlout_detail_hierarchy_4: 6_diameter
+oomlout_detail_hierarchy_4_upper: 6_DIAMETER
+oomlout_detail_hierarchy_4_upper_length_4: 6_DI
+oomlout_detail_hierarchy_5: 9_mm_depth
+oomlout_detail_hierarchy_5_upper: 9_MM_DEPTH
+oomlout_detail_hierarchy_5_upper_length_4: 9DEP
+oomlout_detail_hierarchy_6: motor_tt_01_shaft
+oomlout_detail_hierarchy_6_upper: MOTOR_TT_01_SHAFT
+oomlout_detail_hierarchy_6_upper_length_4: MOTO
+oomlout_detail_hierarchy_7: 144_teeth_shield_extra
+oomlout_detail_hierarchy_7_upper: 144_TEETH_SHIELD_EXTRA
+oomlout_detail_hierarchy_7_upper_length_4: '144_'
+oomlout_oomp_utility_custom_data_manipulation: true
+oomp_key: oomp_oobb_part_pulley_gt2_6_diameter_9_mm_depth_motor_tt_01_shaft_144_teeth_shield_extra
+oomp_word: up bath tram
+oomp_word_emoji: ':up: :bath: :tram:'
+oomp_word_emoji_list:
+- ':up:'
+- ':bath:'
+- ':tram:'
+oomp_word_list:
+- up
+- bath
+- tram
+part_number: ''
+part_number_name: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
+shaft: motor_tt_01
+short_name: ''
+size: pulley_gt2
+size_length_1: p
+size_length_2: pu
+size_length_3: pul
+size_length_4: pull
+size_length_5: pulle
+size_length_6: pulley
+size_name: Pulley Gt2
+size_no_space_length_1: p
+size_no_space_length_2: pu
+size_no_space_length_3: pul
+size_no_space_length_4: pull
+size_no_space_length_5: pulle
+size_no_space_length_6: pulley
+size_no_space_upper_length_1: P
+size_no_space_upper_length_2: PU
+size_no_space_upper_length_3: PUL
+size_no_space_upper_length_4: PULL
+size_no_space_upper_length_5: PULLE
+size_no_space_upper_length_6: PULLEY
+size_upper_length_1: P
+size_upper_length_2: PU
+size_upper_length_3: PUL
+size_upper_length_4: PULL
+size_upper_length_5: PULLE
+size_upper_length_6: PULLEY
+thickness: 9
+thickness_mm: 9
+type: part
+type_length_1: p
+type_length_2: pa
+type_length_3: par
+type_length_4: part
+type_length_5: part
+type_length_6: part
+type_name: Part
+type_no_space_length_1: p
+type_no_space_length_2: pa
+type_no_space_length_3: par
+type_no_space_length_4: part
+type_no_space_length_5: part
+type_no_space_length_6: part
+type_no_space_upper_length_1: P
+type_no_space_upper_length_2: PA
+type_no_space_upper_length_3: PAR
+type_no_space_upper_length_4: PART
+type_no_space_upper_length_5: PART
+type_no_space_upper_length_6: PART
+type_upper_length_1: P
+type_upper_length_2: PA
+type_upper_length_3: PAR
+type_upper_length_4: PART
+type_upper_length_5: PART
+type_upper_length_6: PART

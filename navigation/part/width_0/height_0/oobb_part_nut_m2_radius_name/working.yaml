@@ -1,0 +1,224 @@
+bip_39_word_dash_12: frozen-drop-park-island-kingdom-message-drift-debris-unique-guess-wood-arch
+bip_39_word_dash_2: frozen-drop
+bip_39_word_dash_3: frozen-drop-park
+bip_39_word_new_br_12: frozen<br>drop<br>park<br>island<br>kingdom<br>message<br>drift<br>debris<br>unique<br>guess<br>wood<br>arch
+bip_39_word_new_br_2: frozen<br>drop
+bip_39_word_new_br_3: frozen<br>drop<br>park
+bip_39_word_new_line_12: 'frozen
+
+  drop
+
+  park
+
+  island
+
+  kingdom
+
+  message
+
+  drift
+
+  debris
+
+  unique
+
+  guess
+
+  wood
+
+  arch'
+bip_39_word_new_line_2: 'frozen
+
+  drop'
+bip_39_word_new_line_3: 'frozen
+
+  drop
+
+  park'
+bip_39_word_no_space_12: frozendropparkislandkingdommessagedriftdebrisuniqueguesswoodarch
+bip_39_word_no_space_2: frozendrop
+bip_39_word_no_space_3: frozendroppark
+bip_39_word_space_12: frozen drop park island kingdom message drift debris unique
+  guess wood arch
+bip_39_word_space_2: frozen drop
+bip_39_word_space_3: frozen drop park
+bip_39_word_underscore_12: frozen_drop_park_island_kingdom_message_drift_debris_unique_guess_wood_arch
+bip_39_word_underscore_2: frozen_drop
+bip_39_word_underscore_3: frozen_drop_park
+classification: oobb
+classification_length_1: o
+classification_length_2: oo
+classification_length_3: oob
+classification_length_4: oobb
+classification_length_5: oobb
+classification_length_6: oobb
+classification_name: Oobb
+classification_no_space_length_1: o
+classification_no_space_length_2: oo
+classification_no_space_length_3: oob
+classification_no_space_length_4: oobb
+classification_no_space_length_5: oobb
+classification_no_space_length_6: oobb
+classification_no_space_upper_length_1: O
+classification_no_space_upper_length_2: OO
+classification_no_space_upper_length_3: OOB
+classification_no_space_upper_length_4: OOBB
+classification_no_space_upper_length_5: OOBB
+classification_no_space_upper_length_6: OOBB
+classification_upper_length_1: O
+classification_upper_length_2: OO
+classification_upper_length_3: OOB
+classification_upper_length_4: OOBB
+classification_upper_length_5: OOBB
+classification_upper_length_6: OOBB
+color: ''
+color_name: ''
+components: []
+components_objects: []
+components_string: []
+description: nut 0x0x0
+description_extra: m2_radius_name
+description_extra_length_1: m
+description_extra_length_2: m2
+description_extra_length_3: m2_
+description_extra_length_4: m2_r
+description_extra_length_5: m2_ra
+description_extra_length_6: m2_rad
+description_extra_name: M2 Radius Name
+description_extra_no_space_length_1: m
+description_extra_no_space_length_2: m2
+description_extra_no_space_length_3: m2r
+description_extra_no_space_length_4: m2ra
+description_extra_no_space_length_5: m2rad
+description_extra_no_space_length_6: m2radi
+description_extra_no_space_upper_length_1: M
+description_extra_no_space_upper_length_2: M2
+description_extra_no_space_upper_length_3: M2R
+description_extra_no_space_upper_length_4: M2RA
+description_extra_no_space_upper_length_5: M2RAD
+description_extra_no_space_upper_length_6: M2RADI
+description_extra_upper_length_1: M
+description_extra_upper_length_2: M2
+description_extra_upper_length_3: M2_
+description_extra_upper_length_4: M2_R
+description_extra_upper_length_5: M2_RA
+description_extra_upper_length_6: M2_RAD
+description_main: ''
+description_main_name: ''
+directory: parts/oobb_part_nut_m2_radius_name
+folder: C:\gh\oomlout_oobb_version_4_generated_parts\parts\oobb_part_nut_m2_radius_name
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_nut_m2_radius_name
+id: oobb_part_nut_m2_radius_name
+id_no_class: part_nut_m2_radius_name
+id_no_color: m2radiusname
+id_no_size: m2_radius_name
+id_no_type: nut_m2_radius_name
+link_1: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/nut//m2_radius_name/part
+link_1_name: link_main
+link_main: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/nut//m2_radius_name/part
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%206xzyx
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%206xzyx
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%206xzyx
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%206xzyx
+link_redirect: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/parts/hardware_nut_m2
+manufacturer: ''
+manufacturer_name: ''
+md5: b1fa59df6c38685a2fbd57674090daed
+md5_10: b1fa59df6c
+md5_10_upper: B1FA59DF6C
+md5_5: b1fa5
+md5_5_upper: B1FA5
+md5_6: b1fa59
+md5_6_alpha: 6xzyx
+md5_6_alpha_upper: 6XZYX
+md5_6_upper: B1FA59
+name: Oobb Part Nut M2 Radius Name
+name_no_class: Part Nut M2 Radius Name
+name_no_color: M2Radiusname
+name_no_size: M2 Radius Name
+name_no_type: Nut M2 Radius Name
+name_short: Nut M2 Radius Name
+oomlout_detail_hierarchy_1: oobb
+oomlout_detail_hierarchy_1_upper: OOBB
+oomlout_detail_hierarchy_1_upper_length_4: OOBB
+oomlout_detail_hierarchy_2: part
+oomlout_detail_hierarchy_2_upper: PART
+oomlout_detail_hierarchy_2_upper_length_4: PART
+oomlout_detail_hierarchy_3: nut
+oomlout_detail_hierarchy_3_upper: NUT
+oomlout_detail_hierarchy_3_upper_length_4: NUT
+oomlout_detail_hierarchy_4: m2_radius_name
+oomlout_detail_hierarchy_4_upper: M2_RADIUS_NAME
+oomlout_detail_hierarchy_4_upper_length_4: M2_R
+oomlout_oomp_utility_custom_data_manipulation: true
+oomp_key: oomp_oobb_part_nut_m2_radius_name
+oomp_word: briefcase nine dragon
+oomp_word_emoji: ':briefcase: :nine: :dragon:'
+oomp_word_emoji_list:
+- ':briefcase:'
+- ':nine:'
+- ':dragon:'
+oomp_word_list:
+- briefcase
+- nine
+- dragon
+part_number: ''
+part_number_name: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
+radius_name: m2
+short_name: ''
+size: nut
+size_length_1: n
+size_length_2: nu
+size_length_3: nut
+size_length_4: nut
+size_length_5: nut
+size_length_6: nut
+size_name: Nut
+size_no_space_length_1: n
+size_no_space_length_2: nu
+size_no_space_length_3: nut
+size_no_space_length_4: nut
+size_no_space_length_5: nut
+size_no_space_length_6: nut
+size_no_space_upper_length_1: N
+size_no_space_upper_length_2: NU
+size_no_space_upper_length_3: NUT
+size_no_space_upper_length_4: NUT
+size_no_space_upper_length_5: NUT
+size_no_space_upper_length_6: NUT
+size_upper_length_1: N
+size_upper_length_2: NU
+size_upper_length_3: NUT
+size_upper_length_4: NUT
+size_upper_length_5: NUT
+size_upper_length_6: NUT
+type: part
+type_length_1: p
+type_length_2: pa
+type_length_3: par
+type_length_4: part
+type_length_5: part
+type_length_6: part
+type_name: Part
+type_no_space_length_1: p
+type_no_space_length_2: pa
+type_no_space_length_3: par
+type_no_space_length_4: part
+type_no_space_length_5: part
+type_no_space_length_6: part
+type_no_space_upper_length_1: P
+type_no_space_upper_length_2: PA
+type_no_space_upper_length_3: PAR
+type_no_space_upper_length_4: PART
+type_no_space_upper_length_5: PART
+type_no_space_upper_length_6: PART
+type_upper_length_1: P
+type_upper_length_2: PA
+type_upper_length_3: PAR
+type_upper_length_4: PART
+type_upper_length_5: PART
+type_upper_length_6: PART

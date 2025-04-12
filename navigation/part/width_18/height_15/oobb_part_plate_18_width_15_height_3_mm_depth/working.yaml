@@ -1,0 +1,229 @@
+bip_39_word_dash_12: wheat-warfare-anchor-cook-february-multiply-journey-spin-genuine-this-elegant-account
+bip_39_word_dash_2: wheat-warfare
+bip_39_word_dash_3: wheat-warfare-anchor
+bip_39_word_new_br_12: wheat<br>warfare<br>anchor<br>cook<br>february<br>multiply<br>journey<br>spin<br>genuine<br>this<br>elegant<br>account
+bip_39_word_new_br_2: wheat<br>warfare
+bip_39_word_new_br_3: wheat<br>warfare<br>anchor
+bip_39_word_new_line_12: 'wheat
+
+  warfare
+
+  anchor
+
+  cook
+
+  february
+
+  multiply
+
+  journey
+
+  spin
+
+  genuine
+
+  this
+
+  elegant
+
+  account'
+bip_39_word_new_line_2: 'wheat
+
+  warfare'
+bip_39_word_new_line_3: 'wheat
+
+  warfare
+
+  anchor'
+bip_39_word_no_space_12: wheatwarfareanchorcookfebruarymultiplyjourneyspingenuinethiselegantaccount
+bip_39_word_no_space_2: wheatwarfare
+bip_39_word_no_space_3: wheatwarfareanchor
+bip_39_word_space_12: wheat warfare anchor cook february multiply journey spin genuine
+  this elegant account
+bip_39_word_space_2: wheat warfare
+bip_39_word_space_3: wheat warfare anchor
+bip_39_word_underscore_12: wheat_warfare_anchor_cook_february_multiply_journey_spin_genuine_this_elegant_account
+bip_39_word_underscore_2: wheat_warfare
+bip_39_word_underscore_3: wheat_warfare_anchor
+classification: oobb
+classification_length_1: o
+classification_length_2: oo
+classification_length_3: oob
+classification_length_4: oobb
+classification_length_5: oobb
+classification_length_6: oobb
+classification_name: Oobb
+classification_no_space_length_1: o
+classification_no_space_length_2: oo
+classification_no_space_length_3: oob
+classification_no_space_length_4: oobb
+classification_no_space_length_5: oobb
+classification_no_space_length_6: oobb
+classification_no_space_upper_length_1: O
+classification_no_space_upper_length_2: OO
+classification_no_space_upper_length_3: OOB
+classification_no_space_upper_length_4: OOBB
+classification_no_space_upper_length_5: OOBB
+classification_no_space_upper_length_6: OOBB
+classification_upper_length_1: O
+classification_upper_length_2: OO
+classification_upper_length_3: OOB
+classification_upper_length_4: OOBB
+classification_upper_length_5: OOBB
+classification_upper_length_6: OOBB
+color: ''
+color_name: ''
+components: []
+components_objects: []
+components_string: []
+description: plate 18x15x3
+description_extra: ''
+description_extra_name: ''
+description_main: 18_width_15_height_3_mm_depth
+description_main_length_1: '1'
+description_main_length_2: '18'
+description_main_length_3: '18_'
+description_main_length_4: 18_w
+description_main_length_5: 18_wi
+description_main_length_6: 18_wid
+description_main_name: 18 Width 15 Height 3 mm Depth
+description_main_no_space_length_1: '1'
+description_main_no_space_length_2: '18'
+description_main_no_space_length_3: 18w
+description_main_no_space_length_4: 18wi
+description_main_no_space_length_5: 18wid
+description_main_no_space_length_6: 18widt
+description_main_no_space_upper_length_1: '1'
+description_main_no_space_upper_length_2: '18'
+description_main_no_space_upper_length_3: 18W
+description_main_no_space_upper_length_4: 18WI
+description_main_no_space_upper_length_5: 18WID
+description_main_no_space_upper_length_6: 18WIDT
+description_main_upper_length_1: '1'
+description_main_upper_length_2: '18'
+description_main_upper_length_3: '18_'
+description_main_upper_length_4: 18_W
+description_main_upper_length_5: 18_WI
+description_main_upper_length_6: 18_WID
+directory: parts/oobb_part_plate_18_width_15_height_3_mm_depth
+folder: C:\gh\oomlout_oobb_version_4_generated_parts\parts\oobb_part_plate_18_width_15_height_3_mm_depth
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_18_width_15_height_3_mm_depth
+height: 15
+height_mm: 224
+id: oobb_part_plate_18_width_15_height_3_mm_depth
+id_no_class: part_plate_18_width_15_height_3_mm_depth
+id_no_color: 18width15height3mmdepth
+id_no_size: 18_width_15_height_3_mm_depth
+id_no_type: plate_18_width_15_height_3_mm_depth
+link_1: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/plate/18_width_15_height_3_mm_depth/part
+link_1_name: link_main
+link_main: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/plate/18_width_15_height_3_mm_depth/part
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%20yhx4
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%20yhx4
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%20yhx4
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%20yhx4
+link_redirect: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/parts/oobb_plate_18_15_03
+manufacturer: ''
+manufacturer_name: ''
+md5: 188f38330ad1ef0e45aa22fa10fdc7cf
+md5_10: 188f38330a
+md5_10_upper: 188F38330A
+md5_5: 188f3
+md5_5_upper: 188F3
+md5_6: 188f38
+md5_6_alpha: yhx4
+md5_6_alpha_upper: YHX4
+md5_6_upper: 188F38
+name: Oobb Part Plate 18 Width 15 Height 3 mm Depth
+name_no_class: Part Plate 18 Width 15 Height 3 mm Depth
+name_no_color: 18Width15Height3mmdepth
+name_no_size: 18 Width 15 Height 3 mm Depth
+name_no_type: Plate 18 Width 15 Height 3 mm Depth
+name_short: 'Plate 18x15x3 '
+oomlout_detail_hierarchy_1: oobb
+oomlout_detail_hierarchy_1_upper: OOBB
+oomlout_detail_hierarchy_1_upper_length_4: OOBB
+oomlout_detail_hierarchy_2: part
+oomlout_detail_hierarchy_2_upper: PART
+oomlout_detail_hierarchy_2_upper_length_4: PART
+oomlout_detail_hierarchy_3: plate
+oomlout_detail_hierarchy_3_upper: PLATE
+oomlout_detail_hierarchy_3_upper_length_4: PLAT
+oomlout_detail_hierarchy_4: 3_mm_depth
+oomlout_detail_hierarchy_4_upper: 3_MM_DEPTH
+oomlout_detail_hierarchy_4_upper_length_4: 3DEP
+oomlout_oomp_utility_custom_data_manipulation: true
+oomp_key: oomp_oobb_part_plate_18_width_15_height_3_mm_depth
+oomp_word: hand calendar frog
+oomp_word_emoji: ':hand: :calendar: :frog:'
+oomp_word_emoji_list:
+- ':hand:'
+- ':calendar:'
+- ':frog:'
+oomp_word_list:
+- hand
+- calendar
+- frog
+part_number: ''
+part_number_name: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
+short_name: ''
+size: plate
+size_length_1: p
+size_length_2: pl
+size_length_3: pla
+size_length_4: plat
+size_length_5: plate
+size_length_6: plate
+size_name: Plate
+size_no_space_length_1: p
+size_no_space_length_2: pl
+size_no_space_length_3: pla
+size_no_space_length_4: plat
+size_no_space_length_5: plate
+size_no_space_length_6: plate
+size_no_space_upper_length_1: P
+size_no_space_upper_length_2: PL
+size_no_space_upper_length_3: PLA
+size_no_space_upper_length_4: PLAT
+size_no_space_upper_length_5: PLATE
+size_no_space_upper_length_6: PLATE
+size_upper_length_1: P
+size_upper_length_2: PL
+size_upper_length_3: PLA
+size_upper_length_4: PLAT
+size_upper_length_5: PLATE
+size_upper_length_6: PLATE
+thickness: 3
+thickness_mm: 3
+type: part
+type_length_1: p
+type_length_2: pa
+type_length_3: par
+type_length_4: part
+type_length_5: part
+type_length_6: part
+type_name: Part
+type_no_space_length_1: p
+type_no_space_length_2: pa
+type_no_space_length_3: par
+type_no_space_length_4: part
+type_no_space_length_5: part
+type_no_space_length_6: part
+type_no_space_upper_length_1: P
+type_no_space_upper_length_2: PA
+type_no_space_upper_length_3: PAR
+type_no_space_upper_length_4: PART
+type_no_space_upper_length_5: PART
+type_no_space_upper_length_6: PART
+type_upper_length_1: P
+type_upper_length_2: PA
+type_upper_length_3: PAR
+type_upper_length_4: PART
+type_upper_length_5: PART
+type_upper_length_6: PART
+width: 18
+width_mm: 269

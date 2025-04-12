@@ -1,0 +1,257 @@
+bip_39_word_dash_12: can-churn-address-wall-tourist-surge-office-feel-scan-movie-dinosaur-arena
+bip_39_word_dash_2: can-churn
+bip_39_word_dash_3: can-churn-address
+bip_39_word_new_br_12: can<br>churn<br>address<br>wall<br>tourist<br>surge<br>office<br>feel<br>scan<br>movie<br>dinosaur<br>arena
+bip_39_word_new_br_2: can<br>churn
+bip_39_word_new_br_3: can<br>churn<br>address
+bip_39_word_new_line_12: 'can
+
+  churn
+
+  address
+
+  wall
+
+  tourist
+
+  surge
+
+  office
+
+  feel
+
+  scan
+
+  movie
+
+  dinosaur
+
+  arena'
+bip_39_word_new_line_2: 'can
+
+  churn'
+bip_39_word_new_line_3: 'can
+
+  churn
+
+  address'
+bip_39_word_no_space_12: canchurnaddresswalltouristsurgeofficefeelscanmoviedinosaurarena
+bip_39_word_no_space_2: canchurn
+bip_39_word_no_space_3: canchurnaddress
+bip_39_word_space_12: can churn address wall tourist surge office feel scan movie
+  dinosaur arena
+bip_39_word_space_2: can churn
+bip_39_word_space_3: can churn address
+bip_39_word_underscore_12: can_churn_address_wall_tourist_surge_office_feel_scan_movie_dinosaur_arena
+bip_39_word_underscore_2: can_churn
+bip_39_word_underscore_3: can_churn_address
+classification: oobb
+classification_length_1: o
+classification_length_2: oo
+classification_length_3: oob
+classification_length_4: oobb
+classification_length_5: oobb
+classification_length_6: oobb
+classification_name: Oobb
+classification_no_space_length_1: o
+classification_no_space_length_2: oo
+classification_no_space_length_3: oob
+classification_no_space_length_4: oobb
+classification_no_space_length_5: oobb
+classification_no_space_length_6: oobb
+classification_no_space_upper_length_1: O
+classification_no_space_upper_length_2: OO
+classification_no_space_upper_length_3: OOB
+classification_no_space_upper_length_4: OOBB
+classification_no_space_upper_length_5: OOBB
+classification_no_space_upper_length_6: OOBB
+classification_upper_length_1: O
+classification_upper_length_2: OO
+classification_upper_length_3: OOB
+classification_upper_length_4: OOBB
+classification_upper_length_5: OOBB
+classification_upper_length_6: OOBB
+color: ''
+color_name: ''
+components: []
+components_objects: []
+components_string: []
+description: plate 14x10x3
+description_extra: paper_sheet_a5_extra
+description_extra_length_1: p
+description_extra_length_2: pa
+description_extra_length_3: pap
+description_extra_length_4: pape
+description_extra_length_5: paper
+description_extra_length_6: paper_
+description_extra_name: Paper Sheet A5 Extra
+description_extra_no_space_length_1: p
+description_extra_no_space_length_2: pa
+description_extra_no_space_length_3: pap
+description_extra_no_space_length_4: pape
+description_extra_no_space_length_5: paper
+description_extra_no_space_length_6: papers
+description_extra_no_space_upper_length_1: P
+description_extra_no_space_upper_length_2: PA
+description_extra_no_space_upper_length_3: PAP
+description_extra_no_space_upper_length_4: PAPE
+description_extra_no_space_upper_length_5: PAPER
+description_extra_no_space_upper_length_6: PAPERS
+description_extra_upper_length_1: P
+description_extra_upper_length_2: PA
+description_extra_upper_length_3: PAP
+description_extra_upper_length_4: PAPE
+description_extra_upper_length_5: PAPER
+description_extra_upper_length_6: PAPER_
+description_main: 14_width_10_height_3_mm_depth
+description_main_length_1: '1'
+description_main_length_2: '14'
+description_main_length_3: '14_'
+description_main_length_4: 14_w
+description_main_length_5: 14_wi
+description_main_length_6: 14_wid
+description_main_name: 14 Width 10 Height 3 mm Depth
+description_main_no_space_length_1: '1'
+description_main_no_space_length_2: '14'
+description_main_no_space_length_3: 14w
+description_main_no_space_length_4: 14wi
+description_main_no_space_length_5: 14wid
+description_main_no_space_length_6: 14widt
+description_main_no_space_upper_length_1: '1'
+description_main_no_space_upper_length_2: '14'
+description_main_no_space_upper_length_3: 14W
+description_main_no_space_upper_length_4: 14WI
+description_main_no_space_upper_length_5: 14WID
+description_main_no_space_upper_length_6: 14WIDT
+description_main_upper_length_1: '1'
+description_main_upper_length_2: '14'
+description_main_upper_length_3: '14_'
+description_main_upper_length_4: 14_W
+description_main_upper_length_5: 14_WI
+description_main_upper_length_6: 14_WID
+directory: parts/oobb_part_plate_14_width_10_height_3_mm_depth_paper_sheet_a5_extra
+extra: paper_sheet_a5
+folder: C:\gh\oomlout_oobb_version_4_generated_parts\parts\oobb_part_plate_14_width_10_height_3_mm_depth_paper_sheet_a5_extra
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_14_width_10_height_3_mm_depth_paper_sheet_a5_extra
+height: 10
+height_mm: 149
+id: oobb_part_plate_14_width_10_height_3_mm_depth_paper_sheet_a5_extra
+id_no_class: part_plate_14_width_10_height_3_mm_depth_paper_sheet_a5_extra
+id_no_color: 14width10height3mmdepthpapersheeta5extra
+id_no_size: 14_width_10_height_3_mm_depth_paper_sheet_a5_extra
+id_no_type: plate_14_width_10_height_3_mm_depth_paper_sheet_a5_extra
+link_1: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/plate/14_width_10_height_3_mm_depth/paper_sheet_a5_extra/part
+link_1_name: link_main
+link_main: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/plate/14_width_10_height_3_mm_depth/paper_sheet_a5_extra/part
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2074c10
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2074c10
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%2074c10
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2074c10
+link_redirect: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/parts/oobb_plate_14_10_03_ex_paper_sheet_a5
+manufacturer: ''
+manufacturer_name: ''
+md5: b67ce43e0154d3336972ff6a06ca3107
+md5_10: b67ce43e01
+md5_10_upper: B67CE43E01
+md5_5: b67ce
+md5_5_upper: B67CE
+md5_6: b67ce4
+md5_6_alpha: 74c10
+md5_6_alpha_upper: 74C10
+md5_6_upper: B67CE4
+name: Oobb Part Plate 14 Width 10 Height 3 mm Depth Paper Sheet A5 Extra
+name_no_class: Part Plate 14 Width 10 Height 3 mm Depth Paper Sheet A5 Extra
+name_no_color: 14Width10Height3mmdepthpapersheeta5Extra
+name_no_size: 14 Width 10 Height 3 mm Depth Paper Sheet A5 Extra
+name_no_type: Plate 14 Width 10 Height 3 mm Depth Paper Sheet A5 Extra
+name_short: Plate 14x10x3 Paper Sheet A5 Extra
+oomlout_detail_hierarchy_1: oobb
+oomlout_detail_hierarchy_1_upper: OOBB
+oomlout_detail_hierarchy_1_upper_length_4: OOBB
+oomlout_detail_hierarchy_2: part
+oomlout_detail_hierarchy_2_upper: PART
+oomlout_detail_hierarchy_2_upper_length_4: PART
+oomlout_detail_hierarchy_3: plate
+oomlout_detail_hierarchy_3_upper: PLATE
+oomlout_detail_hierarchy_3_upper_length_4: PLAT
+oomlout_detail_hierarchy_4: 3_mm_depth
+oomlout_detail_hierarchy_4_upper: 3_MM_DEPTH
+oomlout_detail_hierarchy_4_upper_length_4: 3DEP
+oomlout_detail_hierarchy_5: paper_sheet_a5_extra
+oomlout_detail_hierarchy_5_upper: PAPER_SHEET_A5_EXTRA
+oomlout_detail_hierarchy_5_upper_length_4: PAPE
+oomlout_oomp_utility_custom_data_manipulation: true
+oomp_key: oomp_oobb_part_plate_14_width_10_height_3_mm_depth_paper_sheet_a5_extra
+oomp_word: beer tv anchor
+oomp_word_emoji: ':beer: :tv: :anchor:'
+oomp_word_emoji_list:
+- ':beer:'
+- ':tv:'
+- ':anchor:'
+oomp_word_list:
+- beer
+- tv
+- anchor
+part_number: ''
+part_number_name: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
+short_name: ''
+size: plate
+size_length_1: p
+size_length_2: pl
+size_length_3: pla
+size_length_4: plat
+size_length_5: plate
+size_length_6: plate
+size_name: Plate
+size_no_space_length_1: p
+size_no_space_length_2: pl
+size_no_space_length_3: pla
+size_no_space_length_4: plat
+size_no_space_length_5: plate
+size_no_space_length_6: plate
+size_no_space_upper_length_1: P
+size_no_space_upper_length_2: PL
+size_no_space_upper_length_3: PLA
+size_no_space_upper_length_4: PLAT
+size_no_space_upper_length_5: PLATE
+size_no_space_upper_length_6: PLATE
+size_upper_length_1: P
+size_upper_length_2: PL
+size_upper_length_3: PLA
+size_upper_length_4: PLAT
+size_upper_length_5: PLATE
+size_upper_length_6: PLATE
+thickness: 3
+thickness_mm: 3
+type: part
+type_length_1: p
+type_length_2: pa
+type_length_3: par
+type_length_4: part
+type_length_5: part
+type_length_6: part
+type_name: Part
+type_no_space_length_1: p
+type_no_space_length_2: pa
+type_no_space_length_3: par
+type_no_space_length_4: part
+type_no_space_length_5: part
+type_no_space_length_6: part
+type_no_space_upper_length_1: P
+type_no_space_upper_length_2: PA
+type_no_space_upper_length_3: PAR
+type_no_space_upper_length_4: PART
+type_no_space_upper_length_5: PART
+type_no_space_upper_length_6: PART
+type_upper_length_1: P
+type_upper_length_2: PA
+type_upper_length_3: PAR
+type_upper_length_4: PART
+type_upper_length_5: PART
+type_upper_length_6: PART
+width: 14
+width_mm: 209

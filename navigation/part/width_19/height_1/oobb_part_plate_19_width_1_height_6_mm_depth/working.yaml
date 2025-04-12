@@ -1,0 +1,229 @@
+bip_39_word_dash_12: quantum-chair-inherit-citizen-envelope-choose-nut-stadium-empty-supply-uncle-always
+bip_39_word_dash_2: quantum-chair
+bip_39_word_dash_3: quantum-chair-inherit
+bip_39_word_new_br_12: quantum<br>chair<br>inherit<br>citizen<br>envelope<br>choose<br>nut<br>stadium<br>empty<br>supply<br>uncle<br>always
+bip_39_word_new_br_2: quantum<br>chair
+bip_39_word_new_br_3: quantum<br>chair<br>inherit
+bip_39_word_new_line_12: 'quantum
+
+  chair
+
+  inherit
+
+  citizen
+
+  envelope
+
+  choose
+
+  nut
+
+  stadium
+
+  empty
+
+  supply
+
+  uncle
+
+  always'
+bip_39_word_new_line_2: 'quantum
+
+  chair'
+bip_39_word_new_line_3: 'quantum
+
+  chair
+
+  inherit'
+bip_39_word_no_space_12: quantumchairinheritcitizenenvelopechoosenutstadiumemptysupplyunclealways
+bip_39_word_no_space_2: quantumchair
+bip_39_word_no_space_3: quantumchairinherit
+bip_39_word_space_12: quantum chair inherit citizen envelope choose nut stadium empty
+  supply uncle always
+bip_39_word_space_2: quantum chair
+bip_39_word_space_3: quantum chair inherit
+bip_39_word_underscore_12: quantum_chair_inherit_citizen_envelope_choose_nut_stadium_empty_supply_uncle_always
+bip_39_word_underscore_2: quantum_chair
+bip_39_word_underscore_3: quantum_chair_inherit
+classification: oobb
+classification_length_1: o
+classification_length_2: oo
+classification_length_3: oob
+classification_length_4: oobb
+classification_length_5: oobb
+classification_length_6: oobb
+classification_name: Oobb
+classification_no_space_length_1: o
+classification_no_space_length_2: oo
+classification_no_space_length_3: oob
+classification_no_space_length_4: oobb
+classification_no_space_length_5: oobb
+classification_no_space_length_6: oobb
+classification_no_space_upper_length_1: O
+classification_no_space_upper_length_2: OO
+classification_no_space_upper_length_3: OOB
+classification_no_space_upper_length_4: OOBB
+classification_no_space_upper_length_5: OOBB
+classification_no_space_upper_length_6: OOBB
+classification_upper_length_1: O
+classification_upper_length_2: OO
+classification_upper_length_3: OOB
+classification_upper_length_4: OOBB
+classification_upper_length_5: OOBB
+classification_upper_length_6: OOBB
+color: ''
+color_name: ''
+components: []
+components_objects: []
+components_string: []
+description: plate 19x1x6
+description_extra: ''
+description_extra_name: ''
+description_main: 19_width_1_height_6_mm_depth
+description_main_length_1: '1'
+description_main_length_2: '19'
+description_main_length_3: '19_'
+description_main_length_4: 19_w
+description_main_length_5: 19_wi
+description_main_length_6: 19_wid
+description_main_name: 19 Width 1 Height 6 mm Depth
+description_main_no_space_length_1: '1'
+description_main_no_space_length_2: '19'
+description_main_no_space_length_3: 19w
+description_main_no_space_length_4: 19wi
+description_main_no_space_length_5: 19wid
+description_main_no_space_length_6: 19widt
+description_main_no_space_upper_length_1: '1'
+description_main_no_space_upper_length_2: '19'
+description_main_no_space_upper_length_3: 19W
+description_main_no_space_upper_length_4: 19WI
+description_main_no_space_upper_length_5: 19WID
+description_main_no_space_upper_length_6: 19WIDT
+description_main_upper_length_1: '1'
+description_main_upper_length_2: '19'
+description_main_upper_length_3: '19_'
+description_main_upper_length_4: 19_W
+description_main_upper_length_5: 19_WI
+description_main_upper_length_6: 19_WID
+directory: parts/oobb_part_plate_19_width_1_height_6_mm_depth
+folder: C:\gh\oomlout_oobb_version_4_generated_parts\parts\oobb_part_plate_19_width_1_height_6_mm_depth
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_19_width_1_height_6_mm_depth
+height: 1
+height_mm: 14
+id: oobb_part_plate_19_width_1_height_6_mm_depth
+id_no_class: part_plate_19_width_1_height_6_mm_depth
+id_no_color: 19width1height6mmdepth
+id_no_size: 19_width_1_height_6_mm_depth
+id_no_type: plate_19_width_1_height_6_mm_depth
+link_1: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/plate/19_width_1_height_6_mm_depth/part
+link_1_name: link_main
+link_main: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/plate/19_width_1_height_6_mm_depth/part
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%204r5me
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%204r5me
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%204r5me
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%204r5me
+link_redirect: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/parts/oobb_plate_19_01_06
+manufacturer: ''
+manufacturer_name: ''
+md5: 79d9367249d3f2f4a125e294e789757a
+md5_10: 79d9367249
+md5_10_upper: 79D9367249
+md5_5: 79d93
+md5_5_upper: 79D93
+md5_6: 79d936
+md5_6_alpha: 4r5me
+md5_6_alpha_upper: 4R5ME
+md5_6_upper: 79D936
+name: Oobb Part Plate 19 Width 1 Height 6 mm Depth
+name_no_class: Part Plate 19 Width 1 Height 6 mm Depth
+name_no_color: 19Width1Height6mmdepth
+name_no_size: 19 Width 1 Height 6 mm Depth
+name_no_type: Plate 19 Width 1 Height 6 mm Depth
+name_short: 'Plate 19x1x6 '
+oomlout_detail_hierarchy_1: oobb
+oomlout_detail_hierarchy_1_upper: OOBB
+oomlout_detail_hierarchy_1_upper_length_4: OOBB
+oomlout_detail_hierarchy_2: part
+oomlout_detail_hierarchy_2_upper: PART
+oomlout_detail_hierarchy_2_upper_length_4: PART
+oomlout_detail_hierarchy_3: plate
+oomlout_detail_hierarchy_3_upper: PLATE
+oomlout_detail_hierarchy_3_upper_length_4: PLAT
+oomlout_detail_hierarchy_4: 6_mm_depth
+oomlout_detail_hierarchy_4_upper: 6_MM_DEPTH
+oomlout_detail_hierarchy_4_upper_length_4: 6DEP
+oomlout_oomp_utility_custom_data_manipulation: true
+oomp_key: oomp_oobb_part_plate_19_width_1_height_6_mm_depth
+oomp_word: balloon bank rabbit
+oomp_word_emoji: ':balloon: :bank: :rabbit:'
+oomp_word_emoji_list:
+- ':balloon:'
+- ':bank:'
+- ':rabbit:'
+oomp_word_list:
+- balloon
+- bank
+- rabbit
+part_number: ''
+part_number_name: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
+short_name: ''
+size: plate
+size_length_1: p
+size_length_2: pl
+size_length_3: pla
+size_length_4: plat
+size_length_5: plate
+size_length_6: plate
+size_name: Plate
+size_no_space_length_1: p
+size_no_space_length_2: pl
+size_no_space_length_3: pla
+size_no_space_length_4: plat
+size_no_space_length_5: plate
+size_no_space_length_6: plate
+size_no_space_upper_length_1: P
+size_no_space_upper_length_2: PL
+size_no_space_upper_length_3: PLA
+size_no_space_upper_length_4: PLAT
+size_no_space_upper_length_5: PLATE
+size_no_space_upper_length_6: PLATE
+size_upper_length_1: P
+size_upper_length_2: PL
+size_upper_length_3: PLA
+size_upper_length_4: PLAT
+size_upper_length_5: PLATE
+size_upper_length_6: PLATE
+thickness: 6
+thickness_mm: 6
+type: part
+type_length_1: p
+type_length_2: pa
+type_length_3: par
+type_length_4: part
+type_length_5: part
+type_length_6: part
+type_name: Part
+type_no_space_length_1: p
+type_no_space_length_2: pa
+type_no_space_length_3: par
+type_no_space_length_4: part
+type_no_space_length_5: part
+type_no_space_length_6: part
+type_no_space_upper_length_1: P
+type_no_space_upper_length_2: PA
+type_no_space_upper_length_3: PAR
+type_no_space_upper_length_4: PART
+type_no_space_upper_length_5: PART
+type_no_space_upper_length_6: PART
+type_upper_length_1: P
+type_upper_length_2: PA
+type_upper_length_3: PAR
+type_upper_length_4: PART
+type_upper_length_5: PART
+type_upper_length_6: PART
+width: 19
+width_mm: 284

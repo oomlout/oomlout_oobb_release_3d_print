@@ -1,0 +1,255 @@
+bip_39_word_dash_12: balcony-title-simple-already-banana-innocent-evil-atom-bench-category-tool-actress
+bip_39_word_dash_2: balcony-title
+bip_39_word_dash_3: balcony-title-simple
+bip_39_word_new_br_12: balcony<br>title<br>simple<br>already<br>banana<br>innocent<br>evil<br>atom<br>bench<br>category<br>tool<br>actress
+bip_39_word_new_br_2: balcony<br>title
+bip_39_word_new_br_3: balcony<br>title<br>simple
+bip_39_word_new_line_12: 'balcony
+
+  title
+
+  simple
+
+  already
+
+  banana
+
+  innocent
+
+  evil
+
+  atom
+
+  bench
+
+  category
+
+  tool
+
+  actress'
+bip_39_word_new_line_2: 'balcony
+
+  title'
+bip_39_word_new_line_3: 'balcony
+
+  title
+
+  simple'
+bip_39_word_no_space_12: balconytitlesimplealreadybananainnocentevilatombenchcategorytoolactress
+bip_39_word_no_space_2: balconytitle
+bip_39_word_no_space_3: balconytitlesimple
+bip_39_word_space_12: balcony title simple already banana innocent evil atom bench
+  category tool actress
+bip_39_word_space_2: balcony title
+bip_39_word_space_3: balcony title simple
+bip_39_word_underscore_12: balcony_title_simple_already_banana_innocent_evil_atom_bench_category_tool_actress
+bip_39_word_underscore_2: balcony_title
+bip_39_word_underscore_3: balcony_title_simple
+classification: oobb
+classification_length_1: o
+classification_length_2: oo
+classification_length_3: oob
+classification_length_4: oobb
+classification_length_5: oobb
+classification_length_6: oobb
+classification_name: Oobb
+classification_no_space_length_1: o
+classification_no_space_length_2: oo
+classification_no_space_length_3: oob
+classification_no_space_length_4: oobb
+classification_no_space_length_5: oobb
+classification_no_space_length_6: oobb
+classification_no_space_upper_length_1: O
+classification_no_space_upper_length_2: OO
+classification_no_space_upper_length_3: OOB
+classification_no_space_upper_length_4: OOBB
+classification_no_space_upper_length_5: OOBB
+classification_no_space_upper_length_6: OOBB
+classification_upper_length_1: O
+classification_upper_length_2: OO
+classification_upper_length_3: OOB
+classification_upper_length_4: OOBB
+classification_upper_length_5: OOBB
+classification_upper_length_6: OOBB
+color: ''
+color_name: ''
+components: []
+components_objects: []
+components_string: []
+description: bunting alphabet 7x0x1
+description_extra: l_extra
+description_extra_length_1: l
+description_extra_length_2: l_
+description_extra_length_3: l_e
+description_extra_length_4: l_ex
+description_extra_length_5: l_ext
+description_extra_length_6: l_extr
+description_extra_name: L Extra
+description_extra_no_space_length_1: l
+description_extra_no_space_length_2: le
+description_extra_no_space_length_3: lex
+description_extra_no_space_length_4: lext
+description_extra_no_space_length_5: lextr
+description_extra_no_space_length_6: lextra
+description_extra_no_space_upper_length_1: L
+description_extra_no_space_upper_length_2: LE
+description_extra_no_space_upper_length_3: LEX
+description_extra_no_space_upper_length_4: LEXT
+description_extra_no_space_upper_length_5: LEXTR
+description_extra_no_space_upper_length_6: LEXTRA
+description_extra_upper_length_1: L
+description_extra_upper_length_2: L_
+description_extra_upper_length_3: L_E
+description_extra_upper_length_4: L_EX
+description_extra_upper_length_5: L_EXT
+description_extra_upper_length_6: L_EXTR
+description_main: 7_width_1_mm_depth_l_extra
+description_main_length_1: '7'
+description_main_length_2: '7_'
+description_main_length_3: 7_w
+description_main_length_4: 7_wi
+description_main_length_5: 7_wid
+description_main_length_6: 7_widt
+description_main_name: 7 Width 1 mm Depth L Extra
+description_main_no_space_length_1: '7'
+description_main_no_space_length_2: 7w
+description_main_no_space_length_3: 7wi
+description_main_no_space_length_4: 7wid
+description_main_no_space_length_5: 7widt
+description_main_no_space_length_6: 7width
+description_main_no_space_upper_length_1: '7'
+description_main_no_space_upper_length_2: 7W
+description_main_no_space_upper_length_3: 7WI
+description_main_no_space_upper_length_4: 7WID
+description_main_no_space_upper_length_5: 7WIDT
+description_main_no_space_upper_length_6: 7WIDTH
+description_main_upper_length_1: '7'
+description_main_upper_length_2: '7_'
+description_main_upper_length_3: 7_W
+description_main_upper_length_4: 7_WI
+description_main_upper_length_5: 7_WID
+description_main_upper_length_6: 7_WIDT
+directory: parts/oobb_part_bunting_alphabet_7_width_1_mm_depth_l_extra_l_extra
+extra: l
+folder: C:\gh\oomlout_oobb_version_4_generated_parts\parts\oobb_part_bunting_alphabet_7_width_1_mm_depth_l_extra_l_extra
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bunting_alphabet_7_width_1_mm_depth_l_extra_l_extra
+id: oobb_part_bunting_alphabet_7_width_1_mm_depth_l_extra_l_extra
+id_no_class: part_bunting_alphabet_7_width_1_mm_depth_l_extra_l_extra
+id_no_color: 7width1mmdepthlextralextra
+id_no_size: 7_width_1_mm_depth_l_extra_l_extra
+id_no_type: bunting_alphabet_7_width_1_mm_depth_l_extra_l_extra
+link_1: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/bunting_alphabet/7_width_1_mm_depth_l_extra/l_extra/part
+link_1_name: link_main
+link_main: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/bunting_alphabet/7_width_1_mm_depth_l_extra/l_extra/part
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%201sbbd
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%201sbbd
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%201sbbd
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%201sbbd
+link_redirect: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/parts/oobb_bunting_alphabet_07_01_ex_l
+manufacturer: ''
+manufacturer_name: ''
+md5: 2dc94908a80e49bdd20910739238b88e
+md5_10: 2dc94908a8
+md5_10_upper: 2DC94908A8
+md5_5: 2dc94
+md5_5_upper: 2DC94
+md5_6: 2dc949
+md5_6_alpha: 1sbbd
+md5_6_alpha_upper: 1SBBD
+md5_6_upper: 2DC949
+name: Oobb Part Bunting Alphabet 7 Width 1 mm Depth L Extra L Extra
+name_no_class: Part Bunting Alphabet 7 Width 1 mm Depth L Extra L Extra
+name_no_color: 7Width1mmdepthlextralextra
+name_no_size: 7 Width 1 mm Depth L Extra L Extra
+name_no_type: Bunting Alphabet 7 Width 1 mm Depth L Extra L Extra
+name_short: Bunting Alphabet 7x1 L Extra L Extra
+oomlout_detail_hierarchy_1: oobb
+oomlout_detail_hierarchy_1_upper: OOBB
+oomlout_detail_hierarchy_1_upper_length_4: OOBB
+oomlout_detail_hierarchy_2: part
+oomlout_detail_hierarchy_2_upper: PART
+oomlout_detail_hierarchy_2_upper_length_4: PART
+oomlout_detail_hierarchy_3: bunting_alphabet
+oomlout_detail_hierarchy_3_upper: BUNTING_ALPHABET
+oomlout_detail_hierarchy_3_upper_length_4: BUNT
+oomlout_detail_hierarchy_4: 1_mm_depth
+oomlout_detail_hierarchy_4_upper: 1_MM_DEPTH
+oomlout_detail_hierarchy_4_upper_length_4: 1DEP
+oomlout_detail_hierarchy_5: l_extra
+oomlout_detail_hierarchy_5_upper: L_EXTRA
+oomlout_detail_hierarchy_5_upper_length_4: L_EX
+oomlout_oomp_utility_custom_data_manipulation: true
+oomp_key: oomp_oobb_part_bunting_alphabet_7_width_1_mm_depth_l_extra_l_extra
+oomp_word: snowman lemon hatching_chick
+oomp_word_emoji: ':snowman: :lemon: :hatching_chick:'
+oomp_word_emoji_list:
+- ':snowman:'
+- ':lemon:'
+- ':hatching_chick:'
+oomp_word_list:
+- snowman
+- lemon
+- hatching_chick
+part_number: ''
+part_number_name: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
+short_name: ''
+size: bunting_alphabet
+size_length_1: b
+size_length_2: bu
+size_length_3: bun
+size_length_4: bunt
+size_length_5: bunti
+size_length_6: buntin
+size_name: Bunting Alphabet
+size_no_space_length_1: b
+size_no_space_length_2: bu
+size_no_space_length_3: bun
+size_no_space_length_4: bunt
+size_no_space_length_5: bunti
+size_no_space_length_6: buntin
+size_no_space_upper_length_1: B
+size_no_space_upper_length_2: BU
+size_no_space_upper_length_3: BUN
+size_no_space_upper_length_4: BUNT
+size_no_space_upper_length_5: BUNTI
+size_no_space_upper_length_6: BUNTIN
+size_upper_length_1: B
+size_upper_length_2: BU
+size_upper_length_3: BUN
+size_upper_length_4: BUNT
+size_upper_length_5: BUNTI
+size_upper_length_6: BUNTIN
+thickness: 1
+thickness_mm: 1
+type: part
+type_length_1: p
+type_length_2: pa
+type_length_3: par
+type_length_4: part
+type_length_5: part
+type_length_6: part
+type_name: Part
+type_no_space_length_1: p
+type_no_space_length_2: pa
+type_no_space_length_3: par
+type_no_space_length_4: part
+type_no_space_length_5: part
+type_no_space_length_6: part
+type_no_space_upper_length_1: P
+type_no_space_upper_length_2: PA
+type_no_space_upper_length_3: PAR
+type_no_space_upper_length_4: PART
+type_no_space_upper_length_5: PART
+type_no_space_upper_length_6: PART
+type_upper_length_1: P
+type_upper_length_2: PA
+type_upper_length_3: PAR
+type_upper_length_4: PART
+type_upper_length_5: PART
+type_upper_length_6: PART
+width: 7
+width_mm: 104

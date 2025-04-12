@@ -1,0 +1,265 @@
+bearing: '606'
+bip_39_word_dash_12: float-position-quiz-electric-shift-tray-mass-south-shed-ahead-happy-antique
+bip_39_word_dash_2: float-position
+bip_39_word_dash_3: float-position-quiz
+bip_39_word_new_br_12: float<br>position<br>quiz<br>electric<br>shift<br>tray<br>mass<br>south<br>shed<br>ahead<br>happy<br>antique
+bip_39_word_new_br_2: float<br>position
+bip_39_word_new_br_3: float<br>position<br>quiz
+bip_39_word_new_line_12: 'float
+
+  position
+
+  quiz
+
+  electric
+
+  shift
+
+  tray
+
+  mass
+
+  south
+
+  shed
+
+  ahead
+
+  happy
+
+  antique'
+bip_39_word_new_line_2: 'float
+
+  position'
+bip_39_word_new_line_3: 'float
+
+  position
+
+  quiz'
+bip_39_word_no_space_12: floatpositionquizelectricshifttraymasssouthshedaheadhappyantique
+bip_39_word_no_space_2: floatposition
+bip_39_word_no_space_3: floatpositionquiz
+bip_39_word_space_12: float position quiz electric shift tray mass south shed ahead
+  happy antique
+bip_39_word_space_2: float position
+bip_39_word_space_3: float position quiz
+bip_39_word_underscore_12: float_position_quiz_electric_shift_tray_mass_south_shed_ahead_happy_antique
+bip_39_word_underscore_2: float_position
+bip_39_word_underscore_3: float_position_quiz
+classification: oobb
+classification_length_1: o
+classification_length_2: oo
+classification_length_3: oob
+classification_length_4: oobb
+classification_length_5: oobb
+classification_length_6: oobb
+classification_name: Oobb
+classification_no_space_length_1: o
+classification_no_space_length_2: oo
+classification_no_space_length_3: oob
+classification_no_space_length_4: oobb
+classification_no_space_length_5: oobb
+classification_no_space_length_6: oobb
+classification_no_space_upper_length_1: O
+classification_no_space_upper_length_2: OO
+classification_no_space_upper_length_3: OOB
+classification_no_space_upper_length_4: OOBB
+classification_no_space_upper_length_5: OOBB
+classification_no_space_upper_length_6: OOBB
+classification_upper_length_1: O
+classification_upper_length_2: OO
+classification_upper_length_3: OOB
+classification_upper_length_4: OOBB
+classification_upper_length_5: OOBB
+classification_upper_length_6: OOBB
+color: ''
+color_name: ''
+components: []
+components_objects: []
+components_string: []
+description: wheel 0x0x15
+description_extra: 606_bearing_bearing_twenty_twenty_aluminium_extrusion_extra
+description_extra_length_1: '6'
+description_extra_length_2: '60'
+description_extra_length_3: '606'
+description_extra_length_4: '606_'
+description_extra_length_5: 606_b
+description_extra_length_6: 606_be
+description_extra_name: 606 Bearing Bearing Twenty Twenty Aluminium Extrusion Extra
+description_extra_no_space_length_1: '6'
+description_extra_no_space_length_2: '60'
+description_extra_no_space_length_3: '606'
+description_extra_no_space_length_4: 606b
+description_extra_no_space_length_5: 606be
+description_extra_no_space_length_6: 606bea
+description_extra_no_space_upper_length_1: '6'
+description_extra_no_space_upper_length_2: '60'
+description_extra_no_space_upper_length_3: '606'
+description_extra_no_space_upper_length_4: 606B
+description_extra_no_space_upper_length_5: 606BE
+description_extra_no_space_upper_length_6: 606BEA
+description_extra_upper_length_1: '6'
+description_extra_upper_length_2: '60'
+description_extra_upper_length_3: '606'
+description_extra_upper_length_4: '606_'
+description_extra_upper_length_5: 606_B
+description_extra_upper_length_6: 606_BE
+description_main: 24_diameter_15_mm_depth
+description_main_length_1: '2'
+description_main_length_2: '24'
+description_main_length_3: '24_'
+description_main_length_4: 24_d
+description_main_length_5: 24_di
+description_main_length_6: 24_dia
+description_main_name: 24 Diameter 15 mm Depth
+description_main_no_space_length_1: '2'
+description_main_no_space_length_2: '24'
+description_main_no_space_length_3: 24d
+description_main_no_space_length_4: 24di
+description_main_no_space_length_5: 24dia
+description_main_no_space_length_6: 24diam
+description_main_no_space_upper_length_1: '2'
+description_main_no_space_upper_length_2: '24'
+description_main_no_space_upper_length_3: 24D
+description_main_no_space_upper_length_4: 24DI
+description_main_no_space_upper_length_5: 24DIA
+description_main_no_space_upper_length_6: 24DIAM
+description_main_upper_length_1: '2'
+description_main_upper_length_2: '24'
+description_main_upper_length_3: '24_'
+description_main_upper_length_4: 24_D
+description_main_upper_length_5: 24_DI
+description_main_upper_length_6: 24_DIA
+diameter: 24
+directory: parts/oobb_part_wheel_24_diameter_15_mm_depth_606_bearing_bearing_twenty_twenty_aluminium_extrusion_extra
+extra: bearing_twenty_twenty_aluminium_extrusion
+folder: C:\gh\oomlout_oobb_version_4_generated_parts\parts\oobb_part_wheel_24_diameter_15_mm_depth_606_bearing_bearing_twenty_twenty_aluminium_extrusion_extra
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_wheel_24_diameter_15_mm_depth_606_bearing_bearing_twenty_twenty_aluminium_extrusion_extra
+id: oobb_part_wheel_24_diameter_15_mm_depth_606_bearing_bearing_twenty_twenty_aluminium_extrusion_extra
+id_no_class: part_wheel_24_diameter_15_mm_depth_606_bearing_bearing_twenty_twenty_aluminium_extrusion_extra
+id_no_color: 24diameter15mmdepth606bearingbearingtwentytwentyaluminiumextrusionextra
+id_no_size: 24_diameter_15_mm_depth_606_bearing_bearing_twenty_twenty_aluminium_extrusion_extra
+id_no_type: wheel_24_diameter_15_mm_depth_606_bearing_bearing_twenty_twenty_aluminium_extrusion_extra
+link_1: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/wheel/24_diameter_15_mm_depth/606_bearing_bearing_twenty_twenty_aluminium_extrusion_extra/part
+link_1_name: link_main
+link_main: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/wheel/24_diameter_15_mm_depth/606_bearing_bearing_twenty_twenty_aluminium_extrusion_extra/part
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%206735t
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%206735t
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%206735t
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%206735t
+link_redirect: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/parts/oobb_wheel_24_15_606_ex_bearing_twenty_twenty_aluminium_extrusion
+manufacturer: ''
+manufacturer_name: ''
+md5: 9ed1c14e2ad031139ee2e4775fea1ac9
+md5_10: 9ed1c14e2a
+md5_10_upper: 9ED1C14E2A
+md5_5: 9ed1c
+md5_5_upper: 9ED1C
+md5_6: 9ed1c1
+md5_6_alpha: 6735t
+md5_6_alpha_upper: 6735T
+md5_6_upper: 9ED1C1
+name: Oobb Part Wheel 24 Diameter 15 mm Depth 606 Bearing Bearing Twenty Twenty Aluminium
+  Extrusion Extra
+name_no_class: Part Wheel 24 Diameter 15 mm Depth 606 Bearing Bearing Twenty Twenty
+  Aluminium Extrusion Extra
+name_no_color: 24Diameter15mmdepth606Bearingbearingtwentytwentyaluminiumextrusionextra
+name_no_size: 24 Diameter 15 mm Depth 606 Bearing Bearing Twenty Twenty Aluminium
+  Extrusion Extra
+name_no_type: Wheel 24 Diameter 15 mm Depth 606 Bearing Bearing Twenty Twenty Aluminium
+  Extrusion Extra
+name_short: Wheel 24x15 606 Bearing Bearing Twenty
+oomlout_detail_hierarchy_1: oobb
+oomlout_detail_hierarchy_1_upper: OOBB
+oomlout_detail_hierarchy_1_upper_length_4: OOBB
+oomlout_detail_hierarchy_2: part
+oomlout_detail_hierarchy_2_upper: PART
+oomlout_detail_hierarchy_2_upper_length_4: PART
+oomlout_detail_hierarchy_3: wheel
+oomlout_detail_hierarchy_3_upper: WHEEL
+oomlout_detail_hierarchy_3_upper_length_4: WHEE
+oomlout_detail_hierarchy_4: 24_diameter
+oomlout_detail_hierarchy_4_upper: 24_DIAMETER
+oomlout_detail_hierarchy_4_upper_length_4: 24_D
+oomlout_detail_hierarchy_5: 15_mm_depth
+oomlout_detail_hierarchy_5_upper: 15_MM_DEPTH
+oomlout_detail_hierarchy_5_upper_length_4: 15DE
+oomlout_detail_hierarchy_6: 606_bearing_bearing_twenty
+oomlout_detail_hierarchy_6_upper: 606_BEARING_BEARING_TWENTY
+oomlout_detail_hierarchy_6_upper_length_4: '606_'
+oomlout_detail_hierarchy_7: twenty_aluminium_extrusion_extra
+oomlout_detail_hierarchy_7_upper: TWENTY_ALUMINIUM_EXTRUSION_EXTRA
+oomlout_detail_hierarchy_7_upper_length_4: TWEN
+oomlout_oomp_utility_custom_data_manipulation: true
+oomp_key: oomp_oobb_part_wheel_24_diameter_15_mm_depth_606_bearing_bearing_twenty_twenty_aluminium_extrusion_extra
+oomp_word: clubs pear doughnut
+oomp_word_emoji: ':clubs: :pear: :doughnut:'
+oomp_word_emoji_list:
+- ':clubs:'
+- ':pear:'
+- ':doughnut:'
+oomp_word_list:
+- clubs
+- pear
+- doughnut
+part_number: ''
+part_number_name: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
+short_name: ''
+size: wheel
+size_length_1: w
+size_length_2: wh
+size_length_3: whe
+size_length_4: whee
+size_length_5: wheel
+size_length_6: wheel
+size_name: Wheel
+size_no_space_length_1: w
+size_no_space_length_2: wh
+size_no_space_length_3: whe
+size_no_space_length_4: whee
+size_no_space_length_5: wheel
+size_no_space_length_6: wheel
+size_no_space_upper_length_1: W
+size_no_space_upper_length_2: WH
+size_no_space_upper_length_3: WHE
+size_no_space_upper_length_4: WHEE
+size_no_space_upper_length_5: WHEEL
+size_no_space_upper_length_6: WHEEL
+size_upper_length_1: W
+size_upper_length_2: WH
+size_upper_length_3: WHE
+size_upper_length_4: WHEE
+size_upper_length_5: WHEEL
+size_upper_length_6: WHEEL
+thickness: 15
+thickness_mm: 15
+type: part
+type_length_1: p
+type_length_2: pa
+type_length_3: par
+type_length_4: part
+type_length_5: part
+type_length_6: part
+type_name: Part
+type_no_space_length_1: p
+type_no_space_length_2: pa
+type_no_space_length_3: par
+type_no_space_length_4: part
+type_no_space_length_5: part
+type_no_space_length_6: part
+type_no_space_upper_length_1: P
+type_no_space_upper_length_2: PA
+type_no_space_upper_length_3: PAR
+type_no_space_upper_length_4: PART
+type_no_space_upper_length_5: PART
+type_no_space_upper_length_6: PART
+type_upper_length_1: P
+type_upper_length_2: PA
+type_upper_length_3: PAR
+type_upper_length_4: PART
+type_upper_length_5: PART
+type_upper_length_6: PART

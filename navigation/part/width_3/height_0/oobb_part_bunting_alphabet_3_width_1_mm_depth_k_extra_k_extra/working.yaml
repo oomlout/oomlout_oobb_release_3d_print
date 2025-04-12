@@ -1,0 +1,255 @@
+bip_39_word_dash_12: select-inspire-one-vendor-solid-dove-wet-pilot-chat-glove-extra-autumn
+bip_39_word_dash_2: select-inspire
+bip_39_word_dash_3: select-inspire-one
+bip_39_word_new_br_12: select<br>inspire<br>one<br>vendor<br>solid<br>dove<br>wet<br>pilot<br>chat<br>glove<br>extra<br>autumn
+bip_39_word_new_br_2: select<br>inspire
+bip_39_word_new_br_3: select<br>inspire<br>one
+bip_39_word_new_line_12: 'select
+
+  inspire
+
+  one
+
+  vendor
+
+  solid
+
+  dove
+
+  wet
+
+  pilot
+
+  chat
+
+  glove
+
+  extra
+
+  autumn'
+bip_39_word_new_line_2: 'select
+
+  inspire'
+bip_39_word_new_line_3: 'select
+
+  inspire
+
+  one'
+bip_39_word_no_space_12: selectinspireonevendorsoliddovewetpilotchatgloveextraautumn
+bip_39_word_no_space_2: selectinspire
+bip_39_word_no_space_3: selectinspireone
+bip_39_word_space_12: select inspire one vendor solid dove wet pilot chat glove extra
+  autumn
+bip_39_word_space_2: select inspire
+bip_39_word_space_3: select inspire one
+bip_39_word_underscore_12: select_inspire_one_vendor_solid_dove_wet_pilot_chat_glove_extra_autumn
+bip_39_word_underscore_2: select_inspire
+bip_39_word_underscore_3: select_inspire_one
+classification: oobb
+classification_length_1: o
+classification_length_2: oo
+classification_length_3: oob
+classification_length_4: oobb
+classification_length_5: oobb
+classification_length_6: oobb
+classification_name: Oobb
+classification_no_space_length_1: o
+classification_no_space_length_2: oo
+classification_no_space_length_3: oob
+classification_no_space_length_4: oobb
+classification_no_space_length_5: oobb
+classification_no_space_length_6: oobb
+classification_no_space_upper_length_1: O
+classification_no_space_upper_length_2: OO
+classification_no_space_upper_length_3: OOB
+classification_no_space_upper_length_4: OOBB
+classification_no_space_upper_length_5: OOBB
+classification_no_space_upper_length_6: OOBB
+classification_upper_length_1: O
+classification_upper_length_2: OO
+classification_upper_length_3: OOB
+classification_upper_length_4: OOBB
+classification_upper_length_5: OOBB
+classification_upper_length_6: OOBB
+color: ''
+color_name: ''
+components: []
+components_objects: []
+components_string: []
+description: bunting alphabet 3x0x1
+description_extra: k_extra
+description_extra_length_1: k
+description_extra_length_2: k_
+description_extra_length_3: k_e
+description_extra_length_4: k_ex
+description_extra_length_5: k_ext
+description_extra_length_6: k_extr
+description_extra_name: K Extra
+description_extra_no_space_length_1: k
+description_extra_no_space_length_2: ke
+description_extra_no_space_length_3: kex
+description_extra_no_space_length_4: kext
+description_extra_no_space_length_5: kextr
+description_extra_no_space_length_6: kextra
+description_extra_no_space_upper_length_1: K
+description_extra_no_space_upper_length_2: KE
+description_extra_no_space_upper_length_3: KEX
+description_extra_no_space_upper_length_4: KEXT
+description_extra_no_space_upper_length_5: KEXTR
+description_extra_no_space_upper_length_6: KEXTRA
+description_extra_upper_length_1: K
+description_extra_upper_length_2: K_
+description_extra_upper_length_3: K_E
+description_extra_upper_length_4: K_EX
+description_extra_upper_length_5: K_EXT
+description_extra_upper_length_6: K_EXTR
+description_main: 3_width_1_mm_depth_k_extra
+description_main_length_1: '3'
+description_main_length_2: '3_'
+description_main_length_3: 3_w
+description_main_length_4: 3_wi
+description_main_length_5: 3_wid
+description_main_length_6: 3_widt
+description_main_name: 3 Width 1 mm Depth K Extra
+description_main_no_space_length_1: '3'
+description_main_no_space_length_2: 3w
+description_main_no_space_length_3: 3wi
+description_main_no_space_length_4: 3wid
+description_main_no_space_length_5: 3widt
+description_main_no_space_length_6: 3width
+description_main_no_space_upper_length_1: '3'
+description_main_no_space_upper_length_2: 3W
+description_main_no_space_upper_length_3: 3WI
+description_main_no_space_upper_length_4: 3WID
+description_main_no_space_upper_length_5: 3WIDT
+description_main_no_space_upper_length_6: 3WIDTH
+description_main_upper_length_1: '3'
+description_main_upper_length_2: '3_'
+description_main_upper_length_3: 3_W
+description_main_upper_length_4: 3_WI
+description_main_upper_length_5: 3_WID
+description_main_upper_length_6: 3_WIDT
+directory: parts/oobb_part_bunting_alphabet_3_width_1_mm_depth_k_extra_k_extra
+extra: k
+folder: C:\gh\oomlout_oobb_version_4_generated_parts\parts\oobb_part_bunting_alphabet_3_width_1_mm_depth_k_extra_k_extra
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bunting_alphabet_3_width_1_mm_depth_k_extra_k_extra
+id: oobb_part_bunting_alphabet_3_width_1_mm_depth_k_extra_k_extra
+id_no_class: part_bunting_alphabet_3_width_1_mm_depth_k_extra_k_extra
+id_no_color: 3width1mmdepthkextrakextra
+id_no_size: 3_width_1_mm_depth_k_extra_k_extra
+id_no_type: bunting_alphabet_3_width_1_mm_depth_k_extra_k_extra
+link_1: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/bunting_alphabet/3_width_1_mm_depth_k_extra/k_extra/part
+link_1_name: link_main
+link_main: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/bunting_alphabet/3_width_1_mm_depth_k_extra/k_extra/part
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%209s1zs
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%209s1zs
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%209s1zs
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%209s1zs
+link_redirect: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/parts/oobb_bunting_alphabet_03_01_ex_k
+manufacturer: ''
+manufacturer_name: ''
+md5: faa218e936a4ff3107675f23355d561a
+md5_10: faa218e936
+md5_10_upper: FAA218E936
+md5_5: faa21
+md5_5_upper: FAA21
+md5_6: faa218
+md5_6_alpha: 9s1zs
+md5_6_alpha_upper: 9S1ZS
+md5_6_upper: FAA218
+name: Oobb Part Bunting Alphabet 3 Width 1 mm Depth K Extra K Extra
+name_no_class: Part Bunting Alphabet 3 Width 1 mm Depth K Extra K Extra
+name_no_color: 3Width1mmdepthkextrakextra
+name_no_size: 3 Width 1 mm Depth K Extra K Extra
+name_no_type: Bunting Alphabet 3 Width 1 mm Depth K Extra K Extra
+name_short: Bunting Alphabet 3x1 K Extra K Extra
+oomlout_detail_hierarchy_1: oobb
+oomlout_detail_hierarchy_1_upper: OOBB
+oomlout_detail_hierarchy_1_upper_length_4: OOBB
+oomlout_detail_hierarchy_2: part
+oomlout_detail_hierarchy_2_upper: PART
+oomlout_detail_hierarchy_2_upper_length_4: PART
+oomlout_detail_hierarchy_3: bunting_alphabet
+oomlout_detail_hierarchy_3_upper: BUNTING_ALPHABET
+oomlout_detail_hierarchy_3_upper_length_4: BUNT
+oomlout_detail_hierarchy_4: 1_mm_depth
+oomlout_detail_hierarchy_4_upper: 1_MM_DEPTH
+oomlout_detail_hierarchy_4_upper_length_4: 1DEP
+oomlout_detail_hierarchy_5: k_extra
+oomlout_detail_hierarchy_5_upper: K_EXTRA
+oomlout_detail_hierarchy_5_upper_length_4: K_EX
+oomlout_oomp_utility_custom_data_manipulation: true
+oomp_key: oomp_oobb_part_bunting_alphabet_3_width_1_mm_depth_k_extra_k_extra
+oomp_word: nine violin hand
+oomp_word_emoji: ':nine: :violin: :hand:'
+oomp_word_emoji_list:
+- ':nine:'
+- ':violin:'
+- ':hand:'
+oomp_word_list:
+- nine
+- violin
+- hand
+part_number: ''
+part_number_name: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
+short_name: ''
+size: bunting_alphabet
+size_length_1: b
+size_length_2: bu
+size_length_3: bun
+size_length_4: bunt
+size_length_5: bunti
+size_length_6: buntin
+size_name: Bunting Alphabet
+size_no_space_length_1: b
+size_no_space_length_2: bu
+size_no_space_length_3: bun
+size_no_space_length_4: bunt
+size_no_space_length_5: bunti
+size_no_space_length_6: buntin
+size_no_space_upper_length_1: B
+size_no_space_upper_length_2: BU
+size_no_space_upper_length_3: BUN
+size_no_space_upper_length_4: BUNT
+size_no_space_upper_length_5: BUNTI
+size_no_space_upper_length_6: BUNTIN
+size_upper_length_1: B
+size_upper_length_2: BU
+size_upper_length_3: BUN
+size_upper_length_4: BUNT
+size_upper_length_5: BUNTI
+size_upper_length_6: BUNTIN
+thickness: 1
+thickness_mm: 1
+type: part
+type_length_1: p
+type_length_2: pa
+type_length_3: par
+type_length_4: part
+type_length_5: part
+type_length_6: part
+type_name: Part
+type_no_space_length_1: p
+type_no_space_length_2: pa
+type_no_space_length_3: par
+type_no_space_length_4: part
+type_no_space_length_5: part
+type_no_space_length_6: part
+type_no_space_upper_length_1: P
+type_no_space_upper_length_2: PA
+type_no_space_upper_length_3: PAR
+type_no_space_upper_length_4: PART
+type_no_space_upper_length_5: PART
+type_no_space_upper_length_6: PART
+type_upper_length_1: P
+type_upper_length_2: PA
+type_upper_length_3: PAR
+type_upper_length_4: PART
+type_upper_length_5: PART
+type_upper_length_6: PART
+width: 3
+width_mm: 44

@@ -1,0 +1,257 @@
+bip_39_word_dash_12: label-cupboard-figure-simple-eye-visual-match-document-end-flavor-flame-attend
+bip_39_word_dash_2: label-cupboard
+bip_39_word_dash_3: label-cupboard-figure
+bip_39_word_new_br_12: label<br>cupboard<br>figure<br>simple<br>eye<br>visual<br>match<br>document<br>end<br>flavor<br>flame<br>attend
+bip_39_word_new_br_2: label<br>cupboard
+bip_39_word_new_br_3: label<br>cupboard<br>figure
+bip_39_word_new_line_12: 'label
+
+  cupboard
+
+  figure
+
+  simple
+
+  eye
+
+  visual
+
+  match
+
+  document
+
+  end
+
+  flavor
+
+  flame
+
+  attend'
+bip_39_word_new_line_2: 'label
+
+  cupboard'
+bip_39_word_new_line_3: 'label
+
+  cupboard
+
+  figure'
+bip_39_word_no_space_12: labelcupboardfiguresimpleeyevisualmatchdocumentendflavorflameattend
+bip_39_word_no_space_2: labelcupboard
+bip_39_word_no_space_3: labelcupboardfigure
+bip_39_word_space_12: label cupboard figure simple eye visual match document end flavor
+  flame attend
+bip_39_word_space_2: label cupboard
+bip_39_word_space_3: label cupboard figure
+bip_39_word_underscore_12: label_cupboard_figure_simple_eye_visual_match_document_end_flavor_flame_attend
+bip_39_word_underscore_2: label_cupboard
+bip_39_word_underscore_3: label_cupboard_figure
+classification: oobb
+classification_length_1: o
+classification_length_2: oo
+classification_length_3: oob
+classification_length_4: oobb
+classification_length_5: oobb
+classification_length_6: oobb
+classification_name: Oobb
+classification_no_space_length_1: o
+classification_no_space_length_2: oo
+classification_no_space_length_3: oob
+classification_no_space_length_4: oobb
+classification_no_space_length_5: oobb
+classification_no_space_length_6: oobb
+classification_no_space_upper_length_1: O
+classification_no_space_upper_length_2: OO
+classification_no_space_upper_length_3: OOB
+classification_no_space_upper_length_4: OOBB
+classification_no_space_upper_length_5: OOBB
+classification_no_space_upper_length_6: OOBB
+classification_upper_length_1: O
+classification_upper_length_2: OO
+classification_upper_length_3: OOB
+classification_upper_length_4: OOBB
+classification_upper_length_5: OOBB
+classification_upper_length_6: OOBB
+color: ''
+color_name: ''
+components: []
+components_objects: []
+components_string: []
+description: smd magazine 3x3x14
+description_extra: 2_extra
+description_extra_length_1: '2'
+description_extra_length_2: '2_'
+description_extra_length_3: 2_e
+description_extra_length_4: 2_ex
+description_extra_length_5: 2_ext
+description_extra_length_6: 2_extr
+description_extra_name: 2 Extra
+description_extra_no_space_length_1: '2'
+description_extra_no_space_length_2: 2e
+description_extra_no_space_length_3: 2ex
+description_extra_no_space_length_4: 2ext
+description_extra_no_space_length_5: 2extr
+description_extra_no_space_length_6: 2extra
+description_extra_no_space_upper_length_1: '2'
+description_extra_no_space_upper_length_2: 2E
+description_extra_no_space_upper_length_3: 2EX
+description_extra_no_space_upper_length_4: 2EXT
+description_extra_no_space_upper_length_5: 2EXTR
+description_extra_no_space_upper_length_6: 2EXTRA
+description_extra_upper_length_1: '2'
+description_extra_upper_length_2: '2_'
+description_extra_upper_length_3: 2_E
+description_extra_upper_length_4: 2_EX
+description_extra_upper_length_5: 2_EXT
+description_extra_upper_length_6: 2_EXTR
+description_main: 3_width_3_height_14_mm_depth
+description_main_length_1: '3'
+description_main_length_2: '3_'
+description_main_length_3: 3_w
+description_main_length_4: 3_wi
+description_main_length_5: 3_wid
+description_main_length_6: 3_widt
+description_main_name: 3 Width 3 Height 14 mm Depth
+description_main_no_space_length_1: '3'
+description_main_no_space_length_2: 3w
+description_main_no_space_length_3: 3wi
+description_main_no_space_length_4: 3wid
+description_main_no_space_length_5: 3widt
+description_main_no_space_length_6: 3width
+description_main_no_space_upper_length_1: '3'
+description_main_no_space_upper_length_2: 3W
+description_main_no_space_upper_length_3: 3WI
+description_main_no_space_upper_length_4: 3WID
+description_main_no_space_upper_length_5: 3WIDT
+description_main_no_space_upper_length_6: 3WIDTH
+description_main_upper_length_1: '3'
+description_main_upper_length_2: '3_'
+description_main_upper_length_3: 3_W
+description_main_upper_length_4: 3_WI
+description_main_upper_length_5: 3_WID
+description_main_upper_length_6: 3_WIDT
+directory: parts/oobb_part_smd_magazine_3_width_3_height_14_mm_depth_2_extra
+extra: 2
+folder: C:\gh\oomlout_oobb_version_4_generated_parts\parts\oobb_part_smd_magazine_3_width_3_height_14_mm_depth_2_extra
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_smd_magazine_3_width_3_height_14_mm_depth_2_extra
+height: 3
+height_mm: 44
+id: oobb_part_smd_magazine_3_width_3_height_14_mm_depth_2_extra
+id_no_class: part_smd_magazine_3_width_3_height_14_mm_depth_2_extra
+id_no_color: 3width3height14mmdepth2extra
+id_no_size: 3_width_3_height_14_mm_depth_2_extra
+id_no_type: smd_magazine_3_width_3_height_14_mm_depth_2_extra
+link_1: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/smd_magazine/3_width_3_height_14_mm_depth/2_extra/part
+link_1_name: link_main
+link_main: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/smd_magazine/3_width_3_height_14_mm_depth/2_extra/part
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2092umu
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2092umu
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%2092umu
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2092umu
+link_redirect: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/parts/oobb_smd_magazine_03_03_14_nm_12_mm_tape_width_2_mm_tape_thickness_ex_2
+manufacturer: ''
+manufacturer_name: ''
+md5: e8b0962a4c40711bd3a89c90ac0d73e1
+md5_10: e8b0962a4c
+md5_10_upper: E8B0962A4C
+md5_5: e8b09
+md5_5_upper: E8B09
+md5_6: e8b096
+md5_6_alpha: 92umu
+md5_6_alpha_upper: 92UMU
+md5_6_upper: E8B096
+name: Oobb Part SMD Magazine 3 Width 3 Height 14 mm Depth 2 Extra
+name_no_class: Part SMD Magazine 3 Width 3 Height 14 mm Depth 2 Extra
+name_no_color: 3Width3Height14mmdepth2Extra
+name_no_size: 3 Width 3 Height 14 mm Depth 2 Extra
+name_no_type: SMD Magazine 3 Width 3 Height 14 mm Depth 2 Extra
+name_short: Smd Magazine 3x3x14 2 Extra
+oomlout_detail_hierarchy_1: oobb
+oomlout_detail_hierarchy_1_upper: OOBB
+oomlout_detail_hierarchy_1_upper_length_4: OOBB
+oomlout_detail_hierarchy_2: part
+oomlout_detail_hierarchy_2_upper: PART
+oomlout_detail_hierarchy_2_upper_length_4: PART
+oomlout_detail_hierarchy_3: smd_magazine
+oomlout_detail_hierarchy_3_upper: SMD_MAGAZINE
+oomlout_detail_hierarchy_3_upper_length_4: SMD_
+oomlout_detail_hierarchy_4: 14_mm_depth
+oomlout_detail_hierarchy_4_upper: 14_MM_DEPTH
+oomlout_detail_hierarchy_4_upper_length_4: 14DE
+oomlout_detail_hierarchy_5: 2_extra
+oomlout_detail_hierarchy_5_upper: 2_EXTRA
+oomlout_detail_hierarchy_5_upper_length_4: 2_EX
+oomlout_oomp_utility_custom_data_manipulation: true
+oomp_key: oomp_oobb_part_smd_magazine_3_width_3_height_14_mm_depth_2_extra
+oomp_word: tram crown basketball
+oomp_word_emoji: ':tram: :crown: :basketball:'
+oomp_word_emoji_list:
+- ':tram:'
+- ':crown:'
+- ':basketball:'
+oomp_word_list:
+- tram
+- crown
+- basketball
+part_number: ''
+part_number_name: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
+short_name: ''
+size: smd_magazine
+size_length_1: s
+size_length_2: sm
+size_length_3: smd
+size_length_4: smd_
+size_length_5: smd_m
+size_length_6: smd_ma
+size_name: SMD Magazine
+size_no_space_length_1: s
+size_no_space_length_2: sm
+size_no_space_length_3: smd
+size_no_space_length_4: smdm
+size_no_space_length_5: smdma
+size_no_space_length_6: smdmag
+size_no_space_upper_length_1: S
+size_no_space_upper_length_2: SM
+size_no_space_upper_length_3: SMD
+size_no_space_upper_length_4: SMDM
+size_no_space_upper_length_5: SMDMA
+size_no_space_upper_length_6: SMDMAG
+size_upper_length_1: S
+size_upper_length_2: SM
+size_upper_length_3: SMD
+size_upper_length_4: SMD_
+size_upper_length_5: SMD_M
+size_upper_length_6: SMD_MA
+thickness: 14
+thickness_mm: 14
+type: part
+type_length_1: p
+type_length_2: pa
+type_length_3: par
+type_length_4: part
+type_length_5: part
+type_length_6: part
+type_name: Part
+type_no_space_length_1: p
+type_no_space_length_2: pa
+type_no_space_length_3: par
+type_no_space_length_4: part
+type_no_space_length_5: part
+type_no_space_length_6: part
+type_no_space_upper_length_1: P
+type_no_space_upper_length_2: PA
+type_no_space_upper_length_3: PAR
+type_no_space_upper_length_4: PART
+type_no_space_upper_length_5: PART
+type_no_space_upper_length_6: PART
+type_upper_length_1: P
+type_upper_length_2: PA
+type_upper_length_3: PAR
+type_upper_length_4: PART
+type_upper_length_5: PART
+type_upper_length_6: PART
+width: 3
+width_mm: 44

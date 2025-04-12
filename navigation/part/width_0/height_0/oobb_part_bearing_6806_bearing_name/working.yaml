@@ -1,0 +1,224 @@
+bearing_name: '6806'
+bip_39_word_dash_12: layer-tennis-shaft-dilemma-pave-fee-few-consider-wall-evoke-burst-answer
+bip_39_word_dash_2: layer-tennis
+bip_39_word_dash_3: layer-tennis-shaft
+bip_39_word_new_br_12: layer<br>tennis<br>shaft<br>dilemma<br>pave<br>fee<br>few<br>consider<br>wall<br>evoke<br>burst<br>answer
+bip_39_word_new_br_2: layer<br>tennis
+bip_39_word_new_br_3: layer<br>tennis<br>shaft
+bip_39_word_new_line_12: 'layer
+
+  tennis
+
+  shaft
+
+  dilemma
+
+  pave
+
+  fee
+
+  few
+
+  consider
+
+  wall
+
+  evoke
+
+  burst
+
+  answer'
+bip_39_word_new_line_2: 'layer
+
+  tennis'
+bip_39_word_new_line_3: 'layer
+
+  tennis
+
+  shaft'
+bip_39_word_no_space_12: layertennisshaftdilemmapavefeefewconsiderwallevokeburstanswer
+bip_39_word_no_space_2: layertennis
+bip_39_word_no_space_3: layertennisshaft
+bip_39_word_space_12: layer tennis shaft dilemma pave fee few consider wall evoke
+  burst answer
+bip_39_word_space_2: layer tennis
+bip_39_word_space_3: layer tennis shaft
+bip_39_word_underscore_12: layer_tennis_shaft_dilemma_pave_fee_few_consider_wall_evoke_burst_answer
+bip_39_word_underscore_2: layer_tennis
+bip_39_word_underscore_3: layer_tennis_shaft
+classification: oobb
+classification_length_1: o
+classification_length_2: oo
+classification_length_3: oob
+classification_length_4: oobb
+classification_length_5: oobb
+classification_length_6: oobb
+classification_name: Oobb
+classification_no_space_length_1: o
+classification_no_space_length_2: oo
+classification_no_space_length_3: oob
+classification_no_space_length_4: oobb
+classification_no_space_length_5: oobb
+classification_no_space_length_6: oobb
+classification_no_space_upper_length_1: O
+classification_no_space_upper_length_2: OO
+classification_no_space_upper_length_3: OOB
+classification_no_space_upper_length_4: OOBB
+classification_no_space_upper_length_5: OOBB
+classification_no_space_upper_length_6: OOBB
+classification_upper_length_1: O
+classification_upper_length_2: OO
+classification_upper_length_3: OOB
+classification_upper_length_4: OOBB
+classification_upper_length_5: OOBB
+classification_upper_length_6: OOBB
+color: ''
+color_name: ''
+components: []
+components_objects: []
+components_string: []
+description: bearing 0x0x0
+description_extra: 6806_bearing_name
+description_extra_length_1: '6'
+description_extra_length_2: '68'
+description_extra_length_3: '680'
+description_extra_length_4: '6806'
+description_extra_length_5: '6806_'
+description_extra_length_6: 6806_b
+description_extra_name: 6806 Bearing Name
+description_extra_no_space_length_1: '6'
+description_extra_no_space_length_2: '68'
+description_extra_no_space_length_3: '680'
+description_extra_no_space_length_4: '6806'
+description_extra_no_space_length_5: 6806b
+description_extra_no_space_length_6: 6806be
+description_extra_no_space_upper_length_1: '6'
+description_extra_no_space_upper_length_2: '68'
+description_extra_no_space_upper_length_3: '680'
+description_extra_no_space_upper_length_4: '6806'
+description_extra_no_space_upper_length_5: 6806B
+description_extra_no_space_upper_length_6: 6806BE
+description_extra_upper_length_1: '6'
+description_extra_upper_length_2: '68'
+description_extra_upper_length_3: '680'
+description_extra_upper_length_4: '6806'
+description_extra_upper_length_5: '6806_'
+description_extra_upper_length_6: 6806_B
+description_main: ''
+description_main_name: ''
+directory: parts/oobb_part_bearing_6806_bearing_name
+folder: C:\gh\oomlout_oobb_version_4_generated_parts\parts\oobb_part_bearing_6806_bearing_name
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bearing_6806_bearing_name
+id: oobb_part_bearing_6806_bearing_name
+id_no_class: part_bearing_6806_bearing_name
+id_no_color: 6806name
+id_no_size: 6806_name
+id_no_type: bearing_6806_bearing_name
+link_1: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/bearing//6806_bearing_name/part
+link_1_name: link_main
+link_main: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/bearing//6806_bearing_name/part
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2060nmb
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2060nmb
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%2060nmb
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2060nmb
+link_redirect: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/parts/hardware_bearing_6806
+manufacturer: ''
+manufacturer_name: ''
+md5: 9a3d9387b52f4ab15250c3e389f7cbf2
+md5_10: 9a3d9387b5
+md5_10_upper: 9A3D9387B5
+md5_5: 9a3d9
+md5_5_upper: 9A3D9
+md5_6: 9a3d93
+md5_6_alpha: 60nmb
+md5_6_alpha_upper: 60NMB
+md5_6_upper: 9A3D93
+name: Oobb Part Bearing 6806 Bearing Name
+name_no_class: Part Bearing 6806 Bearing Name
+name_no_color: 6806Name
+name_no_size: 6806 Name
+name_no_type: Bearing 6806 Bearing Name
+name_short: Bearing 6806 Bearing Name
+oomlout_detail_hierarchy_1: oobb
+oomlout_detail_hierarchy_1_upper: OOBB
+oomlout_detail_hierarchy_1_upper_length_4: OOBB
+oomlout_detail_hierarchy_2: part
+oomlout_detail_hierarchy_2_upper: PART
+oomlout_detail_hierarchy_2_upper_length_4: PART
+oomlout_detail_hierarchy_3: bearing
+oomlout_detail_hierarchy_3_upper: BEARING
+oomlout_detail_hierarchy_3_upper_length_4: BEAR
+oomlout_detail_hierarchy_4: 6806_bearing_name
+oomlout_detail_hierarchy_4_upper: 6806_BEARING_NAME
+oomlout_detail_hierarchy_4_upper_length_4: '6806'
+oomlout_oomp_utility_custom_data_manipulation: true
+oomp_key: oomp_oobb_part_bearing_6806_bearing_name
+oomp_word: golf cow books
+oomp_word_emoji: ':golf: :cow: :books:'
+oomp_word_emoji_list:
+- ':golf:'
+- ':cow:'
+- ':books:'
+oomp_word_list:
+- golf
+- cow
+- books
+part_number: ''
+part_number_name: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
+short_name: ''
+size: bearing
+size_length_1: b
+size_length_2: be
+size_length_3: bea
+size_length_4: bear
+size_length_5: beari
+size_length_6: bearin
+size_name: Bearing
+size_no_space_length_1: b
+size_no_space_length_2: be
+size_no_space_length_3: bea
+size_no_space_length_4: bear
+size_no_space_length_5: beari
+size_no_space_length_6: bearin
+size_no_space_upper_length_1: B
+size_no_space_upper_length_2: BE
+size_no_space_upper_length_3: BEA
+size_no_space_upper_length_4: BEAR
+size_no_space_upper_length_5: BEARI
+size_no_space_upper_length_6: BEARIN
+size_upper_length_1: B
+size_upper_length_2: BE
+size_upper_length_3: BEA
+size_upper_length_4: BEAR
+size_upper_length_5: BEARI
+size_upper_length_6: BEARIN
+type: part
+type_length_1: p
+type_length_2: pa
+type_length_3: par
+type_length_4: part
+type_length_5: part
+type_length_6: part
+type_name: Part
+type_no_space_length_1: p
+type_no_space_length_2: pa
+type_no_space_length_3: par
+type_no_space_length_4: part
+type_no_space_length_5: part
+type_no_space_length_6: part
+type_no_space_upper_length_1: P
+type_no_space_upper_length_2: PA
+type_no_space_upper_length_3: PAR
+type_no_space_upper_length_4: PART
+type_no_space_upper_length_5: PART
+type_no_space_upper_length_6: PART
+type_upper_length_1: P
+type_upper_length_2: PA
+type_upper_length_3: PAR
+type_upper_length_4: PART
+type_upper_length_5: PART
+type_upper_length_6: PART

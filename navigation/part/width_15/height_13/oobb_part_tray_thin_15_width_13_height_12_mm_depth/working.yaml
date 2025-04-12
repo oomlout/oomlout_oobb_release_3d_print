@@ -1,0 +1,229 @@
+bip_39_word_dash_12: bicycle-dinner-reduce-occur-traffic-unaware-stand-orange-upgrade-couch-van-athlete
+bip_39_word_dash_2: bicycle-dinner
+bip_39_word_dash_3: bicycle-dinner-reduce
+bip_39_word_new_br_12: bicycle<br>dinner<br>reduce<br>occur<br>traffic<br>unaware<br>stand<br>orange<br>upgrade<br>couch<br>van<br>athlete
+bip_39_word_new_br_2: bicycle<br>dinner
+bip_39_word_new_br_3: bicycle<br>dinner<br>reduce
+bip_39_word_new_line_12: 'bicycle
+
+  dinner
+
+  reduce
+
+  occur
+
+  traffic
+
+  unaware
+
+  stand
+
+  orange
+
+  upgrade
+
+  couch
+
+  van
+
+  athlete'
+bip_39_word_new_line_2: 'bicycle
+
+  dinner'
+bip_39_word_new_line_3: 'bicycle
+
+  dinner
+
+  reduce'
+bip_39_word_no_space_12: bicycledinnerreduceoccurtrafficunawarestandorangeupgradecouchvanathlete
+bip_39_word_no_space_2: bicycledinner
+bip_39_word_no_space_3: bicycledinnerreduce
+bip_39_word_space_12: bicycle dinner reduce occur traffic unaware stand orange upgrade
+  couch van athlete
+bip_39_word_space_2: bicycle dinner
+bip_39_word_space_3: bicycle dinner reduce
+bip_39_word_underscore_12: bicycle_dinner_reduce_occur_traffic_unaware_stand_orange_upgrade_couch_van_athlete
+bip_39_word_underscore_2: bicycle_dinner
+bip_39_word_underscore_3: bicycle_dinner_reduce
+classification: oobb
+classification_length_1: o
+classification_length_2: oo
+classification_length_3: oob
+classification_length_4: oobb
+classification_length_5: oobb
+classification_length_6: oobb
+classification_name: Oobb
+classification_no_space_length_1: o
+classification_no_space_length_2: oo
+classification_no_space_length_3: oob
+classification_no_space_length_4: oobb
+classification_no_space_length_5: oobb
+classification_no_space_length_6: oobb
+classification_no_space_upper_length_1: O
+classification_no_space_upper_length_2: OO
+classification_no_space_upper_length_3: OOB
+classification_no_space_upper_length_4: OOBB
+classification_no_space_upper_length_5: OOBB
+classification_no_space_upper_length_6: OOBB
+classification_upper_length_1: O
+classification_upper_length_2: OO
+classification_upper_length_3: OOB
+classification_upper_length_4: OOBB
+classification_upper_length_5: OOBB
+classification_upper_length_6: OOBB
+color: ''
+color_name: ''
+components: []
+components_objects: []
+components_string: []
+description: tray thin 15x13x12
+description_extra: ''
+description_extra_name: ''
+description_main: 15_width_13_height_12_mm_depth
+description_main_length_1: '1'
+description_main_length_2: '15'
+description_main_length_3: '15_'
+description_main_length_4: 15_w
+description_main_length_5: 15_wi
+description_main_length_6: 15_wid
+description_main_name: 15 Width 13 Height 12 mm Depth
+description_main_no_space_length_1: '1'
+description_main_no_space_length_2: '15'
+description_main_no_space_length_3: 15w
+description_main_no_space_length_4: 15wi
+description_main_no_space_length_5: 15wid
+description_main_no_space_length_6: 15widt
+description_main_no_space_upper_length_1: '1'
+description_main_no_space_upper_length_2: '15'
+description_main_no_space_upper_length_3: 15W
+description_main_no_space_upper_length_4: 15WI
+description_main_no_space_upper_length_5: 15WID
+description_main_no_space_upper_length_6: 15WIDT
+description_main_upper_length_1: '1'
+description_main_upper_length_2: '15'
+description_main_upper_length_3: '15_'
+description_main_upper_length_4: 15_W
+description_main_upper_length_5: 15_WI
+description_main_upper_length_6: 15_WID
+directory: parts/oobb_part_tray_thin_15_width_13_height_12_mm_depth
+folder: C:\gh\oomlout_oobb_version_4_generated_parts\parts\oobb_part_tray_thin_15_width_13_height_12_mm_depth
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_15_width_13_height_12_mm_depth
+height: 13
+height_mm: 194
+id: oobb_part_tray_thin_15_width_13_height_12_mm_depth
+id_no_class: part_tray_thin_15_width_13_height_12_mm_depth
+id_no_color: 15width13height12mmdepth
+id_no_size: 15_width_13_height_12_mm_depth
+id_no_type: tray_thin_15_width_13_height_12_mm_depth
+link_1: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/tray_thin/15_width_13_height_12_mm_depth/part
+link_1_name: link_main
+link_main: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/tray_thin/15_width_13_height_12_mm_depth/part
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%208w3m4
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%208w3m4
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%208w3m4
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%208w3m4
+link_redirect: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/parts/oobb_tray_thin_15_13_12
+manufacturer: ''
+manufacturer_name: ''
+md5: e3e24c3f759bda93b1f3698d680f90af
+md5_10: e3e24c3f75
+md5_10_upper: E3E24C3F75
+md5_5: e3e24
+md5_5_upper: E3E24
+md5_6: e3e24c
+md5_6_alpha: 8w3m4
+md5_6_alpha_upper: 8W3M4
+md5_6_upper: E3E24C
+name: Oobb Part Tray Thin 15 Width 13 Height 12 mm Depth
+name_no_class: Part Tray Thin 15 Width 13 Height 12 mm Depth
+name_no_color: 15Width13Height12mmdepth
+name_no_size: 15 Width 13 Height 12 mm Depth
+name_no_type: Tray Thin 15 Width 13 Height 12 mm Depth
+name_short: 'Tray Thin 15x13x12 '
+oomlout_detail_hierarchy_1: oobb
+oomlout_detail_hierarchy_1_upper: OOBB
+oomlout_detail_hierarchy_1_upper_length_4: OOBB
+oomlout_detail_hierarchy_2: part
+oomlout_detail_hierarchy_2_upper: PART
+oomlout_detail_hierarchy_2_upper_length_4: PART
+oomlout_detail_hierarchy_3: tray_thin
+oomlout_detail_hierarchy_3_upper: TRAY_THIN
+oomlout_detail_hierarchy_3_upper_length_4: TRAY
+oomlout_detail_hierarchy_4: 12_mm_depth
+oomlout_detail_hierarchy_4_upper: 12_MM_DEPTH
+oomlout_detail_hierarchy_4_upper_length_4: 12DE
+oomlout_oomp_utility_custom_data_manipulation: true
+oomp_key: oomp_oobb_part_tray_thin_15_width_13_height_12_mm_depth
+oomp_word: rowboat sailboat turtle
+oomp_word_emoji: ':rowboat: :sailboat: :turtle:'
+oomp_word_emoji_list:
+- ':rowboat:'
+- ':sailboat:'
+- ':turtle:'
+oomp_word_list:
+- rowboat
+- sailboat
+- turtle
+part_number: ''
+part_number_name: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
+short_name: ''
+size: tray_thin
+size_length_1: t
+size_length_2: tr
+size_length_3: tra
+size_length_4: tray
+size_length_5: tray_
+size_length_6: tray_t
+size_name: Tray Thin
+size_no_space_length_1: t
+size_no_space_length_2: tr
+size_no_space_length_3: tra
+size_no_space_length_4: tray
+size_no_space_length_5: trayt
+size_no_space_length_6: trayth
+size_no_space_upper_length_1: T
+size_no_space_upper_length_2: TR
+size_no_space_upper_length_3: TRA
+size_no_space_upper_length_4: TRAY
+size_no_space_upper_length_5: TRAYT
+size_no_space_upper_length_6: TRAYTH
+size_upper_length_1: T
+size_upper_length_2: TR
+size_upper_length_3: TRA
+size_upper_length_4: TRAY
+size_upper_length_5: TRAY_
+size_upper_length_6: TRAY_T
+thickness: 12
+thickness_mm: 12
+type: part
+type_length_1: p
+type_length_2: pa
+type_length_3: par
+type_length_4: part
+type_length_5: part
+type_length_6: part
+type_name: Part
+type_no_space_length_1: p
+type_no_space_length_2: pa
+type_no_space_length_3: par
+type_no_space_length_4: part
+type_no_space_length_5: part
+type_no_space_length_6: part
+type_no_space_upper_length_1: P
+type_no_space_upper_length_2: PA
+type_no_space_upper_length_3: PAR
+type_no_space_upper_length_4: PART
+type_no_space_upper_length_5: PART
+type_no_space_upper_length_6: PART
+type_upper_length_1: P
+type_upper_length_2: PA
+type_upper_length_3: PAR
+type_upper_length_4: PART
+type_upper_length_5: PART
+type_upper_length_6: PART
+width: 15
+width_mm: 224

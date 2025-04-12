@@ -1,0 +1,253 @@
+bip_39_word_dash_12: neglect-soft-disorder-couch-divide-drum-angle-night-best-outdoor-stem-antique
+bip_39_word_dash_2: neglect-soft
+bip_39_word_dash_3: neglect-soft-disorder
+bip_39_word_new_br_12: neglect<br>soft<br>disorder<br>couch<br>divide<br>drum<br>angle<br>night<br>best<br>outdoor<br>stem<br>antique
+bip_39_word_new_br_2: neglect<br>soft
+bip_39_word_new_br_3: neglect<br>soft<br>disorder
+bip_39_word_new_line_12: 'neglect
+
+  soft
+
+  disorder
+
+  couch
+
+  divide
+
+  drum
+
+  angle
+
+  night
+
+  best
+
+  outdoor
+
+  stem
+
+  antique'
+bip_39_word_new_line_2: 'neglect
+
+  soft'
+bip_39_word_new_line_3: 'neglect
+
+  soft
+
+  disorder'
+bip_39_word_no_space_12: neglectsoftdisordercouchdividedrumanglenightbestoutdoorstemantique
+bip_39_word_no_space_2: neglectsoft
+bip_39_word_no_space_3: neglectsoftdisorder
+bip_39_word_space_12: neglect soft disorder couch divide drum angle night best outdoor
+  stem antique
+bip_39_word_space_2: neglect soft
+bip_39_word_space_3: neglect soft disorder
+bip_39_word_underscore_12: neglect_soft_disorder_couch_divide_drum_angle_night_best_outdoor_stem_antique
+bip_39_word_underscore_2: neglect_soft
+bip_39_word_underscore_3: neglect_soft_disorder
+classification: oobb
+classification_length_1: o
+classification_length_2: oo
+classification_length_3: oob
+classification_length_4: oobb
+classification_length_5: oobb
+classification_length_6: oobb
+classification_name: Oobb
+classification_no_space_length_1: o
+classification_no_space_length_2: oo
+classification_no_space_length_3: oob
+classification_no_space_length_4: oobb
+classification_no_space_length_5: oobb
+classification_no_space_length_6: oobb
+classification_no_space_upper_length_1: O
+classification_no_space_upper_length_2: OO
+classification_no_space_upper_length_3: OOB
+classification_no_space_upper_length_4: OOBB
+classification_no_space_upper_length_5: OOBB
+classification_no_space_upper_length_6: OOBB
+classification_upper_length_1: O
+classification_upper_length_2: OO
+classification_upper_length_3: OOB
+classification_upper_length_4: OOBB
+classification_upper_length_5: OOBB
+classification_upper_length_6: OOBB
+color: ''
+color_name: ''
+components: []
+components_objects: []
+components_string: []
+description: shaft 0x0x15
+description_extra: washer_extra
+description_extra_length_1: w
+description_extra_length_2: wa
+description_extra_length_3: was
+description_extra_length_4: wash
+description_extra_length_5: washe
+description_extra_length_6: washer
+description_extra_name: Washer Extra
+description_extra_no_space_length_1: w
+description_extra_no_space_length_2: wa
+description_extra_no_space_length_3: was
+description_extra_no_space_length_4: wash
+description_extra_no_space_length_5: washe
+description_extra_no_space_length_6: washer
+description_extra_no_space_upper_length_1: W
+description_extra_no_space_upper_length_2: WA
+description_extra_no_space_upper_length_3: WAS
+description_extra_no_space_upper_length_4: WASH
+description_extra_no_space_upper_length_5: WASHE
+description_extra_no_space_upper_length_6: WASHER
+description_extra_upper_length_1: W
+description_extra_upper_length_2: WA
+description_extra_upper_length_3: WAS
+description_extra_upper_length_4: WASH
+description_extra_upper_length_5: WASHE
+description_extra_upper_length_6: WASHER
+description_main: 15_mm_depth
+description_main_length_1: '1'
+description_main_length_2: '15'
+description_main_length_3: '15_'
+description_main_length_4: 15_m
+description_main_length_5: 15_mm
+description_main_length_6: 15_mm_
+description_main_name: 15 mm Depth
+description_main_no_space_length_1: '1'
+description_main_no_space_length_2: '15'
+description_main_no_space_length_3: 15m
+description_main_no_space_length_4: 15mm
+description_main_no_space_length_5: 15mmd
+description_main_no_space_length_6: 15mmde
+description_main_no_space_upper_length_1: '1'
+description_main_no_space_upper_length_2: '15'
+description_main_no_space_upper_length_3: 15M
+description_main_no_space_upper_length_4: 15MM
+description_main_no_space_upper_length_5: 15MMD
+description_main_no_space_upper_length_6: 15MMDE
+description_main_upper_length_1: '1'
+description_main_upper_length_2: '15'
+description_main_upper_length_3: '15_'
+description_main_upper_length_4: 15_M
+description_main_upper_length_5: 15_MM
+description_main_upper_length_6: 15_MM_
+directory: parts/oobb_part_shaft_15_mm_depth_washer_extra
+extra: washer
+folder: C:\gh\oomlout_oobb_version_4_generated_parts\parts\oobb_part_shaft_15_mm_depth_washer_extra
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_shaft_15_mm_depth_washer_extra
+id: oobb_part_shaft_15_mm_depth_washer_extra
+id_no_class: part_shaft_15_mm_depth_washer_extra
+id_no_color: 15mmdepthwasherextra
+id_no_size: 15_mm_depth_washer_extra
+id_no_type: shaft_15_mm_depth_washer_extra
+link_1: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/shaft/15_mm_depth/washer_extra/part
+link_1_name: link_main
+link_main: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/shaft/15_mm_depth/washer_extra/part
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2068a07
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2068a07
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%2068a07
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2068a07
+link_redirect: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/parts/oobb_shaft_15_ex_washer
+manufacturer: ''
+manufacturer_name: ''
+md5: 9faaa748aa9581190e1ff30e7ef394a0
+md5_10: 9faaa748aa
+md5_10_upper: 9FAAA748AA
+md5_5: 9faaa
+md5_5_upper: 9FAAA
+md5_6: 9faaa7
+md5_6_alpha: 68a07
+md5_6_alpha_upper: 68A07
+md5_6_upper: 9FAAA7
+name: Oobb Part Shaft 15 mm Depth Washer Extra
+name_no_class: Part Shaft 15 mm Depth Washer Extra
+name_no_color: 15mmdepthwasherextra
+name_no_size: 15 mm Depth Washer Extra
+name_no_type: Shaft 15 mm Depth Washer Extra
+name_short: Shaft 15 Washer Extra
+oomlout_detail_hierarchy_1: oobb
+oomlout_detail_hierarchy_1_upper: OOBB
+oomlout_detail_hierarchy_1_upper_length_4: OOBB
+oomlout_detail_hierarchy_2: part
+oomlout_detail_hierarchy_2_upper: PART
+oomlout_detail_hierarchy_2_upper_length_4: PART
+oomlout_detail_hierarchy_3: shaft
+oomlout_detail_hierarchy_3_upper: SHAFT
+oomlout_detail_hierarchy_3_upper_length_4: SHAF
+oomlout_detail_hierarchy_4: 15_mm_depth
+oomlout_detail_hierarchy_4_upper: 15_MM_DEPTH
+oomlout_detail_hierarchy_4_upper_length_4: 15DE
+oomlout_detail_hierarchy_5: washer_extra
+oomlout_detail_hierarchy_5_upper: WASHER_EXTRA
+oomlout_detail_hierarchy_5_upper_length_4: WASH
+oomlout_oomp_utility_custom_data_manipulation: true
+oomp_key: oomp_oobb_part_shaft_15_mm_depth_washer_extra
+oomp_word: diamonds lipstick guitar
+oomp_word_emoji: ':diamonds: :lipstick: :guitar:'
+oomp_word_emoji_list:
+- ':diamonds:'
+- ':lipstick:'
+- ':guitar:'
+oomp_word_list:
+- diamonds
+- lipstick
+- guitar
+part_number: ''
+part_number_name: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
+short_name: ''
+size: shaft
+size_length_1: s
+size_length_2: sh
+size_length_3: sha
+size_length_4: shaf
+size_length_5: shaft
+size_length_6: shaft
+size_name: Shaft
+size_no_space_length_1: s
+size_no_space_length_2: sh
+size_no_space_length_3: sha
+size_no_space_length_4: shaf
+size_no_space_length_5: shaft
+size_no_space_length_6: shaft
+size_no_space_upper_length_1: S
+size_no_space_upper_length_2: SH
+size_no_space_upper_length_3: SHA
+size_no_space_upper_length_4: SHAF
+size_no_space_upper_length_5: SHAFT
+size_no_space_upper_length_6: SHAFT
+size_upper_length_1: S
+size_upper_length_2: SH
+size_upper_length_3: SHA
+size_upper_length_4: SHAF
+size_upper_length_5: SHAFT
+size_upper_length_6: SHAFT
+thickness: 15
+thickness_mm: 15
+type: part
+type_length_1: p
+type_length_2: pa
+type_length_3: par
+type_length_4: part
+type_length_5: part
+type_length_6: part
+type_name: Part
+type_no_space_length_1: p
+type_no_space_length_2: pa
+type_no_space_length_3: par
+type_no_space_length_4: part
+type_no_space_length_5: part
+type_no_space_length_6: part
+type_no_space_upper_length_1: P
+type_no_space_upper_length_2: PA
+type_no_space_upper_length_3: PAR
+type_no_space_upper_length_4: PART
+type_no_space_upper_length_5: PART
+type_no_space_upper_length_6: PART
+type_upper_length_1: P
+type_upper_length_2: PA
+type_upper_length_3: PAR
+type_upper_length_4: PART
+type_upper_length_5: PART
+type_upper_length_6: PART

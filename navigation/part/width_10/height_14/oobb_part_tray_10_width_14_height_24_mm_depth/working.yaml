@@ -1,0 +1,229 @@
+bip_39_word_dash_12: gauge-shove-pepper-smart-spawn-defense-rack-census-note-cushion-winter-alarm
+bip_39_word_dash_2: gauge-shove
+bip_39_word_dash_3: gauge-shove-pepper
+bip_39_word_new_br_12: gauge<br>shove<br>pepper<br>smart<br>spawn<br>defense<br>rack<br>census<br>note<br>cushion<br>winter<br>alarm
+bip_39_word_new_br_2: gauge<br>shove
+bip_39_word_new_br_3: gauge<br>shove<br>pepper
+bip_39_word_new_line_12: 'gauge
+
+  shove
+
+  pepper
+
+  smart
+
+  spawn
+
+  defense
+
+  rack
+
+  census
+
+  note
+
+  cushion
+
+  winter
+
+  alarm'
+bip_39_word_new_line_2: 'gauge
+
+  shove'
+bip_39_word_new_line_3: 'gauge
+
+  shove
+
+  pepper'
+bip_39_word_no_space_12: gaugeshovepeppersmartspawndefenserackcensusnotecushionwinteralarm
+bip_39_word_no_space_2: gaugeshove
+bip_39_word_no_space_3: gaugeshovepepper
+bip_39_word_space_12: gauge shove pepper smart spawn defense rack census note cushion
+  winter alarm
+bip_39_word_space_2: gauge shove
+bip_39_word_space_3: gauge shove pepper
+bip_39_word_underscore_12: gauge_shove_pepper_smart_spawn_defense_rack_census_note_cushion_winter_alarm
+bip_39_word_underscore_2: gauge_shove
+bip_39_word_underscore_3: gauge_shove_pepper
+classification: oobb
+classification_length_1: o
+classification_length_2: oo
+classification_length_3: oob
+classification_length_4: oobb
+classification_length_5: oobb
+classification_length_6: oobb
+classification_name: Oobb
+classification_no_space_length_1: o
+classification_no_space_length_2: oo
+classification_no_space_length_3: oob
+classification_no_space_length_4: oobb
+classification_no_space_length_5: oobb
+classification_no_space_length_6: oobb
+classification_no_space_upper_length_1: O
+classification_no_space_upper_length_2: OO
+classification_no_space_upper_length_3: OOB
+classification_no_space_upper_length_4: OOBB
+classification_no_space_upper_length_5: OOBB
+classification_no_space_upper_length_6: OOBB
+classification_upper_length_1: O
+classification_upper_length_2: OO
+classification_upper_length_3: OOB
+classification_upper_length_4: OOBB
+classification_upper_length_5: OOBB
+classification_upper_length_6: OOBB
+color: ''
+color_name: ''
+components: []
+components_objects: []
+components_string: []
+description: tray 10x14x24
+description_extra: ''
+description_extra_name: ''
+description_main: 10_width_14_height_24_mm_depth
+description_main_length_1: '1'
+description_main_length_2: '10'
+description_main_length_3: '10_'
+description_main_length_4: 10_w
+description_main_length_5: 10_wi
+description_main_length_6: 10_wid
+description_main_name: 10 Width 14 Height 24 mm Depth
+description_main_no_space_length_1: '1'
+description_main_no_space_length_2: '10'
+description_main_no_space_length_3: 10w
+description_main_no_space_length_4: 10wi
+description_main_no_space_length_5: 10wid
+description_main_no_space_length_6: 10widt
+description_main_no_space_upper_length_1: '1'
+description_main_no_space_upper_length_2: '10'
+description_main_no_space_upper_length_3: 10W
+description_main_no_space_upper_length_4: 10WI
+description_main_no_space_upper_length_5: 10WID
+description_main_no_space_upper_length_6: 10WIDT
+description_main_upper_length_1: '1'
+description_main_upper_length_2: '10'
+description_main_upper_length_3: '10_'
+description_main_upper_length_4: 10_W
+description_main_upper_length_5: 10_WI
+description_main_upper_length_6: 10_WID
+directory: parts/oobb_part_tray_10_width_14_height_24_mm_depth
+folder: C:\gh\oomlout_oobb_version_4_generated_parts\parts\oobb_part_tray_10_width_14_height_24_mm_depth
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_10_width_14_height_24_mm_depth
+height: 14
+height_mm: 209
+id: oobb_part_tray_10_width_14_height_24_mm_depth
+id_no_class: part_tray_10_width_14_height_24_mm_depth
+id_no_color: 10width14height24mmdepth
+id_no_size: 10_width_14_height_24_mm_depth
+id_no_type: tray_10_width_14_height_24_mm_depth
+link_1: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/tray/10_width_14_height_24_mm_depth/part
+link_1_name: link_main
+link_main: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/tray/10_width_14_height_24_mm_depth/part
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%203nzt9
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%203nzt9
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%203nzt9
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%203nzt9
+link_redirect: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/parts/oobb_tray_10_14_24
+manufacturer: ''
+manufacturer_name: ''
+md5: 5df80d9cb5255610e5e85cc945f1c304
+md5_10: 5df80d9cb5
+md5_10_upper: 5DF80D9CB5
+md5_5: 5df80
+md5_5_upper: 5DF80
+md5_6: 5df80d
+md5_6_alpha: 3nzt9
+md5_6_alpha_upper: 3NZT9
+md5_6_upper: 5DF80D
+name: Oobb Part Tray 10 Width 14 Height 24 mm Depth
+name_no_class: Part Tray 10 Width 14 Height 24 mm Depth
+name_no_color: 10Width14Height24mmdepth
+name_no_size: 10 Width 14 Height 24 mm Depth
+name_no_type: Tray 10 Width 14 Height 24 mm Depth
+name_short: 'Tray 10x14x24 '
+oomlout_detail_hierarchy_1: oobb
+oomlout_detail_hierarchy_1_upper: OOBB
+oomlout_detail_hierarchy_1_upper_length_4: OOBB
+oomlout_detail_hierarchy_2: part
+oomlout_detail_hierarchy_2_upper: PART
+oomlout_detail_hierarchy_2_upper_length_4: PART
+oomlout_detail_hierarchy_3: tray
+oomlout_detail_hierarchy_3_upper: TRAY
+oomlout_detail_hierarchy_3_upper_length_4: TRAY
+oomlout_detail_hierarchy_4: 24_mm_depth
+oomlout_detail_hierarchy_4_upper: 24_MM_DEPTH
+oomlout_detail_hierarchy_4_upper_length_4: 24DE
+oomlout_oomp_utility_custom_data_manipulation: true
+oomp_key: oomp_oobb_part_tray_10_width_14_height_24_mm_depth
+oomp_word: blowfish seven heart
+oomp_word_emoji: ':blowfish: :seven: :heart:'
+oomp_word_emoji_list:
+- ':blowfish:'
+- ':seven:'
+- ':heart:'
+oomp_word_list:
+- blowfish
+- seven
+- heart
+part_number: ''
+part_number_name: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
+short_name: ''
+size: tray
+size_length_1: t
+size_length_2: tr
+size_length_3: tra
+size_length_4: tray
+size_length_5: tray
+size_length_6: tray
+size_name: Tray
+size_no_space_length_1: t
+size_no_space_length_2: tr
+size_no_space_length_3: tra
+size_no_space_length_4: tray
+size_no_space_length_5: tray
+size_no_space_length_6: tray
+size_no_space_upper_length_1: T
+size_no_space_upper_length_2: TR
+size_no_space_upper_length_3: TRA
+size_no_space_upper_length_4: TRAY
+size_no_space_upper_length_5: TRAY
+size_no_space_upper_length_6: TRAY
+size_upper_length_1: T
+size_upper_length_2: TR
+size_upper_length_3: TRA
+size_upper_length_4: TRAY
+size_upper_length_5: TRAY
+size_upper_length_6: TRAY
+thickness: 24
+thickness_mm: 24
+type: part
+type_length_1: p
+type_length_2: pa
+type_length_3: par
+type_length_4: part
+type_length_5: part
+type_length_6: part
+type_name: Part
+type_no_space_length_1: p
+type_no_space_length_2: pa
+type_no_space_length_3: par
+type_no_space_length_4: part
+type_no_space_length_5: part
+type_no_space_length_6: part
+type_no_space_upper_length_1: P
+type_no_space_upper_length_2: PA
+type_no_space_upper_length_3: PAR
+type_no_space_upper_length_4: PART
+type_no_space_upper_length_5: PART
+type_no_space_upper_length_6: PART
+type_upper_length_1: P
+type_upper_length_2: PA
+type_upper_length_3: PAR
+type_upper_length_4: PART
+type_upper_length_5: PART
+type_upper_length_6: PART
+width: 10
+width_mm: 149

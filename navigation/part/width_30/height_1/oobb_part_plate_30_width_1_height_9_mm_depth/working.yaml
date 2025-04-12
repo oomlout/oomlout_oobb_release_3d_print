@@ -1,0 +1,229 @@
+bip_39_word_dash_12: slot-warm-oval-home-include-frozen-senior-sadness-toast-burden-fog-among
+bip_39_word_dash_2: slot-warm
+bip_39_word_dash_3: slot-warm-oval
+bip_39_word_new_br_12: slot<br>warm<br>oval<br>home<br>include<br>frozen<br>senior<br>sadness<br>toast<br>burden<br>fog<br>among
+bip_39_word_new_br_2: slot<br>warm
+bip_39_word_new_br_3: slot<br>warm<br>oval
+bip_39_word_new_line_12: 'slot
+
+  warm
+
+  oval
+
+  home
+
+  include
+
+  frozen
+
+  senior
+
+  sadness
+
+  toast
+
+  burden
+
+  fog
+
+  among'
+bip_39_word_new_line_2: 'slot
+
+  warm'
+bip_39_word_new_line_3: 'slot
+
+  warm
+
+  oval'
+bip_39_word_no_space_12: slotwarmovalhomeincludefrozenseniorsadnesstoastburdenfogamong
+bip_39_word_no_space_2: slotwarm
+bip_39_word_no_space_3: slotwarmoval
+bip_39_word_space_12: slot warm oval home include frozen senior sadness toast burden
+  fog among
+bip_39_word_space_2: slot warm
+bip_39_word_space_3: slot warm oval
+bip_39_word_underscore_12: slot_warm_oval_home_include_frozen_senior_sadness_toast_burden_fog_among
+bip_39_word_underscore_2: slot_warm
+bip_39_word_underscore_3: slot_warm_oval
+classification: oobb
+classification_length_1: o
+classification_length_2: oo
+classification_length_3: oob
+classification_length_4: oobb
+classification_length_5: oobb
+classification_length_6: oobb
+classification_name: Oobb
+classification_no_space_length_1: o
+classification_no_space_length_2: oo
+classification_no_space_length_3: oob
+classification_no_space_length_4: oobb
+classification_no_space_length_5: oobb
+classification_no_space_length_6: oobb
+classification_no_space_upper_length_1: O
+classification_no_space_upper_length_2: OO
+classification_no_space_upper_length_3: OOB
+classification_no_space_upper_length_4: OOBB
+classification_no_space_upper_length_5: OOBB
+classification_no_space_upper_length_6: OOBB
+classification_upper_length_1: O
+classification_upper_length_2: OO
+classification_upper_length_3: OOB
+classification_upper_length_4: OOBB
+classification_upper_length_5: OOBB
+classification_upper_length_6: OOBB
+color: ''
+color_name: ''
+components: []
+components_objects: []
+components_string: []
+description: plate 30x1x9
+description_extra: ''
+description_extra_name: ''
+description_main: 30_width_1_height_9_mm_depth
+description_main_length_1: '3'
+description_main_length_2: '30'
+description_main_length_3: '30_'
+description_main_length_4: 30_w
+description_main_length_5: 30_wi
+description_main_length_6: 30_wid
+description_main_name: 30 Width 1 Height 9 mm Depth
+description_main_no_space_length_1: '3'
+description_main_no_space_length_2: '30'
+description_main_no_space_length_3: 30w
+description_main_no_space_length_4: 30wi
+description_main_no_space_length_5: 30wid
+description_main_no_space_length_6: 30widt
+description_main_no_space_upper_length_1: '3'
+description_main_no_space_upper_length_2: '30'
+description_main_no_space_upper_length_3: 30W
+description_main_no_space_upper_length_4: 30WI
+description_main_no_space_upper_length_5: 30WID
+description_main_no_space_upper_length_6: 30WIDT
+description_main_upper_length_1: '3'
+description_main_upper_length_2: '30'
+description_main_upper_length_3: '30_'
+description_main_upper_length_4: 30_W
+description_main_upper_length_5: 30_WI
+description_main_upper_length_6: 30_WID
+directory: parts/oobb_part_plate_30_width_1_height_9_mm_depth
+folder: C:\gh\oomlout_oobb_version_4_generated_parts\parts\oobb_part_plate_30_width_1_height_9_mm_depth
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_30_width_1_height_9_mm_depth
+height: 1
+height_mm: 14
+id: oobb_part_plate_30_width_1_height_9_mm_depth
+id_no_class: part_plate_30_width_1_height_9_mm_depth
+id_no_color: 30width1height9mmdepth
+id_no_size: 30_width_1_height_9_mm_depth
+id_no_type: plate_30_width_1_height_9_mm_depth
+link_1: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/plate/30_width_1_height_9_mm_depth/part
+link_1_name: link_main
+link_main: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/plate/30_width_1_height_9_mm_depth/part
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%204xz7r
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%204xz7r
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%204xz7r
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%204xz7r
+link_redirect: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/parts/oobb_plate_30_01_09
+manufacturer: ''
+manufacturer_name: ''
+md5: 7eb487a718bdf87576b936d13b7dce60
+md5_10: 7eb487a718
+md5_10_upper: 7EB487A718
+md5_5: 7eb48
+md5_5_upper: 7EB48
+md5_6: 7eb487
+md5_6_alpha: 4xz7r
+md5_6_alpha_upper: 4XZ7R
+md5_6_upper: 7EB487
+name: Oobb Part Plate 30 Width 1 Height 9 mm Depth
+name_no_class: Part Plate 30 Width 1 Height 9 mm Depth
+name_no_color: 30Width1Height9mmdepth
+name_no_size: 30 Width 1 Height 9 mm Depth
+name_no_type: Plate 30 Width 1 Height 9 mm Depth
+name_short: 'Plate 30x1x9 '
+oomlout_detail_hierarchy_1: oobb
+oomlout_detail_hierarchy_1_upper: OOBB
+oomlout_detail_hierarchy_1_upper_length_4: OOBB
+oomlout_detail_hierarchy_2: part
+oomlout_detail_hierarchy_2_upper: PART
+oomlout_detail_hierarchy_2_upper_length_4: PART
+oomlout_detail_hierarchy_3: plate
+oomlout_detail_hierarchy_3_upper: PLATE
+oomlout_detail_hierarchy_3_upper_length_4: PLAT
+oomlout_detail_hierarchy_4: 9_mm_depth
+oomlout_detail_hierarchy_4_upper: 9_MM_DEPTH
+oomlout_detail_hierarchy_4_upper_length_4: 9DEP
+oomlout_oomp_utility_custom_data_manipulation: true
+oomp_key: oomp_oobb_part_plate_30_width_1_height_9_mm_depth
+oomp_word: fax coffee toilet
+oomp_word_emoji: ':fax: :coffee: :toilet:'
+oomp_word_emoji_list:
+- ':fax:'
+- ':coffee:'
+- ':toilet:'
+oomp_word_list:
+- fax
+- coffee
+- toilet
+part_number: ''
+part_number_name: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
+short_name: ''
+size: plate
+size_length_1: p
+size_length_2: pl
+size_length_3: pla
+size_length_4: plat
+size_length_5: plate
+size_length_6: plate
+size_name: Plate
+size_no_space_length_1: p
+size_no_space_length_2: pl
+size_no_space_length_3: pla
+size_no_space_length_4: plat
+size_no_space_length_5: plate
+size_no_space_length_6: plate
+size_no_space_upper_length_1: P
+size_no_space_upper_length_2: PL
+size_no_space_upper_length_3: PLA
+size_no_space_upper_length_4: PLAT
+size_no_space_upper_length_5: PLATE
+size_no_space_upper_length_6: PLATE
+size_upper_length_1: P
+size_upper_length_2: PL
+size_upper_length_3: PLA
+size_upper_length_4: PLAT
+size_upper_length_5: PLATE
+size_upper_length_6: PLATE
+thickness: 9
+thickness_mm: 9
+type: part
+type_length_1: p
+type_length_2: pa
+type_length_3: par
+type_length_4: part
+type_length_5: part
+type_length_6: part
+type_name: Part
+type_no_space_length_1: p
+type_no_space_length_2: pa
+type_no_space_length_3: par
+type_no_space_length_4: part
+type_no_space_length_5: part
+type_no_space_length_6: part
+type_no_space_upper_length_1: P
+type_no_space_upper_length_2: PA
+type_no_space_upper_length_3: PAR
+type_no_space_upper_length_4: PART
+type_no_space_upper_length_5: PART
+type_no_space_upper_length_6: PART
+type_upper_length_1: P
+type_upper_length_2: PA
+type_upper_length_3: PAR
+type_upper_length_4: PART
+type_upper_length_5: PART
+type_upper_length_6: PART
+width: 30
+width_mm: 449

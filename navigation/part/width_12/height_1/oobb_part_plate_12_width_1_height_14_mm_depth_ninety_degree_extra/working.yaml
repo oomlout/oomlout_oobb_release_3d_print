@@ -1,0 +1,257 @@
+bip_39_word_dash_12: stairs-congress-execute-unhappy-jelly-myself-hundred-donate-wealth-perfect-saddle-announce
+bip_39_word_dash_2: stairs-congress
+bip_39_word_dash_3: stairs-congress-execute
+bip_39_word_new_br_12: stairs<br>congress<br>execute<br>unhappy<br>jelly<br>myself<br>hundred<br>donate<br>wealth<br>perfect<br>saddle<br>announce
+bip_39_word_new_br_2: stairs<br>congress
+bip_39_word_new_br_3: stairs<br>congress<br>execute
+bip_39_word_new_line_12: 'stairs
+
+  congress
+
+  execute
+
+  unhappy
+
+  jelly
+
+  myself
+
+  hundred
+
+  donate
+
+  wealth
+
+  perfect
+
+  saddle
+
+  announce'
+bip_39_word_new_line_2: 'stairs
+
+  congress'
+bip_39_word_new_line_3: 'stairs
+
+  congress
+
+  execute'
+bip_39_word_no_space_12: stairscongressexecuteunhappyjellymyselfhundreddonatewealthperfectsaddleannounce
+bip_39_word_no_space_2: stairscongress
+bip_39_word_no_space_3: stairscongressexecute
+bip_39_word_space_12: stairs congress execute unhappy jelly myself hundred donate
+  wealth perfect saddle announce
+bip_39_word_space_2: stairs congress
+bip_39_word_space_3: stairs congress execute
+bip_39_word_underscore_12: stairs_congress_execute_unhappy_jelly_myself_hundred_donate_wealth_perfect_saddle_announce
+bip_39_word_underscore_2: stairs_congress
+bip_39_word_underscore_3: stairs_congress_execute
+classification: oobb
+classification_length_1: o
+classification_length_2: oo
+classification_length_3: oob
+classification_length_4: oobb
+classification_length_5: oobb
+classification_length_6: oobb
+classification_name: Oobb
+classification_no_space_length_1: o
+classification_no_space_length_2: oo
+classification_no_space_length_3: oob
+classification_no_space_length_4: oobb
+classification_no_space_length_5: oobb
+classification_no_space_length_6: oobb
+classification_no_space_upper_length_1: O
+classification_no_space_upper_length_2: OO
+classification_no_space_upper_length_3: OOB
+classification_no_space_upper_length_4: OOBB
+classification_no_space_upper_length_5: OOBB
+classification_no_space_upper_length_6: OOBB
+classification_upper_length_1: O
+classification_upper_length_2: OO
+classification_upper_length_3: OOB
+classification_upper_length_4: OOBB
+classification_upper_length_5: OOBB
+classification_upper_length_6: OOBB
+color: ''
+color_name: ''
+components: []
+components_objects: []
+components_string: []
+description: plate 12x1x14
+description_extra: ninety_degree_extra
+description_extra_length_1: n
+description_extra_length_2: ni
+description_extra_length_3: nin
+description_extra_length_4: nine
+description_extra_length_5: ninet
+description_extra_length_6: ninety
+description_extra_name: Ninety Degree Extra
+description_extra_no_space_length_1: n
+description_extra_no_space_length_2: ni
+description_extra_no_space_length_3: nin
+description_extra_no_space_length_4: nine
+description_extra_no_space_length_5: ninet
+description_extra_no_space_length_6: ninety
+description_extra_no_space_upper_length_1: N
+description_extra_no_space_upper_length_2: NI
+description_extra_no_space_upper_length_3: NIN
+description_extra_no_space_upper_length_4: NINE
+description_extra_no_space_upper_length_5: NINET
+description_extra_no_space_upper_length_6: NINETY
+description_extra_upper_length_1: N
+description_extra_upper_length_2: NI
+description_extra_upper_length_3: NIN
+description_extra_upper_length_4: NINE
+description_extra_upper_length_5: NINET
+description_extra_upper_length_6: NINETY
+description_main: 12_width_1_height_14_mm_depth
+description_main_length_1: '1'
+description_main_length_2: '12'
+description_main_length_3: '12_'
+description_main_length_4: 12_w
+description_main_length_5: 12_wi
+description_main_length_6: 12_wid
+description_main_name: 12 Width 1 Height 14 mm Depth
+description_main_no_space_length_1: '1'
+description_main_no_space_length_2: '12'
+description_main_no_space_length_3: 12w
+description_main_no_space_length_4: 12wi
+description_main_no_space_length_5: 12wid
+description_main_no_space_length_6: 12widt
+description_main_no_space_upper_length_1: '1'
+description_main_no_space_upper_length_2: '12'
+description_main_no_space_upper_length_3: 12W
+description_main_no_space_upper_length_4: 12WI
+description_main_no_space_upper_length_5: 12WID
+description_main_no_space_upper_length_6: 12WIDT
+description_main_upper_length_1: '1'
+description_main_upper_length_2: '12'
+description_main_upper_length_3: '12_'
+description_main_upper_length_4: 12_W
+description_main_upper_length_5: 12_WI
+description_main_upper_length_6: 12_WID
+directory: parts/oobb_part_plate_12_width_1_height_14_mm_depth_ninety_degree_extra
+extra: ninety_degree
+folder: C:\gh\oomlout_oobb_version_4_generated_parts\parts\oobb_part_plate_12_width_1_height_14_mm_depth_ninety_degree_extra
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_12_width_1_height_14_mm_depth_ninety_degree_extra
+height: 1
+height_mm: 14
+id: oobb_part_plate_12_width_1_height_14_mm_depth_ninety_degree_extra
+id_no_class: part_plate_12_width_1_height_14_mm_depth_ninety_degree_extra
+id_no_color: 12width1height14mmdepthninetydegreeextra
+id_no_size: 12_width_1_height_14_mm_depth_ninety_degree_extra
+id_no_type: plate_12_width_1_height_14_mm_depth_ninety_degree_extra
+link_1: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/plate/12_width_1_height_14_mm_depth/ninety_degree_extra/part
+link_1_name: link_main
+link_main: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/plate/12_width_1_height_14_mm_depth/ninety_degree_extra/part
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%205tz1k
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%205tz1k
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%205tz1k
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%205tz1k
+link_redirect: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/parts/oobb_plate_12_01_14_ex_ninety_degree
+manufacturer: ''
+manufacturer_name: ''
+md5: 957ba8c7c1410de6493beed49e4bc6a2
+md5_10: 957ba8c7c1
+md5_10_upper: 957BA8C7C1
+md5_5: 957ba
+md5_5_upper: 957BA
+md5_6: 957ba8
+md5_6_alpha: 5tz1k
+md5_6_alpha_upper: 5TZ1K
+md5_6_upper: 957BA8
+name: Oobb Part Plate 12 Width 1 Height 14 mm Depth Ninety Degree Extra
+name_no_class: Part Plate 12 Width 1 Height 14 mm Depth Ninety Degree Extra
+name_no_color: 12Width1Height14mmdepthninetydegreeextra
+name_no_size: 12 Width 1 Height 14 mm Depth Ninety Degree Extra
+name_no_type: Plate 12 Width 1 Height 14 mm Depth Ninety Degree Extra
+name_short: Plate 12x1x14 Ninety Degree Extra
+oomlout_detail_hierarchy_1: oobb
+oomlout_detail_hierarchy_1_upper: OOBB
+oomlout_detail_hierarchy_1_upper_length_4: OOBB
+oomlout_detail_hierarchy_2: part
+oomlout_detail_hierarchy_2_upper: PART
+oomlout_detail_hierarchy_2_upper_length_4: PART
+oomlout_detail_hierarchy_3: plate
+oomlout_detail_hierarchy_3_upper: PLATE
+oomlout_detail_hierarchy_3_upper_length_4: PLAT
+oomlout_detail_hierarchy_4: 14_mm_depth
+oomlout_detail_hierarchy_4_upper: 14_MM_DEPTH
+oomlout_detail_hierarchy_4_upper_length_4: 14DE
+oomlout_detail_hierarchy_5: ninety_degree_extra
+oomlout_detail_hierarchy_5_upper: NINETY_DEGREE_EXTRA
+oomlout_detail_hierarchy_5_upper_length_4: NINE
+oomlout_oomp_utility_custom_data_manipulation: true
+oomp_key: oomp_oobb_part_plate_12_width_1_height_14_mm_depth_ninety_degree_extra
+oomp_word: telescope computer shoe
+oomp_word_emoji: ':telescope: :computer: :shoe:'
+oomp_word_emoji_list:
+- ':telescope:'
+- ':computer:'
+- ':shoe:'
+oomp_word_list:
+- telescope
+- computer
+- shoe
+part_number: ''
+part_number_name: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
+short_name: ''
+size: plate
+size_length_1: p
+size_length_2: pl
+size_length_3: pla
+size_length_4: plat
+size_length_5: plate
+size_length_6: plate
+size_name: Plate
+size_no_space_length_1: p
+size_no_space_length_2: pl
+size_no_space_length_3: pla
+size_no_space_length_4: plat
+size_no_space_length_5: plate
+size_no_space_length_6: plate
+size_no_space_upper_length_1: P
+size_no_space_upper_length_2: PL
+size_no_space_upper_length_3: PLA
+size_no_space_upper_length_4: PLAT
+size_no_space_upper_length_5: PLATE
+size_no_space_upper_length_6: PLATE
+size_upper_length_1: P
+size_upper_length_2: PL
+size_upper_length_3: PLA
+size_upper_length_4: PLAT
+size_upper_length_5: PLATE
+size_upper_length_6: PLATE
+thickness: 14
+thickness_mm: 14
+type: part
+type_length_1: p
+type_length_2: pa
+type_length_3: par
+type_length_4: part
+type_length_5: part
+type_length_6: part
+type_name: Part
+type_no_space_length_1: p
+type_no_space_length_2: pa
+type_no_space_length_3: par
+type_no_space_length_4: part
+type_no_space_length_5: part
+type_no_space_length_6: part
+type_no_space_upper_length_1: P
+type_no_space_upper_length_2: PA
+type_no_space_upper_length_3: PAR
+type_no_space_upper_length_4: PART
+type_no_space_upper_length_5: PART
+type_no_space_upper_length_6: PART
+type_upper_length_1: P
+type_upper_length_2: PA
+type_upper_length_3: PAR
+type_upper_length_4: PART
+type_upper_length_5: PART
+type_upper_length_6: PART
+width: 12
+width_mm: 179

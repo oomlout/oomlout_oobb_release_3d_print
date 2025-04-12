@@ -1,0 +1,257 @@
+bip_39_word_dash_12: space-timber-express-valid-shield-hole-slim-inhale-outside-calm-check-abuse
+bip_39_word_dash_2: space-timber
+bip_39_word_dash_3: space-timber-express
+bip_39_word_new_br_12: space<br>timber<br>express<br>valid<br>shield<br>hole<br>slim<br>inhale<br>outside<br>calm<br>check<br>abuse
+bip_39_word_new_br_2: space<br>timber
+bip_39_word_new_br_3: space<br>timber<br>express
+bip_39_word_new_line_12: 'space
+
+  timber
+
+  express
+
+  valid
+
+  shield
+
+  hole
+
+  slim
+
+  inhale
+
+  outside
+
+  calm
+
+  check
+
+  abuse'
+bip_39_word_new_line_2: 'space
+
+  timber'
+bip_39_word_new_line_3: 'space
+
+  timber
+
+  express'
+bip_39_word_no_space_12: spacetimberexpressvalidshieldholesliminhaleoutsidecalmcheckabuse
+bip_39_word_no_space_2: spacetimber
+bip_39_word_no_space_3: spacetimberexpress
+bip_39_word_space_12: space timber express valid shield hole slim inhale outside calm
+  check abuse
+bip_39_word_space_2: space timber
+bip_39_word_space_3: space timber express
+bip_39_word_underscore_12: space_timber_express_valid_shield_hole_slim_inhale_outside_calm_check_abuse
+bip_39_word_underscore_2: space_timber
+bip_39_word_underscore_3: space_timber_express
+classification: oobb
+classification_length_1: o
+classification_length_2: oo
+classification_length_3: oob
+classification_length_4: oobb
+classification_length_5: oobb
+classification_length_6: oobb
+classification_name: Oobb
+classification_no_space_length_1: o
+classification_no_space_length_2: oo
+classification_no_space_length_3: oob
+classification_no_space_length_4: oobb
+classification_no_space_length_5: oobb
+classification_no_space_length_6: oobb
+classification_no_space_upper_length_1: O
+classification_no_space_upper_length_2: OO
+classification_no_space_upper_length_3: OOB
+classification_no_space_upper_length_4: OOBB
+classification_no_space_upper_length_5: OOBB
+classification_no_space_upper_length_6: OOBB
+classification_upper_length_1: O
+classification_upper_length_2: OO
+classification_upper_length_3: OOB
+classification_upper_length_4: OOBB
+classification_upper_length_5: OOBB
+classification_upper_length_6: OOBB
+color: ''
+color_name: ''
+components: []
+components_objects: []
+components_string: []
+description: circle 0x0x3
+description_extra: doughnut_5_extra
+description_extra_length_1: d
+description_extra_length_2: do
+description_extra_length_3: dou
+description_extra_length_4: doug
+description_extra_length_5: dough
+description_extra_length_6: doughn
+description_extra_name: Doughnut 5 Extra
+description_extra_no_space_length_1: d
+description_extra_no_space_length_2: do
+description_extra_no_space_length_3: dou
+description_extra_no_space_length_4: doug
+description_extra_no_space_length_5: dough
+description_extra_no_space_length_6: doughn
+description_extra_no_space_upper_length_1: D
+description_extra_no_space_upper_length_2: DO
+description_extra_no_space_upper_length_3: DOU
+description_extra_no_space_upper_length_4: DOUG
+description_extra_no_space_upper_length_5: DOUGH
+description_extra_no_space_upper_length_6: DOUGHN
+description_extra_upper_length_1: D
+description_extra_upper_length_2: DO
+description_extra_upper_length_3: DOU
+description_extra_upper_length_4: DOUG
+description_extra_upper_length_5: DOUGH
+description_extra_upper_length_6: DOUGHN
+description_main: 9_diameter_3_mm_depth_doughnut_5_extra
+description_main_length_1: '9'
+description_main_length_2: '9_'
+description_main_length_3: 9_d
+description_main_length_4: 9_di
+description_main_length_5: 9_dia
+description_main_length_6: 9_diam
+description_main_name: 9 Diameter 3 mm Depth Doughnut 5 Extra
+description_main_no_space_length_1: '9'
+description_main_no_space_length_2: 9d
+description_main_no_space_length_3: 9di
+description_main_no_space_length_4: 9dia
+description_main_no_space_length_5: 9diam
+description_main_no_space_length_6: 9diame
+description_main_no_space_upper_length_1: '9'
+description_main_no_space_upper_length_2: 9D
+description_main_no_space_upper_length_3: 9DI
+description_main_no_space_upper_length_4: 9DIA
+description_main_no_space_upper_length_5: 9DIAM
+description_main_no_space_upper_length_6: 9DIAME
+description_main_upper_length_1: '9'
+description_main_upper_length_2: '9_'
+description_main_upper_length_3: 9_D
+description_main_upper_length_4: 9_DI
+description_main_upper_length_5: 9_DIA
+description_main_upper_length_6: 9_DIAM
+diameter: 9
+directory: parts/oobb_part_circle_9_diameter_3_mm_depth_doughnut_5_extra_doughnut_5_extra
+extra: doughnut_5
+folder: C:\gh\oomlout_oobb_version_4_generated_parts\parts\oobb_part_circle_9_diameter_3_mm_depth_doughnut_5_extra_doughnut_5_extra
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_circle_9_diameter_3_mm_depth_doughnut_5_extra_doughnut_5_extra
+id: oobb_part_circle_9_diameter_3_mm_depth_doughnut_5_extra_doughnut_5_extra
+id_no_class: part_circle_9_diameter_3_mm_depth_doughnut_5_extra_doughnut_5_extra
+id_no_color: 9diameter3mmdepthdoughnut5extradoughnut5extra
+id_no_size: 9_diameter_3_mm_depth_doughnut_5_extra_doughnut_5_extra
+id_no_type: circle_9_diameter_3_mm_depth_doughnut_5_extra_doughnut_5_extra
+link_1: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/circle/9_diameter_3_mm_depth_doughnut_5_extra/doughnut_5_extra/part
+link_1_name: link_main
+link_main: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/circle/9_diameter_3_mm_depth_doughnut_5_extra/doughnut_5_extra/part
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%20ppmw
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%20ppmw
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%20ppmw
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%20ppmw
+link_redirect: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/parts/oobb_circle_09_03_ex_doughnut_5
+manufacturer: ''
+manufacturer_name: ''
+md5: 124e0824ec73b979b2e2df0ca1b88e82
+md5_10: 124e0824ec
+md5_10_upper: 124E0824EC
+md5_5: 124e0
+md5_5_upper: 124E0
+md5_6: 124e08
+md5_6_alpha: ppmw
+md5_6_alpha_upper: PPMW
+md5_6_upper: 124E08
+name: Oobb Part Circle 9 Diameter 3 mm Depth Doughnut 5 Extra Doughnut 5 Extra
+name_no_class: Part Circle 9 Diameter 3 mm Depth Doughnut 5 Extra Doughnut 5 Extra
+name_no_color: 9Diameter3mmdepthdoughnut5Extradoughnut5Extra
+name_no_size: 9 Diameter 3 mm Depth Doughnut 5 Extra Doughnut 5 Extra
+name_no_type: Circle 9 Diameter 3 mm Depth Doughnut 5 Extra Doughnut 5 Extra
+name_short: Circle 9x3 Doughnut 5 Extra Doughnut 5
+oomlout_detail_hierarchy_1: oobb
+oomlout_detail_hierarchy_1_upper: OOBB
+oomlout_detail_hierarchy_1_upper_length_4: OOBB
+oomlout_detail_hierarchy_2: part
+oomlout_detail_hierarchy_2_upper: PART
+oomlout_detail_hierarchy_2_upper_length_4: PART
+oomlout_detail_hierarchy_3: circle
+oomlout_detail_hierarchy_3_upper: CIRCLE
+oomlout_detail_hierarchy_3_upper_length_4: CIRC
+oomlout_detail_hierarchy_4: 9_diameter
+oomlout_detail_hierarchy_4_upper: 9_DIAMETER
+oomlout_detail_hierarchy_4_upper_length_4: 9_DI
+oomlout_detail_hierarchy_5: 3_mm_depth
+oomlout_detail_hierarchy_5_upper: 3_MM_DEPTH
+oomlout_detail_hierarchy_5_upper_length_4: 3DEP
+oomlout_detail_hierarchy_6: doughnut_5_extra
+oomlout_detail_hierarchy_6_upper: DOUGHNUT_5_EXTRA
+oomlout_detail_hierarchy_6_upper_length_4: DOUG
+oomlout_oomp_utility_custom_data_manipulation: true
+oomp_key: oomp_oobb_part_circle_9_diameter_3_mm_depth_doughnut_5_extra_doughnut_5_extra
+oomp_word: anger honeybee scream
+oomp_word_emoji: ':anger: :honeybee: :scream:'
+oomp_word_emoji_list:
+- ':anger:'
+- ':honeybee:'
+- ':scream:'
+oomp_word_list:
+- anger
+- honeybee
+- scream
+part_number: ''
+part_number_name: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
+short_name: ''
+size: circle
+size_length_1: c
+size_length_2: ci
+size_length_3: cir
+size_length_4: circ
+size_length_5: circl
+size_length_6: circle
+size_name: Circle
+size_no_space_length_1: c
+size_no_space_length_2: ci
+size_no_space_length_3: cir
+size_no_space_length_4: circ
+size_no_space_length_5: circl
+size_no_space_length_6: circle
+size_no_space_upper_length_1: C
+size_no_space_upper_length_2: CI
+size_no_space_upper_length_3: CIR
+size_no_space_upper_length_4: CIRC
+size_no_space_upper_length_5: CIRCL
+size_no_space_upper_length_6: CIRCLE
+size_upper_length_1: C
+size_upper_length_2: CI
+size_upper_length_3: CIR
+size_upper_length_4: CIRC
+size_upper_length_5: CIRCL
+size_upper_length_6: CIRCLE
+thickness: 3
+thickness_mm: 3
+type: part
+type_length_1: p
+type_length_2: pa
+type_length_3: par
+type_length_4: part
+type_length_5: part
+type_length_6: part
+type_name: Part
+type_no_space_length_1: p
+type_no_space_length_2: pa
+type_no_space_length_3: par
+type_no_space_length_4: part
+type_no_space_length_5: part
+type_no_space_length_6: part
+type_no_space_upper_length_1: P
+type_no_space_upper_length_2: PA
+type_no_space_upper_length_3: PAR
+type_no_space_upper_length_4: PART
+type_no_space_upper_length_5: PART
+type_no_space_upper_length_6: PART
+type_upper_length_1: P
+type_upper_length_2: PA
+type_upper_length_3: PAR
+type_upper_length_4: PART
+type_upper_length_5: PART
+type_upper_length_6: PART

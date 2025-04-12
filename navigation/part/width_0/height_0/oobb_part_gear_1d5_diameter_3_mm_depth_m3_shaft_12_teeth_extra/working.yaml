@@ -1,0 +1,258 @@
+bip_39_word_dash_12: muscle-dolphin-siege-decorate-install-cabbage-way-love-believe-film-promote-agent
+bip_39_word_dash_2: muscle-dolphin
+bip_39_word_dash_3: muscle-dolphin-siege
+bip_39_word_new_br_12: muscle<br>dolphin<br>siege<br>decorate<br>install<br>cabbage<br>way<br>love<br>believe<br>film<br>promote<br>agent
+bip_39_word_new_br_2: muscle<br>dolphin
+bip_39_word_new_br_3: muscle<br>dolphin<br>siege
+bip_39_word_new_line_12: 'muscle
+
+  dolphin
+
+  siege
+
+  decorate
+
+  install
+
+  cabbage
+
+  way
+
+  love
+
+  believe
+
+  film
+
+  promote
+
+  agent'
+bip_39_word_new_line_2: 'muscle
+
+  dolphin'
+bip_39_word_new_line_3: 'muscle
+
+  dolphin
+
+  siege'
+bip_39_word_no_space_12: muscledolphinsiegedecorateinstallcabbagewaylovebelievefilmpromoteagent
+bip_39_word_no_space_2: muscledolphin
+bip_39_word_no_space_3: muscledolphinsiege
+bip_39_word_space_12: muscle dolphin siege decorate install cabbage way love believe
+  film promote agent
+bip_39_word_space_2: muscle dolphin
+bip_39_word_space_3: muscle dolphin siege
+bip_39_word_underscore_12: muscle_dolphin_siege_decorate_install_cabbage_way_love_believe_film_promote_agent
+bip_39_word_underscore_2: muscle_dolphin
+bip_39_word_underscore_3: muscle_dolphin_siege
+classification: oobb
+classification_length_1: o
+classification_length_2: oo
+classification_length_3: oob
+classification_length_4: oobb
+classification_length_5: oobb
+classification_length_6: oobb
+classification_name: Oobb
+classification_no_space_length_1: o
+classification_no_space_length_2: oo
+classification_no_space_length_3: oob
+classification_no_space_length_4: oobb
+classification_no_space_length_5: oobb
+classification_no_space_length_6: oobb
+classification_no_space_upper_length_1: O
+classification_no_space_upper_length_2: OO
+classification_no_space_upper_length_3: OOB
+classification_no_space_upper_length_4: OOBB
+classification_no_space_upper_length_5: OOBB
+classification_no_space_upper_length_6: OOBB
+classification_upper_length_1: O
+classification_upper_length_2: OO
+classification_upper_length_3: OOB
+classification_upper_length_4: OOBB
+classification_upper_length_5: OOBB
+classification_upper_length_6: OOBB
+color: ''
+color_name: ''
+components: []
+components_objects: []
+components_string: []
+description: gear 0x0x3
+description_extra: m3_shaft_12.0_teeth_extra
+description_extra_length_1: m
+description_extra_length_2: m3
+description_extra_length_3: m3_
+description_extra_length_4: m3_s
+description_extra_length_5: m3_sh
+description_extra_length_6: m3_sha
+description_extra_name: M3 Shaft 12.0 Teeth Extra
+description_extra_no_space_length_1: m
+description_extra_no_space_length_2: m3
+description_extra_no_space_length_3: m3s
+description_extra_no_space_length_4: m3sh
+description_extra_no_space_length_5: m3sha
+description_extra_no_space_length_6: m3shaf
+description_extra_no_space_upper_length_1: M
+description_extra_no_space_upper_length_2: M3
+description_extra_no_space_upper_length_3: M3S
+description_extra_no_space_upper_length_4: M3SH
+description_extra_no_space_upper_length_5: M3SHA
+description_extra_no_space_upper_length_6: M3SHAF
+description_extra_upper_length_1: M
+description_extra_upper_length_2: M3
+description_extra_upper_length_3: M3_
+description_extra_upper_length_4: M3_S
+description_extra_upper_length_5: M3_SH
+description_extra_upper_length_6: M3_SHA
+description_main: 1.5_diameter_3_mm_depth
+description_main_length_1: '1'
+description_main_length_2: '1.'
+description_main_length_3: '1.5'
+description_main_length_4: '1.5_'
+description_main_length_5: 1.5_d
+description_main_length_6: 1.5_di
+description_main_name: 1.5 Diameter 3 mm Depth
+description_main_no_space_length_1: '1'
+description_main_no_space_length_2: '1.'
+description_main_no_space_length_3: '1.5'
+description_main_no_space_length_4: 1.5d
+description_main_no_space_length_5: 1.5di
+description_main_no_space_length_6: 1.5dia
+description_main_no_space_upper_length_1: '1'
+description_main_no_space_upper_length_2: '1.'
+description_main_no_space_upper_length_3: '1.5'
+description_main_no_space_upper_length_4: 1.5D
+description_main_no_space_upper_length_5: 1.5DI
+description_main_no_space_upper_length_6: 1.5DIA
+description_main_upper_length_1: '1'
+description_main_upper_length_2: '1.'
+description_main_upper_length_3: '1.5'
+description_main_upper_length_4: '1.5_'
+description_main_upper_length_5: 1.5_D
+description_main_upper_length_6: 1.5_DI
+diameter: 1.5
+directory: parts/oobb_part_gear_1d5_diameter_3_mm_depth_m3_shaft_12_teeth_extra
+extra: 12.0_teeth
+folder: C:\gh\oomlout_oobb_version_4_generated_parts\parts\oobb_part_gear_1d5_diameter_3_mm_depth_m3_shaft_12_teeth_extra
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_gear_1d5_diameter_3_mm_depth_m3_shaft_12_teeth_extra
+id: oobb_part_gear_1d5_diameter_3_mm_depth_m3_shaft_12_teeth_extra
+id_no_class: part_gear_1d5_diameter_3_mm_depth_m3_shaft_12_teeth_extra
+id_no_color: 1d5diameter3mmdepthm3shaft12teethextra
+id_no_size: 1d5_diameter_3_mm_depth_m3_shaft_12_teeth_extra
+id_no_type: gear_1d5_diameter_3_mm_depth_m3_shaft_12_teeth_extra
+link_1: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/gear/1.5_diameter_3_mm_depth/m3_shaft_12.0_teeth_extra/part
+link_1_name: link_main
+link_main: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/gear/1.5_diameter_3_mm_depth/m3_shaft_12.0_teeth_extra/part
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2033gb9
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2033gb9
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%2033gb9
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2033gb9
+link_redirect: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/parts/oobb_gear_1d5_03_ex_12d0_teeth_sh_m3
+manufacturer: ''
+manufacturer_name: ''
+md5: 4f585590a5847f007ebab3919010348c
+md5_10: 4f585590a5
+md5_10_upper: 4F585590A5
+md5_5: 4f585
+md5_5_upper: 4F585
+md5_6: 4f5855
+md5_6_alpha: 33gb9
+md5_6_alpha_upper: 33GB9
+md5_6_upper: 4F5855
+name: Oobb Part Gear 1D5 Diameter 3 mm Depth M3 Shaft 12 Teeth Extra
+name_no_class: Part Gear 1D5 Diameter 3 mm Depth M3 Shaft 12 Teeth Extra
+name_no_color: 1D5Diameter3mmdepthm3Shaft12Teethextra
+name_no_size: 1D5 Diameter 3 mm Depth M3 Shaft 12 Teeth Extra
+name_no_type: Gear 1D5 Diameter 3 mm Depth M3 Shaft 12 Teeth Extra
+name_short: Gear 1D5x3 M3 Shaft 12 Teeth Extra
+oomlout_detail_hierarchy_1: oobb
+oomlout_detail_hierarchy_1_upper: OOBB
+oomlout_detail_hierarchy_1_upper_length_4: OOBB
+oomlout_detail_hierarchy_2: part
+oomlout_detail_hierarchy_2_upper: PART
+oomlout_detail_hierarchy_2_upper_length_4: PART
+oomlout_detail_hierarchy_3: gear
+oomlout_detail_hierarchy_3_upper: GEAR
+oomlout_detail_hierarchy_3_upper_length_4: GEAR
+oomlout_detail_hierarchy_4: 5_diameter
+oomlout_detail_hierarchy_4_upper: 5_DIAMETER
+oomlout_detail_hierarchy_4_upper_length_4: 5_DI
+oomlout_detail_hierarchy_5: 3_mm_depth
+oomlout_detail_hierarchy_5_upper: 3_MM_DEPTH
+oomlout_detail_hierarchy_5_upper_length_4: 3DEP
+oomlout_detail_hierarchy_6: m3_shaft_12.0_teeth_extra
+oomlout_detail_hierarchy_6_upper: M3_SHAFT_12.0_TEETH_EXTRA
+oomlout_detail_hierarchy_6_upper_length_4: M3_S
+oomlout_oomp_utility_custom_data_manipulation: true
+oomp_key: oomp_oobb_part_gear_1d5_diameter_3_mm_depth_m3_shaft_12_teeth_extra
+oomp_word: ant water_buffalo dolphin
+oomp_word_emoji: ':ant: :water_buffalo: :dolphin:'
+oomp_word_emoji_list:
+- ':ant:'
+- ':water_buffalo:'
+- ':dolphin:'
+oomp_word_list:
+- ant
+- water_buffalo
+- dolphin
+part_number: ''
+part_number_name: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
+shaft: m3
+short_name: ''
+size: gear
+size_length_1: g
+size_length_2: ge
+size_length_3: gea
+size_length_4: gear
+size_length_5: gear
+size_length_6: gear
+size_name: Gear
+size_no_space_length_1: g
+size_no_space_length_2: ge
+size_no_space_length_3: gea
+size_no_space_length_4: gear
+size_no_space_length_5: gear
+size_no_space_length_6: gear
+size_no_space_upper_length_1: G
+size_no_space_upper_length_2: GE
+size_no_space_upper_length_3: GEA
+size_no_space_upper_length_4: GEAR
+size_no_space_upper_length_5: GEAR
+size_no_space_upper_length_6: GEAR
+size_upper_length_1: G
+size_upper_length_2: GE
+size_upper_length_3: GEA
+size_upper_length_4: GEAR
+size_upper_length_5: GEAR
+size_upper_length_6: GEAR
+thickness: 3
+thickness_mm: 3
+type: part
+type_length_1: p
+type_length_2: pa
+type_length_3: par
+type_length_4: part
+type_length_5: part
+type_length_6: part
+type_name: Part
+type_no_space_length_1: p
+type_no_space_length_2: pa
+type_no_space_length_3: par
+type_no_space_length_4: part
+type_no_space_length_5: part
+type_no_space_length_6: part
+type_no_space_upper_length_1: P
+type_no_space_upper_length_2: PA
+type_no_space_upper_length_3: PAR
+type_no_space_upper_length_4: PART
+type_no_space_upper_length_5: PART
+type_no_space_upper_length_6: PART
+type_upper_length_1: P
+type_upper_length_2: PA
+type_upper_length_3: PAR
+type_upper_length_4: PART
+type_upper_length_5: PART
+type_upper_length_6: PART

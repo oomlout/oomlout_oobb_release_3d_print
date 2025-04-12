@@ -1,0 +1,224 @@
+bip_39_word_dash_12: frozen-blame-torch-sport-solution-juice-nasty-belt-stable-festival-blouse-area
+bip_39_word_dash_2: frozen-blame
+bip_39_word_dash_3: frozen-blame-torch
+bip_39_word_new_br_12: frozen<br>blame<br>torch<br>sport<br>solution<br>juice<br>nasty<br>belt<br>stable<br>festival<br>blouse<br>area
+bip_39_word_new_br_2: frozen<br>blame
+bip_39_word_new_br_3: frozen<br>blame<br>torch
+bip_39_word_new_line_12: 'frozen
+
+  blame
+
+  torch
+
+  sport
+
+  solution
+
+  juice
+
+  nasty
+
+  belt
+
+  stable
+
+  festival
+
+  blouse
+
+  area'
+bip_39_word_new_line_2: 'frozen
+
+  blame'
+bip_39_word_new_line_3: 'frozen
+
+  blame
+
+  torch'
+bip_39_word_no_space_12: frozenblametorchsportsolutionjuicenastybeltstablefestivalblousearea
+bip_39_word_no_space_2: frozenblame
+bip_39_word_no_space_3: frozenblametorch
+bip_39_word_space_12: frozen blame torch sport solution juice nasty belt stable festival
+  blouse area
+bip_39_word_space_2: frozen blame
+bip_39_word_space_3: frozen blame torch
+bip_39_word_underscore_12: frozen_blame_torch_sport_solution_juice_nasty_belt_stable_festival_blouse_area
+bip_39_word_underscore_2: frozen_blame
+bip_39_word_underscore_3: frozen_blame_torch
+classification: oobb
+classification_length_1: o
+classification_length_2: oo
+classification_length_3: oob
+classification_length_4: oobb
+classification_length_5: oobb
+classification_length_6: oobb
+classification_name: Oobb
+classification_no_space_length_1: o
+classification_no_space_length_2: oo
+classification_no_space_length_3: oob
+classification_no_space_length_4: oobb
+classification_no_space_length_5: oobb
+classification_no_space_length_6: oobb
+classification_no_space_upper_length_1: O
+classification_no_space_upper_length_2: OO
+classification_no_space_upper_length_3: OOB
+classification_no_space_upper_length_4: OOBB
+classification_no_space_upper_length_5: OOBB
+classification_no_space_upper_length_6: OOBB
+classification_upper_length_1: O
+classification_upper_length_2: OO
+classification_upper_length_3: OOB
+classification_upper_length_4: OOBB
+classification_upper_length_5: OOBB
+classification_upper_length_6: OOBB
+color: ''
+color_name: ''
+components: []
+components_objects: []
+components_string: []
+description: nut 0x0x0
+description_extra: m12_radius_name
+description_extra_length_1: m
+description_extra_length_2: m1
+description_extra_length_3: m12
+description_extra_length_4: m12_
+description_extra_length_5: m12_r
+description_extra_length_6: m12_ra
+description_extra_name: M12 Radius Name
+description_extra_no_space_length_1: m
+description_extra_no_space_length_2: m1
+description_extra_no_space_length_3: m12
+description_extra_no_space_length_4: m12r
+description_extra_no_space_length_5: m12ra
+description_extra_no_space_length_6: m12rad
+description_extra_no_space_upper_length_1: M
+description_extra_no_space_upper_length_2: M1
+description_extra_no_space_upper_length_3: M12
+description_extra_no_space_upper_length_4: M12R
+description_extra_no_space_upper_length_5: M12RA
+description_extra_no_space_upper_length_6: M12RAD
+description_extra_upper_length_1: M
+description_extra_upper_length_2: M1
+description_extra_upper_length_3: M12
+description_extra_upper_length_4: M12_
+description_extra_upper_length_5: M12_R
+description_extra_upper_length_6: M12_RA
+description_main: ''
+description_main_name: ''
+directory: parts/oobb_part_nut_m12_radius_name
+folder: C:\gh\oomlout_oobb_version_4_generated_parts\parts\oobb_part_nut_m12_radius_name
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_nut_m12_radius_name
+id: oobb_part_nut_m12_radius_name
+id_no_class: part_nut_m12_radius_name
+id_no_color: m12radiusname
+id_no_size: m12_radius_name
+id_no_type: nut_m12_radius_name
+link_1: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/nut//m12_radius_name/part
+link_1_name: link_main
+link_main: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/nut//m12_radius_name/part
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%20713rp
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%20713rp
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%20713rp
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%20713rp
+link_redirect: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/parts/hardware_nut_m12
+manufacturer: ''
+manufacturer_name: ''
+md5: b430554e9e14f265e3676d2bca85caed
+md5_10: b430554e9e
+md5_10_upper: B430554E9E
+md5_5: b4305
+md5_5_upper: B4305
+md5_6: b43055
+md5_6_alpha: 713rp
+md5_6_alpha_upper: 713RP
+md5_6_upper: B43055
+name: Oobb Part Nut M12 Radius Name
+name_no_class: Part Nut M12 Radius Name
+name_no_color: M12Radiusname
+name_no_size: M12 Radius Name
+name_no_type: Nut M12 Radius Name
+name_short: Nut M12 Radius Name
+oomlout_detail_hierarchy_1: oobb
+oomlout_detail_hierarchy_1_upper: OOBB
+oomlout_detail_hierarchy_1_upper_length_4: OOBB
+oomlout_detail_hierarchy_2: part
+oomlout_detail_hierarchy_2_upper: PART
+oomlout_detail_hierarchy_2_upper_length_4: PART
+oomlout_detail_hierarchy_3: nut
+oomlout_detail_hierarchy_3_upper: NUT
+oomlout_detail_hierarchy_3_upper_length_4: NUT
+oomlout_detail_hierarchy_4: m12_radius_name
+oomlout_detail_hierarchy_4_upper: M12_RADIUS_NAME
+oomlout_detail_hierarchy_4_upper_length_4: M12_
+oomlout_oomp_utility_custom_data_manipulation: true
+oomp_key: oomp_oobb_part_nut_m12_radius_name
+oomp_word: coffee foggy dolphin
+oomp_word_emoji: ':coffee: :foggy: :dolphin:'
+oomp_word_emoji_list:
+- ':coffee:'
+- ':foggy:'
+- ':dolphin:'
+oomp_word_list:
+- coffee
+- foggy
+- dolphin
+part_number: ''
+part_number_name: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
+radius_name: m12
+short_name: ''
+size: nut
+size_length_1: n
+size_length_2: nu
+size_length_3: nut
+size_length_4: nut
+size_length_5: nut
+size_length_6: nut
+size_name: Nut
+size_no_space_length_1: n
+size_no_space_length_2: nu
+size_no_space_length_3: nut
+size_no_space_length_4: nut
+size_no_space_length_5: nut
+size_no_space_length_6: nut
+size_no_space_upper_length_1: N
+size_no_space_upper_length_2: NU
+size_no_space_upper_length_3: NUT
+size_no_space_upper_length_4: NUT
+size_no_space_upper_length_5: NUT
+size_no_space_upper_length_6: NUT
+size_upper_length_1: N
+size_upper_length_2: NU
+size_upper_length_3: NUT
+size_upper_length_4: NUT
+size_upper_length_5: NUT
+size_upper_length_6: NUT
+type: part
+type_length_1: p
+type_length_2: pa
+type_length_3: par
+type_length_4: part
+type_length_5: part
+type_length_6: part
+type_name: Part
+type_no_space_length_1: p
+type_no_space_length_2: pa
+type_no_space_length_3: par
+type_no_space_length_4: part
+type_no_space_length_5: part
+type_no_space_length_6: part
+type_no_space_upper_length_1: P
+type_no_space_upper_length_2: PA
+type_no_space_upper_length_3: PAR
+type_no_space_upper_length_4: PART
+type_no_space_upper_length_5: PART
+type_no_space_upper_length_6: PART
+type_upper_length_1: P
+type_upper_length_2: PA
+type_upper_length_3: PAR
+type_upper_length_4: PART
+type_upper_length_5: PART
+type_upper_length_6: PART

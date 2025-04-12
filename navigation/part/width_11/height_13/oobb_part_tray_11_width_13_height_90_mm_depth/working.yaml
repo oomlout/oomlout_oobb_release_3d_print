@@ -1,0 +1,229 @@
+bip_39_word_dash_12: law-okay-awake-achieve-leader-evoke-pyramid-grunt-phone-shallow-face-artwork
+bip_39_word_dash_2: law-okay
+bip_39_word_dash_3: law-okay-awake
+bip_39_word_new_br_12: law<br>okay<br>awake<br>achieve<br>leader<br>evoke<br>pyramid<br>grunt<br>phone<br>shallow<br>face<br>artwork
+bip_39_word_new_br_2: law<br>okay
+bip_39_word_new_br_3: law<br>okay<br>awake
+bip_39_word_new_line_12: 'law
+
+  okay
+
+  awake
+
+  achieve
+
+  leader
+
+  evoke
+
+  pyramid
+
+  grunt
+
+  phone
+
+  shallow
+
+  face
+
+  artwork'
+bip_39_word_new_line_2: 'law
+
+  okay'
+bip_39_word_new_line_3: 'law
+
+  okay
+
+  awake'
+bip_39_word_no_space_12: lawokayawakeachieveleaderevokepyramidgruntphoneshallowfaceartwork
+bip_39_word_no_space_2: lawokay
+bip_39_word_no_space_3: lawokayawake
+bip_39_word_space_12: law okay awake achieve leader evoke pyramid grunt phone shallow
+  face artwork
+bip_39_word_space_2: law okay
+bip_39_word_space_3: law okay awake
+bip_39_word_underscore_12: law_okay_awake_achieve_leader_evoke_pyramid_grunt_phone_shallow_face_artwork
+bip_39_word_underscore_2: law_okay
+bip_39_word_underscore_3: law_okay_awake
+classification: oobb
+classification_length_1: o
+classification_length_2: oo
+classification_length_3: oob
+classification_length_4: oobb
+classification_length_5: oobb
+classification_length_6: oobb
+classification_name: Oobb
+classification_no_space_length_1: o
+classification_no_space_length_2: oo
+classification_no_space_length_3: oob
+classification_no_space_length_4: oobb
+classification_no_space_length_5: oobb
+classification_no_space_length_6: oobb
+classification_no_space_upper_length_1: O
+classification_no_space_upper_length_2: OO
+classification_no_space_upper_length_3: OOB
+classification_no_space_upper_length_4: OOBB
+classification_no_space_upper_length_5: OOBB
+classification_no_space_upper_length_6: OOBB
+classification_upper_length_1: O
+classification_upper_length_2: OO
+classification_upper_length_3: OOB
+classification_upper_length_4: OOBB
+classification_upper_length_5: OOBB
+classification_upper_length_6: OOBB
+color: ''
+color_name: ''
+components: []
+components_objects: []
+components_string: []
+description: tray 11x13x90
+description_extra: ''
+description_extra_name: ''
+description_main: 11_width_13_height_90_mm_depth
+description_main_length_1: '1'
+description_main_length_2: '11'
+description_main_length_3: '11_'
+description_main_length_4: 11_w
+description_main_length_5: 11_wi
+description_main_length_6: 11_wid
+description_main_name: 11 Width 13 Height 90 mm Depth
+description_main_no_space_length_1: '1'
+description_main_no_space_length_2: '11'
+description_main_no_space_length_3: 11w
+description_main_no_space_length_4: 11wi
+description_main_no_space_length_5: 11wid
+description_main_no_space_length_6: 11widt
+description_main_no_space_upper_length_1: '1'
+description_main_no_space_upper_length_2: '11'
+description_main_no_space_upper_length_3: 11W
+description_main_no_space_upper_length_4: 11WI
+description_main_no_space_upper_length_5: 11WID
+description_main_no_space_upper_length_6: 11WIDT
+description_main_upper_length_1: '1'
+description_main_upper_length_2: '11'
+description_main_upper_length_3: '11_'
+description_main_upper_length_4: 11_W
+description_main_upper_length_5: 11_WI
+description_main_upper_length_6: 11_WID
+directory: parts/oobb_part_tray_11_width_13_height_90_mm_depth
+folder: C:\gh\oomlout_oobb_version_4_generated_parts\parts\oobb_part_tray_11_width_13_height_90_mm_depth
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_11_width_13_height_90_mm_depth
+height: 13
+height_mm: 194
+id: oobb_part_tray_11_width_13_height_90_mm_depth
+id_no_class: part_tray_11_width_13_height_90_mm_depth
+id_no_color: 11width13height90mmdepth
+id_no_size: 11_width_13_height_90_mm_depth
+id_no_type: tray_11_width_13_height_90_mm_depth
+link_1: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/tray/11_width_13_height_90_mm_depth/part
+link_1_name: link_main
+link_main: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/tray/11_width_13_height_90_mm_depth/part
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2087vht
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2087vht
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%2087vht
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2087vht
+link_redirect: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/parts/oobb_tray_11_13_90
+manufacturer: ''
+manufacturer_name: ''
+md5: d2a331451c6735e1383f401c20667bef
+md5_10: d2a331451c
+md5_10_upper: D2A331451C
+md5_5: d2a33
+md5_5_upper: D2A33
+md5_6: d2a331
+md5_6_alpha: 87vht
+md5_6_alpha_upper: 87VHT
+md5_6_upper: D2A331
+name: Oobb Part Tray 11 Width 13 Height 90 mm Depth
+name_no_class: Part Tray 11 Width 13 Height 90 mm Depth
+name_no_color: 11Width13Height90mmdepth
+name_no_size: 11 Width 13 Height 90 mm Depth
+name_no_type: Tray 11 Width 13 Height 90 mm Depth
+name_short: 'Tray 11x13x90 '
+oomlout_detail_hierarchy_1: oobb
+oomlout_detail_hierarchy_1_upper: OOBB
+oomlout_detail_hierarchy_1_upper_length_4: OOBB
+oomlout_detail_hierarchy_2: part
+oomlout_detail_hierarchy_2_upper: PART
+oomlout_detail_hierarchy_2_upper_length_4: PART
+oomlout_detail_hierarchy_3: tray
+oomlout_detail_hierarchy_3_upper: TRAY
+oomlout_detail_hierarchy_3_upper_length_4: TRAY
+oomlout_detail_hierarchy_4: 90_mm_depth
+oomlout_detail_hierarchy_4_upper: 90_MM_DEPTH
+oomlout_detail_hierarchy_4_upper_length_4: 90DE
+oomlout_oomp_utility_custom_data_manipulation: true
+oomp_key: oomp_oobb_part_tray_11_width_13_height_90_mm_depth
+oomp_word: pineapple pencil ocean
+oomp_word_emoji: ':pineapple: :pencil: :ocean:'
+oomp_word_emoji_list:
+- ':pineapple:'
+- ':pencil:'
+- ':ocean:'
+oomp_word_list:
+- pineapple
+- pencil
+- ocean
+part_number: ''
+part_number_name: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
+short_name: ''
+size: tray
+size_length_1: t
+size_length_2: tr
+size_length_3: tra
+size_length_4: tray
+size_length_5: tray
+size_length_6: tray
+size_name: Tray
+size_no_space_length_1: t
+size_no_space_length_2: tr
+size_no_space_length_3: tra
+size_no_space_length_4: tray
+size_no_space_length_5: tray
+size_no_space_length_6: tray
+size_no_space_upper_length_1: T
+size_no_space_upper_length_2: TR
+size_no_space_upper_length_3: TRA
+size_no_space_upper_length_4: TRAY
+size_no_space_upper_length_5: TRAY
+size_no_space_upper_length_6: TRAY
+size_upper_length_1: T
+size_upper_length_2: TR
+size_upper_length_3: TRA
+size_upper_length_4: TRAY
+size_upper_length_5: TRAY
+size_upper_length_6: TRAY
+thickness: 90
+thickness_mm: 90
+type: part
+type_length_1: p
+type_length_2: pa
+type_length_3: par
+type_length_4: part
+type_length_5: part
+type_length_6: part
+type_name: Part
+type_no_space_length_1: p
+type_no_space_length_2: pa
+type_no_space_length_3: par
+type_no_space_length_4: part
+type_no_space_length_5: part
+type_no_space_length_6: part
+type_no_space_upper_length_1: P
+type_no_space_upper_length_2: PA
+type_no_space_upper_length_3: PAR
+type_no_space_upper_length_4: PART
+type_no_space_upper_length_5: PART
+type_no_space_upper_length_6: PART
+type_upper_length_1: P
+type_upper_length_2: PA
+type_upper_length_3: PAR
+type_upper_length_4: PART
+type_upper_length_5: PART
+type_upper_length_6: PART
+width: 11
+width_mm: 164

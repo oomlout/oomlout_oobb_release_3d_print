@@ -1,0 +1,229 @@
+bip_39_word_dash_12: today-double-cargo-cheese-accuse-concert-stand-cycle-busy-demand-demise-approve
+bip_39_word_dash_2: today-double
+bip_39_word_dash_3: today-double-cargo
+bip_39_word_new_br_12: today<br>double<br>cargo<br>cheese<br>accuse<br>concert<br>stand<br>cycle<br>busy<br>demand<br>demise<br>approve
+bip_39_word_new_br_2: today<br>double
+bip_39_word_new_br_3: today<br>double<br>cargo
+bip_39_word_new_line_12: 'today
+
+  double
+
+  cargo
+
+  cheese
+
+  accuse
+
+  concert
+
+  stand
+
+  cycle
+
+  busy
+
+  demand
+
+  demise
+
+  approve'
+bip_39_word_new_line_2: 'today
+
+  double'
+bip_39_word_new_line_3: 'today
+
+  double
+
+  cargo'
+bip_39_word_no_space_12: todaydoublecargocheeseaccuseconcertstandcyclebusydemanddemiseapprove
+bip_39_word_no_space_2: todaydouble
+bip_39_word_no_space_3: todaydoublecargo
+bip_39_word_space_12: today double cargo cheese accuse concert stand cycle busy demand
+  demise approve
+bip_39_word_space_2: today double
+bip_39_word_space_3: today double cargo
+bip_39_word_underscore_12: today_double_cargo_cheese_accuse_concert_stand_cycle_busy_demand_demise_approve
+bip_39_word_underscore_2: today_double
+bip_39_word_underscore_3: today_double_cargo
+classification: oobb
+classification_length_1: o
+classification_length_2: oo
+classification_length_3: oob
+classification_length_4: oobb
+classification_length_5: oobb
+classification_length_6: oobb
+classification_name: Oobb
+classification_no_space_length_1: o
+classification_no_space_length_2: oo
+classification_no_space_length_3: oob
+classification_no_space_length_4: oobb
+classification_no_space_length_5: oobb
+classification_no_space_length_6: oobb
+classification_no_space_upper_length_1: O
+classification_no_space_upper_length_2: OO
+classification_no_space_upper_length_3: OOB
+classification_no_space_upper_length_4: OOBB
+classification_no_space_upper_length_5: OOBB
+classification_no_space_upper_length_6: OOBB
+classification_upper_length_1: O
+classification_upper_length_2: OO
+classification_upper_length_3: OOB
+classification_upper_length_4: OOBB
+classification_upper_length_5: OOBB
+classification_upper_length_6: OOBB
+color: ''
+color_name: ''
+components: []
+components_objects: []
+components_string: []
+description: plate 21x3x3
+description_extra: ''
+description_extra_name: ''
+description_main: 21_width_3_height_3_mm_depth
+description_main_length_1: '2'
+description_main_length_2: '21'
+description_main_length_3: '21_'
+description_main_length_4: 21_w
+description_main_length_5: 21_wi
+description_main_length_6: 21_wid
+description_main_name: 21 Width 3 Height 3 mm Depth
+description_main_no_space_length_1: '2'
+description_main_no_space_length_2: '21'
+description_main_no_space_length_3: 21w
+description_main_no_space_length_4: 21wi
+description_main_no_space_length_5: 21wid
+description_main_no_space_length_6: 21widt
+description_main_no_space_upper_length_1: '2'
+description_main_no_space_upper_length_2: '21'
+description_main_no_space_upper_length_3: 21W
+description_main_no_space_upper_length_4: 21WI
+description_main_no_space_upper_length_5: 21WID
+description_main_no_space_upper_length_6: 21WIDT
+description_main_upper_length_1: '2'
+description_main_upper_length_2: '21'
+description_main_upper_length_3: '21_'
+description_main_upper_length_4: 21_W
+description_main_upper_length_5: 21_WI
+description_main_upper_length_6: 21_WID
+directory: parts/oobb_part_plate_21_width_3_height_3_mm_depth
+folder: C:\gh\oomlout_oobb_version_4_generated_parts\parts\oobb_part_plate_21_width_3_height_3_mm_depth
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_21_width_3_height_3_mm_depth
+height: 3
+height_mm: 44
+id: oobb_part_plate_21_width_3_height_3_mm_depth
+id_no_class: part_plate_21_width_3_height_3_mm_depth
+id_no_color: 21width3height3mmdepth
+id_no_size: 21_width_3_height_3_mm_depth
+id_no_type: plate_21_width_3_height_3_mm_depth
+link_1: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/plate/21_width_3_height_3_mm_depth/part
+link_1_name: link_main
+link_main: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/plate/21_width_3_height_3_mm_depth/part
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%206q8pa
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%206q8pa
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%206q8pa
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%206q8pa
+link_redirect: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/parts/oobb_plate_21_03_03
+manufacturer: ''
+manufacturer_name: ''
+md5: ac748e88f936da90ba80d27245506f1a
+md5_10: ac748e88f9
+md5_10_upper: AC748E88F9
+md5_5: ac748
+md5_5_upper: AC748
+md5_6: ac748e
+md5_6_alpha: 6q8pa
+md5_6_alpha_upper: 6Q8PA
+md5_6_upper: AC748E
+name: Oobb Part Plate 21 Width 3 Height 3 mm Depth
+name_no_class: Part Plate 21 Width 3 Height 3 mm Depth
+name_no_color: 21Width3Height3mmdepth
+name_no_size: 21 Width 3 Height 3 mm Depth
+name_no_type: Plate 21 Width 3 Height 3 mm Depth
+name_short: 'Plate 21x3x3 '
+oomlout_detail_hierarchy_1: oobb
+oomlout_detail_hierarchy_1_upper: OOBB
+oomlout_detail_hierarchy_1_upper_length_4: OOBB
+oomlout_detail_hierarchy_2: part
+oomlout_detail_hierarchy_2_upper: PART
+oomlout_detail_hierarchy_2_upper_length_4: PART
+oomlout_detail_hierarchy_3: plate
+oomlout_detail_hierarchy_3_upper: PLATE
+oomlout_detail_hierarchy_3_upper_length_4: PLAT
+oomlout_detail_hierarchy_4: 3_mm_depth
+oomlout_detail_hierarchy_4_upper: 3_MM_DEPTH
+oomlout_detail_hierarchy_4_upper_length_4: 3DEP
+oomlout_oomp_utility_custom_data_manipulation: true
+oomp_key: oomp_oobb_part_plate_21_width_3_height_3_mm_depth
+oomp_word: shirt fireworks clipboard
+oomp_word_emoji: ':shirt: :fireworks: :clipboard:'
+oomp_word_emoji_list:
+- ':shirt:'
+- ':fireworks:'
+- ':clipboard:'
+oomp_word_list:
+- shirt
+- fireworks
+- clipboard
+part_number: ''
+part_number_name: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
+short_name: ''
+size: plate
+size_length_1: p
+size_length_2: pl
+size_length_3: pla
+size_length_4: plat
+size_length_5: plate
+size_length_6: plate
+size_name: Plate
+size_no_space_length_1: p
+size_no_space_length_2: pl
+size_no_space_length_3: pla
+size_no_space_length_4: plat
+size_no_space_length_5: plate
+size_no_space_length_6: plate
+size_no_space_upper_length_1: P
+size_no_space_upper_length_2: PL
+size_no_space_upper_length_3: PLA
+size_no_space_upper_length_4: PLAT
+size_no_space_upper_length_5: PLATE
+size_no_space_upper_length_6: PLATE
+size_upper_length_1: P
+size_upper_length_2: PL
+size_upper_length_3: PLA
+size_upper_length_4: PLAT
+size_upper_length_5: PLATE
+size_upper_length_6: PLATE
+thickness: 3
+thickness_mm: 3
+type: part
+type_length_1: p
+type_length_2: pa
+type_length_3: par
+type_length_4: part
+type_length_5: part
+type_length_6: part
+type_name: Part
+type_no_space_length_1: p
+type_no_space_length_2: pa
+type_no_space_length_3: par
+type_no_space_length_4: part
+type_no_space_length_5: part
+type_no_space_length_6: part
+type_no_space_upper_length_1: P
+type_no_space_upper_length_2: PA
+type_no_space_upper_length_3: PAR
+type_no_space_upper_length_4: PART
+type_no_space_upper_length_5: PART
+type_no_space_upper_length_6: PART
+type_upper_length_1: P
+type_upper_length_2: PA
+type_upper_length_3: PAR
+type_upper_length_4: PART
+type_upper_length_5: PART
+type_upper_length_6: PART
+width: 21
+width_mm: 314

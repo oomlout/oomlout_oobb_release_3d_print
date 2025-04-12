@@ -1,0 +1,257 @@
+bip_39_word_dash_12: champion-wrong-define-inner-quiz-imitate-chunk-relax-spider-shock-oblige-arrow
+bip_39_word_dash_2: champion-wrong
+bip_39_word_dash_3: champion-wrong-define
+bip_39_word_new_br_12: champion<br>wrong<br>define<br>inner<br>quiz<br>imitate<br>chunk<br>relax<br>spider<br>shock<br>oblige<br>arrow
+bip_39_word_new_br_2: champion<br>wrong
+bip_39_word_new_br_3: champion<br>wrong<br>define
+bip_39_word_new_line_12: 'champion
+
+  wrong
+
+  define
+
+  inner
+
+  quiz
+
+  imitate
+
+  chunk
+
+  relax
+
+  spider
+
+  shock
+
+  oblige
+
+  arrow'
+bip_39_word_new_line_2: 'champion
+
+  wrong'
+bip_39_word_new_line_3: 'champion
+
+  wrong
+
+  define'
+bip_39_word_no_space_12: championwrongdefineinnerquizimitatechunkrelaxspidershockobligearrow
+bip_39_word_no_space_2: championwrong
+bip_39_word_no_space_3: championwrongdefine
+bip_39_word_space_12: champion wrong define inner quiz imitate chunk relax spider
+  shock oblige arrow
+bip_39_word_space_2: champion wrong
+bip_39_word_space_3: champion wrong define
+bip_39_word_underscore_12: champion_wrong_define_inner_quiz_imitate_chunk_relax_spider_shock_oblige_arrow
+bip_39_word_underscore_2: champion_wrong
+bip_39_word_underscore_3: champion_wrong_define
+classification: oobb
+classification_length_1: o
+classification_length_2: oo
+classification_length_3: oob
+classification_length_4: oobb
+classification_length_5: oobb
+classification_length_6: oobb
+classification_name: Oobb
+classification_no_space_length_1: o
+classification_no_space_length_2: oo
+classification_no_space_length_3: oob
+classification_no_space_length_4: oobb
+classification_no_space_length_5: oobb
+classification_no_space_length_6: oobb
+classification_no_space_upper_length_1: O
+classification_no_space_upper_length_2: OO
+classification_no_space_upper_length_3: OOB
+classification_no_space_upper_length_4: OOBB
+classification_no_space_upper_length_5: OOBB
+classification_no_space_upper_length_6: OOBB
+classification_upper_length_1: O
+classification_upper_length_2: OO
+classification_upper_length_3: OOB
+classification_upper_length_4: OOBB
+classification_upper_length_5: OOBB
+classification_upper_length_6: OOBB
+color: ''
+color_name: ''
+components: []
+components_objects: []
+components_string: []
+description: wire 3x2x9
+description_extra: spacer_u_extra_mm_extra
+description_extra_length_1: s
+description_extra_length_2: sp
+description_extra_length_3: spa
+description_extra_length_4: spac
+description_extra_length_5: space
+description_extra_length_6: spacer
+description_extra_name: Spacer U Extra mm Extra
+description_extra_no_space_length_1: s
+description_extra_no_space_length_2: sp
+description_extra_no_space_length_3: spa
+description_extra_no_space_length_4: spac
+description_extra_no_space_length_5: space
+description_extra_no_space_length_6: spacer
+description_extra_no_space_upper_length_1: S
+description_extra_no_space_upper_length_2: SP
+description_extra_no_space_upper_length_3: SPA
+description_extra_no_space_upper_length_4: SPAC
+description_extra_no_space_upper_length_5: SPACE
+description_extra_no_space_upper_length_6: SPACER
+description_extra_upper_length_1: S
+description_extra_upper_length_2: SP
+description_extra_upper_length_3: SPA
+description_extra_upper_length_4: SPAC
+description_extra_upper_length_5: SPACE
+description_extra_upper_length_6: SPACER
+description_main: 3_width_2_height_9_mm_depth
+description_main_length_1: '3'
+description_main_length_2: '3_'
+description_main_length_3: 3_w
+description_main_length_4: 3_wi
+description_main_length_5: 3_wid
+description_main_length_6: 3_widt
+description_main_name: 3 Width 2 Height 9 mm Depth
+description_main_no_space_length_1: '3'
+description_main_no_space_length_2: 3w
+description_main_no_space_length_3: 3wi
+description_main_no_space_length_4: 3wid
+description_main_no_space_length_5: 3widt
+description_main_no_space_length_6: 3width
+description_main_no_space_upper_length_1: '3'
+description_main_no_space_upper_length_2: 3W
+description_main_no_space_upper_length_3: 3WI
+description_main_no_space_upper_length_4: 3WID
+description_main_no_space_upper_length_5: 3WIDT
+description_main_no_space_upper_length_6: 3WIDTH
+description_main_upper_length_1: '3'
+description_main_upper_length_2: '3_'
+description_main_upper_length_3: 3_W
+description_main_upper_length_4: 3_WI
+description_main_upper_length_5: 3_WID
+description_main_upper_length_6: 3_WIDT
+directory: parts/oobb_part_wire_3_width_2_height_9_mm_depth_spacer_u_extra_mm_extra
+extra: spacer_u_extra_mm
+folder: C:\gh\oomlout_oobb_version_4_generated_parts\parts\oobb_part_wire_3_width_2_height_9_mm_depth_spacer_u_extra_mm_extra
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_wire_3_width_2_height_9_mm_depth_spacer_u_extra_mm_extra
+height: 2
+height_mm: 29
+id: oobb_part_wire_3_width_2_height_9_mm_depth_spacer_u_extra_mm_extra
+id_no_class: part_wire_3_width_2_height_9_mm_depth_spacer_u_extra_mm_extra
+id_no_color: 3width2height9mmdepthspaceruextrammextra
+id_no_size: 3_width_2_height_9_mm_depth_spacer_u_extra_mm_extra
+id_no_type: wire_3_width_2_height_9_mm_depth_spacer_u_extra_mm_extra
+link_1: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/wire/3_width_2_height_9_mm_depth/spacer_u_extra_mm_extra/part
+link_1_name: link_main
+link_main: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/wire/3_width_2_height_9_mm_depth/spacer_u_extra_mm_extra/part
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%207xeup
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%207xeup
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%207xeup
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%207xeup
+link_redirect: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/parts/oobb_wire_03_02_09_ex_spacer_u_extra_mm
+manufacturer: ''
+manufacturer_name: ''
+md5: cb3071968db50515c5d7f746733fa930
+md5_10: cb3071968d
+md5_10_upper: CB3071968D
+md5_5: cb307
+md5_5_upper: CB307
+md5_6: cb3071
+md5_6_alpha: 7xeup
+md5_6_alpha_upper: 7XEUP
+md5_6_upper: CB3071
+name: Oobb Part Wire 3 Width 2 Height 9 mm Depth Spacer U Extra mm Extra
+name_no_class: Part Wire 3 Width 2 Height 9 mm Depth Spacer U Extra mm Extra
+name_no_color: 3Width2Height9mmdepthspaceruextrammextra
+name_no_size: 3 Width 2 Height 9 mm Depth Spacer U Extra mm Extra
+name_no_type: Wire 3 Width 2 Height 9 mm Depth Spacer U Extra mm Extra
+name_short: Wire 3x2x9 Spacer U Extra mm Extra
+oomlout_detail_hierarchy_1: oobb
+oomlout_detail_hierarchy_1_upper: OOBB
+oomlout_detail_hierarchy_1_upper_length_4: OOBB
+oomlout_detail_hierarchy_2: part
+oomlout_detail_hierarchy_2_upper: PART
+oomlout_detail_hierarchy_2_upper_length_4: PART
+oomlout_detail_hierarchy_3: wire
+oomlout_detail_hierarchy_3_upper: WIRE
+oomlout_detail_hierarchy_3_upper_length_4: WIRE
+oomlout_detail_hierarchy_4: 9_mm_depth
+oomlout_detail_hierarchy_4_upper: 9_MM_DEPTH
+oomlout_detail_hierarchy_4_upper_length_4: 9DEP
+oomlout_detail_hierarchy_5: spacer_u_extra_mm_extra
+oomlout_detail_hierarchy_5_upper: SPACER_U_EXTRA_MM_EXTRA
+oomlout_detail_hierarchy_5_upper_length_4: SPAC
+oomlout_oomp_utility_custom_data_manipulation: true
+oomp_key: oomp_oobb_part_wire_3_width_2_height_9_mm_depth_spacer_u_extra_mm_extra
+oomp_word: grapes foggy bamboo
+oomp_word_emoji: ':grapes: :foggy: :bamboo:'
+oomp_word_emoji_list:
+- ':grapes:'
+- ':foggy:'
+- ':bamboo:'
+oomp_word_list:
+- grapes
+- foggy
+- bamboo
+part_number: ''
+part_number_name: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
+short_name: ''
+size: wire
+size_length_1: w
+size_length_2: wi
+size_length_3: wir
+size_length_4: wire
+size_length_5: wire
+size_length_6: wire
+size_name: Wire
+size_no_space_length_1: w
+size_no_space_length_2: wi
+size_no_space_length_3: wir
+size_no_space_length_4: wire
+size_no_space_length_5: wire
+size_no_space_length_6: wire
+size_no_space_upper_length_1: W
+size_no_space_upper_length_2: WI
+size_no_space_upper_length_3: WIR
+size_no_space_upper_length_4: WIRE
+size_no_space_upper_length_5: WIRE
+size_no_space_upper_length_6: WIRE
+size_upper_length_1: W
+size_upper_length_2: WI
+size_upper_length_3: WIR
+size_upper_length_4: WIRE
+size_upper_length_5: WIRE
+size_upper_length_6: WIRE
+thickness: 9
+thickness_mm: 9
+type: part
+type_length_1: p
+type_length_2: pa
+type_length_3: par
+type_length_4: part
+type_length_5: part
+type_length_6: part
+type_name: Part
+type_no_space_length_1: p
+type_no_space_length_2: pa
+type_no_space_length_3: par
+type_no_space_length_4: part
+type_no_space_length_5: part
+type_no_space_length_6: part
+type_no_space_upper_length_1: P
+type_no_space_upper_length_2: PA
+type_no_space_upper_length_3: PAR
+type_no_space_upper_length_4: PART
+type_no_space_upper_length_5: PART
+type_no_space_upper_length_6: PART
+type_upper_length_1: P
+type_upper_length_2: PA
+type_upper_length_3: PAR
+type_upper_length_4: PART
+type_upper_length_5: PART
+type_upper_length_6: PART
+width: 3
+width_mm: 44
